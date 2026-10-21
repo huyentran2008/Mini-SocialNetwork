@@ -9,7 +9,7 @@
 using namespace std;
 
 // ==========================================
-// 1. CẤU TRÚC ĐỒ THỊ GIẢ LẬP (ADJACENCY LIST GRAPH)
+// ĐỒ THỊ DANH SÁCH KỀ (SIMPLE GRAPH)
 // ==========================================
 class SimpleGraph
 {
@@ -74,7 +74,7 @@ public:
 };
 
 // ==========================================
-// 2. DISJOINT SET UNION (DSU) MODULE
+// 1. CLASS DSU: Quản lý các tập hợp rời nhau
 // ==========================================
 class DSU
 {
@@ -91,7 +91,7 @@ public:
         rank[u] = 0;
     }
 
-    // Tim đại diện của tập hợp (Nén đường đi - Path Compression)
+    // Tìm đại diện tập hợp (Path Compression)
     int findSet(int u)
     {
         if (parent.find(u) == parent.end())
@@ -101,7 +101,7 @@ public:
         return parent[u] = findSet(parent[u]);
     }
 
-    // Hợp nhất hai tập hợp (Hợp theo hạng - Union by Rank)
+    // Hợp nhất 2 tập hợp (Union by Rank)
     bool unionSet(int u, int v)
     {
         int rootU = findSet(u);
@@ -144,20 +144,6 @@ public:
         return uniqueRoots.size();
     }
 
-    int getComponentSize(int u, const vector<int> &vertices)
-    {
-        int rootU = findSet(u);
-        if (rootU == -1)
-            return 0;
-        int count = 0;
-        for (int v : vertices)
-        {
-            if (findSet(v) == rootU)
-                count++;
-        }
-        return count;
-    }
-
     vector<int> getComponentMembers(int u, const vector<int> &vertices)
     {
         vector<int> members;
@@ -174,7 +160,7 @@ public:
         return members;
     }
 
-    // Dựng lại DSU từ đồ thị
+    // Tái dựng DSU từ đồ thị
     void rebuildFromGraph(const SimpleGraph &graph)
     {
         parent.clear();
@@ -189,7 +175,7 @@ public:
             for (int v : graph.getNeighbors(u))
             {
                 if (u < v)
-                { // Tránh hợp nhất 2 lần cho cạnh vô hướng
+                {
                     unionSet(u, v);
                 }
             }
@@ -198,12 +184,11 @@ public:
 };
 
 // ==========================================
-// 3. THUẬT TOÁN DFS (DFSALGORITHM)
+// 2. CLASS DFSAlgorithm: Duyệt đồ thị theo chiều sâu
 // ==========================================
 class DFSAlgorithm
 {
 public:
-    // DFS đệ quy thu thập thành phần liên thông
     static void dfsRecursive(int u, const SimpleGraph &graph, unordered_set<int> &visited, vector<int> &component)
     {
         visited.insert(u);
@@ -217,7 +202,6 @@ public:
         }
     }
 
-    // DFS khử đệ quy dùng Stack tự cài/STL
     static vector<int> collectComponent(int startUser, const SimpleGraph &graph)
     {
         vector<int> component;
@@ -247,7 +231,7 @@ public:
 };
 
 // ==========================================
-// 4. NETWORK ANALYZER (PHÂN TÍCH & THỐNG KÊ MẠNG)
+// 3. CLASS NetworkAnalyzer: Phân tích cấu trúc mạng lưới
 // ==========================================
 class NetworkAnalyzer
 {
@@ -339,7 +323,7 @@ public:
 };
 
 // ==========================================
-// 5. TARJAN ALGORITHM (TÌM KHỚP VÀ CẦU - TÙY CHỌN NÂNG CAO)
+// 4. CLASS TarjanAlgorithm: Phân tích đặc điểm liên thông
 // ==========================================
 class TarjanAlgorithm
 {
@@ -372,12 +356,10 @@ private:
                 tarjanDFS(v, u, graph);
                 low[u] = min(low[u], low[v]);
 
-                // Điều kiện điểm khớp (Người cầu nối)
                 if (parent != -1 && low[v] >= disc[u])
                 {
                     isArticulation = true;
                 }
-                // Điều kiện cạnh cầu (Mối quan hệ then chốt)
                 if (low[v] > disc[u])
                 {
                     bridges.push_back({u, v});
@@ -420,70 +402,52 @@ public:
 };
 
 // ==========================================
-// DEMO CHƯƠNG TRÌNH THỰC THI
+// MAIN DEMO MODULE 3.4
 // ==========================================
 int main()
 {
-    SimpleGraph g;
+    SimpleGraph graph;
 
-    // Tạo mạng xã hội mẫu:
-    // Nhóm 1: {1, 2, 3, 4} (Thành phần liên thông 1)
-    g.addEdge(1, 2);
-    g.addEdge(2, 3);
-    g.addEdge(3, 4);
-    g.addEdge(1, 3);
+    // Thiết lập dữ liệu đồ thị mạng xã hội
+    graph.addEdge(1, 2);
+    graph.addEdge(2, 3);
+    graph.addEdge(3, 4);
+    graph.addEdge(1, 3);
+    graph.addEdge(5, 6);
+    graph.addVertex(7); // Người dùng cô lập
 
-    // Nhóm 2: {5, 6} (Thành phần liên thông 2)
-    g.addEdge(5, 6);
-
-    // Nhóm 3: {7} (Người cô lập)
-    g.addVertex(7);
-
-    // Khởi tạo DSU và nạp dữ liệu
+    // Khởi tạo và nạp dữ liệu DSU
     DSU dsu;
-    dsu.rebuildFromGraph(g);
+    dsu.rebuildFromGraph(graph);
 
-    // Phân tích mạng xã hội
-    NetworkAnalyzer analyzer(dsu, g);
+    // Khởi tạo các module phân tích
+    NetworkAnalyzer analyzer(dsu, graph);
+    TarjanAlgorithm tarjan;
+    tarjan.run(graph);
 
-    cout << "================ BANG THONG KE MANG XA HOI ================\n";
-    cout << "1. Tong so nguoi dung: " << g.getVertexCount() << endl;
-    cout << "2. Tong so quan he (canh): " << g.getEdgeCount() << endl;
-    cout << "3. So nhom/cong dong (Lien thong): " << analyzer.countCommunities() << endl;
-    cout << "4. So ban trung binh / nguoi: " << fixed << setprecision(2) << analyzer.getAverageDegree() << endl;
+    // Hiển thị kết quả thống kê
+    cout << "=== 3.4. MODULE LIEN THONG VA THONG KE ===\n\n";
+    cout << "1. Tong so nguoi dung: " << graph.getVertexCount() << endl;
+    cout << "2. Tong so quan he ket ban: " << graph.getEdgeCount() << endl;
+    cout << "3. So luong cong dong (Thanh phan lien thong): " << analyzer.countCommunities() << endl;
+    cout << "4. So ban trung binh: " << fixed << setprecision(2) << analyzer.getAverageDegree() << endl;
 
     int topUser = analyzer.findMostConnectedUser();
-    cout << "5. Nguoi co nhieu ban nhat (User ID): " << topUser << " (voi " << g.getDegree(topUser) << " ban)" << endl;
+    cout << "5. Nguoi co nhieu ban nhat: User " << topUser << " (" << graph.getDegree(topUser) << " ban)\n";
 
-    cout << "6. Kiem tra lien thong giua ID 1 va ID 4: "
-         << (analyzer.areInSameComponent(1, 4) ? "Cung nhom" : "Khac nhom") << endl;
-    cout << "7. Kiem tra lien thong giua ID 1 va ID 5: "
-         << (analyzer.areInSameComponent(1, 5) ? "Cung nhom" : "Khac nhom") << endl;
+    cout << "\n--- KIEM TRA LIEN THONG ---\n";
+    cout << "User 1 va User 4: " << (analyzer.areInSameComponent(1, 4) ? "Cung nhom" : "Khac nhom") << endl;
+    cout << "User 1 va User 5: " << (analyzer.areInSameComponent(1, 5) ? "Cung nhom" : "Khac nhom") << endl;
 
-    vector<int> largestGroup = analyzer.getLargestCommunity();
-    cout << "8. Danh sach thanh vien nhom lon nhat: ";
-    for (int id : largestGroup)
-        cout << id << " ";
-    cout << endl;
-
-    vector<int> isolated = analyzer.findIsolatedUsers();
-    cout << "9. Danh sach nguoi co lap (Chua co ban): ";
-    for (int id : isolated)
-        cout << id << " ";
-    cout << endl;
-
-    // Chạy thuật toán Tarjan
-    TarjanAlgorithm tarjan;
-    tarjan.run(g);
-
-    cout << "\n================ THUAT TOAN TARJAN (NANG CAO) ================\n";
-    cout << "10. Nguoi cau noi (Articulation Points): ";
+    cout << "\n--- PHAN TICH THUAT TOAN TARJAN ---\n";
+    cout << "Nguoi cau noi (Articulation Points): ";
     for (int p : tarjan.getArticulationPoints())
         cout << p << " ";
-    cout << "\n11. Quan he then chot (Bridges): ";
+
+    cout << "\nMoi quan he then chot (Bridges): ";
     for (auto b : tarjan.getBridges())
         cout << "(" << b.first << " - " << b.second << ") ";
-    cout << "\n---------------------------------------------------------------\n";
+    cout << "\n";
 
     return 0;
 }
