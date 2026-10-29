@@ -1,57 +1,71 @@
-// BFS: khoang cach, duong ket noi (dung Queue) - cai dat
 #include "bfs_algorithm.h"
-#include <algorithm>
-#include <queue>
+#include "sort_service.h"
 
-using namespace std;
+vector<Suggestion> suggestByFriendGraph(const string& myId) {
+    map<string, vector<string>> adjacency;
 
-void BFSAlgorithm::bfs(int src, unordered_map<int, int>& dist, unordered_map<int, int>& parent, int maxDepth) const {
-    dist.clear(); parent.clear();
-    if (!net.exists(src)) return;
-    queue<int> q;
-    dist[src] = 0;
-    parent[src] = -1;
-    q.push(src);
-    while (!q.empty()) {
-        int u = q.front(); q.pop();
-        if (maxDepth >= 0 && dist[u] >= maxDepth) continue;
-        const User* usr = net.getUser(u);
-        for (set<int>::const_iterator it = usr->friends.begin(); it != usr->friends.end(); ++it) {
-            int v = *it;
-            if (dist.find(v) == dist.end()) {
-                dist[v] = dist[u] + 1;
-                parent[v] = u;
-                q.push(v);
+    auto neighbors = [&](const string& id) -> const vector<string>& {
+        auto it = adjacency.find(id);
+
+        if (it == adjacency.end()) {
+            it = adjacency.emplace(id, getFriendIds(id)).first;
+        }
+
+        return it->second;
+    };
+
+    map<string, int> distance;
+    vector<string> order;
+
+    distance[myId] = 0;
+    order.push_back(myId);
+
+    for (size_t head = 0; head < order.size(); head++) {
+        string current = order[head];
+        int d = distance[current];
+
+        if (d >= SUGGEST_MAX_DEPTH) {
+            continue;
+        }
+
+        for (const string& next : neighbors(current)) {
+            if (distance.count(next)) {
+                continue;
             }
+
+            distance[next] = d + 1;
+            order.push_back(next);
         }
     }
-}
 
-int BFSAlgorithm::calculateDistance(int a, int b) const {
-    if (!net.exists(a) || !net.exists(b)) return -1;
-    unordered_map<int, int> dist, parent;
-    bfs(a, dist, parent);
-    unordered_map<int, int>::const_iterator it = dist.find(b);
-    return it == dist.end() ? -1 : it->second;
-}
+    vector<Suggestion> list;
 
-vector<int> BFSAlgorithm::findShortestPath(int a, int b) const {
-    vector<int> path;
-    if (!net.exists(a) || !net.exists(b)) return path;
-    unordered_map<int, int> dist, parent;
-    bfs(a, dist, parent);
-    if (dist.find(b) == dist.end()) return path;
-    for (int cur = b; cur != -1; cur = parent[cur]) path.push_back(cur);
-    reverse(path.begin(), path.end());
-    return path;
-}
+    for (const string& id : order) {
+        int d = distance[id];
+        if (d < 2) {
+            continue;
+        }
 
-vector<int> BFSAlgorithm::getUsersAtDistance(int src, int k) const {
-    vector<int> res;
-    unordered_map<int, int> dist, parent;
-    bfs(src, dist, parent, k);
-    for (unordered_map<int, int>::const_iterator it = dist.begin(); it != dist.end(); ++it)
-        if (it->second == k) res.push_back(it->first);
-    sort(res.begin(), res.end());
-    return res;
+        UserProfile profile;
+
+        if (!canSuggestTo(myId, id, profile)) {
+            continue;
+        }
+
+        Suggestion suggestion;
+        suggestion.id = id;
+        suggestion.name = profile.fullName.empty() ? profile.username : profile.fullName;
+        suggestion.distance = d;
+        suggestion.mutual = countMutualFriends(myId, id);
+        suggestion.friendCount = (int)neighbors(id).size();
+        list.push_back(suggestion);
+    }
+
+    sortSuggestionsByGraph(list);
+
+    if ((int)list.size() > SUGGEST_MAX_RESULT) {
+        list.resize(SUGGEST_MAX_RESULT);
+    }
+
+    return list;
 }
