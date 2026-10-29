@@ -14,6 +14,34 @@ void searchUsersScreen(const string& myId) {
 
     vector<UserProfile> results;
     int totalMatches = 0;
+    bool showFilters = false;
+    int filterCursor = 0;
+    vector<bool> enabledFilters(5, false);
+    const vector<string> filterNames = {"Quê quán", "Nơi ở", "Trường học", "Nơi làm việc", "Sở thích"};
+
+    auto matchesFilters = [&](const UserProfile& p) {
+        UserProfile me;
+        if (!findProfileById(myId, me)) return true;
+        auto same = [&](const string& a, const string& b) {
+            return !foldText(trimString(a)).empty() &&
+                   foldText(trimString(a)) == foldText(trimString(b));
+        };
+        if (enabledFilters[0] && !same(me.hometown, p.hometown)) return false;
+        if (enabledFilters[1] && !same(me.residence, p.residence)) return false;
+        if (enabledFilters[2] && !same(me.school, p.school)) return false;
+        if (enabledFilters[3] && !same(me.workplace, p.workplace)) return false;
+        if (enabledFilters[4]) {
+            vector<string> mine = splitList(me.hobbies), theirs = splitList(p.hobbies);
+            bool common = false;
+            for (const string& a : mine) for (const string& b : theirs)
+                if (foldText(trimString(a)) == foldText(trimString(b))) common = true;
+            if (!common) return false;
+        }
+        return true;
+    };
+    auto anyFilter = [&]() {
+        return find(enabledFilters.begin(), enabledFilters.end(), true) != enabledFilters.end();
+    };
 
     // Tìm lại theo từ khóa hiện tại
     auto refresh = [&]() {
@@ -22,7 +50,7 @@ void searchUsersScreen(const string& myId) {
 
         string key = foldText(trimString(query));
 
-        if (key.empty()) {
+        if (key.empty() && !anyFilter()) {
             return;
         }
 
@@ -44,11 +72,11 @@ void searchUsersScreen(const string& myId) {
                 continue;
             }
 
-            if (foldText(profile.fullName).find(key) != string::npos ||
+            bool textMatch = key.empty() ||
+                foldText(profile.fullName).find(key) != string::npos ||
                 foldText(profile.username).find(key) != string::npos ||
-                foldText(profile.id).find(key) != string::npos) {
-                matched.push_back(profile);
-            }
+                foldText(profile.id).find(key) != string::npos;
+            if (textMatch && matchesFilters(profile)) matched.push_back(profile);
         }
 
         // Tên bắt đầu bằng từ khóa xếp trước, sau đó theo tên
@@ -102,6 +130,13 @@ void searchUsersScreen(const string& myId) {
         }
 
         vector<TextBlock> blocks;
+        if (showFilters) {
+            blocks.push_back(makeBlock("── BỘ LỌC (TAB đóng/mở, ENTER bật/tắt) ──", 14, 1));
+            for (int i = 0; i < (int)filterNames.size(); ++i) {
+                string line = string(enabledFilters[i] ? "[x] " : "[ ] ") + filterNames[i];
+                blocks.push_back(makeBlock(line, i == filterCursor ? 14 : 7, 1));
+            }
+        }
         vector<int> startLine, endLine;
         buildCardBlocks(cards, selected, blockWidth, blocks, startLine, endLine);
 
@@ -109,8 +144,12 @@ void searchUsersScreen(const string& myId) {
         string notice;
         int noticeColor = 8;
 
-        if (trimString(query).empty()) {
-            notice = "Gõ tên hoặc tài khoản để bắt đầu tìm kiếm (không cần nhấn ENTER)";
+        if (trimString(query).empty() && !anyFilter()) {
+            notice = "Gõ tên/tài khoản hoặc nhấn TAB để mở bộ lọc";
+        }
+        else if (trimString(query).empty() && anyFilter() && count == 0) {
+            notice = "Không có người dùng khớp với các bộ lọc đã chọn";
+            noticeColor = 12;
         }
         else if (count == 0) {
             notice = "Không tìm thấy người dùng nào phù hợp";
@@ -129,7 +168,7 @@ void searchUsersScreen(const string& myId) {
         int lastLine = (int)blocks.size() - 1;
 
         vector<BottomLine> bottom = {makeSearchLine(query)};
-        string footer = "Gõ để tìm | ▲ / ▼ / Cuộn chuột: Chọn | ENTER: Xem trang cá nhân | ESC: Quay lại";
+        string footer = "Gõ để tìm | TAB: Bộ lọc | ▲ / ▼ / Cuộn chuột: Chọn | ENTER: Xem hồ sơ / bật lọc | ESC: Quay lại";
 
         auto ensureVisible = [&]() {
             if (count == 0) {
@@ -156,6 +195,32 @@ void searchUsersScreen(const string& myId) {
         drawAll,
         [&](const KeyInput& key) -> bool {
             int count = (int)results.size();
+
+            if (key.type == KEY_TAB) {
+                showFilters = !showFilters;
+                return false;
+            }
+
+            if (showFilters) {
+                if (key.type == KEY_UP || key.type == KEY_SCROLL_UP) {
+                    filterCursor = (filterCursor + (int)filterNames.size() - 1) % (int)filterNames.size();
+                    return false;
+                }
+                if (key.type == KEY_DOWN || key.type == KEY_SCROLL_DOWN) {
+                    filterCursor = (filterCursor + 1) % (int)filterNames.size();
+                    return false;
+                }
+                if (key.type == KEY_ENTER || (key.type == KEY_CHARACTER && key.character == " ")) {
+                    enabledFilters[filterCursor] = !enabledFilters[filterCursor];
+                    selected = 0;
+                    refresh();
+                    return false;
+                }
+                if (key.type == KEY_ESCAPE) {
+                    showFilters = false;
+                    return false;
+                }
+            }
 
             switch (key.type) {
                 case KEY_UP:          selected -= 1;  break;
