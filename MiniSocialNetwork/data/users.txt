@@ -1,4 +1,0 @@
-4
-3|huyentran|tran12345|0|0|nụ|tp.tphcm|Vĩnh LOng|THPT Đoàn Thị Điểm||Vui choi
-1|HuyenTranNguyen2007|tran12345|1|0|Nguyễn Thị Huyền Trân|TP.TPhcm|Vĩnh Long|THPT Đoàn Thị Điểm||Ăn,chơi,ngủ nghỉ
-2|admin|admin12345|1|0|Quan Tri Vien|Ha Noi|Ha Noi||Mini Social Network|
