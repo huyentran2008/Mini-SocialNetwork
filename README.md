@@ -1,5 +1,15 @@
 # Mini Social Network — C++
 
+## Thành viên nhóm
+
+| STT | Họ và tên | Mã số sinh viên |
+|:---:|-----------|:---------------:|
+| 1 | Bùi Thanh Thảo | 6651071070 |
+| 2 | Nguyễn Tấn Tài | 6651071062 |
+| 3 | Nguyễn Thị Huyền Trân | 6651071080 |
+| 4 | Nguyễn Văn Tuấn Khang | 6651071031 |
+| 5 | Nguyễn Thị Hồng Nhung | 6651071050 |
+
 ## 1. Giới thiệu dự án
 
 Mini Social Network là dự án xây dựng một hệ thống mạng xã hội mini bằng ngôn ngữ C++, phục vụ mục đích học tập và thực hành các kiến thức về Lập trình hướng đối tượng, Cấu trúc dữ liệu và Giải thuật.
@@ -101,8 +111,68 @@ Hệ thống mô phỏng các chức năng cơ bản của một mạng xã hộ
 - Console UI.
 
 **Kết quả cần đạt:** Xây dựng menu tương tác, tiếp nhận dữ liệu đầu vào, hiển thị kết quả, hỗ trợ lưu trữ dữ liệu và tích hợp các chức năng của hệ thống.
+Các tính năng chính
 
-## 4. Công nghệ và kiến thức sử dụng
+## 4. Các tính năng chính
+### 4.1 Tài khoản và trang cá nhân
+- Đăng ký, đăng nhập (mật khẩu được lưu dưới dạng mã hóa Hex). Đăng ký thành công sẽ được đăng nhập luôn.
+- Thông tin cá nhân gồm: họ tên, ngày sinh (`dd-mm-yyyy`, kiểm tra hợp lệ kể cả năm nhuận), giới tính, giới thiệu, nơi ở hiện tại, quê quán, trường học, nơi làm việc và sở thích.
+- Nơi ở, quê quán, trường học và sở thích được chọn từ danh sách có sẵn (tỉnh thành, trường đại học / cao đẳng, sở thích) và có tìm kiếm trực tiếp, không phân biệt hoa thường và dấu.
+- Xem trang cá nhân của mình và của người khác; chỉnh sửa tài khoản trong mục Cài Đặt.
+
+### 4.2 Bạn bè
+- Gửi, chấp nhận, hủy lời mời kết bạn; hủy kết bạn; chặn và bỏ chặn.
+- **Gợi ý kết bạn (BFS):** mỗi tài khoản là một đỉnh, mỗi quan hệ bạn bè (`FRIEND`) là một cạnh. Từ người dùng A, thuật toán BFS đi tối đa 3 tầng (bạn của bạn, bạn của bạn của bạn). Người gần hơn được xếp trước; cùng tầng thì ai có nhiều bạn chung hơn xếp trước. Mỗi gợi ý kèm lý do (cùng quê, cùng trường, chung sở thích...). Nếu chưa có bạn nào, chương trình chỉ gợi ý một vài người dùng nổi bật.
+- Mục `Chung Nhóm Chat` liệt kê những người chưa kết bạn nhưng cùng tham gia nhóm chat, ưu tiên người có nhiều nhóm chung.
+- **Tìm kiếm bạn bè:** gõ tới đâu tìm tới đó theo tên hoặc tài khoản (không phân biệt hoa thường và dấu). Nhấn `TAB` để mở/đóng bộ lọc; các tiêu chí kết hợp theo điều kiện AND, riêng sở thích khớp khi có ít nhất một sở thích chung.
+
+### 4.3 Bài đăng
+- Tạo, chỉnh sửa, xóa bài đăng với ba chế độ hiển thị: **Công khai**, **Bạn bè**, **Chỉ mình tôi**.
+- Thích và bình luận bài đăng. Thời gian hiển thị dạng "x phút / ngày / tháng trước", quá 1 năm thì hiển thị `dd/mm/yyyy`.
+- Nội dung dài dùng màn hình đọc có cuộn, tiêu đề và thanh hướng dẫn luôn cố định.
+
+### 4.4 Nhắn tin
+- Nhắn tin riêng có hiển thị thời gian.
+- **Nhóm chat:** chỉ thêm được người là bạn bè của người thêm.
+- **Biệt danh:** trong cuộc trò chuyện riêng, nhấn `F2` để đặt hoặc bỏ biệt danh cho người kia. Biệt danh được lưu riêng theo tài khoản nên mỗi người có thể đặt tên khác nhau.
+- **Xóa tin nhắn phía mình:** nhấn `Delete` để vào chế độ chọn, dùng `↑`/`↓` hoặc con lăn để di chuyển, `Enter` để đánh dấu/bỏ đánh dấu, nhấn `Delete` lần nữa để thực hiện. Chỉ tài khoản hiện tại ẩn các tin đã chọn.
+- **Thu hồi tin nhắn:** nhấn `/` khi ô nhập đang trống để vào chế độ chọn (thao tác giống xóa), nhấn `/` lần nữa để thu hồi. Chỉ tin do bạn gửi và chưa quá 10 phút mới được thu hồi; nội dung được thay bằng thông báo `Bạn đã thu hồi tin nhắn` ở cả hai phía.
+- Trong chế độ chọn, `ESC` hủy chế độ mà không thực hiện thao tác.
+
+### 4.5 Thông báo và báo cáo
+- Thông báo khi có lời mời kết bạn, lời mời được chấp nhận, bài đăng được thích, bài đăng có bình luận và có tin nhắn mới.
+- Người dùng có thể báo cáo người dùng khác hoặc bài viết.
+
+### 4.6 Quản trị viên
+- Đăng nhập ở màn hình đăng nhập thông thường bằng tài khoản quản trị (xem file `TaiKhoan_MatKhau.txt`; thông tin được khai báo trong `Modules/AccountCore.h`).
+- Quản lý tài khoản (xem, tìm, khóa, mở khóa, xóa), báo cáo người dùng và bài viết, yêu cầu cấp lại mật khẩu, bài viết (xem, ẩn/hiện, xóa), nhóm chat (không xem được nội dung tin nhắn để đảm bảo riêng tư) và xem thống kê hệ thống.
+
+## 5. Cấu trúc dự án
+
+```text
+MangXaHoiMini-GoiYKetBan-DSA/
+├── main.cpp                  # Điểm vào: tạo đối tượng App và gọi run()
+├── README.md
+├── TaiKhoan_MatKhau.txt      # Danh sách tài khoản và mật khẩu của bộ dữ liệu mẫu
+├── Modules/                  # Các module (chỉ có file .h, được include từ App.h)
+│   ├── Console.h  Text.h  Utils.h        # Console, nhận phím, double buffer, tiện ích UTF-8 / thời gian / file
+│   ├── UI.h  Reader.h  Cards.h  Picker.h # Menu, màn hình đọc có cuộn, danh sách thẻ, bộ chọn có tìm kiếm
+│   ├── AccountCore.h  AuthUI.h           # Kiểm tra tài khoản, màn hình đăng nhập / đăng ký
+│   ├── Profile.h  ProfileScreens.h  Settings.h
+│   ├── Friend.h  FriendMenus.h  Suggest.h  # Quan hệ bạn bè, tìm kiếm, gợi ý kết bạn bằng BFS
+│   ├── Post.h  Chat.h  Group.h           # Bài đăng, tin nhắn riêng, nhóm chat
+│   ├── Notification.h  NotificationScreens.h
+│   ├── Report.h  Admin.h                 # Báo cáo và công cụ quản trị
+│   ├── MenuUser.h  App.h                 # Menu người dùng và lớp ứng dụng chính
+│   └── VietnamData.h                     # Danh sách tỉnh thành, trường học, sở thích
+└── Data/                     # Dữ liệu dạng văn bản (đọc và ghi khi chạy chương trình)
+    ├── Account/ACCxxxxxx/    # profile.txt, friend.txt, notifications.txt, nicknames.txt
+    ├── Post/POSTxxxxxx/      # post.txt, likes.txt, comments.txt
+    ├── Conversations/        # .Private/ (chat riêng), .Group/GRPxxxxxx/, .Hidden/
+    └── Report/               # reports.txt, account_issues.txt
+```
+
+## 6. Công nghệ và kiến thức sử dụng
 
 - **Ngôn ngữ lập trình:** C++.
 - **Quản lý mã nguồn:** Git và GitHub.
@@ -121,19 +191,7 @@ Hệ thống mô phỏng các chức năng cơ bản của một mạng xã hộ
 - **Quản lý dữ liệu:** File I/O (Đọc và ghi tệp).
 - **Giao diện người dùng:** Console UI (Giao diện dòng lệnh).
 
-## 5. Quy tắc phát triển và quản lý mã nguồn
-
-Nhóm sử dụng GitHub để lưu trữ mã nguồn, theo dõi lịch sử thay đổi và phối hợp phát triển.
-
-### Quy tắc làm việc
-
-- Mỗi thành viên chịu trách nhiệm cho module được phân công.
-- Thống nhất tên hàm, kiểu dữ liệu, tham số và giá trị trả về trước khi triển khai các module.
-- Không tự ý sửa đổi giao diện giữa các module khi chưa trao đổi với thành viên liên quan.
-- Mỗi thành viên cần kiểm thử chức năng của mình trước khi gửi code tích hợp.
-- Các thay đổi quan trọng cần được kiểm tra trước khi đưa vào nhánh chính.
-
-### Quy trình GitHub
+## Quy trình GitHub
 
 1. Đồng bộ code mới nhất từ repository.
 2. Tạo hoặc chuyển sang branch phụ trách.
@@ -143,7 +201,7 @@ Nhóm sử dụng GitHub để lưu trữ mã nguồn, theo dõi lịch sử tha
 6. Tạo Pull Request để trưởng nhóm kiểm tra.
 7. Merge vào `main` sau khi được chấp thuận.
 
-### Quy ước đặt tên branch
+## Quy ước đặt tên branch
 
 - `main`: Phiên bản code chính.
 - `feature/user-management`: Module người dùng.
@@ -151,42 +209,6 @@ Nhóm sử dụng GitHub để lưu trữ mã nguồn, theo dõi lịch sử tha
 - `feature/friend-suggestion`: Module tìm kiếm và gợi ý.
 - `feature/network-analysis`: Module liên thông và thống kê.
 - `feature/console-ui`: Module giao diện và tích hợp.
-
-## 6. Cấu trúc thư mục dự kiến
-
-```text
-Mini-SocialNetwork/
-├── README.md
-├── docs/
-│   ├── phan-cong-chuc-nang.md
-│   └── thiet-ke-he-thong.md
-├── include/
-│   ├── User.h
-│   ├── UserManager.h
-│   ├── Profile.h
-│   ├── HashTable.h
-│   ├── Graph.h
-│   ├── FriendManager.h
-│   ├── FriendRequest.h
-│   ├── FriendSuggester.h
-│   ├── NetworkAnalyzer.h
-│   ├── Post.h
-│   ├── PostManager.h
-│   └── FileManager.h
-├── src/
-│   ├── main.cpp
-│   ├── User.cpp
-│   ├── UserManager.cpp
-│   ├── Graph.cpp
-│   ├── FriendManager.cpp
-│   ├── FriendSuggester.cpp
-│   ├── NetworkAnalyzer.cpp
-│   ├── Post.cpp
-│   ├── PostManager.cpp
-│   └── FileManager.cpp
-└── tests/
-    └── README.md
-```
 
 *Lưu ý: Đây là cấu trúc dự kiến. Nhóm có thể điều chỉnh tên file, cách chia thư mục và số lượng module theo thiết kế thực tế. Không nhất thiết phải tạo tất cả các file ngay từ đầu.*
 
