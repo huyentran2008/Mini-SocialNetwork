@@ -1,0 +1,14 @@
+id=ACC000100
+username=lytm64
+password=4c79403337313570
+full_name=Tống Mai Ly
+birthday=09-11-2003
+gender=Female
+bio=Mỗi ngày là một cơ hội mới.
+created_at=2026-10-08
+status=ACTIVE
+residence=Hà Nội
+hometown=Đà Nẵng
+school=Đại học Khoa học Tự nhiên - ĐHQG Hà Nội
+workplace=Vinamilk
+hobbies=Viết nhật ký;Tâm lý học

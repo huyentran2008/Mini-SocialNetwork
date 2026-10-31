@@ -1,0 +1,14 @@
+id=ACC000106
+username=thuannn64
+password=546875616e40303730386b
+full_name=Nguyễn Nhật Thuận
+birthday=31-08-2001
+gender=Male
+bio=
+created_at=2026-08-18
+status=ACTIVE
+residence=Hải Phòng
+hometown=Hải Phòng
+school=Đại học Tôn Đức Thắng
+workplace=
+hobbies=Bóng bàn

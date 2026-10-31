@@ -1,0 +1,21 @@
+ACC000063|2026-10-09 19:55:48|Sáng mai bạn có đi tập chạy không?
+ACC000007|2026-10-09 19:56:34|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000063|2026-10-09 19:56:53|Mình sợ dậy không nổi.
+ACC000007|2026-10-09 19:59:52|Để mình gọi bạn dậy.
+ACC000063|2026-10-09 20:03:03|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000007|2026-10-09 20:03:36|Ok, mai gặp.
+ACC000063|2026-10-09 23:08:23|Thật à?
+ACC000007|2026-10-09 23:08:28|Tối nói chuyện tiếp nhé
+ACC000063|2026-10-09 23:08:42|Đang làm gì đó?
+ACC000063|2026-10-09 23:08:53|Tối nói chuyện tiếp nhé
+ACC000063|2026-10-09 23:09:05|Cố lên nhé
+ACC000007|2026-10-09 23:09:10|Mình biết rồi
+ACC000063|2026-10-09 23:09:23|Được luôn
+ACC000007|2026-10-09 23:09:30|Okela
+ACC000007|2026-10-09 23:09:44|Mình cũng nghĩ vậy
+ACC000063|2026-10-17 12:48:10|Bạn xem giúp mình CV được không?
+ACC000007|2026-10-17 12:48:55|Gửi mình xem nhé.
+ACC000063|2026-10-17 12:49:22|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000007|2026-10-17 12:53:34|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000063|2026-10-17 12:54:23|Hợp lý, mình sửa luôn.
+ACC000007|2026-10-17 12:55:27|Sửa xong gửi mình xem lại nhé.

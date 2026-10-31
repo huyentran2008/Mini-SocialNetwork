@@ -1,0 +1,15 @@
+ACC000109|2026-10-22 21:24:50|Hôm nay bạn rảnh không?
+ACC000069|2026-10-22 21:26:08|Chiều mình rảnh, có chuyện gì vậy?
+ACC000109|2026-10-22 21:28:17|Đi uống bạc xỉu nhé, lâu rồi không gặp.
+ACC000069|2026-10-22 21:28:42|Ok, 7 giờ mình qua đón bạn nha.
+ACC000109|2026-10-22 21:31:08|Được, mình chờ ở cổng.
+ACC000069|2026-10-22 21:32:37|Tới rồi nè, ra đi.
+ACC000109|2026-10-23 10:17:04|Cố lên nhé
+ACC000069|2026-10-23 10:21:06|Thôi mình đi ăn cơm đã
+ACC000109|2026-10-23 10:22:13|Ừ
+ACC000109|2026-10-23 12:57:37|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000069|2026-10-23 12:58:31|Mình mới xong nửa tài liệu, hơi lo.
+ACC000109|2026-10-23 13:04:36|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000069|2026-10-23 13:05:24|Hay đó, 8 giờ nhé.
+ACC000109|2026-10-23 13:06:28|Ok, mình chuẩn bị sẵn đề cương.
+ACC000069|2026-10-23 13:06:45|Cảm ơn Trí, có bạn cùng ôn đỡ áp lực hẳn.

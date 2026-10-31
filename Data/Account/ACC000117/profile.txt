@@ -1,0 +1,14 @@
+id=ACC000117
+username=ynk58
+password=5940373937336831
+full_name=Ngô Khánh Ý
+birthday=26-09-2000
+gender=Female
+bio=Gamer chính hiệu.
+created_at=2026-09-08
+status=ACTIVE
+residence=Quảng Ninh
+hometown=Cần Thơ
+school=Đại học Lạc Hồng
+workplace=Gojek
+hobbies=Chơi game;Chơi game console

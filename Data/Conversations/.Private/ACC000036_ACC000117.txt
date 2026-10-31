@@ -1,0 +1,7 @@
+ACC000117|2026-10-11 20:34:54|Cuối tuần này đi xem phim không?
+ACC000036|2026-10-11 20:37:09|Phim gì vậy?
+ACC000117|2026-10-11 20:38:07|Phim mới chiếu, nghe nói hay lắm.
+ACC000036|2026-10-11 20:40:51|Mình đang rảnh thứ tư, đi buổi chiều nhé.
+ACC000117|2026-10-11 20:43:19|Ok, mình đặt vé luôn.
+ACC000036|2026-10-11 20:45:17|Nhớ chọn ghế giữa nha.
+ACC000117|2026-10-11 20:46:01|Yên tâm.

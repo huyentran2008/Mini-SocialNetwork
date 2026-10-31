@@ -1,0 +1,8 @@
+id=POST000224
+author=ACC000078
+visibility=PUBLIC
+created_at=2026-10-21 06:53:09
+edited_at=
+status=VISIBLE
+title=Quán cà phê view đẹp mới phát hiện
+content=Cuối tuần vừa tìm được một quán cà phê yên tĩnh, ghế êm, wifi mạnh, giá 25k một ly. Rất hợp để ngồi học bài hoặc viết code cả buổi chiều.

@@ -1,0 +1,24 @@
+ACC000082|2026-09-19 22:26:38|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000111|2026-09-19 22:28:57|Mình mới xong nửa tài liệu, hơi lo.
+ACC000082|2026-09-19 22:31:14|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000111|2026-09-19 22:32:23|Hay đó, 8 giờ nhé.
+ACC000082|2026-09-19 22:35:59|Ok, mình chuẩn bị sẵn đề cương.
+ACC000111|2026-09-19 22:37:18|Cảm ơn Nhàn, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000082|2026-09-26 19:47:34|Bạn có rảnh để mình hỏi chút về môn xác suất không?
+ACC000111|2026-09-26 19:51:26|Có, bạn hỏi đi.
+ACC000082|2026-09-26 19:58:09|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000111|2026-09-26 20:04:45|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000082|2026-09-26 20:05:54|Nghe hợp lý, cảm ơn bạn.
+ACC000111|2026-09-26 20:11:32|Cần gì cứ nhắn mình.
+ACC000111|2026-10-05 22:27:22|Bạn ngủ chưa?
+ACC000082|2026-10-05 22:33:51|Chưa, đang làm bài tập.
+ACC000111|2026-10-05 22:48:36|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000082|2026-10-05 22:50:36|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000111|2026-10-05 22:51:54|Ngủ ngon nha.
+ACC000082|2026-10-05 22:54:10|Ngủ ngon.
+ACC000082|2026-10-15 11:31:46|Chỉ mình đường tới thư viện thành phố với.
+ACC000111|2026-10-15 11:32:15|Bạn đang ở đâu?
+ACC000082|2026-10-15 11:33:00|Mình đang ở gần cổng chợ.
+ACC000111|2026-10-15 12:08:13|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000082|2026-10-15 12:09:59|Mình thấy rồi, cảm ơn bạn nha.
+ACC000111|2026-10-15 12:12:43|Ok, đi cẩn thận.

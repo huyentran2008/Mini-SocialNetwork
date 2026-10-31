@@ -1,0 +1,18 @@
+ACC000085|2026-10-16 18:27:36|Chỉ mình đường tới thư viện thành phố với.
+ACC000056|2026-10-16 18:33:37|Bạn đang ở đâu?
+ACC000085|2026-10-16 18:34:00|Mình đang ở gần cổng chợ.
+ACC000056|2026-10-16 19:21:16|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000085|2026-10-16 19:48:03|Mình thấy rồi, cảm ơn bạn nha.
+ACC000056|2026-10-16 19:51:43|Ok, đi cẩn thận.
+ACC000085|2026-10-18 08:02:18|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000056|2026-10-18 08:04:36|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000085|2026-10-18 08:08:15|Mình thấy rồi, truy cập ngoài mảng.
+ACC000056|2026-10-18 08:09:54|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000085|2026-10-18 08:10:22|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000056|2026-10-18 08:11:15|Lỗi này ai cũng từng gặp thôi.
+ACC000085|2026-10-20 23:20:29|Công thức làm bánh flan bạn dùng thế nào?
+ACC000056|2026-10-20 23:20:44|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000085|2026-10-20 23:21:02|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000056|2026-10-20 23:21:31|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000085|2026-10-20 23:21:45|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000056|2026-10-20 23:22:03|Làm xong cho mình xin một miếng nhé.

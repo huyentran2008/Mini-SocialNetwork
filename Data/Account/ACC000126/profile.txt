@@ -1,0 +1,14 @@
+id=ACC000126
+username=quoclt23
+password=51756f63403839363071
+full_name=Lý Tuấn Quốc
+birthday=10-02-2006
+gender=Male
+bio=Yoga buổi sáng, cà phê buổi chiều.
+created_at=2026-09-26
+status=ACTIVE
+residence=
+hometown=Quảng Ngãi
+school=Đại học Phenikaa
+workplace=The Coffee House
+hobbies=Ăn sạch;Dậy sớm;Tập gym

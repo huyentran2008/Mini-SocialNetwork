@@ -1,0 +1,60 @@
+ACC000116|2026-10-24 07:20:46|Mình đang bận chút, lát nhắn lại nhé
+ACC000057|2026-10-24 07:20:57|Có gì báo mình nhé
+ACC000057|2026-10-24 07:21:01|Chúc bạn một ngày tốt lành
+ACC000116|2026-10-24 07:21:05|Ok
+ACC000116|2026-10-24 07:21:06|Cuối tuần rảnh không?
+ACC000057|2026-10-24 07:21:09|Mệt quá hôm nay
+ACC000057|2026-10-24 07:21:13|Haha
+ACC000116|2026-10-24 07:21:18|Haha bạn vui tính thật
+ACC000057|2026-10-24 07:21:30|Mình biết rồi
+ACC000057|2026-10-24 07:21:38|Cuối tuần rảnh không?
+ACC000116|2026-10-24 07:21:52|Thôi mình đi ăn cơm đã
+ACC000116|2026-10-24 07:22:00|Thật à?
+ACC000057|2026-10-24 07:22:10|Để mình xem
+ACC000057|2026-10-24 07:22:14|Haha
+ACC000116|2026-10-24 07:22:18|Mình cũng nghĩ vậy
+ACC000057|2026-10-24 08:36:34|Mình biết rồi
+ACC000057|2026-10-24 08:36:46|Ừm, mình nghĩ vậy
+ACC000057|2026-10-24 08:36:49|Cảm ơn nhé
+ACC000057|2026-10-24 08:36:56|Cảm ơn nhé
+ACC000057|2026-10-24 08:37:02|Rồi, mình nhớ rồi
+ACC000116|2026-10-24 08:37:16|Ok
+ACC000057|2026-10-24 08:37:28|Ừ đúng rồi
+ACC000057|2026-10-24 08:37:32|Ok
+ACC000116|2026-10-24 08:37:37|Mệt quá hôm nay
+ACC000057|2026-10-24 08:37:42|Cố lên nhé
+ACC000116|2026-10-24 08:37:44|Rồi, mình nhớ rồi
+ACC000116|2026-10-24 08:37:52|Chúc bạn một ngày tốt lành
+ACC000116|2026-10-24 08:37:53|Ừm, mình nghĩ vậy
+ACC000057|2026-10-24 08:38:01|Ngủ ngon
+ACC000116|2026-10-24 08:38:13|Rồi, mình nhớ rồi
+ACC000057|2026-10-24 12:56:49|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000116|2026-10-24 12:57:32|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000057|2026-10-24 12:57:48|Chụp vài tấm nhé.
+ACC000116|2026-10-24 12:58:34|Xong rồi, mình gửi bạn qua đây.
+ACC000057|2026-10-24 13:01:45|Đẹp quá, cảm ơn bạn nhiều.
+ACC000116|2026-10-24 13:04:08|Lần sau mình chụp thêm.
+ACC000057|2026-10-24 16:32:26|Sao git của mình báo conflict hoài vậy?
+ACC000116|2026-10-24 16:33:17|Bạn có pull trước khi push không?
+ACC000057|2026-10-24 16:35:30|Chắc là không.
+ACC000116|2026-10-24 16:36:48|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000057|2026-10-24 16:38:19|Làm xong rồi, cảm ơn bạn.
+ACC000116|2026-10-24 16:39:16|Từ nay nhớ pull trước nhé.
+ACC000116|2026-10-24 20:06:31|Dạo này mình áp lực thi quá.
+ACC000057|2026-10-24 20:07:03|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000116|2026-10-24 20:08:14|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000057|2026-10-24 20:09:01|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000116|2026-10-24 20:41:13|Nghe có vẻ ổn, mình thử.
+ACC000057|2026-10-24 20:41:40|Cố lên, có gì cần cứ nhắn mình.
+ACC000057|2026-10-24 20:50:08|Điểm thi cơ sở dữ liệu có chưa bạn?
+ACC000116|2026-10-24 21:22:28|Có rồi, mình được 8 điểm.
+ACC000057|2026-10-24 21:23:28|Giỏi quá, mình mới 6 điểm thôi.
+ACC000116|2026-10-24 21:23:37|Cũng ổn mà, qua môn là tốt rồi.
+ACC000057|2026-10-24 21:24:00|Cảm ơn bạn đã động viên.
+ACC000116|2026-10-24 21:25:50|Lần sau mình học nhóm tiếp nhé.
+ACC000116|2026-10-24 22:08:34|Bạn ơi, bài tập cấu trúc dữ liệu nộp chưa?
+ACC000057|2026-10-24 22:13:48|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000116|2026-10-24 22:15:07|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000057|2026-10-24 22:15:49|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000116|2026-10-24 22:17:09|Có gì hỏi mình nhé.
+ACC000057|2026-10-24 22:20:21|Okela, cảm ơn Vinh nhiều.

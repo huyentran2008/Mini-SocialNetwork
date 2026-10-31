@@ -1,0 +1,24 @@
+ACC000021|2026-10-24 06:19:59|Okela
+ACC000017|2026-10-24 06:20:09|Haha
+ACC000021|2026-10-24 06:20:15|Cảm ơn nhé
+ACC000017|2026-10-24 06:20:19|Haha bạn vui tính thật
+ACC000017|2026-10-24 06:20:24|Có gì báo mình nhé
+ACC000021|2026-10-24 06:20:27|Cuối tuần rảnh không?
+ACC000021|2026-10-24 06:20:31|Để mình xem
+ACC000021|2026-10-24 06:20:40|Mệt quá hôm nay
+ACC000021|2026-10-24 06:20:49|Có gì báo mình nhé
+ACC000021|2026-10-24 06:20:54|Ngủ ngon
+ACC000017|2026-10-24 06:21:00|Tối nói chuyện tiếp nhé
+ACC000021|2026-10-24 06:21:10|Thôi mình đi ăn cơm đã
+ACC000017|2026-10-24 11:32:47|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000021|2026-10-24 11:33:00|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000017|2026-10-24 11:33:40|Chụp vài tấm nhé.
+ACC000021|2026-10-24 11:34:24|Xong rồi, mình gửi bạn qua đây.
+ACC000017|2026-10-24 11:37:15|Đẹp quá, cảm ơn bạn nhiều.
+ACC000021|2026-10-24 12:08:28|Lần sau mình chụp thêm.
+ACC000017|2026-10-24 13:59:17|Bạn có rảnh để mình hỏi chút về môn cấu trúc dữ liệu không?
+ACC000021|2026-10-24 13:59:44|Có, bạn hỏi đi.
+ACC000017|2026-10-24 14:00:33|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000021|2026-10-24 14:11:56|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000017|2026-10-24 14:13:00|Nghe hợp lý, cảm ơn bạn.
+ACC000021|2026-10-24 14:15:09|Cần gì cứ nhắn mình.

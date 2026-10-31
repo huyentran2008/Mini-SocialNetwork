@@ -1,0 +1,67 @@
+ACC000125|2026-10-19 11:51:00|Dạo này mình áp lực thi quá.
+ACC000054|2026-10-19 11:55:18|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000125|2026-10-19 12:16:49|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000054|2026-10-19 12:18:58|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000125|2026-10-19 12:21:10|Nghe có vẻ ổn, mình thử.
+ACC000054|2026-10-19 12:24:20|Cố lên, có gì cần cứ nhắn mình.
+ACC000125|2026-10-19 17:52:40|Được luôn
+ACC000125|2026-10-19 17:57:56|Rồi, mình nhớ rồi
+ACC000054|2026-10-19 17:58:35|Mai gặp nhé
+ACC000054|2026-10-19 18:07:19|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000125|2026-10-19 18:12:57|Mình mới xong nửa tài liệu, hơi lo.
+ACC000054|2026-10-19 18:14:15|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000125|2026-10-19 18:15:11|Hay đó, 8 giờ nhé.
+ACC000054|2026-10-19 18:16:11|Ok, mình chuẩn bị sẵn đề cương.
+ACC000125|2026-10-19 18:22:14|Cảm ơn Hậu, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000125|2026-10-20 17:32:13|Bạn cho mình mượn tài liệu được không?
+ACC000054|2026-10-20 17:33:00|Được, bạn lấy bản chụp hay bản mềm?
+ACC000125|2026-10-20 17:34:11|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000054|2026-10-20 18:01:38|Gửi rồi nha, kiểm tra thử.
+ACC000125|2026-10-20 18:12:01|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000054|2026-10-20 18:15:24|Không có gì.
+ACC000054|2026-10-22 21:19:57|Bạn ơi, bài tập xác suất nộp chưa?
+ACC000125|2026-10-22 21:24:15|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000054|2026-10-22 21:25:37|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000125|2026-10-22 21:26:21|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000054|2026-10-22 21:29:10|Có gì hỏi mình nhé.
+ACC000125|2026-10-22 21:30:08|Okela, cảm ơn Hậu nhiều.
+ACC000125|2026-10-23 12:06:17|Mình đang bận chút, lát nhắn lại nhé
+ACC000125|2026-10-23 12:06:18|Ừm, mình nghĩ vậy
+ACC000054|2026-10-23 12:06:30|Vừa về tới nhà
+ACC000054|2026-10-23 12:06:40|Cảm ơn nhé
+ACC000125|2026-10-23 12:06:47|Cố lên nhé
+ACC000054|2026-10-23 12:07:00|Mình đang bận chút, lát nhắn lại nhé
+ACC000054|2026-10-23 12:07:07|Được luôn
+ACC000054|2026-10-23 12:07:13|Vậy hả?
+ACC000125|2026-10-23 12:07:16|Mai gặp nhé
+ACC000125|2026-10-23 12:07:22|Mình cũng nghĩ vậy
+ACC000125|2026-10-23 12:07:30|Nghe được đó
+ACC000125|2026-10-23 12:07:44|Ừ
+ACC000054|2026-10-23 12:07:56|Cảm ơn nhé
+ACC000125|2026-10-23 12:08:04|Cuối tuần rảnh không?
+ACC000125|2026-10-23 12:08:09|Mệt quá hôm nay
+ACC000054|2026-10-23 12:08:15|Thật à?
+ACC000054|2026-10-23 13:58:52|Sao git của mình báo conflict hoài vậy?
+ACC000125|2026-10-23 14:01:17|Bạn có pull trước khi push không?
+ACC000054|2026-10-23 14:33:35|Chắc là không.
+ACC000125|2026-10-23 14:34:22|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000054|2026-10-23 15:23:37|Làm xong rồi, cảm ơn bạn.
+ACC000125|2026-10-23 15:24:22|Từ nay nhớ pull trước nhé.
+ACC000125|2026-10-23 17:21:36|Công thức làm bánh flan bạn dùng thế nào?
+ACC000054|2026-10-23 17:23:42|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000125|2026-10-23 17:25:52|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000054|2026-10-23 17:31:15|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000125|2026-10-23 18:04:19|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000054|2026-10-23 18:05:05|Làm xong cho mình xin một miếng nhé.
+ACC000125|2026-10-23 18:27:17|Mình dọn trọ sang khu khác rồi.
+ACC000054|2026-10-23 18:27:34|Thật à? Có xa trường không?
+ACC000125|2026-10-23 18:28:02|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000054|2026-10-23 18:30:25|Tốt quá, hôm nào mình qua chơi.
+ACC000125|2026-10-23 18:32:46|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000054|2026-10-23 18:33:54|Ok, nhớ nấu cơm cho mình đó.
+ACC000054|2026-10-23 19:41:47|Chỉ mình đường tới thư viện thành phố với.
+ACC000125|2026-10-23 19:42:57|Bạn đang ở đâu?
+ACC000054|2026-10-23 19:43:54|Mình đang ở gần cổng chợ.
+ACC000125|2026-10-23 19:47:03|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000054|2026-10-23 19:48:22|Mình thấy rồi, cảm ơn bạn nha.
+ACC000125|2026-10-23 19:49:54|Ok, đi cẩn thận.

@@ -1,0 +1,8 @@
+id=POST000023
+author=ACC000014
+visibility=FRIEND
+created_at=2026-10-18 20:42:54
+edited_at=
+status=VISIBLE
+title=Bài học khi làm việc nhóm
+content=Chia việc rõ ràng, họp ngắn nhưng đều đặn, và luôn tôn trọng ý kiến của nhau. Dự án mới chạy mượt.

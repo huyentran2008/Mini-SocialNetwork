@@ -1,0 +1,14 @@
+id=ACC000032
+username=chautb19
+password=43686175403435393673
+full_name=Trần Bảo Châu
+birthday=02-09-1999
+gender=Female
+bio=Thích nấu ăn vào cuối tuần.
+created_at=2026-10-11
+status=ACTIVE
+residence=Khánh Hòa
+hometown=Quảng Ninh
+school=Đại học Ngoại thương
+workplace=
+hobbies=Chơi guitar;Nuôi mèo

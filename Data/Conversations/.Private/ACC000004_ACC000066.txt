@@ -1,0 +1,6 @@
+ACC000066|2026-10-22 22:14:00|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000004|2026-10-22 22:15:40|Mình mới xong nửa tài liệu, hơi lo.
+ACC000066|2026-10-22 22:17:06|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000004|2026-10-22 22:19:17|Hay đó, 8 giờ nhé.
+ACC000066|2026-10-22 22:20:35|Ok, mình chuẩn bị sẵn đề cương.
+ACC000004|2026-10-22 22:38:24|Cảm ơn Tiên, có bạn cùng ôn đỡ áp lực hẳn.

@@ -1,0 +1,22 @@
+ACC000052|2026-10-07 09:14:11|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000116|2026-10-07 09:16:53|Bài nào vậy?
+ACC000052|2026-10-07 09:52:41|Mình gửi link rồi đó.
+ACC000116|2026-10-07 09:58:13|Nghe rồi, giai điệu dễ chịu thật.
+ACC000052|2026-10-07 10:00:53|Đúng không? Mình nghe suốt tuần này.
+ACC000116|2026-10-07 10:03:12|Cho mình xin playlist nhé.
+ACC000052|2026-10-10 12:17:05|Cảm ơn nhé
+ACC000116|2026-10-10 12:18:14|Nghe được đó
+ACC000052|2026-10-10 12:20:36|Ngủ ngon
+ACC000116|2026-10-10 12:21:06|Mình biết rồi
+ACC000052|2026-10-10 21:10:18|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000116|2026-10-10 21:10:34|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000052|2026-10-10 21:13:49|Cảm ơn, mình hay quên lắm.
+ACC000116|2026-10-10 21:14:04|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000052|2026-10-10 21:15:57|Ừ, mình in hai bản.
+ACC000116|2026-10-10 21:17:00|Giỏi.
+ACC000052|2026-10-17 07:11:26|Điểm thi cấu trúc dữ liệu có chưa bạn?
+ACC000116|2026-10-17 07:14:30|Có rồi, mình được 8 điểm.
+ACC000052|2026-10-17 07:17:29|Giỏi quá, mình mới 6 điểm thôi.
+ACC000116|2026-10-17 07:20:16|Cũng ổn mà, qua môn là tốt rồi.
+ACC000052|2026-10-17 07:20:35|Cảm ơn bạn đã động viên.
+ACC000116|2026-10-17 07:21:56|Lần sau mình học nhóm tiếp nhé.

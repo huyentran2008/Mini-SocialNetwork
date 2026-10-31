@@ -1,0 +1,14 @@
+id=ACC000113
+username=vanth01
+password=56616e40373239326b
+full_name=Tăng Hữu Văn
+birthday=15-12-1996
+gender=Male
+bio=Trồng rau nuôi cá, sống chậm.
+created_at=2026-09-30
+status=ACTIVE
+residence=Hà Nội
+hometown=TP. Hồ Chí Minh
+school=Đại học Ngoại thương
+workplace=Unilever Việt Nam
+hobbies=Nuôi cá cảnh;Trồng hoa;Làm bạn với thiên nhiên

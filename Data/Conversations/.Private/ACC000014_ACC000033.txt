@@ -1,0 +1,22 @@
+ACC000014|2026-10-19 21:08:27|Sáng mai bạn có đi tập chạy không?
+ACC000033|2026-10-19 21:40:34|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000014|2026-10-19 21:42:42|Mình sợ dậy không nổi.
+ACC000033|2026-10-19 21:43:53|Để mình gọi bạn dậy.
+ACC000014|2026-10-19 21:46:50|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000033|2026-10-19 21:48:36|Ok, mai gặp.
+ACC000033|2026-10-19 22:59:42|Cố lên nhé
+ACC000014|2026-10-19 23:03:31|Cuối tuần rảnh không?
+ACC000033|2026-10-19 23:07:29|Mệt quá hôm nay
+ACC000014|2026-10-19 23:08:07|Cuối tuần rảnh không?
+ACC000033|2026-10-22 18:30:43|Mình dọn trọ sang khu khác rồi.
+ACC000014|2026-10-22 18:31:00|Thật à? Có xa trường không?
+ACC000033|2026-10-22 18:31:38|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000014|2026-10-22 19:06:21|Tốt quá, hôm nào mình qua chơi.
+ACC000033|2026-10-22 19:07:08|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000014|2026-10-22 19:08:05|Ok, nhớ nấu cơm cho mình đó.
+ACC000014|2026-10-23 07:54:42|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000033|2026-10-23 07:55:14|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000014|2026-10-23 07:56:30|Cảm ơn, mình hay quên lắm.
+ACC000033|2026-10-23 07:57:09|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000014|2026-10-23 08:00:08|Ừ, mình in hai bản.
+ACC000033|2026-10-23 08:01:55|Giỏi.

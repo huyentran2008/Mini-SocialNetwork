@@ -1,0 +1,14 @@
+id=ACC000132
+username=thuhm15
+password=546875403632303974
+full_name=Huỳnh Minh Thư
+birthday=14-06-1998
+gender=Female
+bio=Rank không quan trọng, vui là chính.
+created_at=2026-10-08
+status=ACTIVE
+residence=Quảng Ninh
+hometown=
+school=
+workplace=Sacombank
+hobbies=Cosplay

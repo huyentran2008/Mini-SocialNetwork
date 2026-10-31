@@ -1,0 +1,8 @@
+id=POST000038
+author=ACC000142
+visibility=PUBLIC
+created_at=2026-09-02 23:22:49
+edited_at=
+status=VISIBLE
+title=Nên mua laptop nào cho sinh viên?
+content=Ngân sách của mình khoảng 45 triệu, học lập trình và thiết kế nhẹ. Mọi người có thể gợi ý vài mẫu không?

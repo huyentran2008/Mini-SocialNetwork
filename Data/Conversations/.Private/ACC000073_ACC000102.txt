@@ -1,0 +1,30 @@
+ACC000102|2026-10-14 13:07:04|Chào bạn, lâu rồi không nói chuyện.
+ACC000073|2026-10-14 13:09:14|Chào bạn, dạo này bạn thế nào?
+ACC000102|2026-10-14 13:39:44|Mình ổn, bận học và làm thêm.
+ACC000073|2026-10-14 13:40:22|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000102|2026-10-14 13:41:10|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000073|2026-10-14 13:42:03|Được, tới lúc đó nhắn mình nhé.
+ACC000073|2026-10-14 15:09:49|Hôm nay bạn có đi học không?
+ACC000102|2026-10-14 15:12:01|Có, mình đang trên đường.
+ACC000073|2026-10-14 15:14:06|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000102|2026-10-14 15:14:25|Ok, giữ rồi.
+ACC000073|2026-10-14 15:15:08|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000102|2026-10-14 15:15:30|Nhanh lên, sắp vào học rồi.
+ACC000102|2026-10-18 18:59:47|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000073|2026-10-18 19:03:29|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000102|2026-10-18 19:04:22|Mình thấy rồi, truy cập ngoài mảng.
+ACC000073|2026-10-18 19:07:18|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000102|2026-10-18 19:10:09|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000073|2026-10-18 19:53:41|Lỗi này ai cũng từng gặp thôi.
+ACC000073|2026-10-20 11:57:08|Bạn biết laptop nào học lập trình ổn không?
+ACC000102|2026-10-20 12:13:57|Tầm giá bao nhiêu?
+ACC000073|2026-10-20 12:14:38|Khoảng 15 đến 20 triệu.
+ACC000102|2026-10-20 12:15:15|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000073|2026-10-20 12:16:19|Cảm ơn nhiều, mình đang rối quá.
+ACC000102|2026-10-20 12:16:37|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000073|2026-10-23 06:26:51|Sao git của mình báo conflict hoài vậy?
+ACC000102|2026-10-23 06:32:52|Bạn có pull trước khi push không?
+ACC000073|2026-10-23 06:34:04|Chắc là không.
+ACC000102|2026-10-23 06:34:45|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000073|2026-10-23 06:38:09|Làm xong rồi, cảm ơn bạn.
+ACC000102|2026-10-23 06:44:22|Từ nay nhớ pull trước nhé.

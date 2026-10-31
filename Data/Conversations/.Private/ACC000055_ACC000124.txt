@@ -1,0 +1,92 @@
+ACC000124|2026-10-04 13:59:29|Hôm nay bạn rảnh không?
+ACC000055|2026-10-04 14:00:39|Chiều mình rảnh, có chuyện gì vậy?
+ACC000124|2026-10-04 14:02:43|Đi uống trà sữa nhé, lâu rồi không gặp.
+ACC000055|2026-10-04 14:05:41|Ok, 11 giờ 30 mình qua đón bạn nha.
+ACC000124|2026-10-04 14:07:58|Được, mình chờ ở cổng.
+ACC000055|2026-10-04 14:09:21|Tới rồi nè, ra đi.
+ACC000124|2026-10-08 20:16:32|Nay trời mưa to ghê.
+ACC000055|2026-10-08 20:18:25|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000124|2026-10-08 20:19:04|Bạn có áo mưa không?
+ACC000055|2026-10-08 20:19:14|Không, chắc chờ tạnh.
+ACC000124|2026-10-08 20:19:47|Mình ghé đón nhé, mình đang gần đó.
+ACC000055|2026-10-08 21:04:26|Cảm ơn bạn nhiều lắm.
+ACC000055|2026-10-09 18:23:03|Bạn xem giúp mình CV được không?
+ACC000124|2026-10-09 18:26:42|Gửi mình xem nhé.
+ACC000055|2026-10-09 18:28:54|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000124|2026-10-09 18:35:15|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000055|2026-10-09 18:37:30|Hợp lý, mình sửa luôn.
+ACC000124|2026-10-09 18:39:15|Sửa xong gửi mình xem lại nhé.
+ACC000055|2026-10-10 19:18:33|Chào bạn, lâu rồi không nói chuyện.
+ACC000124|2026-10-10 19:19:55|Chào bạn, dạo này bạn thế nào?
+ACC000055|2026-10-10 19:20:47|Mình ổn, bận học và làm thêm.
+ACC000124|2026-10-10 19:21:26|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000055|2026-10-10 19:26:24|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000124|2026-10-10 19:27:51|Được, tới lúc đó nhắn mình nhé.
+ACC000055|2026-10-11 20:08:15|Bạn cho mình mượn tài liệu được không?
+ACC000124|2026-10-11 20:09:02|Được, bạn lấy bản chụp hay bản mềm?
+ACC000055|2026-10-11 20:35:47|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000124|2026-10-11 21:21:10|Gửi rồi nha, kiểm tra thử.
+ACC000055|2026-10-11 21:21:22|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000124|2026-10-11 21:21:32|Không có gì.
+ACC000055|2026-10-13 13:46:09|Sao git của mình báo conflict hoài vậy?
+ACC000124|2026-10-13 13:47:30|Bạn có pull trước khi push không?
+ACC000055|2026-10-13 13:48:02|Chắc là không.
+ACC000124|2026-10-13 13:50:23|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000055|2026-10-13 14:27:50|Làm xong rồi, cảm ơn bạn.
+ACC000124|2026-10-13 14:28:37|Từ nay nhớ pull trước nhé.
+ACC000124|2026-10-15 11:48:34|Được luôn
+ACC000124|2026-10-15 11:50:45|Thôi mình đi ăn cơm đã
+ACC000124|2026-10-15 11:52:32|Đang làm gì đó?
+ACC000124|2026-10-15 13:25:12|Hôm nay bạn rảnh không?
+ACC000055|2026-10-15 13:26:27|Chiều mình rảnh, có chuyện gì vậy?
+ACC000124|2026-10-15 13:28:27|Đi uống trà đào nhé, lâu rồi không gặp.
+ACC000055|2026-10-15 13:29:16|Ok, 8 giờ mình qua đón bạn nha.
+ACC000124|2026-10-15 13:29:56|Được, mình chờ ở cổng.
+ACC000055|2026-10-15 13:33:50|Tới rồi nè, ra đi.
+ACC000055|2026-10-15 15:03:22|Tối nay đi ăn bánh xèo không?
+ACC000124|2026-10-15 15:03:41|Đi chứ! Quán nào?
+ACC000055|2026-10-15 15:04:07|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000124|2026-10-15 15:49:18|Mấy giờ?
+ACC000055|2026-10-15 15:55:54|12 giờ nhé.
+ACC000124|2026-10-15 15:56:43|Ok, mình rủ thêm một bạn nữa được không?
+ACC000055|2026-10-15 15:57:24|Được chứ, càng đông càng vui.
+ACC000124|2026-10-15 17:02:31|Bạn xem giúp mình CV được không?
+ACC000055|2026-10-15 17:34:12|Gửi mình xem nhé.
+ACC000124|2026-10-15 17:36:27|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000055|2026-10-15 17:39:42|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000124|2026-10-15 17:39:59|Hợp lý, mình sửa luôn.
+ACC000055|2026-10-15 17:40:49|Sửa xong gửi mình xem lại nhé.
+ACC000124|2026-10-15 20:42:14|Mình biết rồi
+ACC000124|2026-10-15 20:42:36|Nghe được đó
+ACC000055|2026-10-15 20:44:48|Mình biết rồi
+ACC000124|2026-10-15 20:45:21|Okela
+ACC000055|2026-10-15 20:46:03|Haha bạn vui tính thật
+ACC000124|2026-10-15 22:31:37|Tối nay bạn có chơi game không?
+ACC000055|2026-10-15 22:37:42|Có, mấy giờ?
+ACC000124|2026-10-15 22:40:12|5 giờ chiều, rủ thêm hai bạn nữa là đủ đội.
+ACC000055|2026-10-15 22:41:30|Ok, mình online sớm.
+ACC000124|2026-10-15 22:41:45|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000055|2026-10-15 22:42:55|Haha, thua thì đừng trách mình.
+ACC000055|2026-10-18 22:10:08|Thật à?
+ACC000055|2026-10-18 22:16:16|Cảm ơn nhé
+ACC000124|2026-10-18 22:17:51|Mệt quá hôm nay
+ACC000055|2026-10-18 22:18:25|Cố lên nhé
+ACC000055|2026-10-18 22:22:01|Mình cũng nghĩ vậy
+ACC000055|2026-10-18 22:33:19|Tối nay bạn có chơi game không?
+ACC000124|2026-10-18 22:35:43|Có, mấy giờ?
+ACC000055|2026-10-18 22:38:45|7 rưỡi, rủ thêm hai bạn nữa là đủ đội.
+ACC000124|2026-10-18 22:39:44|Ok, mình online sớm.
+ACC000055|2026-10-18 22:40:37|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000124|2026-10-18 22:42:55|Haha, thua thì đừng trách mình.
+ACC000124|2026-10-23 18:24:14|Dạo này mình áp lực thi quá.
+ACC000055|2026-10-23 18:25:41|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000124|2026-10-23 18:27:11|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000055|2026-10-23 18:28:06|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000124|2026-10-23 18:30:23|Nghe có vẻ ổn, mình thử.
+ACC000055|2026-10-23 18:32:17|Cố lên, có gì cần cứ nhắn mình.
+ACC000055|2026-10-23 22:46:55|Năm nay bạn về quê ăn Tết không?
+ACC000124|2026-10-23 22:49:05|Có, mình đặt vé tàu rồi.
+ACC000055|2026-10-23 22:49:21|Mình còn chưa mua được vé.
+ACC000124|2026-10-23 22:51:33|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000055|2026-10-23 22:52:47|Ok, mình thử xem.
+ACC000124|2026-10-23 23:05:49|Chúc bạn sớm có vé nhé.

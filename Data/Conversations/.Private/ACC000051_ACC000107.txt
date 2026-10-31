@@ -1,0 +1,25 @@
+ACC000051|2026-10-23 20:28:08|Bạn xem giúp mình CV được không?
+ACC000107|2026-10-23 21:06:58|Gửi mình xem nhé.
+ACC000051|2026-10-23 21:07:40|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000107|2026-10-23 21:14:00|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000051|2026-10-23 21:27:20|Hợp lý, mình sửa luôn.
+ACC000107|2026-10-23 21:29:45|Sửa xong gửi mình xem lại nhé.
+ACC000107|2026-10-23 21:39:55|Cuối tuần bạn làm gì?
+ACC000051|2026-10-23 21:44:02|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000107|2026-10-23 21:45:45|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000051|2026-10-23 21:48:30|Thật không? Ngại quá.
+ACC000107|2026-10-23 21:52:23|Ngại gì, mẹ mình quý bạn lắm.
+ACC000051|2026-10-23 21:53:10|Vậy mình qua nhé, cảm ơn bác.
+ACC000051|2026-10-23 22:03:26|Bạn biết laptop nào học lập trình ổn không?
+ACC000107|2026-10-23 22:05:28|Tầm giá bao nhiêu?
+ACC000051|2026-10-23 22:07:49|Khoảng 15 đến 20 triệu.
+ACC000107|2026-10-23 22:08:26|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000051|2026-10-23 22:11:16|Cảm ơn nhiều, mình đang rối quá.
+ACC000107|2026-10-23 22:11:49|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000107|2026-10-23 22:19:51|Haha
+ACC000051|2026-10-23 22:19:57|Để mình xem
+ACC000051|2026-10-23 22:20:04|Haha bạn vui tính thật
+ACC000051|2026-10-23 22:20:13|Thôi mình đi ăn cơm đã
+ACC000051|2026-10-23 22:20:26|Mai gặp nhé
+ACC000051|2026-10-23 22:20:39|Mình cũng nghĩ vậy
+ACC000107|2026-10-23 22:20:49|Đang làm gì đó?

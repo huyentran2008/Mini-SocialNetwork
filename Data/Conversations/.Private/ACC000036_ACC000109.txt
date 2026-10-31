@@ -1,0 +1,18 @@
+ACC000109|2026-10-06 05:53:15|Năm nay bạn về quê ăn Tết không?
+ACC000036|2026-10-06 05:55:23|Có, mình đặt vé tàu rồi.
+ACC000109|2026-10-06 05:56:04|Mình còn chưa mua được vé.
+ACC000036|2026-10-06 05:58:32|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000109|2026-10-06 05:59:28|Ok, mình thử xem.
+ACC000036|2026-10-06 06:00:19|Chúc bạn sớm có vé nhé.
+ACC000109|2026-10-15 13:13:25|Sáng mai bạn có đi tập chạy không?
+ACC000036|2026-10-15 13:13:55|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000109|2026-10-15 13:14:25|Mình sợ dậy không nổi.
+ACC000036|2026-10-15 13:16:24|Để mình gọi bạn dậy.
+ACC000109|2026-10-15 13:18:10|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000036|2026-10-15 13:21:20|Ok, mai gặp.
+ACC000109|2026-10-19 21:50:21|Bạn biết laptop nào học lập trình ổn không?
+ACC000036|2026-10-19 21:51:06|Tầm giá bao nhiêu?
+ACC000109|2026-10-19 21:52:48|Khoảng 15 đến 20 triệu.
+ACC000036|2026-10-19 21:54:59|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000109|2026-10-19 21:57:27|Cảm ơn nhiều, mình đang rối quá.
+ACC000036|2026-10-19 21:58:31|Bạn xem rồi nhắn mình, mình tư vấn thêm.

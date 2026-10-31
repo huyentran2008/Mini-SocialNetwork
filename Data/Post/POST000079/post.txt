@@ -1,0 +1,8 @@
+id=POST000079
+author=ACC000075
+visibility=PRIVATE
+created_at=2026-09-28 22:03:29
+edited_at=
+status=VISIBLE
+title=Danh sách cần mua
+content=Sổ tay, bút gel, cà phê hạt, tai nghe mới, túi vải.

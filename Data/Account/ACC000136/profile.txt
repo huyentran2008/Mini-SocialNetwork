@@ -1,0 +1,14 @@
+id=ACC000136
+username=tamnq41
+password=54616d403537343372
+full_name=Nguyễn Quốc Tâm
+birthday=15-10-2004
+gender=Male
+bio=Học để thay đổi, sống để lan tỏa.
+created_at=2026-09-08
+status=ACTIVE
+residence=Hà Nội
+hometown=Hà Nội
+school=Đại học Giáo dục - ĐHQG Hà Nội
+workplace=
+hobbies=Làm móng;Làm tóc

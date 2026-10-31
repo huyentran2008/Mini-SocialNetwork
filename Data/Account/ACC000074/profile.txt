@@ -1,0 +1,14 @@
+id=ACC000074
+username=mainm79
+password=4d6169403431313963
+full_name=Nguyễn Minh Mai
+birthday=22-01-2004
+gender=Female
+bio=Chăm chỉ hôm nay, thảnh thơi ngày mai.
+created_at=2026-10-03
+status=ACTIVE
+residence=Hà Nội
+hometown=Hà Nội
+school=Đại học Văn hóa Hà Nội
+workplace=
+hobbies=Xem phim;Lịch sử

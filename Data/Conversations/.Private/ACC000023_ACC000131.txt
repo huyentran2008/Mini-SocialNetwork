@@ -1,0 +1,30 @@
+ACC000131|2026-10-08 12:58:02|Bạn ngủ chưa?
+ACC000023|2026-10-08 12:58:40|Chưa, đang làm bài tập.
+ACC000131|2026-10-08 13:14:11|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000023|2026-10-08 13:14:52|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000131|2026-10-08 13:17:25|Ngủ ngon nha.
+ACC000023|2026-10-08 13:20:10|Ngủ ngon.
+ACC000131|2026-10-11 16:13:41|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000023|2026-10-11 16:14:32|Ủa quên mất, bao nhiêu vậy?
+ACC000131|2026-10-11 16:17:20|50 nghìn thôi.
+ACC000023|2026-10-11 16:36:41|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000131|2026-10-11 16:39:12|Nhận được rồi nha.
+ACC000023|2026-10-11 16:45:20|Ok, xong nợ.
+ACC000023|2026-10-14 18:50:40|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000131|2026-10-14 18:54:25|Bài nào vậy?
+ACC000023|2026-10-14 18:56:08|Mình gửi link rồi đó.
+ACC000131|2026-10-14 18:58:01|Nghe rồi, giai điệu dễ chịu thật.
+ACC000023|2026-10-14 18:59:30|Đúng không? Mình nghe suốt tuần này.
+ACC000131|2026-10-14 19:00:06|Cho mình xin playlist nhé.
+ACC000131|2026-10-15 18:20:34|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000023|2026-10-15 18:21:00|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000131|2026-10-15 18:27:54|Cảm ơn, mình hay quên lắm.
+ACC000023|2026-10-15 18:31:45|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000131|2026-10-15 18:33:38|Ừ, mình in hai bản.
+ACC000023|2026-10-15 18:34:08|Giỏi.
+ACC000023|2026-10-18 21:19:24|Chỉ mình đường tới thư viện thành phố với.
+ACC000131|2026-10-18 21:55:17|Bạn đang ở đâu?
+ACC000023|2026-10-18 21:57:26|Mình đang ở gần cổng chợ.
+ACC000131|2026-10-18 22:01:04|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000023|2026-10-18 22:03:05|Mình thấy rồi, cảm ơn bạn nha.
+ACC000131|2026-10-18 22:05:22|Ok, đi cẩn thận.

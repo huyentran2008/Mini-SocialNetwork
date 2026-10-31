@@ -1,0 +1,75 @@
+ACC000139|2026-10-20 18:02:54|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000127|2026-10-20 18:04:33|Chuyện nhỏ thôi mà.
+ACC000139|2026-10-20 18:07:18|Không có bạn chắc mình làm không kịp.
+ACC000127|2026-10-20 18:12:22|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000139|2026-10-20 18:13:19|Hôm nào mình mời bạn cơm tấm nhé.
+ACC000127|2026-10-20 18:18:18|Vậy thì mình không từ chối đâu.
+ACC000139|2026-10-21 17:30:13|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000127|2026-10-21 17:31:14|Bạn chuẩn bị tới đâu rồi?
+ACC000139|2026-10-21 17:32:56|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000127|2026-10-21 17:34:43|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000139|2026-10-21 17:36:43|Cảm ơn Huân, mình sẽ cố.
+ACC000127|2026-10-21 17:41:02|Xong nhớ nhắn mình kết quả nhé.
+ACC000139|2026-10-21 19:17:36|Hôm nay bạn có đi học không?
+ACC000127|2026-10-21 19:24:13|Có, mình đang trên đường.
+ACC000139|2026-10-21 19:26:44|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000127|2026-10-21 19:30:12|Ok, giữ rồi.
+ACC000139|2026-10-21 20:05:36|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000127|2026-10-21 20:06:36|Nhanh lên, sắp vào học rồi.
+ACC000139|2026-10-21 20:19:09|Ừ
+ACC000139|2026-10-21 20:19:37|Tối nói chuyện tiếp nhé
+ACC000139|2026-10-21 20:19:48|Haha
+ACC000139|2026-10-21 20:21:43|Mệt quá hôm nay
+ACC000139|2026-10-22 07:13:15|Ừ
+ACC000127|2026-10-22 07:50:52|Okela
+ACC000139|2026-10-22 07:51:32|Có gì báo mình nhé
+ACC000139|2026-10-22 08:39:49|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000127|2026-10-22 08:58:02|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000139|2026-10-22 09:00:29|Mình thấy rồi, truy cập ngoài mảng.
+ACC000127|2026-10-22 09:03:22|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000139|2026-10-22 09:04:27|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000127|2026-10-22 09:05:26|Lỗi này ai cũng từng gặp thôi.
+ACC000127|2026-10-22 13:42:41|Ừ
+ACC000139|2026-10-22 13:42:44|Vừa về tới nhà
+ACC000127|2026-10-22 13:42:48|Nghe được đó
+ACC000139|2026-10-22 13:42:52|Cảm ơn nhé
+ACC000139|2026-10-22 13:42:57|Okela
+ACC000127|2026-10-22 13:42:59|Mình đang bận chút, lát nhắn lại nhé
+ACC000127|2026-10-22 13:43:04|Được luôn
+ACC000127|2026-10-22 13:43:14|Cố lên nhé
+ACC000127|2026-10-22 13:43:15|Có gì báo mình nhé
+ACC000139|2026-10-22 13:43:20|Mình cũng nghĩ vậy
+ACC000139|2026-10-22 13:43:33|Được luôn
+ACC000127|2026-10-22 13:43:45|Haha
+ACC000127|2026-10-22 13:43:55|Nghe được đó
+ACC000127|2026-10-22 13:44:03|Có gì báo mình nhé
+ACC000127|2026-10-22 13:53:28|Thật à?
+ACC000139|2026-10-22 13:57:14|Mệt quá hôm nay
+ACC000139|2026-10-22 14:10:12|Bạn có rảnh để mình hỏi chút về môn cấu trúc dữ liệu không?
+ACC000127|2026-10-22 14:12:14|Có, bạn hỏi đi.
+ACC000139|2026-10-22 14:18:31|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000127|2026-10-22 14:21:26|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000139|2026-10-22 14:22:19|Nghe hợp lý, cảm ơn bạn.
+ACC000127|2026-10-22 14:29:17|Cần gì cứ nhắn mình.
+ACC000127|2026-10-22 16:27:14|Ok
+ACC000127|2026-10-22 16:34:11|Đang làm gì đó?
+ACC000139|2026-10-22 16:35:09|Vậy hả?
+ACC000139|2026-10-22 19:37:15|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000127|2026-10-22 19:39:41|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000139|2026-10-22 19:40:28|Giá thế nào?
+ACC000127|2026-10-22 19:41:17|Khoảng 50 nghìn một ly.
+ACC000139|2026-10-22 19:42:58|Hợp lý đó, mai mình thử.
+ACC000127|2026-10-22 19:43:34|Mình cũng hay ngồi ở đó, gặp nhau nhé.
+ACC000127|2026-10-22 21:06:04|Nay trời mưa to ghê.
+ACC000139|2026-10-22 21:07:45|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000127|2026-10-22 21:08:03|Bạn có áo mưa không?
+ACC000139|2026-10-22 21:08:48|Không, chắc chờ tạnh.
+ACC000127|2026-10-22 21:09:54|Mình ghé đón nhé, mình đang gần đó.
+ACC000139|2026-10-22 21:13:44|Cảm ơn bạn nhiều lắm.
+ACC000127|2026-10-22 21:25:31|Ngủ ngon
+ACC000139|2026-10-22 21:25:51|Tối nói chuyện tiếp nhé
+ACC000139|2026-10-22 22:05:50|Ok
+ACC000139|2026-10-22 22:11:28|Rồi, mình nhớ rồi
+ACC000139|2026-10-22 22:12:20|Haha bạn vui tính thật
+ACC000127|2026-10-22 22:20:28|Ừ
+ACC000127|2026-10-22 22:22:45|Mệt quá hôm nay

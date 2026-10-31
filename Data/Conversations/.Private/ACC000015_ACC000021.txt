@@ -1,0 +1,35 @@
+ACC000015|2026-10-14 17:46:57|Chào bạn, lâu rồi không gặp
+ACC000021|2026-10-14 17:48:01|Chào bạn! Dạo này thế nào?
+ACC000015|2026-10-14 17:55:55|Mình vẫn bình thường, đang ôn thi
+ACC000021|2026-10-14 17:56:38|Cố lên nhé, thi xong mình đi ăn mừng
+ACC000015|2026-10-14 18:04:55|Hẹn nhé!
+ACC000021|2026-10-21 11:26:14|Cuối tuần này đi đá bóng không?
+ACC000015|2026-10-21 11:32:15|Đi chứ, mấy giờ?
+ACC000021|2026-10-21 11:38:36|Sáng chủ nhật 6 giờ ở sân gần trường
+ACC000015|2026-10-21 11:42:33|Hơi sớm nhưng được, mình đi
+ACC000021|2026-10-21 11:51:26|Nhớ mang nước nhé
+ACC000021|2026-10-22 21:30:58|Cảm ơn nhé
+ACC000015|2026-10-22 21:32:17|Haha
+ACC000015|2026-10-22 21:43:47|Mệt quá hôm nay
+ACC000015|2026-10-22 21:45:08|Được luôn
+ACC000015|2026-10-22 21:47:01|Mình đang bận chút, lát nhắn lại nhé
+ACC000021|2026-10-22 21:58:04|Cuối tuần này đi xem phim không?
+ACC000015|2026-10-22 21:58:29|Phim gì vậy?
+ACC000021|2026-10-22 21:59:29|Phim mới chiếu, nghe nói hay lắm.
+ACC000015|2026-10-22 22:00:15|Mình đang rảnh thứ hai, đi buổi chiều nhé.
+ACC000021|2026-10-22 22:01:06|Ok, mình đặt vé luôn.
+ACC000015|2026-10-22 22:05:41|Nhớ chọn ghế giữa nha.
+ACC000021|2026-10-22 22:11:59|Yên tâm.
+ACC000021|2026-10-22 22:51:00|Cuối tuần này đi Huế không?
+ACC000015|2026-10-22 23:35:04|Hay đó, đi mấy người?
+ACC000021|2026-10-22 23:38:13|Khoảng 30 người, tự đi xe máy.
+ACC000015|2026-10-22 23:38:25|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000021|2026-10-22 23:39:12|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000015|2026-10-22 23:39:57|Ok, vậy chốt luôn.
+ACC000015|2026-10-24 10:51:58|Tối nay đi ăn gà rán không?
+ACC000021|2026-10-24 10:54:13|Đi chứ! Quán nào?
+ACC000015|2026-10-24 10:59:31|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000021|2026-10-24 11:00:23|Mấy giờ?
+ACC000015|2026-10-24 11:03:10|12 giờ nhé.
+ACC000021|2026-10-24 11:03:30|Ok, mình rủ thêm một bạn nữa được không?
+ACC000015|2026-10-24 11:04:45|Được chứ, càng đông càng vui.

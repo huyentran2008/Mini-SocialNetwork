@@ -1,0 +1,8 @@
+id=POST000005
+author=ACC000033
+visibility=PUBLIC
+created_at=2026-10-09 18:13:34
+edited_at=
+status=VISIBLE
+title=Review sách: Nhà giả kim
+content=Đọc lại lần thứ ba vẫn thấy hay. Câu chuyện nhắc mình rằng hành trình theo đuổi ước mơ quan trọng hơn đích đến.

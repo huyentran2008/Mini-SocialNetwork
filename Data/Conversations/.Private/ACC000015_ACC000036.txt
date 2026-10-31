@@ -1,0 +1,76 @@
+ACC000015|2026-10-14 12:45:24|Sinh nhật vui vẻ nhé Dương!
+ACC000036|2026-10-14 13:14:44|Cảm ơn Nam nha, nhớ cả sinh nhật mình luôn.
+ACC000015|2026-10-14 13:16:42|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000036|2026-10-14 13:19:44|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000015|2026-10-14 13:22:20|6 giờ tối nhé.
+ACC000036|2026-10-14 13:26:04|Ok, hẹn gặp.
+ACC000036|2026-10-14 15:37:56|Mệt quá hôm nay
+ACC000015|2026-10-14 15:38:04|Rồi, mình nhớ rồi
+ACC000036|2026-10-14 15:38:14|Mình cũng nghĩ vậy
+ACC000015|2026-10-14 15:38:22|Đang làm gì đó?
+ACC000015|2026-10-14 15:38:28|Haha bạn vui tính thật
+ACC000015|2026-10-14 15:38:30|Mệt quá hôm nay
+ACC000015|2026-10-14 15:38:31|Để mình xem
+ACC000015|2026-10-14 15:38:37|Mình biết rồi
+ACC000015|2026-10-14 15:38:42|Nghe được đó
+ACC000015|2026-10-14 18:39:00|Mình dọn trọ sang khu khác rồi.
+ACC000036|2026-10-14 19:26:06|Thật à? Có xa trường không?
+ACC000015|2026-10-14 19:26:19|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000036|2026-10-14 19:26:34|Tốt quá, hôm nào mình qua chơi.
+ACC000015|2026-10-14 19:37:25|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000036|2026-10-14 19:41:57|Ok, nhớ nấu cơm cho mình đó.
+ACC000015|2026-10-17 14:06:30|Nghe được đó
+ACC000015|2026-10-17 14:07:39|Thật à?
+ACC000015|2026-10-17 14:09:44|Mình cũng nghĩ vậy
+ACC000015|2026-10-17 14:10:15|Haha bạn vui tính thật
+ACC000015|2026-10-17 14:10:59|Cuối tuần rảnh không?
+ACC000036|2026-10-17 22:18:50|Bạn xem giúp mình CV được không?
+ACC000015|2026-10-17 22:19:04|Gửi mình xem nhé.
+ACC000036|2026-10-17 22:21:46|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000015|2026-10-17 22:22:34|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000036|2026-10-17 22:24:50|Hợp lý, mình sửa luôn.
+ACC000015|2026-10-17 22:26:05|Sửa xong gửi mình xem lại nhé.
+ACC000036|2026-10-17 22:40:38|Bạn ngủ chưa?
+ACC000015|2026-10-17 22:41:34|Chưa, đang làm bài tập.
+ACC000036|2026-10-17 22:44:56|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000015|2026-10-17 22:46:10|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000036|2026-10-17 22:46:53|Ngủ ngon nha.
+ACC000015|2026-10-17 22:49:55|Ngủ ngon.
+ACC000036|2026-10-17 23:01:22|Hôm nay mình hơi buồn.
+ACC000015|2026-10-17 23:01:36|Có chuyện gì vậy?
+ACC000036|2026-10-17 23:01:56|Mình bị điểm thấp mà không biết lý do.
+ACC000015|2026-10-17 23:03:33|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000036|2026-10-17 23:05:51|Ừ, mình sẽ gặp thầy tuần này.
+ACC000015|2026-10-17 23:09:01|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000036|2026-10-17 23:17:57|Cố lên nhé
+ACC000015|2026-10-17 23:24:22|Mình cũng nghĩ vậy
+ACC000036|2026-10-17 23:24:50|Ừm, mình nghĩ vậy
+ACC000015|2026-10-19 18:49:53|Hôm nay bạn có đi học không?
+ACC000036|2026-10-19 18:50:31|Có, mình đang trên đường.
+ACC000015|2026-10-19 18:53:14|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000036|2026-10-19 18:53:47|Ok, giữ rồi.
+ACC000015|2026-10-19 18:54:18|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000036|2026-10-19 18:57:15|Nhanh lên, sắp vào học rồi.
+ACC000015|2026-10-20 16:37:08|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000036|2026-10-20 16:37:45|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000015|2026-10-20 16:38:47|Mình thấy rồi, truy cập ngoài mảng.
+ACC000036|2026-10-20 16:40:55|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000015|2026-10-20 16:42:50|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000036|2026-10-20 16:45:06|Lỗi này ai cũng từng gặp thôi.
+ACC000015|2026-10-21 11:23:19|Ok
+ACC000015|2026-10-21 11:23:36|Để mình xem
+ACC000015|2026-10-21 11:24:07|Nghe được đó
+ACC000036|2026-10-21 11:24:41|Haha
+ACC000036|2026-10-22 20:54:09|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000015|2026-10-22 20:54:28|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000036|2026-10-22 20:55:10|Mình thấy rồi, truy cập ngoài mảng.
+ACC000015|2026-10-22 20:57:01|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000036|2026-10-22 20:58:32|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000015|2026-10-22 21:01:41|Lỗi này ai cũng từng gặp thôi.
+ACC000036|2026-10-23 06:17:12|Tối nay đi ăn phở không?
+ACC000015|2026-10-23 06:17:47|Đi chứ! Quán nào?
+ACC000036|2026-10-23 06:18:28|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000015|2026-10-23 06:19:48|Mấy giờ?
+ACC000036|2026-10-23 06:24:04|8 giờ tối nhé.
+ACC000015|2026-10-23 06:27:34|Ok, mình rủ thêm một bạn nữa được không?
+ACC000036|2026-10-23 06:31:37|Được chứ, càng đông càng vui.

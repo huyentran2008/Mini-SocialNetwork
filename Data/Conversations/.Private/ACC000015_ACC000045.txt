@@ -1,0 +1,6 @@
+ACC000015|2026-10-21 22:26:24|Điểm thi cơ sở dữ liệu có chưa bạn?
+ACC000045|2026-10-21 22:27:56|Có rồi, mình được 8 điểm.
+ACC000015|2026-10-21 22:28:15|Giỏi quá, mình mới 6 điểm thôi.
+ACC000045|2026-10-21 23:13:15|Cũng ổn mà, qua môn là tốt rồi.
+ACC000015|2026-10-21 23:14:21|Cảm ơn bạn đã động viên.
+ACC000045|2026-10-21 23:17:49|Lần sau mình học nhóm tiếp nhé.

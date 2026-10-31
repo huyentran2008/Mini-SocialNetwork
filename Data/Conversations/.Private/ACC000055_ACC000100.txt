@@ -1,0 +1,31 @@
+ACC000055|2026-10-15 20:53:22|Haha bạn vui tính thật
+ACC000100|2026-10-15 20:53:31|Chúc bạn một ngày tốt lành
+ACC000100|2026-10-15 20:53:37|Đang làm gì đó?
+ACC000055|2026-10-15 20:53:38|Thôi mình đi ăn cơm đã
+ACC000100|2026-10-15 20:53:51|Chúc bạn một ngày tốt lành
+ACC000055|2026-10-15 20:53:59|Ừm, mình nghĩ vậy
+ACC000100|2026-10-15 20:54:02|Mình biết rồi
+ACC000055|2026-10-15 20:54:08|Ok
+ACC000055|2026-10-15 20:54:14|Haha bạn vui tính thật
+ACC000100|2026-10-15 20:54:26|Tối nói chuyện tiếp nhé
+ACC000055|2026-10-15 20:54:33|Mình biết rồi
+ACC000100|2026-10-15 20:54:39|Chúc bạn một ngày tốt lành
+ACC000100|2026-10-15 20:54:52|Mệt quá hôm nay
+ACC000055|2026-10-17 07:55:11|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000100|2026-10-17 08:14:01|Haha, bé làm gì thế?
+ACC000055|2026-10-17 08:18:50|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000100|2026-10-17 08:19:01|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000055|2026-10-17 08:24:03|Đợi chút mình chụp.
+ACC000100|2026-10-17 08:24:22|Đúng là chủ nào mèo nấy.
+ACC000100|2026-10-18 16:59:52|Sáng mai bạn có đi tập chạy không?
+ACC000055|2026-10-18 17:01:45|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000100|2026-10-18 17:35:35|Mình sợ dậy không nổi.
+ACC000055|2026-10-18 17:38:09|Để mình gọi bạn dậy.
+ACC000100|2026-10-18 17:42:37|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000055|2026-10-18 17:46:15|Ok, mai gặp.
+ACC000100|2026-10-23 12:16:21|Sáng mai bạn có đi tập chạy không?
+ACC000055|2026-10-23 12:20:06|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000100|2026-10-23 12:57:39|Mình sợ dậy không nổi.
+ACC000055|2026-10-23 12:57:59|Để mình gọi bạn dậy.
+ACC000100|2026-10-23 13:00:21|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000055|2026-10-23 13:01:54|Ok, mai gặp.

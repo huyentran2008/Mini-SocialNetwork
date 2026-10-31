@@ -1,0 +1,18 @@
+ACC000137|2026-10-19 11:59:59|Mình dọn trọ sang khu khác rồi.
+ACC000049|2026-10-19 12:00:38|Thật à? Có xa trường không?
+ACC000137|2026-10-19 12:01:34|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000049|2026-10-19 12:07:52|Tốt quá, hôm nào mình qua chơi.
+ACC000137|2026-10-19 12:09:25|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000049|2026-10-19 12:10:53|Ok, nhớ nấu cơm cho mình đó.
+ACC000049|2026-10-19 22:27:39|Bạn có rảnh để mình hỏi chút về môn cơ sở dữ liệu không?
+ACC000137|2026-10-19 22:33:29|Có, bạn hỏi đi.
+ACC000049|2026-10-19 22:33:59|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000137|2026-10-19 22:38:52|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000049|2026-10-19 22:40:46|Nghe hợp lý, cảm ơn bạn.
+ACC000137|2026-10-19 22:43:34|Cần gì cứ nhắn mình.
+ACC000137|2026-10-22 15:07:06|Cuối tuần bạn làm gì?
+ACC000049|2026-10-22 15:09:11|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000137|2026-10-22 15:11:04|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000049|2026-10-22 15:13:01|Thật không? Ngại quá.
+ACC000137|2026-10-22 15:16:49|Ngại gì, mẹ mình quý bạn lắm.
+ACC000049|2026-10-22 15:23:03|Vậy mình qua nhé, cảm ơn bác.

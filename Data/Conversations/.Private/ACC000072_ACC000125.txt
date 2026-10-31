@@ -1,0 +1,16 @@
+ACC000072|2026-10-21 15:20:58|Điểm thi xác suất có chưa bạn?
+ACC000125|2026-10-21 15:21:16|Có rồi, mình được 8 điểm.
+ACC000072|2026-10-21 15:22:01|Giỏi quá, mình mới 6 điểm thôi.
+ACC000125|2026-10-21 15:25:43|Cũng ổn mà, qua môn là tốt rồi.
+ACC000072|2026-10-21 15:28:31|Cảm ơn bạn đã động viên.
+ACC000125|2026-10-21 15:32:29|Lần sau mình học nhóm tiếp nhé.
+ACC000125|2026-10-22 18:39:36|Cuối tuần rảnh không?
+ACC000125|2026-10-22 18:39:49|Thật à?
+ACC000125|2026-10-22 19:04:02|Mình đang bận chút, lát nhắn lại nhé
+ACC000125|2026-10-22 19:10:09|Okela
+ACC000125|2026-10-23 07:34:40|Sinh nhật vui vẻ nhé Nga!
+ACC000072|2026-10-23 08:22:34|Cảm ơn Duy nha, nhớ cả sinh nhật mình luôn.
+ACC000125|2026-10-23 08:24:26|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000072|2026-10-23 08:25:06|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000125|2026-10-23 08:25:42|11 giờ 30 nhé.
+ACC000072|2026-10-23 08:26:00|Ok, hẹn gặp.

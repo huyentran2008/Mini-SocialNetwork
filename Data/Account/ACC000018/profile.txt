@@ -1,0 +1,14 @@
+id=ACC000018
+username=mycd70
+password=4d7940353534307a
+full_name=Châu Diễm My
+birthday=10-02-2001
+gender=Female
+bio=Đang học C++ và cấu trúc dữ liệu.
+created_at=2026-10-12
+status=ACTIVE
+residence=
+hometown=Huế
+school=Đại học FPT TP.HCM
+workplace=Công ty TNHH Phần mềm ABC
+hobbies=Nghe nhạc;Chơi guitar;Du lịch

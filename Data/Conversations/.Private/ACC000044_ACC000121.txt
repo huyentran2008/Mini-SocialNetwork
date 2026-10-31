@@ -1,0 +1,19 @@
+ACC000044|2026-10-11 18:32:15|Cuối tuần rảnh không?
+ACC000121|2026-10-11 18:32:20|Mệt quá hôm nay
+ACC000121|2026-10-11 18:32:28|Haha
+ACC000121|2026-10-11 18:32:36|Thôi mình đi ăn cơm đã
+ACC000121|2026-10-11 18:32:46|Ừ đúng rồi
+ACC000044|2026-10-11 18:32:58|Rồi, mình nhớ rồi
+ACC000044|2026-10-11 18:33:02|Mệt quá hôm nay
+ACC000121|2026-10-11 18:33:14|Ngủ ngon
+ACC000121|2026-10-11 18:33:20|Mai gặp nhé
+ACC000044|2026-10-11 18:33:21|Tối nói chuyện tiếp nhé
+ACC000044|2026-10-11 18:33:29|Mình đang bận chút, lát nhắn lại nhé
+ACC000044|2026-10-11 18:33:37|Cảm ơn nhé
+ACC000044|2026-10-11 18:33:48|Ừm, mình nghĩ vậy
+ACC000044|2026-10-17 19:51:29|Cuối tuần này đi Huế không?
+ACC000121|2026-10-17 19:51:45|Hay đó, đi mấy người?
+ACC000044|2026-10-17 20:17:58|Khoảng 10 người, tự đi xe máy.
+ACC000121|2026-10-17 20:18:36|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000044|2026-10-17 20:19:16|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000121|2026-10-17 20:20:33|Ok, vậy chốt luôn.

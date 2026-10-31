@@ -1,0 +1,10 @@
+ACC000047|2026-10-16 09:42:33|Bạn biết quán bún bò nào ngon không?
+ACC000016|2026-10-16 09:51:47|Có quán ở đường Nguyễn Thị Minh Khai, ngon lắm
+ACC000047|2026-10-16 09:56:41|Gửi mình địa chỉ với
+ACC000016|2026-10-16 09:57:30|Mình gửi liền, nhớ đi sớm kẻo hết
+ACC000047|2026-10-16 10:01:26|Cảm ơn bạn, trưa nay đi thử
+ACC000016|2026-10-21 07:16:35|Bạn ơi, đi du lịch Đà Lạt tháng sau không?
+ACC000047|2026-10-21 07:19:17|Nghe hấp dẫn quá, đi mấy ngày?
+ACC000016|2026-10-21 07:26:25|Khoảng 3 ngày 2 đêm, đi xe giường nằm
+ACC000047|2026-10-21 07:29:55|Cho mình xin lịch trình nhé
+ACC000016|2026-10-21 07:30:48|Mình gửi trong nhóm luôn

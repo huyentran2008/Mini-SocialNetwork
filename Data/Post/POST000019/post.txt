@@ -1,0 +1,8 @@
+id=POST000019
+author=ACC000037
+visibility=FRIEND
+created_at=2026-10-17 11:06:57
+edited_at=
+status=VISIBLE
+title=Nên chọn laptop nào cho sinh viên IT?
+content=Ưu tiên RAM 16GB, SSD, màn hình dễ nhìn. Card đồ họa rời chỉ cần nếu bạn làm đồ họa hoặc game.

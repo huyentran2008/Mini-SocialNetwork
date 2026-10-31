@@ -1,0 +1,18 @@
+ACC000096|2026-10-15 19:40:22|Nay trời mưa to ghê.
+ACC000024|2026-10-15 19:41:00|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000096|2026-10-15 19:44:49|Bạn có áo mưa không?
+ACC000024|2026-10-15 19:47:44|Không, chắc chờ tạnh.
+ACC000096|2026-10-15 19:50:32|Mình ghé đón nhé, mình đang gần đó.
+ACC000024|2026-10-15 19:54:44|Cảm ơn bạn nhiều lắm.
+ACC000024|2026-10-16 07:36:17|Bạn ơi, bài tập cấu trúc dữ liệu nộp chưa?
+ACC000096|2026-10-16 07:37:42|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000024|2026-10-16 07:39:22|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000096|2026-10-16 07:40:20|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000024|2026-10-16 08:11:00|Có gì hỏi mình nhé.
+ACC000096|2026-10-16 08:13:17|Okela, cảm ơn Nhi nhiều.
+ACC000096|2026-10-21 22:07:06|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000024|2026-10-21 22:11:43|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000096|2026-10-21 22:15:38|Mình thấy rồi, truy cập ngoài mảng.
+ACC000024|2026-10-21 22:18:28|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000096|2026-10-21 22:21:15|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000024|2026-10-21 22:22:08|Lỗi này ai cũng từng gặp thôi.

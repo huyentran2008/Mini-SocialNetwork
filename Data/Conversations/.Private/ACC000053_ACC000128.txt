@@ -1,0 +1,13 @@
+ACC000053|2026-10-16 21:58:52|Tối nay đi ăn bún bò không?
+ACC000128|2026-10-16 22:04:34|Đi chứ! Quán nào?
+ACC000053|2026-10-16 22:05:32|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000128|2026-10-16 22:08:10|Mấy giờ?
+ACC000053|2026-10-16 22:10:39|12 giờ nhé.
+ACC000128|2026-10-16 22:11:49|Ok, mình rủ thêm một bạn nữa được không?
+ACC000053|2026-10-16 22:14:32|Được chứ, càng đông càng vui.
+ACC000128|2026-10-22 22:00:03|Hôm nay mình hơi buồn.
+ACC000053|2026-10-22 22:00:45|Có chuyện gì vậy?
+ACC000128|2026-10-22 22:02:11|Mình bị điểm thấp mà không biết lý do.
+ACC000053|2026-10-22 22:03:25|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000128|2026-10-22 22:05:37|Ừ, mình sẽ gặp thầy tuần này.
+ACC000053|2026-10-22 22:08:05|Đừng buồn nữa, rồi sẽ ổn thôi.

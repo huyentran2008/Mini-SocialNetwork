@@ -1,0 +1,37 @@
+ACC000047|2026-10-16 13:08:31|Bạn xem phim mới chưa?
+ACC000015|2026-10-16 13:12:59|Phim nào vậy?
+ACC000047|2026-10-16 13:19:12|Phim chiếu rạp tuần này đó, nghe nói hay lắm
+ACC000015|2026-10-16 13:26:24|Để mình rủ nhóm đi xem cuối tuần
+ACC000047|2026-10-16 13:28:35|Hay đó, đi chung luôn cho vui
+ACC000015|2026-10-20 21:28:42|Mình vừa mua cuốn sách mới
+ACC000047|2026-10-20 21:33:53|Sách gì vậy?
+ACC000015|2026-10-20 21:40:25|Về lập trình C++ hiện đại, đọc rất cuốn
+ACC000047|2026-10-20 21:45:34|Đọc xong cho mình mượn nhé
+ACC000015|2026-10-20 21:53:39|Được, chắc khoảng tuần sau
+ACC000015|2026-10-22 16:38:26|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000047|2026-10-22 16:40:07|Haha, bé làm gì thế?
+ACC000015|2026-10-22 16:43:01|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000047|2026-10-22 16:48:46|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000015|2026-10-22 16:51:06|Đợi chút mình chụp.
+ACC000047|2026-10-22 16:53:07|Đúng là chủ nào mèo nấy.
+ACC000047|2026-10-22 17:34:29|Mình biết rồi
+ACC000047|2026-10-22 18:24:18|Tối nói chuyện tiếp nhé
+ACC000015|2026-10-22 19:07:44|Chỉ mình đường tới thư viện thành phố với.
+ACC000047|2026-10-22 19:42:57|Bạn đang ở đâu?
+ACC000015|2026-10-22 19:45:04|Mình đang ở gần cổng chợ.
+ACC000047|2026-10-22 19:46:25|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000015|2026-10-22 19:47:17|Mình thấy rồi, cảm ơn bạn nha.
+ACC000047|2026-10-22 19:48:19|Ok, đi cẩn thận.
+ACC000015|2026-10-23 17:43:18|Tối nay đi ăn gà rán không?
+ACC000047|2026-10-23 17:45:01|Đi chứ! Quán nào?
+ACC000015|2026-10-23 17:45:25|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000047|2026-10-23 17:45:58|Mấy giờ?
+ACC000015|2026-10-23 17:50:53|6 giờ tối nhé.
+ACC000047|2026-10-23 17:51:41|Ok, mình rủ thêm một bạn nữa được không?
+ACC000015|2026-10-23 17:52:11|Được chứ, càng đông càng vui.
+ACC000015|2026-10-24 00:52:10|Nay trời mưa to ghê.
+ACC000047|2026-10-24 00:52:31|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000015|2026-10-24 00:53:36|Bạn có áo mưa không?
+ACC000047|2026-10-24 00:58:30|Không, chắc chờ tạnh.
+ACC000015|2026-10-24 00:58:40|Mình ghé đón nhé, mình đang gần đó.
+ACC000047|2026-10-24 01:01:54|Cảm ơn bạn nhiều lắm.

@@ -1,0 +1,17 @@
+ACC000072|2026-10-22 09:14:04|Vậy hả?
+ACC000072|2026-10-22 09:17:10|Mai gặp nhé
+ACC000072|2026-10-22 09:17:49|Haha bạn vui tính thật
+ACC000002|2026-10-22 11:05:08|Cuối tuần này đi xem phim không?
+ACC000072|2026-10-22 11:06:00|Phim gì vậy?
+ACC000002|2026-10-22 11:09:58|Phim mới chiếu, nghe nói hay lắm.
+ACC000072|2026-10-22 11:10:23|Mình đang rảnh thứ ba, đi buổi chiều nhé.
+ACC000002|2026-10-22 11:11:08|Ok, mình đặt vé luôn.
+ACC000072|2026-10-22 11:27:27|Nhớ chọn ghế giữa nha.
+ACC000002|2026-10-22 11:28:45|Yên tâm.
+ACC000072|2026-10-22 11:37:56|Cuối tuần này đi xem phim không?
+ACC000002|2026-10-22 11:40:16|Phim gì vậy?
+ACC000072|2026-10-22 11:41:59|Phim mới chiếu, nghe nói hay lắm.
+ACC000002|2026-10-22 11:42:37|Mình đang rảnh chủ nhật, đi buổi chiều nhé.
+ACC000072|2026-10-22 11:46:17|Ok, mình đặt vé luôn.
+ACC000002|2026-10-22 12:10:21|Nhớ chọn ghế giữa nha.
+ACC000072|2026-10-22 12:30:33|Yên tâm.

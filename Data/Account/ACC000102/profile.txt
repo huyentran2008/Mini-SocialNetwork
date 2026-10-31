@@ -1,0 +1,14 @@
+id=ACC000102
+username=tuyenpd93
+password=547579656e403837333474
+full_name=Phan Diễm Tuyền
+birthday=01-10-1997
+gender=Female
+bio=Hát cho nhau nghe.
+created_at=2026-10-05
+status=ACTIVE
+residence=Nghệ An
+hometown=
+school=Đại học Kinh tế - Đại học Đà Nẵng
+workplace=Tiki
+hobbies=Hát karaoke;Chơi guitar

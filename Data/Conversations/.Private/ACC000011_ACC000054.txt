@@ -1,0 +1,12 @@
+ACC000054|2026-10-21 13:11:22|Hôm nay mình hơi buồn.
+ACC000011|2026-10-21 13:13:25|Có chuyện gì vậy?
+ACC000054|2026-10-21 13:13:58|Mình bị điểm thấp mà không biết lý do.
+ACC000011|2026-10-21 13:15:55|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000054|2026-10-21 13:18:00|Ừ, mình sẽ gặp thầy tuần này.
+ACC000011|2026-10-21 13:19:43|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000054|2026-10-23 10:59:07|Cuối tuần này đi Phú Quốc không?
+ACC000011|2026-10-23 11:01:56|Hay đó, đi mấy người?
+ACC000054|2026-10-23 11:50:26|Khoảng 3 người, tự đi xe máy.
+ACC000011|2026-10-23 11:50:43|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000054|2026-10-23 11:51:35|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000011|2026-10-23 11:56:24|Ok, vậy chốt luôn.

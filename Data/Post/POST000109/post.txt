@@ -1,0 +1,8 @@
+id=POST000109
+author=ACC000029
+visibility=PUBLIC
+created_at=2026-10-07 13:46:27
+edited_at=
+status=VISIBLE
+title=Band trường chuẩn bị biểu diễn
+content=Tuần sau nhóm mình lên sân khấu văn nghệ khoa. Mỗi tối tập tới khuya nhưng vui lắm. Mong mọi người đến cổ vũ nhé!

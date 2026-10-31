@@ -1,0 +1,18 @@
+ACC000057|2026-10-02 20:04:48|Dạo này mình áp lực thi quá.
+ACC000090|2026-10-02 20:53:52|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000057|2026-10-02 20:54:08|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000090|2026-10-02 20:55:15|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000057|2026-10-02 20:56:00|Nghe có vẻ ổn, mình thử.
+ACC000090|2026-10-02 21:45:51|Cố lên, có gì cần cứ nhắn mình.
+ACC000057|2026-10-04 13:37:10|Cuối tuần này đi Hội An không?
+ACC000090|2026-10-04 13:40:46|Hay đó, đi mấy người?
+ACC000057|2026-10-04 13:41:37|Khoảng 2 người, tự đi xe máy.
+ACC000090|2026-10-04 13:44:27|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000057|2026-10-04 14:10:08|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000090|2026-10-04 14:11:04|Ok, vậy chốt luôn.
+ACC000090|2026-10-06 10:13:27|Bạn xem giúp mình CV được không?
+ACC000057|2026-10-06 10:14:19|Gửi mình xem nhé.
+ACC000090|2026-10-06 10:17:49|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000057|2026-10-06 10:19:24|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000090|2026-10-06 10:20:46|Hợp lý, mình sửa luôn.
+ACC000057|2026-10-06 10:22:16|Sửa xong gửi mình xem lại nhé.

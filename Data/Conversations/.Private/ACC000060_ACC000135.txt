@@ -1,0 +1,17 @@
+ACC000060|2026-09-29 14:32:10|Cuối tuần này đi Hội An không?
+ACC000135|2026-09-29 14:38:23|Hay đó, đi mấy người?
+ACC000060|2026-09-29 14:39:21|Khoảng 10 người, tự đi xe máy.
+ACC000135|2026-09-29 14:43:15|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000060|2026-09-29 14:44:01|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000135|2026-09-29 14:47:32|Ok, vậy chốt luôn.
+ACC000060|2026-10-02 16:48:13|Sáng mai bạn có đi tập chạy không?
+ACC000135|2026-10-02 16:49:49|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000060|2026-10-02 16:51:24|Mình sợ dậy không nổi.
+ACC000135|2026-10-02 16:55:35|Để mình gọi bạn dậy.
+ACC000060|2026-10-02 16:57:27|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000135|2026-10-02 16:58:49|Ok, mai gặp.
+ACC000135|2026-10-06 21:31:31|Ok
+ACC000060|2026-10-06 21:34:15|Ừm, mình nghĩ vậy
+ACC000135|2026-10-06 21:37:15|Mệt quá hôm nay
+ACC000060|2026-10-06 21:41:16|Rồi, mình nhớ rồi
+ACC000135|2026-10-06 22:26:12|Mệt quá hôm nay

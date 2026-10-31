@@ -1,0 +1,14 @@
+id=ACC000039
+username=sondt91
+password=536f6e40343132376e
+full_name=Đỗ Thanh Sơn
+birthday=11-12-2003
+gender=Male
+bio=Nghe nhạc indie mọi lúc mọi nơi.
+created_at=2026-10-04
+status=ACTIVE
+residence=Nghệ An
+hometown=Hà Nội
+school=Đại học Khoa học Tự nhiên - ĐHQG TP.HCM
+workplace=Tiki
+hobbies=Nấu ăn;Nghe nhạc

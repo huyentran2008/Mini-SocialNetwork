@@ -1,0 +1,7 @@
+ACC000100|2026-10-19 17:55:08|Tối nay đi ăn bún chả không?
+ACC000113|2026-10-19 17:58:28|Đi chứ! Quán nào?
+ACC000100|2026-10-19 18:03:24|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000113|2026-10-19 18:05:40|Mấy giờ?
+ACC000100|2026-10-19 18:12:14|6 giờ tối nhé.
+ACC000113|2026-10-19 18:13:06|Ok, mình rủ thêm một bạn nữa được không?
+ACC000100|2026-10-19 18:13:51|Được chứ, càng đông càng vui.

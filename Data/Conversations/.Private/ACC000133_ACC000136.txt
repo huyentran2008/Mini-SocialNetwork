@@ -1,0 +1,12 @@
+ACC000133|2026-10-15 20:27:34|Năm nay bạn về quê ăn Tết không?
+ACC000136|2026-10-15 20:28:22|Có, mình đặt vé tàu rồi.
+ACC000133|2026-10-15 20:35:04|Mình còn chưa mua được vé.
+ACC000136|2026-10-15 20:37:03|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000133|2026-10-15 20:39:06|Ok, mình thử xem.
+ACC000136|2026-10-15 21:05:12|Chúc bạn sớm có vé nhé.
+ACC000133|2026-10-24 21:23:00|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000136|2026-10-24 21:25:13|Chuyện nhỏ thôi mà.
+ACC000133|2026-10-24 21:25:48|Không có bạn chắc mình làm không kịp.
+ACC000136|2026-10-24 21:28:00|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000133|2026-10-24 21:28:42|Hôm nào mình mời bạn cơm gà nhé.
+ACC000136|2026-10-24 21:31:38|Vậy thì mình không từ chối đâu.

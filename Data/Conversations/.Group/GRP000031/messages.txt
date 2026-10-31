@@ -1,0 +1,135 @@
+SYSTEM|2026-10-18 21:10:19|Cao Nhật Quân đã tạo nhóm "Team Backend"
+SYSTEM|2026-10-18 21:10:20|Cao Nhật Quân đã thêm Lê Ngọc Vân vào nhóm
+SYSTEM|2026-10-18 21:10:21|Cao Nhật Quân đã thêm Vũ Minh Lợi vào nhóm
+SYSTEM|2026-10-18 21:10:22|Cao Nhật Quân đã thêm Hồ Thùy Quỳnh vào nhóm
+SYSTEM|2026-10-18 21:10:23|Vũ Minh Lợi đã thêm Nguyễn Cẩm Nhàn vào nhóm
+ACC000087|2026-10-18 22:49:53|Lần sau mình rủ thêm người nhé
+ACC000068|2026-10-18 22:50:05|Mình vừa tới nơi
+ACC000094|2026-10-18 22:50:11|Mình về trước nhé
+ACC000082|2026-10-18 22:50:17|Quá tuyệt
+ACC000082|2026-10-18 22:50:23|Mình cũng nghĩ thế
+ACC000082|2026-10-18 22:50:35|Ai đi nữa không?
+ACC000082|2026-10-18 22:50:44|Ai có tin gì mới không?
+ACC000094|2026-10-18 22:50:48|Hẹn mọi người cuối tuần
+ACC000082|2026-10-18 22:50:55|Cho mình xin chút thông tin với
+ACC000082|2026-10-18 22:51:05|Chuẩn rồi
+ACC000082|2026-10-18 22:51:08|Nhớ mang theo nhé
+ACC000094|2026-10-18 22:51:11|Chúc mừng nhé!
+ACC000082|2026-10-18 22:51:12|Cho mình vào nhóm học với
+ACC000068|2026-10-18 22:51:24|Cho mình vào nhóm học với
+ACC000087|2026-10-18 22:51:26|Thật không đó?
+ACC000134|2026-10-18 22:51:29|Ngủ ngon cả nhóm
+ACC000087|2026-10-18 22:51:34|Mình về trước nhé
+ACC000082|2026-10-18 22:51:35|Nghe hợp lý đó
+ACC000082|2026-10-18 22:51:47|Ừ, mình nhớ rồi
+ACC000082|2026-10-18 22:51:49|Cố lên mọi người
+ACC000094|2026-10-18 22:51:56|Trời nóng quá
+ACC000134|2026-10-18 22:51:58|haha
+ACC000068|2026-10-18 22:52:07|Cố lên mọi người
+ACC000082|2026-10-18 22:52:09|Hôm nay vui thật
+ACC000094|2026-10-19 19:56:14|Hôm nay ai mang theo sạc dự phòng không?
+ACC000087|2026-10-19 19:57:08|Mình có, cần mượn không?
+ACC000094|2026-10-19 19:58:42|Điện thoại mình còn 5% rồi.
+ACC000087|2026-10-19 20:00:54|Lại bàn mình cắm nhé.
+ACC000094|2026-10-19 20:07:54|Cảm ơn bạn nhé.
+SYSTEM|2026-10-20 00:46:30|Vũ Minh Lợi đã thêm Lê Hồng My vào nhóm
+ACC000082|2026-10-20 09:02:44|Cảm ơn nhé
+SYSTEM|2026-10-20 18:19:27|Lê Ngọc Vân đã thêm Ngô Việt Vinh vào nhóm
+ACC000094|2026-10-20 19:15:33|Quá tuyệt
+ACC000103|2026-10-20 19:18:08|Haha cười đau bụng
+ACC000116|2026-10-20 20:05:29|Mưa quá, ai đi học được không?
+ACC000082|2026-10-20 20:10:54|Mình vẫn đi, chỉ hơi ướt thôi.
+ACC000103|2026-10-20 20:13:13|Mình ở nhà, học trực tuyến đi.
+ACC000134|2026-10-20 20:13:40|Lớp mình có thông báo gì chưa?
+ACC000116|2026-10-20 20:17:55|Chưa thấy, cứ đến lớp bình thường.
+ACC000116|2026-10-20 20:38:31|Trưa nay đi ăn chung không?
+ACC000082|2026-10-20 20:38:54|Đi, quán bánh mì nhé.
+ACC000134|2026-10-20 20:41:10|Mình đi, 7 rưỡi xuống nhé.
+ACC000103|2026-10-20 20:41:32|Mình ăn sau, đang xử lý lỗi.
+ACC000116|2026-10-20 20:44:44|Ok, mang về cho bạn nhé.
+SYSTEM|2026-10-21 10:23:53|Lê Ngọc Vân đã thêm Nguyễn Quốc Tâm vào nhóm
+ACC000136|2026-10-21 19:06:55|Đường dẫn thư mục lưu file nhóm: C:\\Nhom\\TaiLieu\\2026 (mọi người nhớ lưu đúng chỗ nhé).
+ACC000116|2026-10-21 21:47:22|Cảm ơn nhé
+ACC000094|2026-10-21 21:47:28|Hẹn mọi người cuối tuần
+ACC000103|2026-10-21 21:47:30|Quá tuyệt
+ACC000116|2026-10-21 21:47:32|Mình đang bận chút, lát nói tiếp
+ACC000116|2026-10-21 21:47:44|Cảm ơn cả nhóm đã giúp mình
+ACC000116|2026-10-21 21:47:50|Nhớ mang theo nhé
+ACC000087|2026-10-21 21:48:00|Haha cười đau bụng
+ACC000082|2026-10-21 21:48:08|Giỏi quá bạn ơi
+ACC000082|2026-10-21 21:48:14|Cảm ơn cả nhóm đã giúp mình
+ACC000087|2026-10-21 21:48:21|Giỏi quá bạn ơi
+ACC000094|2026-10-21 21:48:29|Ngủ ngon cả nhóm
+ACC000116|2026-10-21 21:48:41|Mình sẽ cập nhật sau
+ACC000134|2026-10-21 21:48:44|Thật không đó?
+ACC000082|2026-10-21 21:48:53|Mình sẽ cập nhật sau
+ACC000068|2026-10-21 21:48:55|Okela mọi người
+ACC000134|2026-10-21 21:49:03|Đã nhận được rồi nhé
+ACC000087|2026-10-21 21:49:15|Chuẩn rồi
+ACC000103|2026-10-21 21:49:24|Cảm ơn cả nhóm đã giúp mình
+ACC000116|2026-10-21 21:49:33|Nhớ giữ sức khỏe nhé mọi người
+ACC000082|2026-10-21 21:49:36|Chuẩn rồi
+ACC000068|2026-10-21 21:49:44|Nhớ mang theo nhé
+ACC000116|2026-10-21 21:49:56|Hẹn mọi người cuối tuần
+ACC000068|2026-10-21 21:50:02|Giỏi quá bạn ơi
+ACC000103|2026-10-22 12:47:09|Cảm ơn cả nhóm đã giúp mình
+SYSTEM|2026-10-23 09:16:35|Cao Nhật Quân đã xóa Nguyễn Cẩm Nhàn khỏi nhóm
+ACC000116|2026-10-23 10:18:55|Có ai online không?
+ACC000136|2026-10-23 10:18:57|Quá tuyệt
+ACC000087|2026-10-23 10:18:58|Có ai online không?
+ACC000116|2026-10-23 10:19:06|Mệt ghê
+ACC000134|2026-10-23 10:19:16|Giỏi quá bạn ơi
+ACC000116|2026-10-23 10:19:23|Thật không đó?
+ACC000116|2026-10-23 10:19:24|Ai đi nữa không?
+ACC000068|2026-10-23 10:19:35|Đồng ý với bạn
+ACC000136|2026-10-23 10:19:46|Ai biết quán nào ngon giới thiệu mình với
+ACC000134|2026-10-23 10:19:47|Okela mọi người
+ACC000103|2026-10-23 10:19:58|Mình đang bận chút, lát nói tiếp
+ACC000103|2026-10-23 10:20:00|Hôm nay mưa mà vẫn đi à?
+ACC000116|2026-10-23 10:20:02|Đúng rồi
+ACC000134|2026-10-23 10:20:05|Nhớ mang theo nhé
+ACC000116|2026-10-23 10:20:06|Thật không đó?
+ACC000068|2026-10-23 10:20:17|Nhớ mang theo nhé
+ACC000116|2026-10-23 10:20:18|Chúc mừng nhé!
+ACC000136|2026-10-23 10:20:20|Hôm nay vui thật
+ACC000136|2026-10-23 10:20:31|Ổn rồi nhé
+ACC000103|2026-10-23 10:20:39|Mình về trước nhé
+ACC000068|2026-10-23 10:20:47|Cảm ơn cả nhóm đã giúp mình
+ACC000094|2026-10-23 10:20:53|Mình đang trên đường tới
+ACC000116|2026-10-23 16:24:52|Trưa nay ăn gì mọi người?
+ACC000136|2026-10-23 16:25:10|Cơm tấm đi, trời nóng ăn nhẹ thôi.
+ACC000103|2026-10-23 16:28:12|Mình thích cơm tấm hơn.
+ACC000087|2026-10-23 16:28:41|Phiếu bầu: gà rán +1.
+ACC000116|2026-10-23 16:32:06|Vậy chốt mì cay, 11 giờ 30 gặp ở cổng.
+ACC000136|2026-10-23 16:34:30|Ok, mình tới đúng giờ.
+ACC000103|2026-10-23 18:54:32|Nghe hợp lý đó
+ACC000116|2026-10-23 18:59:06|Cố lên mọi người
+ACC000087|2026-10-23 19:01:00|Cố lên mọi người
+ACC000116|2026-10-23 19:01:41|Mình về trước nhé
+ACC000116|2026-10-23 19:22:02|Để mình kiểm tra lại rồi báo
+ACC000116|2026-10-23 19:25:46|Hôm nay mưa mà vẫn đi à?
+ACC000116|2026-10-23 19:29:23|Mình về trước nhé
+ACC000116|2026-10-23 19:34:41|Để mình kiểm tra lại rồi báo
+ACC000094|2026-10-23 19:39:00|Thật không đó?
+ACC000116|2026-10-23 19:43:50|Cố lên mọi người
+ACC000134|2026-10-23 20:17:54|Đồng ý với bạn
+ACC000116|2026-10-23 20:23:26|Ai biết quán nào ngon giới thiệu mình với
+ACC000068|2026-10-23 20:24:17|Để mình kiểm tra lại rồi báo
+ACC000136|2026-10-23 20:27:38|Đã nhận được rồi nhé
+ACC000116|2026-10-23 20:30:44|Tuyệt vời!
+ACC000116|2026-10-23 20:32:02|Giỏi quá bạn ơi
+ACC000094|2026-10-24 07:12:10|Họp stand-up lúc 12 giờ nhé cả nhóm.
+ACC000068|2026-10-24 07:12:55|Ok, mình có mặt.
+ACC000103|2026-10-24 07:16:36|Mình vào muộn vài phút.
+ACC000136|2026-10-24 07:18:13|Mình sẽ báo cáo tiến độ.
+ACC000094|2026-10-24 07:18:47|Đúng giờ giúp mình nhé.
+ACC000116|2026-10-24 21:46:04|Giỏi quá bạn ơi
+ACC000116|2026-10-24 21:58:28|Có ai online không?
+ACC000116|2026-10-24 21:58:43|Mình đang trên đường tới
+ACC000116|2026-10-24 21:59:48|Nhớ mang theo nhé
+ACC000068|2026-10-25 06:57:28|Tối nay có ai online không?
+ACC000116|2026-10-25 06:58:11|Có mình.
+ACC000134|2026-10-25 07:03:16|Mình cũng vậy.
+ACC000068|2026-10-25 07:05:35|Gọi video nói chuyện chút nhé.
+ACC000116|2026-10-25 07:07:50|Ok, 9 giờ.
+ACC000134|2026-10-25 07:09:39|Chờ mình tắm xong đã.

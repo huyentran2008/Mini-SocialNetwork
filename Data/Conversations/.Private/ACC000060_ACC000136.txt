@@ -1,0 +1,12 @@
+ACC000136|2026-10-21 16:51:30|Bạn cho mình mượn tài liệu được không?
+ACC000060|2026-10-21 16:53:21|Được, bạn lấy bản chụp hay bản mềm?
+ACC000136|2026-10-21 16:53:43|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000060|2026-10-21 17:13:40|Gửi rồi nha, kiểm tra thử.
+ACC000136|2026-10-21 17:16:17|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000060|2026-10-21 17:17:13|Không có gì.
+ACC000136|2026-10-21 22:13:35|Dạo này mình áp lực thi quá.
+ACC000060|2026-10-21 22:15:23|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000136|2026-10-21 22:15:40|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000060|2026-10-21 22:16:06|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000136|2026-10-21 22:19:34|Nghe có vẻ ổn, mình thử.
+ACC000060|2026-10-21 22:26:29|Cố lên, có gì cần cứ nhắn mình.

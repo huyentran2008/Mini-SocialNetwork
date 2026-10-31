@@ -1,0 +1,30 @@
+ACC000012|2026-10-20 09:45:21|Nay trời mưa quá, bạn có đi học không?
+ACC000028|2026-10-20 09:46:02|Mình đi bằng xe buýt, chắc hơi trễ
+ACC000012|2026-10-20 09:55:47|Vậy mình giữ chỗ cho bạn nhé
+ACC000028|2026-10-20 10:04:25|Cảm ơn bạn, bạn tốt quá
+ACC000012|2026-10-20 10:10:19|Có gì đâu, nhớ mang áo mưa
+ACC000012|2026-10-22 14:03:03|Nay trời mưa to ghê.
+ACC000028|2026-10-22 14:08:11|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000012|2026-10-22 14:09:58|Bạn có áo mưa không?
+ACC000028|2026-10-22 14:10:19|Không, chắc chờ tạnh.
+ACC000012|2026-10-22 14:10:46|Mình ghé đón nhé, mình đang gần đó.
+ACC000028|2026-10-22 14:14:20|Cảm ơn bạn nhiều lắm.
+ACC000028|2026-10-22 22:31:05|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000012|2026-10-22 22:33:53|Haha, bé làm gì thế?
+ACC000028|2026-10-22 22:34:25|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000012|2026-10-22 22:37:05|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000028|2026-10-22 22:42:35|Đợi chút mình chụp.
+ACC000012|2026-10-22 22:43:23|Đúng là chủ nào mèo nấy.
+ACC000028|2026-10-24 12:17:47|Dạo này mình áp lực thi quá.
+ACC000012|2026-10-24 12:19:28|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000028|2026-10-24 12:22:58|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000012|2026-10-24 12:23:47|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000028|2026-10-24 12:26:07|Nghe có vẻ ổn, mình thử.
+ACC000012|2026-10-24 12:29:18|Cố lên, có gì cần cứ nhắn mình.
+ACC000028|2026-10-24 12:38:29|Tối nay đi ăn bánh mì không?
+ACC000012|2026-10-24 12:38:50|Đi chứ! Quán nào?
+ACC000028|2026-10-24 12:39:17|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000012|2026-10-24 12:40:12|Mấy giờ?
+ACC000028|2026-10-24 12:52:46|6 giờ nhé.
+ACC000012|2026-10-24 12:56:45|Ok, mình rủ thêm một bạn nữa được không?
+ACC000028|2026-10-24 12:57:41|Được chứ, càng đông càng vui.

@@ -1,0 +1,8 @@
+ACC000039|2026-10-18 20:25:59|Tối nói chuyện tiếp nhé
+ACC000139|2026-10-18 20:26:27|Ừ
+ACC000039|2026-10-21 20:40:51|Cuối tuần bạn làm gì?
+ACC000139|2026-10-21 20:42:06|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000039|2026-10-21 20:42:51|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000139|2026-10-21 20:47:16|Thật không? Ngại quá.
+ACC000039|2026-10-21 20:49:40|Ngại gì, mẹ mình quý bạn lắm.
+ACC000139|2026-10-21 20:49:48|Vậy mình qua nhé, cảm ơn bác.

@@ -1,0 +1,34 @@
+ACC000116|2026-10-20 12:01:15|Nay trời mưa to ghê.
+ACC000119|2026-10-20 12:51:00|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000116|2026-10-20 12:57:01|Bạn có áo mưa không?
+ACC000119|2026-10-20 13:00:16|Không, chắc chờ tạnh.
+ACC000116|2026-10-20 13:00:57|Mình ghé đón nhé, mình đang gần đó.
+ACC000119|2026-10-20 13:01:48|Cảm ơn bạn nhiều lắm.
+ACC000119|2026-10-21 13:15:32|Để mình xem
+ACC000116|2026-10-21 13:15:58|Mệt quá hôm nay
+ACC000119|2026-10-21 13:17:35|Để mình xem
+ACC000119|2026-10-21 13:18:52|Ừ
+ACC000116|2026-10-21 18:38:06|Thôi mình đi ăn cơm đã
+ACC000116|2026-10-21 18:38:08|Thật à?
+ACC000116|2026-10-21 18:38:10|Mệt quá hôm nay
+ACC000119|2026-10-21 18:38:19|Đang làm gì đó?
+ACC000116|2026-10-21 18:38:27|Cảm ơn nhé
+ACC000119|2026-10-21 18:38:29|Ừ
+ACC000116|2026-10-21 20:10:43|Sáng mai bạn có đi tập chạy không?
+ACC000119|2026-10-21 20:12:33|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000116|2026-10-21 20:13:26|Mình sợ dậy không nổi.
+ACC000119|2026-10-21 20:15:43|Để mình gọi bạn dậy.
+ACC000116|2026-10-21 20:39:18|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000119|2026-10-21 20:40:28|Ok, mai gặp.
+ACC000119|2026-10-22 09:13:16|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000116|2026-10-22 09:14:55|Bài nào vậy?
+ACC000119|2026-10-22 09:17:38|Mình gửi link rồi đó.
+ACC000116|2026-10-22 09:20:12|Nghe rồi, giai điệu dễ chịu thật.
+ACC000119|2026-10-22 09:20:54|Đúng không? Mình nghe suốt tuần này.
+ACC000116|2026-10-22 09:21:20|Cho mình xin playlist nhé.
+ACC000119|2026-10-22 15:41:14|Hôm nay bạn có đi học không?
+ACC000116|2026-10-22 15:42:45|Có, mình đang trên đường.
+ACC000119|2026-10-22 15:43:47|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000116|2026-10-22 15:45:57|Ok, giữ rồi.
+ACC000119|2026-10-22 15:47:43|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000116|2026-10-22 15:50:42|Nhanh lên, sắp vào học rồi.

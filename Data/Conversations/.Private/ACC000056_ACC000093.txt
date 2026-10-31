@@ -1,0 +1,45 @@
+ACC000056|2026-10-06 19:31:09|Hôm nay bạn có đi học không?
+ACC000093|2026-10-06 19:31:49|Có, mình đang trên đường.
+ACC000056|2026-10-06 19:34:34|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000093|2026-10-06 19:40:07|Ok, giữ rồi.
+ACC000056|2026-10-06 19:44:00|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000093|2026-10-06 19:44:13|Nhanh lên, sắp vào học rồi.
+ACC000093|2026-10-10 09:46:46|Năm nay bạn về quê ăn Tết không?
+ACC000056|2026-10-10 09:47:11|Có, mình đặt vé tàu rồi.
+ACC000093|2026-10-10 09:48:00|Mình còn chưa mua được vé.
+ACC000056|2026-10-10 09:48:43|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000093|2026-10-10 09:53:39|Ok, mình thử xem.
+ACC000056|2026-10-10 09:54:21|Chúc bạn sớm có vé nhé.
+ACC000093|2026-10-10 12:18:04|Tối nay đi ăn cơm gà không?
+ACC000056|2026-10-10 12:24:04|Đi chứ! Quán nào?
+ACC000093|2026-10-10 12:27:08|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000056|2026-10-10 12:32:00|Mấy giờ?
+ACC000093|2026-10-10 12:32:11|8 giờ tối nhé.
+ACC000056|2026-10-10 12:33:34|Ok, mình rủ thêm một bạn nữa được không?
+ACC000093|2026-10-10 12:34:10|Được chứ, càng đông càng vui.
+ACC000056|2026-10-10 21:43:56|Bạn có rảnh để mình hỏi chút về môn giải tích không?
+ACC000093|2026-10-10 22:10:02|Có, bạn hỏi đi.
+ACC000056|2026-10-10 22:10:30|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000093|2026-10-10 22:11:39|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000056|2026-10-10 22:13:19|Nghe hợp lý, cảm ơn bạn.
+ACC000093|2026-10-10 22:14:04|Cần gì cứ nhắn mình.
+ACC000056|2026-10-12 14:09:15|Mình mới mua chiếc xe đạp.
+ACC000093|2026-10-12 14:10:30|Wow, xe đẹp không?
+ACC000056|2026-10-12 14:14:29|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000093|2026-10-12 14:18:33|Cuối tuần đạp xe quanh hồ nhé.
+ACC000056|2026-10-12 14:20:46|Hay đó, chốt luôn.
+ACC000093|2026-10-12 14:26:13|Nhớ mang nước.
+ACC000093|2026-10-12 20:25:48|Cảm ơn nhé
+ACC000056|2026-10-12 20:27:14|Mình cũng nghĩ vậy
+ACC000056|2026-10-12 20:28:59|Chúc bạn một ngày tốt lành
+ACC000056|2026-10-12 20:29:22|Thật à?
+ACC000056|2026-10-12 20:30:22|Mình biết rồi
+ACC000056|2026-10-12 21:21:32|Ok
+ACC000056|2026-10-12 21:23:29|Được luôn
+ACC000056|2026-10-12 21:25:22|Thật à?
+ACC000056|2026-10-13 21:43:52|Bạn ngủ chưa?
+ACC000093|2026-10-13 21:44:36|Chưa, đang làm bài tập.
+ACC000056|2026-10-13 21:45:29|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000093|2026-10-13 21:49:21|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000056|2026-10-13 21:51:04|Ngủ ngon nha.
+ACC000093|2026-10-13 21:56:20|Ngủ ngon.

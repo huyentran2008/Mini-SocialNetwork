@@ -1,0 +1,14 @@
+id=ACC000097
+username=trangvc30
+password=5472616e67403937333379
+full_name=Võ Cẩm Ngọc Trang
+birthday=20-01-2006
+gender=Female
+bio=Không giỏi nhưng luôn cố gắng.
+created_at=2026-10-08
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=Hà Nội
+school=Đại học Kinh tế - Tài chính TP.HCM
+workplace=The Coffee House
+hobbies=

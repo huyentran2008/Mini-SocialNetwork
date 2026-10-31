@@ -1,0 +1,40 @@
+ACC000025|2026-10-14 23:03:57|Cố lên nhé
+ACC000062|2026-10-14 23:40:01|Okela
+ACC000062|2026-10-14 23:40:51|Ừ
+ACC000025|2026-10-17 00:10:38|Bạn ngủ chưa?
+ACC000062|2026-10-17 00:15:56|Chưa, đang làm bài tập.
+ACC000025|2026-10-17 00:16:19|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000062|2026-10-17 00:16:38|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000025|2026-10-17 00:18:36|Ngủ ngon nha.
+ACC000062|2026-10-17 00:21:27|Ngủ ngon.
+ACC000062|2026-10-20 18:54:39|Hôm nay mình hơi buồn.
+ACC000025|2026-10-20 18:56:45|Có chuyện gì vậy?
+ACC000062|2026-10-20 18:59:46|Mình bị điểm thấp mà không biết lý do.
+ACC000025|2026-10-20 19:00:36|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000062|2026-10-20 19:00:58|Ừ, mình sẽ gặp thầy tuần này.
+ACC000025|2026-10-20 19:01:10|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000025|2026-10-21 08:26:50|Sao git của mình báo conflict hoài vậy?
+ACC000062|2026-10-21 08:28:06|Bạn có pull trước khi push không?
+ACC000025|2026-10-21 08:30:18|Chắc là không.
+ACC000062|2026-10-21 08:33:48|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000025|2026-10-21 08:35:00|Làm xong rồi, cảm ơn bạn.
+ACC000062|2026-10-21 08:39:36|Từ nay nhớ pull trước nhé.
+ACC000062|2026-10-21 22:03:50|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000025|2026-10-21 22:04:12|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000062|2026-10-21 22:10:25|Chụp vài tấm nhé.
+ACC000025|2026-10-21 22:11:30|Xong rồi, mình gửi bạn qua đây.
+ACC000062|2026-10-21 22:12:44|Đẹp quá, cảm ơn bạn nhiều.
+ACC000025|2026-10-21 22:16:15|Lần sau mình chụp thêm.
+ACC000062|2026-10-23 11:17:16|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000025|2026-10-23 11:17:51|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000062|2026-10-23 11:18:38|Mình thấy rồi, truy cập ngoài mảng.
+ACC000025|2026-10-23 11:19:18|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000062|2026-10-23 11:20:04|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000025|2026-10-23 11:20:53|Lỗi này ai cũng từng gặp thôi.
+ACC000062|2026-10-23 21:30:02|Cuối tuần này đi xem phim không?
+ACC000025|2026-10-23 21:49:45|Phim gì vậy?
+ACC000062|2026-10-23 21:50:34|Phim mới chiếu, nghe nói hay lắm.
+ACC000025|2026-10-23 21:54:02|Mình đang rảnh thứ bảy, đi buổi chiều nhé.
+ACC000062|2026-10-23 21:54:42|Ok, mình đặt vé luôn.
+ACC000025|2026-10-23 22:00:14|Nhớ chọn ghế giữa nha.
+ACC000062|2026-10-23 22:02:22|Yên tâm.

@@ -1,0 +1,14 @@
+id=ACC000028
+username=phuongtl12
+password=5068756f6e67403031303766
+full_name=Thái Lan Phương
+birthday=04-11-1999
+gender=Female
+bio=Game thủ không chuyên.
+created_at=2026-10-01
+status=ACTIVE
+residence=Lâm Đồng
+hometown=TP. Hồ Chí Minh
+school=Đại học FPT TP.HCM
+workplace=Công ty TNHH Phần mềm ABC
+hobbies=Nuôi mèo

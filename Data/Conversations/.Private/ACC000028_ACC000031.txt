@@ -1,0 +1,53 @@
+ACC000031|2026-10-17 20:38:13|Công thức làm bánh flan bạn dùng thế nào?
+ACC000028|2026-10-17 20:41:44|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000031|2026-10-17 20:42:44|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000028|2026-10-17 20:43:25|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000031|2026-10-17 20:44:10|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000028|2026-10-17 20:44:51|Làm xong cho mình xin một miếng nhé.
+ACC000028|2026-10-18 07:12:11|Hôm nay bạn có đi học không?
+ACC000031|2026-10-18 07:13:11|Có, mình đang trên đường.
+ACC000028|2026-10-18 07:15:33|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000031|2026-10-18 07:58:02|Ok, giữ rồi.
+ACC000028|2026-10-18 07:59:05|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000031|2026-10-18 07:59:37|Nhanh lên, sắp vào học rồi.
+ACC000031|2026-10-19 12:57:55|Bạn xem giúp mình CV được không?
+ACC000028|2026-10-19 12:58:25|Gửi mình xem nhé.
+ACC000031|2026-10-19 13:00:00|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000028|2026-10-19 13:05:39|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000031|2026-10-19 13:07:48|Hợp lý, mình sửa luôn.
+ACC000028|2026-10-19 13:08:38|Sửa xong gửi mình xem lại nhé.
+ACC000031|2026-10-19 13:17:03|Cuối tuần này đi xem phim không?
+ACC000028|2026-10-19 13:17:48|Phim gì vậy?
+ACC000031|2026-10-19 13:18:48|Phim mới chiếu, nghe nói hay lắm.
+ACC000028|2026-10-19 13:19:19|Mình đang rảnh chủ nhật, đi buổi chiều nhé.
+ACC000031|2026-10-19 13:20:37|Ok, mình đặt vé luôn.
+ACC000028|2026-10-19 13:21:15|Nhớ chọn ghế giữa nha.
+ACC000031|2026-10-19 13:21:55|Yên tâm.
+ACC000031|2026-10-19 15:46:53|Hôm nay bạn có đi học không?
+ACC000028|2026-10-19 15:50:50|Có, mình đang trên đường.
+ACC000031|2026-10-19 15:52:28|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000028|2026-10-19 15:59:12|Ok, giữ rồi.
+ACC000031|2026-10-19 15:59:44|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000028|2026-10-19 16:36:18|Nhanh lên, sắp vào học rồi.
+ACC000031|2026-10-19 17:06:45|Mình mới mua chiếc xe đạp.
+ACC000028|2026-10-19 17:10:57|Wow, xe đẹp không?
+ACC000031|2026-10-19 17:14:41|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000028|2026-10-19 17:15:34|Cuối tuần đạp xe quanh hồ nhé.
+ACC000031|2026-10-19 17:15:50|Hay đó, chốt luôn.
+ACC000028|2026-10-19 17:16:47|Nhớ mang nước.
+ACC000031|2026-10-23 09:39:28|Điểm thi tiếng Anh có chưa bạn?
+ACC000028|2026-10-23 09:41:18|Có rồi, mình được 8 điểm.
+ACC000031|2026-10-23 10:20:13|Giỏi quá, mình mới 6 điểm thôi.
+ACC000028|2026-10-23 10:23:09|Cũng ổn mà, qua môn là tốt rồi.
+ACC000031|2026-10-23 10:23:34|Cảm ơn bạn đã động viên.
+ACC000028|2026-10-23 10:25:29|Lần sau mình học nhóm tiếp nhé.
+ACC000031|2026-10-23 11:40:15|Cuối tuần bạn làm gì?
+ACC000028|2026-10-23 11:41:57|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000031|2026-10-23 11:43:05|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000028|2026-10-23 11:43:59|Thật không? Ngại quá.
+ACC000031|2026-10-23 12:21:18|Ngại gì, mẹ mình quý bạn lắm.
+ACC000028|2026-10-23 12:21:36|Vậy mình qua nhé, cảm ơn bác.
+ACC000028|2026-10-23 20:49:56|Mệt quá hôm nay
+ACC000028|2026-10-23 20:52:10|Ok
+ACC000031|2026-10-23 20:58:48|Mình cũng nghĩ vậy
+ACC000028|2026-10-23 21:00:31|Vậy hả?

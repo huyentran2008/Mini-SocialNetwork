@@ -1,0 +1,18 @@
+ACC000074|2026-10-19 18:26:36|Sáng mai bạn có đi tập chạy không?
+ACC000012|2026-10-19 18:30:22|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000074|2026-10-19 18:31:17|Mình sợ dậy không nổi.
+ACC000012|2026-10-19 18:32:52|Để mình gọi bạn dậy.
+ACC000074|2026-10-19 18:33:34|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000012|2026-10-19 18:34:20|Ok, mai gặp.
+ACC000012|2026-10-21 09:17:53|Bạn biết laptop nào học lập trình ổn không?
+ACC000074|2026-10-21 09:44:02|Tầm giá bao nhiêu?
+ACC000012|2026-10-21 09:46:56|Khoảng 15 đến 20 triệu.
+ACC000074|2026-10-21 09:47:40|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000012|2026-10-21 09:48:38|Cảm ơn nhiều, mình đang rối quá.
+ACC000074|2026-10-21 09:49:10|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000074|2026-10-22 21:51:18|Chào bạn, lâu rồi không nói chuyện.
+ACC000012|2026-10-22 21:52:03|Chào bạn, dạo này bạn thế nào?
+ACC000074|2026-10-22 21:54:07|Mình ổn, bận học và làm thêm.
+ACC000012|2026-10-22 21:55:28|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000074|2026-10-22 21:55:40|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000012|2026-10-22 21:59:20|Được, tới lúc đó nhắn mình nhé.

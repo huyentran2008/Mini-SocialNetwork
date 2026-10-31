@@ -1,0 +1,14 @@
+id=ACC000129
+username=nhantm60
+password=4e68616e40393534396d
+full_name=Trần Minh Nhàn
+birthday=04-02-1999
+gender=Female
+bio=Người hướng nội thích khám phá.
+created_at=2026-08-17
+status=ACTIVE
+residence=Gia Lai
+hometown=
+school=
+workplace=VPBank
+hobbies=Thưởng thức trà;Ăn vặt;Nướng BBQ

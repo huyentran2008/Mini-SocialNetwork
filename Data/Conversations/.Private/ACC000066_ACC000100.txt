@@ -1,0 +1,18 @@
+ACC000066|2026-10-15 20:54:17|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000100|2026-10-15 20:56:15|Bài nào vậy?
+ACC000066|2026-10-15 20:57:57|Mình gửi link rồi đó.
+ACC000100|2026-10-15 20:59:50|Nghe rồi, giai điệu dễ chịu thật.
+ACC000066|2026-10-15 21:04:22|Đúng không? Mình nghe suốt tuần này.
+ACC000100|2026-10-15 21:06:09|Cho mình xin playlist nhé.
+ACC000100|2026-10-22 10:01:03|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000066|2026-10-22 10:02:56|Bài nào vậy?
+ACC000100|2026-10-22 10:03:27|Mình gửi link rồi đó.
+ACC000066|2026-10-22 10:05:33|Nghe rồi, giai điệu dễ chịu thật.
+ACC000100|2026-10-22 10:06:21|Đúng không? Mình nghe suốt tuần này.
+ACC000066|2026-10-22 10:09:24|Cho mình xin playlist nhé.
+ACC000100|2026-10-23 18:18:13|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000066|2026-10-23 18:21:49|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000100|2026-10-23 18:22:45|Mình thấy rồi, truy cập ngoài mảng.
+ACC000066|2026-10-23 18:23:04|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000100|2026-10-23 18:23:16|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000066|2026-10-23 18:37:23|Lỗi này ai cũng từng gặp thôi.

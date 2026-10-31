@@ -1,0 +1,8 @@
+id=POST000177
+author=ACC000109
+visibility=PUBLIC
+created_at=2026-10-16 12:11:06
+edited_at=
+status=VISIBLE
+title=Một số lỗi thiết kế mà mình hay gặp
+content=Chữ quá nhỏ, màu tương phản yếu, quá nhiều font trong cùng một trang. Sửa ba điều này là giao diện đã tốt lên rất nhiều.

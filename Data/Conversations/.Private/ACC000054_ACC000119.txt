@@ -1,0 +1,7 @@
+ACC000054|2026-10-24 06:04:06|Tối nay đi ăn phở không?
+ACC000119|2026-10-24 06:05:21|Đi chứ! Quán nào?
+ACC000054|2026-10-24 06:20:07|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000119|2026-10-24 07:02:33|Mấy giờ?
+ACC000054|2026-10-24 07:03:44|8 giờ tối nhé.
+ACC000119|2026-10-24 07:04:02|Ok, mình rủ thêm một bạn nữa được không?
+ACC000054|2026-10-24 07:05:15|Được chứ, càng đông càng vui.

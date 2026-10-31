@@ -1,0 +1,6 @@
+ACC000003|2026-10-24 13:18:05|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000014|2026-10-24 13:19:50|Bạn chuẩn bị tới đâu rồi?
+ACC000003|2026-10-24 13:22:28|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000014|2026-10-24 13:24:16|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000003|2026-10-24 13:24:43|Cảm ơn Ngân, mình sẽ cố.
+ACC000014|2026-10-24 13:26:19|Xong nhớ nhắn mình kết quả nhé.

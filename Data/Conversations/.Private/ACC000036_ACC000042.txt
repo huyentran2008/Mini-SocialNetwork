@@ -1,0 +1,12 @@
+ACC000042|2026-10-22 11:36:22|Điểm thi cơ sở dữ liệu có chưa bạn?
+ACC000036|2026-10-22 11:37:19|Có rồi, mình được 8 điểm.
+ACC000042|2026-10-22 11:38:01|Giỏi quá, mình mới 6 điểm thôi.
+ACC000036|2026-10-22 11:43:41|Cũng ổn mà, qua môn là tốt rồi.
+ACC000042|2026-10-22 11:44:25|Cảm ơn bạn đã động viên.
+ACC000036|2026-10-22 11:45:01|Lần sau mình học nhóm tiếp nhé.
+ACC000042|2026-10-22 19:39:33|Điểm thi tiếng Anh có chưa bạn?
+ACC000036|2026-10-22 19:39:56|Có rồi, mình được 8 điểm.
+ACC000042|2026-10-22 19:43:47|Giỏi quá, mình mới 6 điểm thôi.
+ACC000036|2026-10-22 19:44:29|Cũng ổn mà, qua môn là tốt rồi.
+ACC000042|2026-10-22 19:44:52|Cảm ơn bạn đã động viên.
+ACC000036|2026-10-22 19:45:17|Lần sau mình học nhóm tiếp nhé.

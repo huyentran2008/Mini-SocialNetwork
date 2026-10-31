@@ -1,0 +1,6 @@
+ACC000101|2026-09-30 18:16:01|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000066|2026-09-30 18:16:26|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000101|2026-09-30 18:17:10|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000066|2026-09-30 18:18:46|Cảm ơn bạn đã hỏi thăm.
+ACC000101|2026-09-30 18:19:58|Có cần mình mang đồ ăn qua không?
+ACC000066|2026-09-30 18:20:45|Không cần đâu, mình ổn rồi.

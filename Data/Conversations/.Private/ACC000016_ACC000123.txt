@@ -1,0 +1,19 @@
+ACC000016|2026-10-21 19:33:12|Tối nay đi ăn cơm gà không?
+ACC000123|2026-10-21 19:38:58|Đi chứ! Quán nào?
+ACC000016|2026-10-21 19:44:32|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000123|2026-10-21 19:45:12|Mấy giờ?
+ACC000016|2026-10-21 19:45:51|11 giờ 30 nhé.
+ACC000123|2026-10-21 19:47:01|Ok, mình rủ thêm một bạn nữa được không?
+ACC000016|2026-10-21 19:47:47|Được chứ, càng đông càng vui.
+ACC000123|2026-10-22 11:16:00|Điểm thi cấu trúc dữ liệu có chưa bạn?
+ACC000016|2026-10-22 11:17:28|Có rồi, mình được 8 điểm.
+ACC000123|2026-10-22 11:20:10|Giỏi quá, mình mới 6 điểm thôi.
+ACC000016|2026-10-22 11:25:33|Cũng ổn mà, qua môn là tốt rồi.
+ACC000123|2026-10-22 11:26:14|Cảm ơn bạn đã động viên.
+ACC000016|2026-10-22 11:28:36|Lần sau mình học nhóm tiếp nhé.
+ACC000016|2026-10-24 11:37:33|Tối nay bạn có chơi game không?
+ACC000123|2026-10-24 11:37:59|Có, mấy giờ?
+ACC000016|2026-10-24 12:01:43|8 giờ tối, rủ thêm hai bạn nữa là đủ đội.
+ACC000123|2026-10-24 12:02:17|Ok, mình online sớm.
+ACC000016|2026-10-24 12:04:29|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000123|2026-10-24 12:08:05|Haha, thua thì đừng trách mình.

@@ -1,0 +1,65 @@
+ACC000060|2026-10-18 06:22:19|Nghe được đó
+ACC000060|2026-10-18 06:23:27|Chúc bạn một ngày tốt lành
+ACC000074|2026-10-18 06:27:29|Rồi, mình nhớ rồi
+ACC000074|2026-10-18 06:32:28|Cảm ơn nhé
+ACC000074|2026-10-20 10:19:52|Haha
+ACC000060|2026-10-20 10:20:06|Cố lên nhé
+ACC000074|2026-10-20 10:20:08|Ngủ ngon
+ACC000074|2026-10-20 10:20:18|Mình cũng nghĩ vậy
+ACC000060|2026-10-20 10:20:29|Mai gặp nhé
+ACC000060|2026-10-20 10:20:33|Chúc bạn một ngày tốt lành
+ACC000060|2026-10-21 07:11:46|Cuối tuần này đi xem phim không?
+ACC000074|2026-10-21 07:13:57|Phim gì vậy?
+ACC000060|2026-10-21 07:14:33|Phim mới chiếu, nghe nói hay lắm.
+ACC000074|2026-10-21 07:15:03|Mình đang rảnh thứ bảy, đi buổi chiều nhé.
+ACC000060|2026-10-21 07:15:56|Ok, mình đặt vé luôn.
+ACC000074|2026-10-21 07:16:53|Nhớ chọn ghế giữa nha.
+ACC000060|2026-10-21 07:53:11|Yên tâm.
+ACC000060|2026-10-21 16:43:47|Mai gặp nhé
+ACC000060|2026-10-21 16:46:22|Cảm ơn nhé
+ACC000060|2026-10-21 20:50:45|Sinh nhật vui vẻ nhé Mai!
+ACC000074|2026-10-21 20:53:05|Cảm ơn Trinh nha, nhớ cả sinh nhật mình luôn.
+ACC000060|2026-10-21 20:53:47|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000074|2026-10-21 21:42:30|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000060|2026-10-21 21:43:14|8 giờ tối nhé.
+ACC000074|2026-10-21 21:44:20|Ok, hẹn gặp.
+ACC000074|2026-10-21 22:42:22|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000060|2026-10-21 22:42:32|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000074|2026-10-21 22:43:20|Cảm ơn, mình hay quên lắm.
+ACC000060|2026-10-21 22:44:12|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000074|2026-10-21 23:22:35|Ừ, mình in hai bản.
+ACC000060|2026-10-21 23:26:04|Giỏi.
+ACC000060|2026-10-22 16:06:35|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000074|2026-10-22 16:07:29|Mình mới xong nửa tài liệu, hơi lo.
+ACC000060|2026-10-22 16:09:25|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000074|2026-10-22 16:13:58|Hay đó, 8 giờ nhé.
+ACC000060|2026-10-22 16:14:11|Ok, mình chuẩn bị sẵn đề cương.
+ACC000074|2026-10-22 16:18:10|Cảm ơn Trinh, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000060|2026-10-22 20:09:27|Bạn cho mình mượn tài liệu được không?
+ACC000074|2026-10-22 20:14:44|Được, bạn lấy bản chụp hay bản mềm?
+ACC000060|2026-10-22 20:19:59|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000074|2026-10-22 20:22:13|Gửi rồi nha, kiểm tra thử.
+ACC000060|2026-10-22 20:22:58|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000074|2026-10-22 20:43:03|Không có gì.
+ACC000060|2026-10-22 22:29:17|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000074|2026-10-22 22:30:38|Bài nào vậy?
+ACC000060|2026-10-22 22:31:27|Mình gửi link rồi đó.
+ACC000074|2026-10-22 22:31:49|Nghe rồi, giai điệu dễ chịu thật.
+ACC000060|2026-10-22 22:32:25|Đúng không? Mình nghe suốt tuần này.
+ACC000074|2026-10-22 22:34:41|Cho mình xin playlist nhé.
+ACC000060|2026-10-23 17:54:30|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000074|2026-10-23 17:56:09|Ủa quên mất, bao nhiêu vậy?
+ACC000060|2026-10-23 17:56:19|200 nghìn thôi.
+ACC000074|2026-10-23 17:58:28|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000060|2026-10-23 18:36:10|Nhận được rồi nha.
+ACC000074|2026-10-23 18:37:53|Ok, xong nợ.
+ACC000060|2026-10-23 20:18:10|Rồi, mình nhớ rồi
+ACC000060|2026-10-23 20:18:22|Okela
+ACC000074|2026-10-23 20:18:29|Ừ đúng rồi
+ACC000074|2026-10-23 20:18:37|Cảm ơn nhé
+ACC000074|2026-10-23 20:18:38|Nghe được đó
+ACC000074|2026-10-23 20:18:52|Tối nói chuyện tiếp nhé
+ACC000074|2026-10-24 14:04:11|Vừa về tới nhà
+ACC000074|2026-10-24 14:04:47|Mai gặp nhé
+ACC000060|2026-10-24 14:19:43|Okela
+ACC000074|2026-10-24 14:20:31|Rồi, mình nhớ rồi

@@ -1,0 +1,8 @@
+id=POST000184
+author=ACC000012
+visibility=PUBLIC
+created_at=2026-10-16 21:34:20
+edited_at=
+status=VISIBLE
+title=Buổi họp lớp đầu tiên
+content=Cả lớp lần đầu họp mặt đầy đủ, ai cũng thay đổi nhiều. Nói chuyện suốt ba tiếng vẫn chưa hết chuyện.

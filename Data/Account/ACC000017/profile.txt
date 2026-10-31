@@ -1,0 +1,14 @@
+id=ACC000017
+username=hieumx49
+password=48696575403231383670
+full_name=Mai Xuân Hiếu
+birthday=09-07-2003
+gender=Male
+bio=Thích chạy bộ buổi sáng.
+created_at=2026-10-06
+status=ACTIVE
+residence=
+hometown=Hà Nội
+school=Đại học Công nghệ Thông tin - ĐHQG TP.HCM
+workplace=Grab Việt Nam
+hobbies=Chạy bộ;Chơi guitar

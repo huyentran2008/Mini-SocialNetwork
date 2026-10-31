@@ -1,0 +1,41 @@
+ACC000143|2026-10-15 13:28:17|Sinh nhật vui vẻ nhé Lam!
+ACC000098|2026-10-15 13:32:04|Cảm ơn Quý nha, nhớ cả sinh nhật mình luôn.
+ACC000143|2026-10-15 13:32:53|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000098|2026-10-15 13:33:03|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000143|2026-10-15 13:34:00|7 rưỡi nhé.
+ACC000098|2026-10-15 13:36:27|Ok, hẹn gặp.
+ACC000143|2026-10-17 14:03:41|Bạn biết laptop nào học lập trình ổn không?
+ACC000098|2026-10-17 14:04:39|Tầm giá bao nhiêu?
+ACC000143|2026-10-17 14:06:54|Khoảng 15 đến 20 triệu.
+ACC000098|2026-10-17 14:08:18|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000143|2026-10-17 14:10:42|Cảm ơn nhiều, mình đang rối quá.
+ACC000098|2026-10-17 14:12:43|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000098|2026-10-17 19:30:53|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000143|2026-10-17 19:32:35|Bạn chuẩn bị tới đâu rồi?
+ACC000098|2026-10-17 19:33:20|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000143|2026-10-17 19:34:06|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000098|2026-10-17 19:34:39|Cảm ơn Quý, mình sẽ cố.
+ACC000143|2026-10-17 20:19:53|Xong nhớ nhắn mình kết quả nhé.
+ACC000143|2026-10-21 11:42:06|Mai gặp nhé
+ACC000098|2026-10-21 11:42:50|Ok
+ACC000098|2026-10-21 22:13:04|Đang làm gì đó?
+ACC000098|2026-10-21 22:13:10|Tối nói chuyện tiếp nhé
+ACC000143|2026-10-21 22:13:13|Thôi mình đi ăn cơm đã
+ACC000098|2026-10-21 22:13:22|Haha bạn vui tính thật
+ACC000143|2026-10-21 22:13:30|Chúc bạn một ngày tốt lành
+ACC000098|2026-10-21 22:13:44|Haha
+ACC000098|2026-10-21 22:13:45|Haha bạn vui tính thật
+ACC000098|2026-10-21 22:13:50|Chúc bạn một ngày tốt lành
+ACC000143|2026-10-21 22:13:56|Haha
+ACC000143|2026-10-21 22:13:57|Để mình xem
+ACC000143|2026-10-21 22:14:02|Ừ
+ACC000143|2026-10-21 22:14:07|Cuối tuần rảnh không?
+ACC000098|2026-10-21 22:14:21|Đang làm gì đó?
+ACC000143|2026-10-21 22:14:32|Chúc bạn một ngày tốt lành
+ACC000143|2026-10-21 22:14:35|Haha
+ACC000143|2026-10-22 19:50:29|Nay trời mưa to ghê.
+ACC000098|2026-10-22 19:55:08|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000143|2026-10-22 19:56:48|Bạn có áo mưa không?
+ACC000098|2026-10-22 19:57:23|Không, chắc chờ tạnh.
+ACC000143|2026-10-22 19:58:21|Mình ghé đón nhé, mình đang gần đó.
+ACC000098|2026-10-22 20:01:36|Cảm ơn bạn nhiều lắm.

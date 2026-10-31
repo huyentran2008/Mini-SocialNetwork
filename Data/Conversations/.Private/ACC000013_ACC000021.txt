@@ -1,0 +1,45 @@
+ACC000013|2026-10-20 12:28:54|Mình dọn trọ sang khu khác rồi.
+ACC000021|2026-10-20 12:30:25|Thật à? Có xa trường không?
+ACC000013|2026-10-20 12:33:31|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000021|2026-10-20 12:35:23|Tốt quá, hôm nào mình qua chơi.
+ACC000013|2026-10-20 12:47:06|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000021|2026-10-20 12:54:03|Ok, nhớ nấu cơm cho mình đó.
+ACC000021|2026-10-20 17:07:18|Chúc bạn một ngày tốt lành
+ACC000013|2026-10-20 17:07:21|Ok
+ACC000021|2026-10-20 17:07:27|Thật à?
+ACC000021|2026-10-20 17:07:33|Thật à?
+ACC000021|2026-10-20 17:07:34|Ok
+ACC000013|2026-10-20 17:07:41|Chúc bạn một ngày tốt lành
+ACC000021|2026-10-20 17:07:50|Ngủ ngon
+ACC000021|2026-10-20 17:07:52|Nghe được đó
+ACC000021|2026-10-20 17:07:54|Ngủ ngon
+ACC000021|2026-10-20 17:08:01|Haha bạn vui tính thật
+ACC000021|2026-10-20 17:08:13|Để mình xem
+ACC000021|2026-10-20 17:08:14|Mình biết rồi
+ACC000013|2026-10-20 17:08:18|Ừ
+ACC000021|2026-10-20 19:37:33|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000013|2026-10-20 19:40:00|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000021|2026-10-20 19:46:51|Mình thấy rồi, truy cập ngoài mảng.
+ACC000013|2026-10-20 19:50:02|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000021|2026-10-20 19:52:28|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000013|2026-10-20 19:55:00|Lỗi này ai cũng từng gặp thôi.
+ACC000021|2026-10-20 22:04:50|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000013|2026-10-20 22:11:20|Mình mới xong nửa tài liệu, hơi lo.
+ACC000021|2026-10-20 22:14:53|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000013|2026-10-20 22:17:03|Hay đó, 8 giờ nhé.
+ACC000021|2026-10-20 22:19:06|Ok, mình chuẩn bị sẵn đề cương.
+ACC000013|2026-10-20 22:20:45|Cảm ơn Nghĩa, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000021|2026-10-20 22:40:40|Bạn xem giúp mình CV được không?
+ACC000013|2026-10-20 22:43:58|Gửi mình xem nhé.
+ACC000021|2026-10-20 22:44:31|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000013|2026-10-20 22:44:45|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000021|2026-10-20 22:47:45|Hợp lý, mình sửa luôn.
+ACC000013|2026-10-20 22:50:09|Sửa xong gửi mình xem lại nhé.
+ACC000021|2026-10-22 06:32:42|Mình dọn trọ sang khu khác rồi.
+ACC000013|2026-10-22 06:33:09|Thật à? Có xa trường không?
+ACC000021|2026-10-22 06:34:35|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000013|2026-10-22 06:35:12|Tốt quá, hôm nào mình qua chơi.
+ACC000021|2026-10-22 06:37:12|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000013|2026-10-22 06:37:36|Ok, nhớ nấu cơm cho mình đó.
+ACC000013|2026-10-22 21:51:25|Thôi mình đi ăn cơm đã
+ACC000013|2026-10-22 21:55:11|Có gì báo mình nhé

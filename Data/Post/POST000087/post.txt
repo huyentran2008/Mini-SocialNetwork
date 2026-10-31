@@ -1,0 +1,8 @@
+id=POST000087
+author=ACC000142
+visibility=PUBLIC
+created_at=2026-10-02 11:43:11
+edited_at=
+status=VISIBLE
+title=Cosplay lần đầu
+content=Cuối tuần mình thử cosplay nhân vật yêu thích đi sự kiện. Bộ đồ tự may nên chưa hoàn hảo nhưng được nhiều bạn khen.\nCó gì góp ý cứ bình luận nhé.

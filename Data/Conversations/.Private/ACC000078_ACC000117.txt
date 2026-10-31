@@ -1,0 +1,32 @@
+ACC000078|2026-10-04 10:16:05|Công thức làm bánh flan bạn dùng thế nào?
+ACC000117|2026-10-04 10:18:52|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000078|2026-10-04 10:20:10|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000117|2026-10-04 10:21:15|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000078|2026-10-04 10:25:52|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000117|2026-10-04 10:26:10|Làm xong cho mình xin một miếng nhé.
+ACC000117|2026-10-04 11:33:57|Chúc bạn một ngày tốt lành
+ACC000078|2026-10-04 11:34:05|Ừm, mình nghĩ vậy
+ACC000117|2026-10-04 11:34:06|Mình biết rồi
+ACC000078|2026-10-04 11:34:09|Vậy hả?
+ACC000117|2026-10-04 11:34:23|Haha
+ACC000078|2026-10-04 11:34:25|Mình cũng nghĩ vậy
+ACC000078|2026-10-04 11:34:28|Vừa về tới nhà
+ACC000117|2026-10-04 11:34:38|Đang làm gì đó?
+ACC000078|2026-10-04 11:34:52|Mình cũng nghĩ vậy
+ACC000078|2026-10-04 11:34:54|Mình đang bận chút, lát nhắn lại nhé
+ACC000117|2026-10-04 11:34:58|Cuối tuần rảnh không?
+ACC000078|2026-10-04 11:35:03|Mệt quá hôm nay
+ACC000117|2026-10-04 11:35:08|Được luôn
+ACC000078|2026-10-04 11:35:16|Đang làm gì đó?
+ACC000078|2026-10-04 11:35:21|Mệt quá hôm nay
+ACC000078|2026-10-04 21:08:52|Thôi mình đi ăn cơm đã
+ACC000117|2026-10-04 21:11:09|Đang làm gì đó?
+ACC000117|2026-10-04 21:29:16|Ngủ ngon
+ACC000117|2026-10-04 21:31:36|Thôi mình đi ăn cơm đã
+ACC000117|2026-10-22 19:08:19|Tối nay đi ăn mì cay không?
+ACC000078|2026-10-22 19:08:59|Đi chứ! Quán nào?
+ACC000117|2026-10-22 19:13:55|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000078|2026-10-22 19:14:55|Mấy giờ?
+ACC000117|2026-10-22 19:15:37|8 giờ nhé.
+ACC000078|2026-10-22 19:18:05|Ok, mình rủ thêm một bạn nữa được không?
+ACC000117|2026-10-22 19:19:22|Được chứ, càng đông càng vui.

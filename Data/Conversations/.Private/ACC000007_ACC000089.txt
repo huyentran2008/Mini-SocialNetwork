@@ -1,0 +1,10 @@
+ACC000007|2026-10-13 20:31:24|Cảm ơn nhé
+ACC000089|2026-10-13 20:32:24|Mình đang bận chút, lát nhắn lại nhé
+ACC000089|2026-10-13 20:34:34|Rồi, mình nhớ rồi
+ACC000089|2026-10-13 20:35:27|Thôi mình đi ăn cơm đã
+ACC000007|2026-10-16 14:58:52|Cuối tuần này đi Sa Pa không?
+ACC000089|2026-10-16 15:03:42|Hay đó, đi mấy người?
+ACC000007|2026-10-16 15:04:02|Khoảng 2 người, tự đi xe máy.
+ACC000089|2026-10-16 15:05:19|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000007|2026-10-16 15:08:38|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000089|2026-10-16 15:11:58|Ok, vậy chốt luôn.

@@ -1,0 +1,43 @@
+ACC000052|2026-10-12 21:29:26|Mình dọn trọ sang khu khác rồi.
+ACC000072|2026-10-12 21:32:19|Thật à? Có xa trường không?
+ACC000052|2026-10-12 21:35:42|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000072|2026-10-12 21:58:25|Tốt quá, hôm nào mình qua chơi.
+ACC000052|2026-10-12 22:00:43|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000072|2026-10-12 22:04:18|Ok, nhớ nấu cơm cho mình đó.
+ACC000052|2026-10-17 07:01:47|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000072|2026-10-17 07:02:11|Haha, bé làm gì thế?
+ACC000052|2026-10-17 07:08:34|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000072|2026-10-17 07:11:52|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000052|2026-10-17 07:13:05|Đợi chút mình chụp.
+ACC000072|2026-10-17 07:13:58|Đúng là chủ nào mèo nấy.
+ACC000072|2026-10-17 11:57:47|Cuối tuần này đi xem phim không?
+ACC000052|2026-10-17 11:58:43|Phim gì vậy?
+ACC000072|2026-10-17 12:05:11|Phim mới chiếu, nghe nói hay lắm.
+ACC000052|2026-10-17 12:09:37|Mình đang rảnh thứ bảy, đi buổi chiều nhé.
+ACC000072|2026-10-17 12:10:55|Ok, mình đặt vé luôn.
+ACC000052|2026-10-17 12:11:10|Nhớ chọn ghế giữa nha.
+ACC000072|2026-10-17 12:11:59|Yên tâm.
+ACC000072|2026-10-17 20:14:42|Công thức làm bánh flan bạn dùng thế nào?
+ACC000052|2026-10-17 20:15:03|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000072|2026-10-17 20:17:28|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000052|2026-10-17 20:23:23|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000072|2026-10-17 20:26:46|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000052|2026-10-17 20:28:20|Làm xong cho mình xin một miếng nhé.
+ACC000052|2026-10-17 20:38:28|Bạn biết laptop nào học lập trình ổn không?
+ACC000072|2026-10-17 20:40:50|Tầm giá bao nhiêu?
+ACC000052|2026-10-17 20:41:10|Khoảng 15 đến 20 triệu.
+ACC000072|2026-10-17 20:46:27|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000052|2026-10-17 20:53:15|Cảm ơn nhiều, mình đang rối quá.
+ACC000072|2026-10-17 20:54:35|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000052|2026-10-18 09:41:25|Sinh nhật vui vẻ nhé Nga!
+ACC000072|2026-10-18 09:41:35|Cảm ơn Thủy nha, nhớ cả sinh nhật mình luôn.
+ACC000052|2026-10-18 10:26:02|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000072|2026-10-18 11:15:50|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000052|2026-10-18 11:17:35|11 giờ 30 nhé.
+ACC000072|2026-10-18 11:18:34|Ok, hẹn gặp.
+ACC000052|2026-10-23 22:57:19|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000072|2026-10-23 22:58:01|Bài nào vậy?
+ACC000052|2026-10-23 23:01:59|Mình gửi link rồi đó.
+ACC000072|2026-10-23 23:04:24|Nghe rồi, giai điệu dễ chịu thật.
+ACC000052|2026-10-23 23:06:10|Đúng không? Mình nghe suốt tuần này.
+ACC000072|2026-10-23 23:06:30|Cho mình xin playlist nhé.

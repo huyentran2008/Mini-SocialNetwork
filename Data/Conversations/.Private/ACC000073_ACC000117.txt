@@ -1,0 +1,28 @@
+ACC000117|2026-09-19 07:16:34|Mình dọn trọ sang khu khác rồi.
+ACC000073|2026-09-19 07:20:25|Thật à? Có xa trường không?
+ACC000117|2026-09-19 08:04:14|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000073|2026-09-19 08:08:18|Tốt quá, hôm nào mình qua chơi.
+ACC000117|2026-09-19 08:09:31|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000073|2026-09-19 08:10:05|Ok, nhớ nấu cơm cho mình đó.
+ACC000117|2026-10-10 22:50:34|Ok
+ACC000073|2026-10-10 22:53:16|Haha bạn vui tính thật
+ACC000073|2026-10-10 22:53:25|Cảm ơn nhé
+ACC000073|2026-10-10 22:53:43|Thôi mình đi ăn cơm đã
+ACC000073|2026-10-18 22:17:25|Bạn cho mình mượn tài liệu được không?
+ACC000117|2026-10-18 22:22:27|Được, bạn lấy bản chụp hay bản mềm?
+ACC000073|2026-10-18 22:23:35|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000117|2026-10-18 22:25:05|Gửi rồi nha, kiểm tra thử.
+ACC000073|2026-10-18 22:27:34|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000117|2026-10-18 22:31:09|Không có gì.
+ACC000073|2026-10-20 12:48:00|Sáng mai bạn có đi tập chạy không?
+ACC000117|2026-10-20 12:50:25|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000073|2026-10-20 12:51:53|Mình sợ dậy không nổi.
+ACC000117|2026-10-20 12:55:55|Để mình gọi bạn dậy.
+ACC000073|2026-10-20 12:58:34|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000117|2026-10-20 12:59:20|Ok, mai gặp.
+ACC000073|2026-10-22 23:27:08|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000117|2026-10-22 23:30:27|Ủa quên mất, bao nhiêu vậy?
+ACC000073|2026-10-22 23:32:40|40 nghìn thôi.
+ACC000117|2026-10-22 23:33:53|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000073|2026-10-22 23:35:10|Nhận được rồi nha.
+ACC000117|2026-10-23 00:21:20|Ok, xong nợ.

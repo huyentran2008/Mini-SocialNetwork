@@ -1,0 +1,16 @@
+ACC000040|2026-10-14 21:35:56|Năm nay bạn về quê ăn Tết không?
+ACC000010|2026-10-14 21:36:45|Có, mình đặt vé tàu rồi.
+ACC000040|2026-10-14 21:41:38|Mình còn chưa mua được vé.
+ACC000010|2026-10-14 21:45:09|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000040|2026-10-14 21:45:47|Ok, mình thử xem.
+ACC000010|2026-10-14 21:46:35|Chúc bạn sớm có vé nhé.
+ACC000040|2026-10-18 22:02:28|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000010|2026-10-18 22:04:58|Mình mới xong nửa tài liệu, hơi lo.
+ACC000040|2026-10-18 22:11:34|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000010|2026-10-18 22:14:30|Hay đó, 8 giờ nhé.
+ACC000040|2026-10-18 23:01:25|Ok, mình chuẩn bị sẵn đề cương.
+ACC000010|2026-10-18 23:04:01|Cảm ơn Uyên, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000010|2026-10-22 09:49:12|Đang làm gì đó?
+ACC000010|2026-10-22 09:51:21|Ok
+ACC000010|2026-10-22 09:57:10|Nghe được đó
+ACC000010|2026-10-22 09:59:43|Rồi, mình nhớ rồi

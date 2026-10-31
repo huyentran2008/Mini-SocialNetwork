@@ -1,0 +1,14 @@
+id=ACC000038
+username=maibt69
+password=4d6169403235353264
+full_name=Bùi Tuyết Mai
+birthday=26-10-2000
+gender=Female
+bio=Thích tìm quán ăn ngon ở Sài Gòn.
+created_at=2026-10-09
+status=ACTIVE
+residence=Đồng Nai
+hometown=Khánh Hòa
+school=Đại học Ngoại thương
+workplace=Shopee Việt Nam
+hobbies=Học lập trình;Chạy bộ

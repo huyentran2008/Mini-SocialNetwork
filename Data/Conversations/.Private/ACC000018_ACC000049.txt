@@ -1,0 +1,16 @@
+ACC000018|2026-10-17 12:12:29|Ừm, mình nghĩ vậy
+ACC000018|2026-10-17 12:12:40|Mệt quá hôm nay
+ACC000018|2026-10-17 12:16:23|Ừ đúng rồi
+ACC000049|2026-10-17 12:18:30|Mình biết rồi
+ACC000049|2026-10-19 21:46:21|Dạo này mình áp lực thi quá.
+ACC000018|2026-10-19 21:48:31|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000049|2026-10-19 21:49:25|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000018|2026-10-19 21:50:05|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000049|2026-10-19 21:52:08|Nghe có vẻ ổn, mình thử.
+ACC000018|2026-10-19 22:40:15|Cố lên, có gì cần cứ nhắn mình.
+ACC000049|2026-10-21 07:29:16|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000018|2026-10-21 07:30:08|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000049|2026-10-21 07:31:50|Chụp vài tấm nhé.
+ACC000018|2026-10-21 08:16:22|Xong rồi, mình gửi bạn qua đây.
+ACC000049|2026-10-21 08:17:03|Đẹp quá, cảm ơn bạn nhiều.
+ACC000018|2026-10-21 08:17:59|Lần sau mình chụp thêm.

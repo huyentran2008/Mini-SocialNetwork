@@ -1,0 +1,75 @@
+SYSTEM|2026-10-19 14:21:27|Nguyễn Quang Huy đã tạo nhóm "Gym buổi tối"
+SYSTEM|2026-10-19 14:21:28|Nguyễn Quang Huy đã thêm Nguyễn Thanh Bình vào nhóm
+SYSTEM|2026-10-19 14:21:29|Nguyễn Thanh Bình đã thêm Tống Tuyết Tiên vào nhóm
+ACC000066|2026-10-19 17:00:33|Thông báo: tuần này nhóm sinh hoạt vào thứ bảy, 8 giờ, địa điểm sẽ cập nhật trong nhóm. Mọi người sắp xếp thời gian tham gia đầy đủ, ai bận thì nhắn lại cho mình trước ngày sinh hoạt để mình tổng hợp danh sách nhé. Cảm ơn mọi người rất nhiều vì đã luôn nhiệt tình tham gia và đóng góp ý kiến cho nhóm thời gian qua.
+ACC000123|2026-10-19 19:31:28|Ai đi nữa không?
+ACC000066|2026-10-19 19:31:37|Đừng quên nha mọi người
+ACC000066|2026-10-19 19:31:46|Chúc mừng nhé!
+ACC000066|2026-10-19 19:31:51|Mình đi ngủ trước nhé
+ACC000066|2026-10-19 19:31:56|Mình +1
+ACC000066|2026-10-19 19:31:57|Mình đang trên đường tới
+ACC000123|2026-10-19 19:32:03|Haha đúng là vậy
+ACC000123|2026-10-19 19:32:07|Quá tuyệt
+ACC000066|2026-10-19 19:32:12|Mình +1
+ACC000123|2026-10-19 19:32:13|Vậy chốt nhé
+ACC000123|2026-10-19 19:32:17|Hôm nay vui thật
+ACC000104|2026-10-19 19:32:20|Vậy chốt nhé
+ACC000123|2026-10-19 19:32:25|Ai biết quán nào ngon giới thiệu mình với
+ACC000123|2026-10-19 19:32:27|Hẹn mọi người cuối tuần
+ACC000123|2026-10-19 19:32:28|Cảm ơn nhé
+ACC000123|2026-10-19 19:32:38|Ngủ ngon cả nhóm
+ACC000123|2026-10-19 21:10:24|Chuẩn rồi
+ACC000066|2026-10-19 21:10:36|Ngủ ngon cả nhóm
+ACC000123|2026-10-19 21:10:41|Chuẩn rồi
+ACC000066|2026-10-19 21:10:52|Chúc mừng nhé!
+ACC000066|2026-10-19 21:10:54|Ngủ ngon cả nhóm
+ACC000104|2026-10-19 21:10:59|Mình +1
+ACC000104|2026-10-19 21:11:00|Ngủ ngon cả nhóm
+ACC000123|2026-10-19 21:11:05|Cho mình vào nhóm học với
+ACC000123|2026-10-19 21:11:09|Ai có tin gì mới không?
+ACC000123|2026-10-19 21:11:15|Đồng ý với bạn
+ACC000123|2026-10-19 21:11:24|Ai đi nữa không?
+ACC000066|2026-10-19 21:11:31|Ai đi nữa không?
+ACC000066|2026-10-19 21:11:41|Thật không đó?
+ACC000066|2026-10-19 21:11:43|haha
+ACC000123|2026-10-19 21:11:51|Lần sau mình rủ thêm người nhé
+ACC000123|2026-10-19 21:11:53|Cố lên mọi người
+ACC000104|2026-10-19 21:12:01|Hẹn mọi người cuối tuần
+ACC000104|2026-10-19 21:12:07|Cho mình vào nhóm học với
+ACC000104|2026-10-19 21:12:16|Cho mình xin chút thông tin với
+ACC000066|2026-10-19 21:12:19|Đúng rồi
+ACC000123|2026-10-19 21:12:20|Haha đúng là vậy
+ACC000066|2026-10-19 21:12:31|Trời nóng quá
+ACC000066|2026-10-19 21:56:28|Đường dẫn thư mục lưu file nhóm: C:\\Nhom\\TaiLieu\\2026 (mọi người nhớ lưu đúng chỗ nhé).
+SYSTEM|2026-10-19 22:37:33|Tống Tuyết Tiên đã thêm Hoàng Thúy Lan vào nhóm
+ACC000066|2026-10-19 23:35:33|Tối nay tập gym không mọi người?
+ACC000114|2026-10-19 23:38:03|Có, 7 giờ nhé.
+ACC000104|2026-10-19 23:38:44|Mình tới sau 15 phút.
+ACC000066|2026-10-19 23:39:35|Hôm nay tập chân nhé.
+ACC000123|2026-10-19 23:44:50|Ôi, ngày tra tấn.
+SYSTEM|2026-10-20 21:24:27|Nguyễn Quang Huy đã thêm Đặng Quang Huy vào nhóm
+SYSTEM|2026-10-20 22:32:27|Nguyễn Thanh Bình đã thêm Trần Minh Nhàn vào nhóm
+ACC000066|2026-10-21 06:02:27|Tối nay tập gym không mọi người?
+ACC000123|2026-10-21 06:03:52|Có, 7 giờ nhé.
+ACC000114|2026-10-21 06:06:06|Mình tới sau 15 phút.
+ACC000066|2026-10-21 06:10:52|Hôm nay tập chân nhé.
+ACC000104|2026-10-21 06:15:54|Ôi, ngày tra tấn.
+ACC000123|2026-10-21 09:25:23|Mọi người cho ý kiến về lịch sinh hoạt tháng sau nhé: A | B | C, chọn phương án phù hợp nhất.
+ACC000123|2026-10-21 15:24:09|Haha đúng là vậy
+ACC000123|2026-10-21 15:24:56|Hẹn mọi người cuối tuần
+ACC000037|2026-10-21 15:26:40|Cố lên mọi người
+ACC000066|2026-10-21 15:31:23|Ổn rồi nhé
+ACC000129|2026-10-21 18:19:49|Mưa quá, ai đi học được không?
+ACC000123|2026-10-21 18:20:36|Mình vẫn đi, chỉ hơi ướt thôi.
+ACC000114|2026-10-21 18:25:55|Mình ở nhà, học trực tuyến đi.
+ACC000066|2026-10-21 18:30:53|Lớp mình có thông báo gì chưa?
+ACC000129|2026-10-21 18:36:31|Chưa thấy, cứ đến lớp bình thường.
+ACC000037|2026-10-21 19:33:47|Mai chạy 5 km nhé mọi người.
+ACC000123|2026-10-21 19:36:31|Ok, mấy giờ?
+ACC000037|2026-10-21 19:36:59|5 giờ 30 ở công viên.
+ACC000114|2026-10-21 19:38:40|Mình tham gia, chạy chậm thôi nhé.
+ACC000066|2026-10-21 19:42:24|Mình mang nước cho cả nhóm.
+SYSTEM|2026-10-22 08:47:14|Trần Minh Nhàn đã thêm Phạm Công Thuận vào nhóm
+ACC000104|2026-10-24 13:02:20|Mình đang trên đường tới
+ACC000081|2026-10-24 13:03:31|Quá tuyệt
+ACC000066|2026-10-24 13:05:44|haha

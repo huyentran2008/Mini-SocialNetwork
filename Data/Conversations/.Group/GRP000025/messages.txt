@@ -1,0 +1,364 @@
+SYSTEM|2026-10-17 20:46:45|Trịnh Thùy Trinh đã tạo nhóm "Chạy bộ 5h30"
+SYSTEM|2026-10-17 20:46:46|Trịnh Thùy Trinh đã thêm Phạm Hà My vào nhóm
+SYSTEM|2026-10-17 20:46:47|Trịnh Thùy Trinh đã thêm Nguyễn Quang Huy vào nhóm
+SYSTEM|2026-10-17 20:46:48|Nguyễn Quang Huy đã thêm Đặng Quang Huy vào nhóm
+SYSTEM|2026-10-17 20:46:49|Trịnh Thùy Trinh đã thêm Ngô Khánh Ý vào nhóm
+ACC000037|2026-10-17 22:07:39|Tối nay tập gym không mọi người?
+ACC000117|2026-10-17 22:54:35|Có, 7 giờ nhé.
+ACC000034|2026-10-17 22:59:41|Mình tới sau 15 phút.
+ACC000037|2026-10-17 23:00:32|Hôm nay tập chân nhé.
+ACC000104|2026-10-17 23:01:55|Ôi, ngày tra tấn.
+ACC000034|2026-10-18 15:51:33|Mình về trước nhé
+SYSTEM|2026-10-18 19:42:15|Nguyễn Quang Huy đã thêm Phạm Gia Vũ vào nhóm
+ACC000034|2026-10-18 19:56:18|Mình đang bận chút, lát nói tiếp
+ACC000037|2026-10-18 19:57:02|Mình đi ngủ trước nhé
+ACC000034|2026-10-18 20:01:28|Ai đi nữa không?
+ACC000117|2026-10-18 20:01:40|Ai biết quán nào ngon giới thiệu mình với
+SYSTEM|2026-10-18 20:20:09|Đặng Quang Huy đã thêm Bùi Thị Kiều vào nhóm
+ACC000037|2026-10-18 20:25:24|Đừng quên nha mọi người
+ACC000034|2026-10-18 21:47:39|Có ai online không?
+ACC000037|2026-10-18 21:47:52|Mình cũng nghĩ thế
+ACC000037|2026-10-18 21:59:11|Có ai đăng ký giải chạy tháng sau chưa?
+ACC000057|2026-10-18 22:00:05|Mình đăng ký rồi, cự ly 10 km.
+ACC000104|2026-10-18 22:01:23|Mình còn đang phân vân.
+ACC000037|2026-10-18 22:02:44|Đăng ký sớm có giá ưu đãi đó.
+ACC000104|2026-10-18 22:06:00|Vậy mình đăng ký luôn.
+ACC000117|2026-10-18 22:14:13|Có ai đăng ký giải chạy tháng sau chưa?
+ACC000037|2026-10-18 22:37:44|Mình đăng ký rồi, cự ly 10 km.
+ACC000060|2026-10-18 22:37:56|Mình còn đang phân vân.
+ACC000117|2026-10-18 22:40:28|Đăng ký sớm có giá ưu đãi đó.
+ACC000060|2026-10-18 22:41:03|Vậy mình đăng ký luôn.
+ACC000037|2026-10-18 22:55:39|Tối nay tập gym không mọi người?
+SYSTEM|2026-10-18 23:23:53|Phạm Gia Vũ đã thêm Nguyễn Tuấn Phúc vào nhóm
+ACC000117|2026-10-18 23:30:34|Có, 7 giờ nhé.
+ACC000138|2026-10-18 23:31:53|Mình tới sau 15 phút.
+ACC000037|2026-10-18 23:34:11|Hôm nay tập chân nhé.
+ACC000034|2026-10-18 23:34:43|Ôi, ngày tra tấn.
+ACC000104|2026-10-19 09:50:45|Mai chạy 5 km nhé mọi người.
+ACC000117|2026-10-19 10:25:42|Ok, mấy giờ?
+ACC000104|2026-10-19 10:27:47|5 giờ 30 ở công viên.
+ACC000057|2026-10-19 10:29:33|Mình tham gia, chạy chậm thôi nhé.
+ACC000111|2026-10-19 10:30:05|Mình mang nước cho cả nhóm.
+ACC000060|2026-10-19 14:25:02|Cho mình xin chút thông tin với
+ACC000057|2026-10-19 14:26:53|Thật không đó?
+ACC000104|2026-10-19 17:02:31|Tối nay tập gym không mọi người?
+ACC000034|2026-10-19 17:05:20|Có, 7 giờ nhé.
+ACC000037|2026-10-19 17:05:39|Mình tới sau 15 phút.
+ACC000104|2026-10-19 17:08:16|Hôm nay tập chân nhé.
+ACC000111|2026-10-19 17:46:57|Ôi, ngày tra tấn.
+SYSTEM|2026-10-19 21:54:12|Bùi Thị Kiều đã thêm Nguyễn Hữu Phước vào nhóm
+SYSTEM|2026-10-19 22:28:59|Trịnh Thùy Trinh đã thêm Tăng Hữu Văn vào nhóm
+SYSTEM|2026-10-20 09:00:25|Bùi Thị Kiều đã thêm Nguyễn Kim Thủy vào nhóm
+SYSTEM|2026-10-20 14:46:45|Tăng Hữu Văn đã thêm Phạm Công Thuận vào nhóm
+SYSTEM|2026-10-20 15:17:27|Nguyễn Quang Huy đã thêm Võ Cẩm Ngọc Trang vào nhóm
+SYSTEM|2026-10-20 16:17:43|Đặng Quang Huy đã thêm Nguyễn Mỹ Phương Giang vào nhóm
+SYSTEM|2026-10-20 17:33:35|Bùi Thị Kiều đã thêm Phạm Ngọc Anh vào nhóm
+SYSTEM|2026-10-20 20:00:43|Nguyễn Quang Huy đã thêm Nguyễn Thanh Bình vào nhóm
+SYSTEM|2026-10-20 21:40:22|Phạm Gia Vũ đã thêm Nguyễn Minh Hải Tú vào nhóm
+ACC000004|2026-10-20 21:54:36|Có ai đăng ký giải chạy tháng sau chưa?
+ACC000052|2026-10-20 21:59:12|Mình đăng ký rồi, cự ly 10 km.
+ACC000034|2026-10-20 21:59:23|Mình còn đang phân vân.
+ACC000004|2026-10-20 22:00:09|Đăng ký sớm có giá ưu đãi đó.
+ACC000034|2026-10-20 22:03:43|Vậy mình đăng ký luôn.
+ACC000123|2026-10-21 00:48:58|Có ai đăng ký giải chạy tháng sau chưa?
+ACC000117|2026-10-21 00:50:18|Mình đăng ký rồi, cự ly 10 km.
+ACC000081|2026-10-21 00:54:10|Mình còn đang phân vân.
+ACC000123|2026-10-21 00:56:31|Đăng ký sớm có giá ưu đãi đó.
+ACC000081|2026-10-21 01:02:56|Vậy mình đăng ký luôn.
+ACC000123|2026-10-21 08:06:59|Tuyệt vời!
+ACC000037|2026-10-21 08:07:15|Mình đi ngủ trước nhé
+ACC000097|2026-10-21 08:11:57|Mệt ghê
+ACC000104|2026-10-21 08:15:51|Cảm ơn cả nhóm đã giúp mình
+ACC000111|2026-10-21 08:16:49|Okela mọi người
+ACC000004|2026-10-21 08:23:18|Ủa vậy hả?
+ACC000004|2026-10-21 09:17:03|Có ai đăng ký giải chạy tháng sau chưa?
+ACC000097|2026-10-21 09:17:42|Mình đăng ký rồi, cự ly 10 km.
+ACC000117|2026-10-21 09:18:48|Mình còn đang phân vân.
+ACC000004|2026-10-21 09:46:21|Đăng ký sớm có giá ưu đãi đó.
+ACC000117|2026-10-21 09:50:11|Vậy mình đăng ký luôn.
+ACC000004|2026-10-21 11:11:12|Cố lên mọi người
+ACC000123|2026-10-21 11:19:27|Cuối tuần này mọi người rảnh không, tụ tập nhé.
+ACC000004|2026-10-21 11:20:19|Mình rảnh thứ năm.
+ACC000037|2026-10-21 11:21:12|Mình bận buổi sáng, chiều thì ổn.
+ACC000138|2026-10-21 11:49:17|Chiều thứ tư được không?
+ACC000123|2026-10-21 11:51:43|Chốt chiều thứ ba, địa điểm mình báo sau.
+ACC000004|2026-10-21 11:52:49|Ok.
+ACC000097|2026-10-21 12:01:02|Mai chạy 5 km nhé mọi người.
+ACC000123|2026-10-21 12:06:45|Ok, mấy giờ?
+ACC000097|2026-10-21 12:13:43|5 giờ 30 ở công viên.
+ACC000052|2026-10-21 12:16:43|Mình tham gia, chạy chậm thôi nhé.
+ACC000104|2026-10-21 12:18:06|Mình mang nước cho cả nhóm.
+ACC000031|2026-10-21 12:27:24|Cuối tuần này mọi người rảnh không, tụ tập nhé.
+ACC000097|2026-10-21 12:30:21|Mình rảnh thứ năm.
+ACC000004|2026-10-21 12:47:38|Mình bận buổi sáng, chiều thì ổn.
+ACC000034|2026-10-21 12:50:23|Chiều thứ tư được không?
+ACC000031|2026-10-21 12:52:44|Chốt chiều chủ nhật, địa điểm mình báo sau.
+ACC000097|2026-10-21 12:56:14|Ok.
+ACC000052|2026-10-21 13:04:17|Ủa vậy hả?
+ACC000004|2026-10-21 13:04:21|Đồng ý với bạn
+ACC000123|2026-10-21 13:04:22|Mai gặp nhé
+ACC000123|2026-10-21 13:04:33|Ủa vậy hả?
+ACC000052|2026-10-21 13:04:34|Đã nhận được rồi nhé
+ACC000060|2026-10-21 13:04:46|Trời nóng quá
+ACC000004|2026-10-21 13:04:55|Mình cũng nghĩ thế
+ACC000037|2026-10-21 13:04:58|Nhớ mang theo nhé
+ACC000004|2026-10-21 13:04:59|Cảm ơn nhé
+ACC000123|2026-10-21 13:05:08|Mình đang bận chút, lát nói tiếp
+ACC000117|2026-10-21 13:05:17|Mệt ghê
+ACC000004|2026-10-21 13:05:21|Nhớ mang theo nhé
+ACC000052|2026-10-21 13:05:30|Mệt ghê
+ACC000117|2026-10-21 13:05:41|Mình +1
+ACC000104|2026-10-21 13:13:58|Tối nay tập gym không mọi người?
+ACC000037|2026-10-21 13:15:48|Có, 7 giờ nhé.
+ACC000031|2026-10-21 13:17:59|Mình tới sau 15 phút.
+ACC000104|2026-10-21 13:18:40|Hôm nay tập chân nhé.
+ACC000004|2026-10-21 13:22:24|Ôi, ngày tra tấn.
+ACC000037|2026-10-21 13:37:11|Mình đi ngủ trước nhé
+ACC000037|2026-10-21 13:38:50|Cho mình xin chút thông tin với
+ACC000037|2026-10-21 13:40:11|Quá tuyệt
+ACC000117|2026-10-21 15:48:54|Nghe hợp lý đó
+ACC000004|2026-10-21 15:49:01|Ổn rồi nhé
+ACC000052|2026-10-21 15:49:05|Mình về trước nhé
+ACC000034|2026-10-21 15:49:15|Ừ, mình nhớ rồi
+ACC000004|2026-10-21 15:49:17|Để mình kiểm tra lại rồi báo
+ACC000004|2026-10-21 15:49:28|Mệt ghê
+ACC000117|2026-10-21 15:49:39|Mệt ghê
+ACC000004|2026-10-21 15:49:44|Cảm ơn nhé
+ACC000117|2026-10-21 15:49:49|Mình sẽ cập nhật sau
+ACC000037|2026-10-21 15:49:54|Cố lên mọi người
+ACC000004|2026-10-21 15:49:57|Quá tuyệt
+ACC000118|2026-10-21 15:50:09|Đúng rồi
+ACC000052|2026-10-21 15:50:21|Mình đang trên đường tới
+ACC000052|2026-10-21 15:50:24|Cảm ơn nhé
+ACC000123|2026-10-21 15:50:35|Giỏi quá bạn ơi
+ACC000123|2026-10-21 15:50:47|Mình về trước nhé
+ACC000123|2026-10-21 15:50:54|Vậy chốt nhé
+ACC000037|2026-10-21 15:50:59|Để mình kiểm tra lại rồi báo
+ACC000052|2026-10-21 15:51:10|Haha cười đau bụng
+ACC000004|2026-10-21 15:51:15|Có ai online không?
+ACC000004|2026-10-21 16:48:27|Thông báo: tuần này nhóm sinh hoạt vào thứ sáu, 6 giờ tối, địa điểm sẽ cập nhật trong nhóm. Mọi người sắp xếp thời gian tham gia đầy đủ, ai bận thì nhắn lại cho mình trước ngày sinh hoạt để mình tổng hợp danh sách nhé. Cảm ơn mọi người rất nhiều vì đã luôn nhiệt tình tham gia và đóng góp ý kiến cho nhóm thời gian qua.
+SYSTEM|2026-10-21 18:24:36|Nguyễn Kim Thủy đã thêm Hoàng Gia Huy vào nhóm
+ACC000005|2026-10-21 18:47:19|Mình cũng nghĩ thế
+ACC000138|2026-10-21 18:47:22|Tuyệt vời!
+ACC000117|2026-10-21 18:47:26|Chúc mừng nhé!
+ACC000081|2026-10-21 18:47:35|Mình sẽ cập nhật sau
+ACC000004|2026-10-21 18:47:45|Hôm nay vui thật
+ACC000052|2026-10-21 18:47:49|Mình sẽ cập nhật sau
+ACC000004|2026-10-21 18:47:55|Haha đúng là vậy
+ACC000004|2026-10-21 18:48:04|Ai có tin gì mới không?
+ACC000052|2026-10-21 18:48:15|Chuẩn rồi
+ACC000004|2026-10-21 18:48:23|Mình vừa tới nơi
+ACC000004|2026-10-21 18:48:26|Mình đang trên đường tới
+ACC000004|2026-10-21 18:48:37|Mệt ghê
+ACC000034|2026-10-21 18:48:40|haha
+ACC000052|2026-10-21 18:48:47|Tuyệt vời!
+ACC000052|2026-10-21 18:48:54|Mình cũng nghĩ thế
+ACC000004|2026-10-21 18:48:59|Mai gặp nhé
+ACC000052|2026-10-21 19:16:33|Tối nay tập gym không mọi người?
+ACC000004|2026-10-21 19:17:24|Có, 7 giờ nhé.
+ACC000123|2026-10-21 19:19:33|Mình tới sau 15 phút.
+ACC000052|2026-10-21 19:26:09|Hôm nay tập chân nhé.
+ACC000097|2026-10-21 19:27:11|Ôi, ngày tra tấn.
+ACC000037|2026-10-21 20:02:52|Cuối tuần này mọi người rảnh không, tụ tập nhé.
+ACC000004|2026-10-21 20:03:35|Mình rảnh thứ năm.
+ACC000052|2026-10-21 20:05:26|Mình bận buổi sáng, chiều thì ổn.
+ACC000097|2026-10-21 20:07:44|Chiều thứ bảy được không?
+ACC000037|2026-10-21 20:11:28|Chốt chiều thứ bảy, địa điểm mình báo sau.
+ACC000004|2026-10-21 20:13:22|Ok.
+ACC000081|2026-10-21 20:23:22|Có ai online không?
+ACC000031|2026-10-21 20:24:33|Quá tuyệt
+ACC000060|2026-10-21 20:25:04|Tuyệt vời!
+ACC000123|2026-10-21 20:27:24|Ổn rồi nhé
+ACC000004|2026-10-21 20:28:08|Cảm ơn nhé
+ACC000031|2026-10-21 20:36:43|Cuối kỳ mọi người ôn thế nào rồi?
+ACC000117|2026-10-21 20:58:15|Mình mới xong nửa, vẫn còn rối.
+ACC000005|2026-10-21 21:39:36|Mình học theo đề cương cũ.
+ACC000060|2026-10-21 22:19:31|Có ai muốn học nhóm không?
+ACC000031|2026-10-21 23:05:09|Mình tham gia, tối nay nhé.
+ACC000117|2026-10-21 23:06:46|Cho mình một suất.
+ACC000093|2026-10-21 23:15:30|Mọi người ơi, điểm danh nào.
+ACC000031|2026-10-21 23:19:27|Có mặt!
+ACC000081|2026-10-21 23:22:46|Có mình.
+ACC000123|2026-10-21 23:23:39|Mình đây.
+ACC000093|2026-10-21 23:23:48|Tốt, vậy bắt đầu nhé.
+ACC000004|2026-10-22 00:16:00|Ngủ ngon cả nhóm
+ACC000138|2026-10-22 00:16:32|Mọi người ăn cơm chưa?
+ACC000037|2026-10-22 00:19:46|Cho mình xin chút thông tin với
+ACC000052|2026-10-22 00:21:25|Ổn rồi nhé
+ACC000005|2026-10-22 00:21:44|Nghe hợp lý đó
+ACC000004|2026-10-22 00:34:00|Tối nay tập gym không mọi người?
+ACC000123|2026-10-22 00:34:27|Có, 7 giờ nhé.
+ACC000031|2026-10-22 00:40:01|Mình tới sau 15 phút.
+ACC000004|2026-10-22 00:40:48|Hôm nay tập chân nhé.
+ACC000111|2026-10-22 00:42:45|Ôi, ngày tra tấn.
+ACC000034|2026-10-22 00:50:51|Mình vừa tới nơi
+ACC000097|2026-10-22 00:50:59|Haha cười đau bụng
+ACC000097|2026-10-22 00:51:10|Tuyệt vời!
+ACC000138|2026-10-22 00:51:19|Vậy chốt nhé
+ACC000004|2026-10-22 00:51:28|Ngủ ngon cả nhóm
+ACC000123|2026-10-22 00:51:29|Mình vừa tới nơi
+ACC000123|2026-10-22 00:51:40|Đừng quên nha mọi người
+ACC000123|2026-10-22 00:51:51|Mọi người ăn cơm chưa?
+ACC000004|2026-10-22 00:52:03|Ai biết quán nào ngon giới thiệu mình với
+ACC000097|2026-10-22 00:52:11|Thật không đó?
+ACC000097|2026-10-22 00:52:19|Thật không đó?
+ACC000031|2026-10-22 00:52:30|Ai đi nữa không?
+ACC000004|2026-10-22 00:52:34|Okela mọi người
+ACC000004|2026-10-22 00:52:46|Ai biết quán nào ngon giới thiệu mình với
+ACC000097|2026-10-22 00:52:51|Cảm ơn nhé
+SYSTEM|2026-10-22 10:26:02|Nguyễn Minh Hải Tú đã thêm Đặng Minh Quốc vào nhóm
+ACC000005|2026-10-22 10:26:44|Hôm nay mình chạy được 5 km, mệt quá.
+ACC000004|2026-10-22 10:27:59|Giỏi quá, tiến bộ rồi đó.
+ACC000037|2026-10-22 10:28:59|Nhớ giãn cơ sau khi chạy nhé.
+ACC000005|2026-10-22 10:34:04|Cảm ơn, mình có giãn rồi.
+ACC000034|2026-10-22 10:38:28|Cuối tuần chạy dài nhé.
+SYSTEM|2026-10-22 13:18:37|Phạm Gia Vũ đã thêm Lê Đình Khôi vào nhóm
+ACC000037|2026-10-22 14:36:44|Cuối kỳ mọi người ôn thế nào rồi?
+ACC000097|2026-10-22 14:41:59|Mình mới xong nửa, vẫn còn rối.
+ACC000004|2026-10-22 14:42:34|Mình học theo đề cương cũ.
+ACC000031|2026-10-22 14:44:54|Có ai muốn học nhóm không?
+ACC000037|2026-10-22 15:00:21|Mình tham gia, tối nay nhé.
+ACC000097|2026-10-22 15:01:13|Cho mình một suất.
+ACC000093|2026-10-22 19:35:47|Hôm nay vui thật
+ACC000067|2026-10-22 19:35:59|Okela mọi người
+ACC000117|2026-10-22 19:36:00|Mai gặp nhé
+ACC000004|2026-10-22 19:36:02|Mình cũng nghĩ thế
+ACC000067|2026-10-22 19:36:12|Mình đang bận chút, lát nói tiếp
+ACC000138|2026-10-22 19:36:17|Ngủ ngon cả nhóm
+ACC000117|2026-10-22 19:36:24|Ngủ ngon cả nhóm
+ACC000097|2026-10-22 19:36:31|Nhớ giữ sức khỏe nhé mọi người
+ACC000067|2026-10-22 19:36:40|Có ai online không?
+ACC000004|2026-10-22 19:36:49|Mình sẽ cập nhật sau
+ACC000123|2026-10-22 19:36:53|Ừ, mình nhớ rồi
+ACC000117|2026-10-22 19:36:58|Giỏi quá bạn ơi
+ACC000037|2026-10-22 19:36:59|Okela mọi người
+ACC000004|2026-10-22 19:37:11|Nghe hợp lý đó
+ACC000117|2026-10-22 19:37:22|Nghe hợp lý đó
+ACC000037|2026-10-22 19:37:31|Ngủ ngon cả nhóm
+ACC000052|2026-10-22 19:37:32|Hôm nay mưa mà vẫn đi à?
+ACC000005|2026-10-22 19:37:36|Haha đúng là vậy
+ACC000118|2026-10-22 19:37:44|Ổn rồi nhé
+ACC000004|2026-10-22 19:37:56|Trời nóng quá
+ACC000067|2026-10-22 19:38:00|Đồng ý với bạn
+ACC000111|2026-10-22 19:38:04|Nhớ giữ sức khỏe nhé mọi người
+ACC000104|2026-10-22 19:38:05|Ai có tin gì mới không?
+ACC000104|2026-10-22 19:38:15|Đã nhận được rồi nhé
+ACC000005|2026-10-22 19:38:26|Mệt ghê
+ACC000031|2026-10-22 19:38:28|Ừ, mình nhớ rồi
+ACC000117|2026-10-22 20:43:51|Ủa vậy hả?
+ACC000004|2026-10-22 20:43:58|Đúng rồi
+ACC000004|2026-10-22 20:44:05|Vậy chốt nhé
+ACC000060|2026-10-22 20:44:12|Mình đang bận chút, lát nói tiếp
+ACC000004|2026-10-22 20:44:14|Cố lên mọi người
+ACC000005|2026-10-22 20:44:19|Cố lên mọi người
+ACC000097|2026-10-22 20:44:22|Thật không đó?
+ACC000117|2026-10-22 20:44:32|Thật không đó?
+ACC000081|2026-10-22 20:44:44|Mình cũng nghĩ thế
+ACC000037|2026-10-22 20:44:50|Okela mọi người
+ACC000123|2026-10-22 20:44:54|Ổn rồi nhé
+ACC000097|2026-10-22 20:45:00|Đừng quên nha mọi người
+ACC000005|2026-10-22 20:45:10|Ủa vậy hả?
+ACC000113|2026-10-22 20:45:18|Cảm ơn nhé
+ACC000031|2026-10-22 20:45:23|Mình +1
+ACC000057|2026-10-22 20:45:26|Vậy chốt nhé
+ACC000005|2026-10-22 20:45:30|Okela mọi người
+ACC000004|2026-10-22 20:45:38|Lần sau mình rủ thêm người nhé
+ACC000117|2026-10-22 20:45:44|Chúc mừng nhé!
+ACC000067|2026-10-22 20:45:56|Okela mọi người
+ACC000067|2026-10-22 20:46:02|Mọi người ăn cơm chưa?
+ACC000031|2026-10-22 20:46:03|Chuẩn rồi
+ACC000067|2026-10-22 20:46:15|Mình đi ngủ trước nhé
+ACC000004|2026-10-22 20:46:22|Nghe hợp lý đó
+SYSTEM|2026-10-22 21:51:19|Trịnh Thùy Trinh đã xóa Nguyễn Thanh Bình khỏi nhóm
+ACC000081|2026-10-23 10:24:25|Haha cười đau bụng
+ACC000004|2026-10-23 11:05:06|Đã nhận được rồi nhé
+ACC000004|2026-10-23 11:55:38|Cho mình xin chút thông tin với
+ACC000113|2026-10-23 12:10:20|Danh sách việc cần làm: 1 | chuẩn bị tài liệu; 2 | liên hệ địa điểm; 3 | chốt thời gian; 4 | phân công người phụ trách. Ai nhận việc nào nhắn số thứ tự giúp mình.
+ACC000037|2026-10-23 15:26:04|Tối nay tập gym không mọi người?
+ACC000067|2026-10-23 15:27:57|Có, 7 giờ nhé.
+ACC000097|2026-10-23 15:28:16|Mình tới sau 15 phút.
+ACC000037|2026-10-23 15:30:31|Hôm nay tập chân nhé.
+ACC000117|2026-10-23 15:51:59|Ôi, ngày tra tấn.
+ACC000037|2026-10-23 20:34:25|Hôm nay mình chạy được 30 km, mệt quá.
+ACC000097|2026-10-23 20:35:41|Giỏi quá, tiến bộ rồi đó.
+ACC000004|2026-10-23 20:35:54|Nhớ giãn cơ sau khi chạy nhé.
+ACC000037|2026-10-23 20:36:20|Cảm ơn, mình có giãn rồi.
+ACC000081|2026-10-23 20:40:06|Cuối tuần chạy dài nhé.
+ACC000117|2026-10-23 20:55:05|Tuyệt vời!
+ACC000004|2026-10-23 20:56:40|Mình +1
+ACC000060|2026-10-23 21:31:50|Có ai đăng ký giải chạy tháng sau chưa?
+ACC000004|2026-10-23 21:35:35|Mình đăng ký rồi, cự ly 10 km.
+ACC000117|2026-10-23 21:38:51|Mình còn đang phân vân.
+ACC000060|2026-10-23 21:41:00|Đăng ký sớm có giá ưu đãi đó.
+ACC000117|2026-10-23 21:43:10|Vậy mình đăng ký luôn.
+ACC000005|2026-10-23 21:53:43|Mình về trước nhé
+ACC000118|2026-10-23 21:54:09|Ổn rồi nhé
+ACC000004|2026-10-23 22:23:27|Cho mình xin chút thông tin với
+ACC000004|2026-10-23 22:30:26|Mình vừa tới nơi
+ACC000004|2026-10-23 22:55:48|Ủa vậy hả?
+ACC000052|2026-10-24 07:12:49|Có ai đăng ký giải chạy tháng sau chưa?
+ACC000097|2026-10-24 07:14:11|Mình đăng ký rồi, cự ly 10 km.
+ACC000067|2026-10-24 07:15:36|Mình còn đang phân vân.
+ACC000052|2026-10-24 07:15:56|Đăng ký sớm có giá ưu đãi đó.
+ACC000067|2026-10-24 07:19:17|Vậy mình đăng ký luôn.
+ACC000081|2026-10-24 09:56:54|Hôm nay mình chạy được 2 km, mệt quá.
+ACC000052|2026-10-24 09:58:50|Giỏi quá, tiến bộ rồi đó.
+ACC000005|2026-10-24 10:01:11|Nhớ giãn cơ sau khi chạy nhé.
+ACC000081|2026-10-24 10:05:01|Cảm ơn, mình có giãn rồi.
+ACC000004|2026-10-24 10:05:32|Cuối tuần chạy dài nhé.
+ACC000057|2026-10-24 12:32:04|Hôm nay mình chạy được 2 km, mệt quá.
+ACC000005|2026-10-24 12:33:13|Giỏi quá, tiến bộ rồi đó.
+ACC000037|2026-10-24 12:36:57|Nhớ giãn cơ sau khi chạy nhé.
+ACC000057|2026-10-24 12:39:28|Cảm ơn, mình có giãn rồi.
+ACC000067|2026-10-24 12:40:24|Cuối tuần chạy dài nhé.
+ACC000081|2026-10-24 15:00:24|Haha cười đau bụng
+ACC000004|2026-10-24 15:00:30|Cho mình vào nhóm học với
+ACC000031|2026-10-24 15:00:32|Đồng ý với bạn
+ACC000097|2026-10-24 15:00:44|Hẹn mọi người cuối tuần
+ACC000004|2026-10-24 15:00:45|Tuyệt vời!
+ACC000052|2026-10-24 15:00:51|Hôm nay vui thật
+ACC000004|2026-10-24 15:00:57|Thật không đó?
+ACC000004|2026-10-24 15:00:59|Haha cười đau bụng
+ACC000052|2026-10-24 15:01:05|Trời nóng quá
+ACC000005|2026-10-24 15:01:15|Giỏi quá bạn ơi
+ACC000005|2026-10-24 15:01:26|Trời nóng quá
+ACC000067|2026-10-24 15:01:31|Lần sau mình rủ thêm người nhé
+ACC000037|2026-10-24 15:01:34|Chuẩn rồi
+ACC000117|2026-10-24 15:01:44|haha
+ACC000004|2026-10-24 15:01:47|Đúng rồi
+ACC000117|2026-10-24 15:01:56|Cho mình xin chút thông tin với
+ACC000004|2026-10-24 15:01:59|Đã nhận được rồi nhé
+ACC000097|2026-10-24 15:02:07|Chuẩn rồi
+ACC000004|2026-10-24 15:02:18|Cho mình vào nhóm học với
+ACC000004|2026-10-24 15:02:23|Để mình kiểm tra lại rồi báo
+ACC000111|2026-10-24 15:02:24|Cho mình vào nhóm học với
+ACC000037|2026-10-24 15:02:29|Để mình kiểm tra lại rồi báo
+ACC000004|2026-10-24 15:02:39|Mình sẽ cập nhật sau
+ACC000052|2026-10-24 15:02:41|Ừ, mình nhớ rồi
+ACC000117|2026-10-24 15:02:51|Mình về trước nhé
+ACC000004|2026-10-24 22:37:36|Cảm ơn nhé
+ACC000060|2026-10-24 22:39:08|Mình vừa tới nơi
+ACC000005|2026-10-24 22:41:14|Nghe hợp lý đó
+ACC000060|2026-10-24 22:41:40|Trời nóng quá
+ACC000111|2026-10-24 22:42:13|Cho mình xin chút thông tin với
+ACC000037|2026-10-24 22:42:29|Mình vừa tới nơi
+ACC000004|2026-10-25 07:08:41|Mệt ghê
+ACC000004|2026-10-25 07:08:49|Nhớ mang theo nhé
+ACC000005|2026-10-25 07:08:53|Đồng ý với bạn
+ACC000081|2026-10-25 07:08:54|Ngủ ngon cả nhóm
+ACC000117|2026-10-25 07:08:58|Có ai online không?
+ACC000117|2026-10-25 07:09:06|Cố lên mọi người
+ACC000004|2026-10-25 07:09:18|Chuẩn rồi
+ACC000057|2026-10-25 07:09:20|Ủa vậy hả?
+ACC000067|2026-10-25 07:09:30|Tuyệt vời!
+ACC000004|2026-10-25 07:09:42|Đồng ý với bạn
+ACC000037|2026-10-25 07:09:44|Mệt ghê
+ACC000097|2026-10-25 07:09:47|Mệt ghê
+ACC000004|2026-10-25 07:09:59|Mình cũng nghĩ thế
+ACC000004|2026-10-25 07:10:05|Nghe hợp lý đó
+ACC000113|2026-10-25 07:10:11|Nghe hợp lý đó
+ACC000097|2026-10-25 07:10:15|Okela mọi người
+ACC000113|2026-10-25 07:10:24|Okela mọi người
+ACC000067|2026-10-25 07:10:33|Mình về trước nhé
+ACC000097|2026-10-25 07:10:45|Okela mọi người
+ACC000117|2026-10-25 07:10:49|Cho mình vào nhóm học với

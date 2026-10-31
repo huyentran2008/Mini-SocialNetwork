@@ -1,0 +1,8 @@
+id=POST000215
+author=ACC000012
+visibility=PUBLIC
+created_at=2026-10-20 11:40:45
+edited_at=
+status=VISIBLE
+title=Đi một mình có sao không?
+content=Lần đầu mình đi du lịch một mình tới Đà Nẵng. Ban đầu hơi lo nhưng càng đi càng thích vì được tự quyết định mọi thứ.

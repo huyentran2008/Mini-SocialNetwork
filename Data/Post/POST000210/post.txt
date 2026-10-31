@@ -1,0 +1,8 @@
+id=POST000210
+author=ACC000016
+visibility=PUBLIC
+created_at=2026-10-19 21:31:49
+edited_at=2026-10-22 16:01:49
+status=VISIBLE
+title=Học thiết kế giao diện từ con số 0
+content=Mình bắt đầu học Figma được một tháng. Hiểu về khoảng trắng, phân cấp thông tin và bảng màu đã thay đổi cách mình nhìn mọi ứng dụng.

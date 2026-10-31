@@ -1,0 +1,4 @@
+id=GRP000002
+name=Nhóm học DSA
+owner=ACC000044
+created_at=2026-10-11 20:00:00

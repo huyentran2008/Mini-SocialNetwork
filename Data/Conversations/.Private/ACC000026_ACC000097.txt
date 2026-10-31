@@ -1,0 +1,38 @@
+ACC000026|2026-10-12 11:54:09|Bạn ngủ chưa?
+ACC000097|2026-10-12 11:57:23|Chưa, đang làm bài tập.
+ACC000026|2026-10-12 12:44:53|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000097|2026-10-12 12:45:10|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000026|2026-10-12 13:23:56|Ngủ ngon nha.
+ACC000097|2026-10-12 13:26:18|Ngủ ngon.
+ACC000026|2026-10-12 15:05:57|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000097|2026-10-12 15:22:26|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000026|2026-10-12 15:25:20|Cảm ơn, mình hay quên lắm.
+ACC000097|2026-10-12 15:25:59|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000026|2026-10-12 15:26:33|Ừ, mình in hai bản.
+ACC000097|2026-10-12 15:27:19|Giỏi.
+ACC000097|2026-10-14 12:53:19|Tối nay đi ăn cơm gà không?
+ACC000026|2026-10-14 12:53:44|Đi chứ! Quán nào?
+ACC000097|2026-10-14 12:54:43|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000026|2026-10-14 12:55:41|Mấy giờ?
+ACC000097|2026-10-14 13:00:54|11 giờ 30 nhé.
+ACC000026|2026-10-14 13:01:49|Ok, mình rủ thêm một bạn nữa được không?
+ACC000097|2026-10-14 13:06:27|Được chứ, càng đông càng vui.
+ACC000097|2026-10-17 16:04:00|Chúc bạn một ngày tốt lành
+ACC000026|2026-10-17 16:05:22|Tối nói chuyện tiếp nhé
+ACC000097|2026-10-17 19:20:11|Mệt quá hôm nay
+ACC000026|2026-10-17 20:02:35|Thôi mình đi ăn cơm đã
+ACC000097|2026-10-17 20:05:15|Thật à?
+ACC000097|2026-10-17 20:07:28|Thôi mình đi ăn cơm đã
+ACC000026|2026-10-17 20:08:38|Ừ
+ACC000097|2026-10-17 21:59:05|Mình mới mua chiếc xe đạp.
+ACC000026|2026-10-17 22:00:24|Wow, xe đẹp không?
+ACC000097|2026-10-17 22:04:09|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000026|2026-10-17 22:06:23|Cuối tuần đạp xe quanh hồ nhé.
+ACC000097|2026-10-17 22:08:23|Hay đó, chốt luôn.
+ACC000026|2026-10-17 22:09:25|Nhớ mang nước.
+ACC000097|2026-10-18 22:05:20|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000026|2026-10-18 22:06:18|Chuyện nhỏ thôi mà.
+ACC000097|2026-10-18 22:08:01|Không có bạn chắc mình làm không kịp.
+ACC000026|2026-10-18 22:08:12|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000097|2026-10-18 22:10:17|Hôm nào mình mời bạn bánh xèo nhé.
+ACC000026|2026-10-18 22:12:05|Vậy thì mình không từ chối đâu.

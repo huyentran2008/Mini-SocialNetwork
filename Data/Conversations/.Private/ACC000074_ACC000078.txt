@@ -1,0 +1,18 @@
+ACC000074|2026-10-22 08:13:30|Sáng mai bạn có đi tập chạy không?
+ACC000078|2026-10-22 08:17:06|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000074|2026-10-22 09:05:15|Mình sợ dậy không nổi.
+ACC000078|2026-10-22 09:35:26|Để mình gọi bạn dậy.
+ACC000074|2026-10-22 09:40:12|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000078|2026-10-22 09:42:40|Ok, mai gặp.
+ACC000074|2026-10-22 20:42:02|Công thức làm bánh flan bạn dùng thế nào?
+ACC000078|2026-10-22 20:43:44|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000074|2026-10-22 20:44:02|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000078|2026-10-22 20:46:10|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000074|2026-10-22 20:46:45|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000078|2026-10-22 20:48:01|Làm xong cho mình xin một miếng nhé.
+ACC000074|2026-10-22 20:58:01|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000078|2026-10-22 20:58:57|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000074|2026-10-22 21:02:07|Cảm ơn, mình hay quên lắm.
+ACC000078|2026-10-22 21:05:16|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000074|2026-10-22 21:05:53|Ừ, mình in hai bản.
+ACC000078|2026-10-22 21:06:27|Giỏi.

@@ -1,0 +1,14 @@
+id=ACC000081
+username=thuanpc27
+password=546875616e403333373673
+full_name=Phạm Công Thuận
+birthday=04-02-2000
+gender=Male
+bio=Yoga buổi sáng, cà phê buổi chiều.
+created_at=2026-10-09
+status=ACTIVE
+residence=Cà Mau
+hometown=TP. Hồ Chí Minh
+school=
+workplace=KMS Technology
+hobbies=Thiền;Pilates;Tập gym

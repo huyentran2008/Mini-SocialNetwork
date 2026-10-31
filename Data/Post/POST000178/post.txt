@@ -1,0 +1,8 @@
+id=POST000178
+author=ACC000116
+visibility=FRIEND
+created_at=2026-10-16 13:22:45
+edited_at=
+status=VISIBLE
+title=Mình vừa hoàn thành đồ án đầu tay
+content=Đồ án quản lý mạng xã hội mini bằng C++ cuối cùng cũng chạy mượt. Phần khó nhất là thiết kế lưu dữ liệu bằng file văn bản sao cho đọc ghi nhanh. Cảm ơn nhóm đã đồng hành! Cảm ơn mọi người đã đọc.

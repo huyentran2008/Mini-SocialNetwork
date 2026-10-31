@@ -1,0 +1,14 @@
+id=ACC000096
+username=lyhk11
+password=4c7940373533317a
+full_name=Hồ Khánh Ly
+birthday=20-09-2007
+gender=Female
+bio=Đang học cách yêu bản thân hơn.
+created_at=2026-08-17
+status=LOCKED
+residence=TP. Hồ Chí Minh
+hometown=Cần Thơ
+school=Đại học Khoa học Xã hội và Nhân văn - ĐHQG TP.HCM
+workplace=
+hobbies=Làm vlog

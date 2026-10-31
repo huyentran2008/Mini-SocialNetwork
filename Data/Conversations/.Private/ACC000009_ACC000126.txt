@@ -1,0 +1,6 @@
+ACC000009|2026-10-16 13:48:27|Điểm thi giải tích có chưa bạn?
+ACC000126|2026-10-16 13:51:24|Có rồi, mình được 8 điểm.
+ACC000009|2026-10-16 13:53:25|Giỏi quá, mình mới 6 điểm thôi.
+ACC000126|2026-10-16 13:54:43|Cũng ổn mà, qua môn là tốt rồi.
+ACC000009|2026-10-16 13:55:20|Cảm ơn bạn đã động viên.
+ACC000126|2026-10-16 13:58:41|Lần sau mình học nhóm tiếp nhé.

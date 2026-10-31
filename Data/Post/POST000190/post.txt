@@ -1,0 +1,8 @@
+id=POST000190
+author=ACC000015
+visibility=FRIEND
+created_at=2026-10-17 14:21:51
+edited_at=
+status=VISIBLE
+title=Đạp xe vòng quanh hồ
+content=Sáng chủ nhật đạp xe 6 km quanh hồ, gió mát và đường vắng. Mình thấy đạp xe thật sự giúp đầu óc nhẹ nhàng. Có gì góp ý cứ bình luận nhé.

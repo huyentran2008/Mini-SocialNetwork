@@ -1,0 +1,26 @@
+ACC000046|2026-10-13 21:10:11|Bạn xem giúp mình CV được không?
+ACC000072|2026-10-13 21:11:09|Gửi mình xem nhé.
+ACC000046|2026-10-13 21:12:04|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000072|2026-10-13 21:57:08|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000046|2026-10-13 21:57:42|Hợp lý, mình sửa luôn.
+ACC000072|2026-10-13 22:40:39|Sửa xong gửi mình xem lại nhé.
+ACC000046|2026-10-15 21:45:31|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000072|2026-10-15 21:48:47|Ủa quên mất, bao nhiêu vậy?
+ACC000046|2026-10-15 21:49:39|200 nghìn thôi.
+ACC000072|2026-10-15 21:49:49|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000046|2026-10-15 21:50:24|Nhận được rồi nha.
+ACC000072|2026-10-15 21:52:05|Ok, xong nợ.
+ACC000046|2026-10-16 02:04:49|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000072|2026-10-16 02:05:30|Bạn chuẩn bị tới đâu rồi?
+ACC000046|2026-10-16 02:06:25|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000072|2026-10-16 02:08:45|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000046|2026-10-16 02:11:04|Cảm ơn Nga, mình sẽ cố.
+ACC000072|2026-10-16 02:12:11|Xong nhớ nhắn mình kết quả nhé.
+ACC000046|2026-10-20 10:41:03|Nghe được đó
+ACC000046|2026-10-20 10:46:24|Đang làm gì đó?
+ACC000046|2026-10-23 19:37:07|Bạn ngủ chưa?
+ACC000072|2026-10-23 19:37:15|Chưa, đang làm bài tập.
+ACC000046|2026-10-23 19:39:37|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000072|2026-10-23 19:40:23|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000046|2026-10-23 19:40:46|Ngủ ngon nha.
+ACC000072|2026-10-23 19:42:03|Ngủ ngon.

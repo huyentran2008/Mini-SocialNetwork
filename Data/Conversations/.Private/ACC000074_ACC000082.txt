@@ -1,0 +1,75 @@
+ACC000082|2026-10-17 14:35:26|Bạn ngủ chưa?
+ACC000074|2026-10-17 14:37:18|Chưa, đang làm bài tập.
+ACC000082|2026-10-17 14:40:17|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000074|2026-10-17 14:43:40|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000082|2026-10-17 14:44:33|Ngủ ngon nha.
+ACC000074|2026-10-17 14:48:01|Ngủ ngon.
+ACC000082|2026-10-17 20:36:36|Bạn cho mình mượn tài liệu được không?
+ACC000074|2026-10-17 20:36:50|Được, bạn lấy bản chụp hay bản mềm?
+ACC000082|2026-10-17 20:38:10|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000074|2026-10-17 20:38:59|Gửi rồi nha, kiểm tra thử.
+ACC000082|2026-10-17 20:40:37|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000074|2026-10-17 20:44:08|Không có gì.
+ACC000074|2026-10-18 21:23:41|Bạn ơi, bài tập cơ sở dữ liệu nộp chưa?
+ACC000082|2026-10-18 21:25:19|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000074|2026-10-18 21:25:37|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000082|2026-10-18 21:26:13|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000074|2026-10-18 21:46:15|Có gì hỏi mình nhé.
+ACC000082|2026-10-18 21:47:07|Okela, cảm ơn Mai nhiều.
+ACC000074|2026-10-20 21:30:19|Cuối tuần rảnh không?
+ACC000082|2026-10-20 21:30:48|Ừ
+ACC000074|2026-10-20 21:33:18|Đang làm gì đó?
+ACC000082|2026-10-20 21:40:10|Ok
+ACC000082|2026-10-20 21:43:38|Vừa về tới nhà
+ACC000082|2026-10-21 20:10:31|Thật à?
+ACC000074|2026-10-21 20:10:39|Cuối tuần rảnh không?
+ACC000082|2026-10-21 20:12:19|Có gì báo mình nhé
+ACC000074|2026-10-21 20:15:16|Haha
+ACC000074|2026-10-21 20:17:34|Thôi mình đi ăn cơm đã
+ACC000074|2026-10-21 20:49:03|Mình cũng nghĩ vậy
+ACC000074|2026-10-21 20:49:07|Cố lên nhé
+ACC000074|2026-10-21 20:49:08|Thôi mình đi ăn cơm đã
+ACC000082|2026-10-21 20:49:10|Đang làm gì đó?
+ACC000082|2026-10-21 20:49:20|Ok
+ACC000082|2026-10-21 20:49:29|Thôi mình đi ăn cơm đã
+ACC000082|2026-10-21 20:49:31|Có gì báo mình nhé
+ACC000082|2026-10-21 20:49:44|Ừ đúng rồi
+ACC000082|2026-10-21 20:49:48|Ngủ ngon
+ACC000074|2026-10-21 20:49:58|Để mình xem
+ACC000074|2026-10-21 20:50:01|Thật à?
+ACC000074|2026-10-21 20:50:06|Rồi, mình nhớ rồi
+ACC000082|2026-10-21 20:50:13|Ngủ ngon
+ACC000074|2026-10-22 22:08:43|Năm nay bạn về quê ăn Tết không?
+ACC000082|2026-10-22 22:09:35|Có, mình đặt vé tàu rồi.
+ACC000074|2026-10-22 22:13:36|Mình còn chưa mua được vé.
+ACC000082|2026-10-22 22:15:00|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000074|2026-10-22 22:16:14|Ok, mình thử xem.
+ACC000082|2026-10-22 22:16:49|Chúc bạn sớm có vé nhé.
+ACC000082|2026-10-22 22:49:28|Bạn biết laptop nào học lập trình ổn không?
+ACC000074|2026-10-22 22:50:02|Tầm giá bao nhiêu?
+ACC000082|2026-10-22 22:50:52|Khoảng 15 đến 20 triệu.
+ACC000074|2026-10-22 22:52:00|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000082|2026-10-22 22:53:50|Cảm ơn nhiều, mình đang rối quá.
+ACC000074|2026-10-22 22:57:15|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000082|2026-10-22 23:05:29|Thật à?
+ACC000074|2026-10-22 23:05:32|Haha bạn vui tính thật
+ACC000082|2026-10-22 23:05:37|Thôi mình đi ăn cơm đã
+ACC000082|2026-10-22 23:05:44|Đang làm gì đó?
+ACC000074|2026-10-22 23:05:46|Okela
+ACC000074|2026-10-22 23:05:54|Thôi mình đi ăn cơm đã
+ACC000082|2026-10-22 23:06:02|Nghe được đó
+ACC000082|2026-10-22 23:06:10|Để mình xem
+ACC000074|2026-10-22 23:06:16|Chúc bạn một ngày tốt lành
+ACC000074|2026-10-22 23:06:22|Cố lên nhé
+ACC000074|2026-10-22 23:06:33|Tối nói chuyện tiếp nhé
+ACC000074|2026-10-22 23:06:45|Mình cũng nghĩ vậy
+ACC000082|2026-10-22 23:06:52|Vừa về tới nhà
+ACC000074|2026-10-22 23:06:55|Ừm, mình nghĩ vậy
+ACC000074|2026-10-22 23:06:57|Ngủ ngon
+ACC000082|2026-10-22 23:07:11|Thôi mình đi ăn cơm đã
+ACC000082|2026-10-23 20:31:46|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000074|2026-10-23 20:33:08|Bạn chuẩn bị tới đâu rồi?
+ACC000082|2026-10-23 20:39:14|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000074|2026-10-23 20:45:08|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000082|2026-10-23 20:45:39|Cảm ơn Mai, mình sẽ cố.
+ACC000074|2026-10-23 20:47:35|Xong nhớ nhắn mình kết quả nhé.

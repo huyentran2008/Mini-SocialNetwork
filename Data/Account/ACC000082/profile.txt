@@ -1,0 +1,14 @@
+id=ACC000082
+username=nhannc78
+password=4e68616e403938313865
+full_name=Nguyễn Cẩm Nhàn
+birthday=19-08-2001
+gender=Female
+bio=Phim, nhạc và một chút lười.
+created_at=2026-08-27
+status=ACTIVE
+residence=Hà Nội
+hometown=Lâm Đồng
+school=
+workplace=Quán cà phê của gia đình
+hobbies=Chơi game

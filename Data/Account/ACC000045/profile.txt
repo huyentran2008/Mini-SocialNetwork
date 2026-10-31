@@ -1,0 +1,14 @@
+id=ACC000045
+username=anhtd71
+password=416e6840303539356d
+full_name=Trương Đức Anh
+birthday=18-10-2004
+gender=Male
+bio=Fan bóng đá chính hiệu.
+created_at=2026-10-04
+status=ACTIVE
+residence=
+hometown=Đà Nẵng
+school=
+workplace=VNG
+hobbies=Đọc sách;Xem phim

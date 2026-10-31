@@ -1,0 +1,22 @@
+ACC000051|2026-10-16 20:38:06|Ok
+ACC000040|2026-10-16 20:38:08|Chúc bạn một ngày tốt lành
+ACC000051|2026-10-16 20:38:16|Ngủ ngon
+ACC000040|2026-10-16 20:38:20|Vậy hả?
+ACC000051|2026-10-16 20:38:24|Ngủ ngon
+ACC000040|2026-10-16 20:38:33|Tối nói chuyện tiếp nhé
+ACC000040|2026-10-16 20:38:41|Thôi mình đi ăn cơm đã
+ACC000040|2026-10-16 20:38:50|Được luôn
+ACC000051|2026-10-16 20:39:02|Mệt quá hôm nay
+ACC000051|2026-10-16 20:39:14|Ok
+ACC000040|2026-10-17 12:03:41|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000051|2026-10-17 12:04:06|Haha, bé làm gì thế?
+ACC000040|2026-10-17 12:07:46|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000051|2026-10-17 12:09:16|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000040|2026-10-17 12:11:25|Đợi chút mình chụp.
+ACC000051|2026-10-17 12:13:14|Đúng là chủ nào mèo nấy.
+ACC000040|2026-10-18 21:28:01|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000051|2026-10-18 21:29:40|Mình mới xong nửa tài liệu, hơi lo.
+ACC000040|2026-10-18 21:32:40|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000051|2026-10-18 21:53:14|Hay đó, 8 giờ nhé.
+ACC000040|2026-10-18 21:53:41|Ok, mình chuẩn bị sẵn đề cương.
+ACC000051|2026-10-18 21:58:03|Cảm ơn Uyên, có bạn cùng ôn đỡ áp lực hẳn.

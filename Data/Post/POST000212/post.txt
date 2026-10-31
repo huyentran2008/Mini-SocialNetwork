@@ -1,0 +1,8 @@
+id=POST000212
+author=ACC000039
+visibility=FRIEND
+created_at=2026-10-19 21:48:01
+edited_at=
+status=VISIBLE
+title=Bảo mật cơ bản mà ai cũng nên biết
+content=Dùng mật khẩu khác nhau cho mỗi dịch vụ, bật xác thực hai lớp và đừng bấm vào link lạ. Nghe đơn giản nhưng rất nhiều người vẫn chủ quan. Bạn nào cùng sở thích thì kết bạn với mình nha.

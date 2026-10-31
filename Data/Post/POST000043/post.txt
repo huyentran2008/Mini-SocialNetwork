@@ -1,0 +1,8 @@
+id=POST000043
+author=ACC000096
+visibility=PUBLIC
+created_at=2026-09-05 17:56:43
+edited_at=
+status=HIDDEN
+title=Chúc mừng bạn đã trúng thưởng
+content=Bạn là người may mắn nhận quà trị giá 5 triệu đồng. Truy cập đường link bên dưới và nhập thông tin cá nhân để nhận thưởng: http://nhan-qua-mien-phi.example

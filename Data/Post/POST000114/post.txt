@@ -1,0 +1,8 @@
+id=POST000114
+author=ACC000053
+visibility=PUBLIC
+created_at=2026-10-07 21:37:41
+edited_at=
+status=VISIBLE
+title=Cuộc thi nấu ăn của lớp
+content=Nhóm mình làm món bò kho và được giải ba. Cả đội vui như Tết, giờ đang bàn chuyện tổ chức nấu ăn mỗi tháng.

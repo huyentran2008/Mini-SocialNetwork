@@ -1,0 +1,23 @@
+ACC000035|2026-10-20 12:36:27|Bạn có biết cách tối ưu vòng lặp này không?
+ACC000001|2026-10-20 12:38:14|Gửi mình đoạn code xem sao
+ACC000035|2026-10-20 12:45:52|Mình dùng map thay vì duyệt vector là nhanh hơn nhiều
+ACC000001|2026-10-20 12:47:57|Đúng rồi, độ phức tạp giảm hẳn
+ACC000035|2026-10-20 12:48:45|Cảm ơn bạn, chạy nhanh thật
+ACC000001|2026-10-21 14:05:28|Bạn làm xong bài tập lớn chưa?
+ACC000035|2026-10-21 14:08:21|Mới làm được nửa thôi, phần gợi ý kết bạn khó quá
+ACC000001|2026-10-21 14:10:42|Mình dùng BFS duyệt theo tầng, bạn thử xem
+ACC000035|2026-10-21 14:19:56|À hiểu rồi, cảm ơn bạn nhiều
+ACC000001|2026-10-21 14:23:36|Không có gì, có gì hỏi mình nhé
+ACC000001|2026-10-22 15:19:39|Tối nay đi ăn lẩu không?
+ACC000035|2026-10-22 15:20:07|Đi chứ! Quán nào?
+ACC000001|2026-10-22 15:21:34|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000035|2026-10-22 15:22:52|Mấy giờ?
+ACC000001|2026-10-22 15:27:15|6 giờ nhé.
+ACC000035|2026-10-22 15:28:18|Ok, mình rủ thêm một bạn nữa được không?
+ACC000001|2026-10-22 15:52:35|Được chứ, càng đông càng vui.
+ACC000001|2026-10-22 22:06:15|Công thức làm bánh flan bạn dùng thế nào?
+ACC000035|2026-10-22 22:08:59|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000001|2026-10-22 22:12:52|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000035|2026-10-22 22:54:17|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000001|2026-10-22 22:54:46|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000035|2026-10-22 22:55:36|Làm xong cho mình xin một miếng nhé.

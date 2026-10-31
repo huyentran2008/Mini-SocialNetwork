@@ -1,0 +1,6 @@
+ACC000090|2026-10-20 17:49:11|Điểm thi tiếng Anh có chưa bạn?
+ACC000125|2026-10-20 17:56:02|Có rồi, mình được 8 điểm.
+ACC000090|2026-10-20 17:57:50|Giỏi quá, mình mới 6 điểm thôi.
+ACC000125|2026-10-20 17:59:14|Cũng ổn mà, qua môn là tốt rồi.
+ACC000090|2026-10-20 18:02:20|Cảm ơn bạn đã động viên.
+ACC000125|2026-10-20 18:02:46|Lần sau mình học nhóm tiếp nhé.

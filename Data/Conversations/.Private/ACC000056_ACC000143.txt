@@ -1,0 +1,36 @@
+ACC000056|2026-10-15 15:36:27|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000143|2026-10-15 15:37:29|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000056|2026-10-15 15:39:36|Chụp vài tấm nhé.
+ACC000143|2026-10-15 16:22:04|Xong rồi, mình gửi bạn qua đây.
+ACC000056|2026-10-15 16:25:20|Đẹp quá, cảm ơn bạn nhiều.
+ACC000143|2026-10-15 16:29:24|Lần sau mình chụp thêm.
+ACC000056|2026-10-18 21:56:25|Bạn biết laptop nào học lập trình ổn không?
+ACC000143|2026-10-18 21:57:33|Tầm giá bao nhiêu?
+ACC000056|2026-10-18 22:01:26|Khoảng 15 đến 20 triệu.
+ACC000143|2026-10-18 22:05:33|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000056|2026-10-18 22:09:48|Cảm ơn nhiều, mình đang rối quá.
+ACC000143|2026-10-18 22:12:31|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000143|2026-10-22 19:31:21|Hôm nay bạn rảnh không?
+ACC000056|2026-10-22 19:32:07|Chiều mình rảnh, có chuyện gì vậy?
+ACC000143|2026-10-22 19:32:57|Đi uống nước cam nhé, lâu rồi không gặp.
+ACC000056|2026-10-22 19:38:30|Ok, 8 giờ mình qua đón bạn nha.
+ACC000143|2026-10-22 19:40:57|Được, mình chờ ở cổng.
+ACC000056|2026-10-22 19:43:19|Tới rồi nè, ra đi.
+ACC000056|2026-10-22 23:11:40|Mình mới mua chiếc xe đạp.
+ACC000143|2026-10-22 23:15:23|Wow, xe đẹp không?
+ACC000056|2026-10-22 23:15:43|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000143|2026-10-22 23:35:09|Cuối tuần đạp xe quanh hồ nhé.
+ACC000056|2026-10-22 23:37:10|Hay đó, chốt luôn.
+ACC000143|2026-10-22 23:40:44|Nhớ mang nước.
+ACC000056|2026-10-23 19:47:53|Cảm ơn nhé
+ACC000056|2026-10-23 19:48:05|Ừ
+ACC000056|2026-10-23 19:48:11|Okela
+ACC000056|2026-10-23 19:48:22|Rồi, mình nhớ rồi
+ACC000056|2026-10-23 19:48:23|Haha bạn vui tính thật
+ACC000143|2026-10-23 19:48:25|Nghe được đó
+ACC000143|2026-10-23 19:48:27|Rồi, mình nhớ rồi
+ACC000143|2026-10-23 19:48:41|Mình biết rồi
+ACC000143|2026-10-23 19:48:46|Haha bạn vui tính thật
+ACC000056|2026-10-23 19:48:55|Có gì báo mình nhé
+ACC000056|2026-10-23 19:49:02|Thôi mình đi ăn cơm đã
+ACC000056|2026-10-23 19:49:10|Ừm, mình nghĩ vậy

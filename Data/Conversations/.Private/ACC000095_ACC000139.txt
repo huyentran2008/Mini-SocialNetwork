@@ -1,0 +1,55 @@
+ACC000095|2026-10-07 07:28:31|Công thức làm bánh flan bạn dùng thế nào?
+ACC000139|2026-10-07 07:29:00|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000095|2026-10-07 07:29:52|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000139|2026-10-07 07:33:41|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000095|2026-10-07 07:36:14|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000139|2026-10-07 07:37:12|Làm xong cho mình xin một miếng nhé.
+ACC000139|2026-10-08 20:14:41|Cuối tuần này đi Phú Quốc không?
+ACC000095|2026-10-08 20:15:01|Hay đó, đi mấy người?
+ACC000139|2026-10-08 20:15:24|Khoảng 3 người, tự đi xe máy.
+ACC000095|2026-10-08 20:17:12|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000139|2026-10-08 20:23:19|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000095|2026-10-08 20:26:35|Ok, vậy chốt luôn.
+ACC000139|2026-10-11 10:40:35|Bạn biết laptop nào học lập trình ổn không?
+ACC000095|2026-10-11 10:44:48|Tầm giá bao nhiêu?
+ACC000139|2026-10-11 10:47:27|Khoảng 15 đến 20 triệu.
+ACC000095|2026-10-11 10:50:42|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000139|2026-10-11 10:51:08|Cảm ơn nhiều, mình đang rối quá.
+ACC000095|2026-10-11 10:51:41|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000095|2026-10-12 16:31:17|Hôm nay mình hơi buồn.
+ACC000139|2026-10-12 16:33:01|Có chuyện gì vậy?
+ACC000095|2026-10-12 16:35:27|Mình bị điểm thấp mà không biết lý do.
+ACC000139|2026-10-12 16:40:43|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000095|2026-10-12 16:43:41|Ừ, mình sẽ gặp thầy tuần này.
+ACC000139|2026-10-12 16:44:18|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000139|2026-10-12 22:34:23|Bạn ơi, bài tập cơ sở dữ liệu nộp chưa?
+ACC000095|2026-10-12 22:40:21|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000139|2026-10-12 22:41:37|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000095|2026-10-12 22:43:48|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000139|2026-10-12 22:46:00|Có gì hỏi mình nhé.
+ACC000095|2026-10-12 22:48:35|Okela, cảm ơn Thuận nhiều.
+ACC000139|2026-10-15 16:29:57|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000095|2026-10-15 16:31:44|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000139|2026-10-15 16:33:56|Chụp vài tấm nhé.
+ACC000095|2026-10-15 16:52:21|Xong rồi, mình gửi bạn qua đây.
+ACC000139|2026-10-15 16:53:32|Đẹp quá, cảm ơn bạn nhiều.
+ACC000095|2026-10-15 16:55:05|Lần sau mình chụp thêm.
+ACC000095|2026-10-16 19:29:38|Tối nay đi ăn cơm gà không?
+ACC000139|2026-10-16 19:32:30|Đi chứ! Quán nào?
+ACC000095|2026-10-16 19:36:24|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000139|2026-10-16 19:39:56|Mấy giờ?
+ACC000095|2026-10-16 19:41:44|6 giờ tối nhé.
+ACC000139|2026-10-16 19:42:03|Ok, mình rủ thêm một bạn nữa được không?
+ACC000095|2026-10-16 19:42:20|Được chứ, càng đông càng vui.
+ACC000139|2026-10-17 10:18:27|Hôm nay bạn có đi học không?
+ACC000095|2026-10-17 10:23:22|Có, mình đang trên đường.
+ACC000139|2026-10-17 10:24:18|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000095|2026-10-17 10:28:12|Ok, giữ rồi.
+ACC000139|2026-10-17 10:30:09|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000095|2026-10-17 10:45:31|Nhanh lên, sắp vào học rồi.
+ACC000139|2026-10-23 17:10:31|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000095|2026-10-23 17:12:42|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000139|2026-10-23 17:13:38|Mình thấy rồi, truy cập ngoài mảng.
+ACC000095|2026-10-23 17:14:17|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000139|2026-10-23 17:15:17|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000095|2026-10-23 17:15:52|Lỗi này ai cũng từng gặp thôi.

@@ -1,0 +1,14 @@
+id=ACC000093
+username=giangnm65
+password=4769616e6740313537366d
+full_name=Nguyễn Mỹ Phương Giang
+birthday=15-07-2002
+gender=Female
+bio=Thích đi đây đó và chụp ảnh.
+created_at=2026-09-12
+status=ACTIVE
+residence=Thanh Hóa
+hometown=Thanh Hóa
+school=Đại học Việt Nhật - ĐHQG Hà Nội
+workplace=
+hobbies=Đọc manga;Dựng video

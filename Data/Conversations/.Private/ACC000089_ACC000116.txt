@@ -1,0 +1,7 @@
+ACC000089|2026-10-02 23:47:41|Tối nay đi ăn bánh xèo không?
+ACC000116|2026-10-02 23:48:54|Đi chứ! Quán nào?
+ACC000089|2026-10-02 23:52:14|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000116|2026-10-02 23:55:37|Mấy giờ?
+ACC000089|2026-10-02 23:55:58|6 giờ nhé.
+ACC000116|2026-10-02 23:57:57|Ok, mình rủ thêm một bạn nữa được không?
+ACC000089|2026-10-02 23:58:36|Được chứ, càng đông càng vui.

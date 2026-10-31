@@ -1,0 +1,10 @@
+ACC000007|2026-10-14 16:37:28|Tối nay chơi game không?
+ACC000013|2026-10-14 16:43:51|Mấy giờ vậy?
+ACC000007|2026-10-14 16:50:45|9 giờ tối nhé, mình rủ thêm hai người nữa
+ACC000013|2026-10-14 16:57:20|Ok, mình online đúng giờ
+ACC000007|2026-10-14 17:02:19|Hẹn tối nay
+ACC000013|2026-10-18 09:28:56|Nay trời mưa quá, bạn có đi học không?
+ACC000007|2026-10-18 09:34:15|Mình đi bằng xe buýt, chắc hơi trễ
+ACC000013|2026-10-18 09:43:07|Vậy mình giữ chỗ cho bạn nhé
+ACC000007|2026-10-18 09:44:54|Cảm ơn bạn, bạn tốt quá
+ACC000013|2026-10-18 09:51:19|Có gì đâu, nhớ mang áo mưa

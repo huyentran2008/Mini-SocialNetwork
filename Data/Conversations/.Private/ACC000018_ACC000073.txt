@@ -1,0 +1,12 @@
+ACC000018|2026-10-22 21:40:51|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000073|2026-10-22 21:41:28|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000018|2026-10-22 21:41:40|Cảm ơn, mình hay quên lắm.
+ACC000073|2026-10-22 21:42:14|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000018|2026-10-22 21:44:12|Ừ, mình in hai bản.
+ACC000073|2026-10-22 21:44:27|Giỏi.
+ACC000018|2026-10-23 09:34:42|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000073|2026-10-23 09:36:56|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000018|2026-10-23 09:37:56|Mình thấy rồi, truy cập ngoài mảng.
+ACC000073|2026-10-23 09:38:30|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000018|2026-10-23 09:43:20|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000073|2026-10-23 09:45:15|Lỗi này ai cũng từng gặp thôi.

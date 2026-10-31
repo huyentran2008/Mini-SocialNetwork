@@ -1,0 +1,8 @@
+id=POST000157
+author=ACC000143
+visibility=PUBLIC
+created_at=2026-10-13 10:15:59
+edited_at=
+status=VISIBLE
+title=Segmentation fault và những chiều thứ sáu
+content=Chạy thử thì ổn, nộp bài thì crash. Hóa ra mình truy cập phần tử ngoài mảng ở trường hợp biên. Từ nay luôn test với dữ liệu rỗng và dữ liệu một phần tử.

@@ -1,0 +1,14 @@
+id=ACC000070
+username=quylt09
+password=51757940343535356e
+full_name=Lý Trọng Quý
+birthday=29-06-2002
+gender=Male
+bio=Cười nhiều hơn, lo ít lại.
+created_at=2026-09-25
+status=ACTIVE
+residence=Tây Ninh
+hometown=Đồng Nai
+school=Đại học Phan Châu Trinh
+workplace=Bosch Việt Nam
+hobbies=Xem anime;Chơi eSports;Chơi board game

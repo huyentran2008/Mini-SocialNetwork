@@ -1,0 +1,14 @@
+id=ACC000134
+username=quancn02
+password=5175616e403834393461
+full_name=Cao Nhật Quân
+birthday=17-05-2003
+gender=Male
+bio=Cày game, xem anime, ngủ muộn.
+created_at=2026-09-20
+status=ACTIVE
+residence=Hà Nội
+hometown=TP. Hồ Chí Minh
+school=Cao đẳng Du lịch Hà Nội
+workplace=
+hobbies=Đọc manga;Livestream;Chơi game

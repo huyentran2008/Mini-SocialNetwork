@@ -1,0 +1,21 @@
+ACC000062|2026-10-20 23:04:20|Cuối tuần bạn làm gì?
+ACC000003|2026-10-20 23:04:56|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000062|2026-10-20 23:05:42|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000003|2026-10-20 23:06:37|Thật không? Ngại quá.
+ACC000062|2026-10-20 23:07:28|Ngại gì, mẹ mình quý bạn lắm.
+ACC000003|2026-10-20 23:08:16|Vậy mình qua nhé, cảm ơn bác.
+ACC000062|2026-10-21 20:37:05|Bạn ơi, bài tập tiếng Anh nộp chưa?
+ACC000003|2026-10-21 20:37:28|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000062|2026-10-21 20:40:55|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000003|2026-10-21 20:43:17|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000062|2026-10-21 20:44:14|Có gì hỏi mình nhé.
+ACC000003|2026-10-21 20:46:10|Okela, cảm ơn Hiếu nhiều.
+ACC000062|2026-10-22 16:24:17|Đang làm gì đó?
+ACC000003|2026-10-22 16:24:42|Tối nói chuyện tiếp nhé
+ACC000003|2026-10-22 16:24:54|Cảm ơn nhé
+ACC000003|2026-10-22 18:38:44|Điểm thi cấu trúc dữ liệu có chưa bạn?
+ACC000062|2026-10-22 18:38:58|Có rồi, mình được 8 điểm.
+ACC000003|2026-10-22 18:39:12|Giỏi quá, mình mới 6 điểm thôi.
+ACC000062|2026-10-22 18:45:00|Cũng ổn mà, qua môn là tốt rồi.
+ACC000003|2026-10-22 18:46:20|Cảm ơn bạn đã động viên.
+ACC000062|2026-10-22 18:47:05|Lần sau mình học nhóm tiếp nhé.

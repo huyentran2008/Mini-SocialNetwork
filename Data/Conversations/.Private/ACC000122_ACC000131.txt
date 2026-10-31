@@ -1,0 +1,23 @@
+ACC000122|2026-10-17 22:19:55|Chỉ mình đường tới thư viện thành phố với.
+ACC000131|2026-10-17 22:20:19|Bạn đang ở đâu?
+ACC000122|2026-10-17 22:38:05|Mình đang ở gần cổng chợ.
+ACC000131|2026-10-17 22:44:46|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000122|2026-10-17 22:47:04|Mình thấy rồi, cảm ơn bạn nha.
+ACC000131|2026-10-17 22:49:31|Ok, đi cẩn thận.
+ACC000131|2026-10-17 23:01:44|Vừa về tới nhà
+ACC000122|2026-10-17 23:02:19|Cuối tuần rảnh không?
+ACC000131|2026-10-18 21:46:13|Nghe được đó
+ACC000122|2026-10-18 21:47:33|Ngủ ngon
+ACC000131|2026-10-18 21:47:52|Haha
+ACC000122|2026-10-20 13:26:30|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000131|2026-10-20 13:28:15|Mình mới xong nửa tài liệu, hơi lo.
+ACC000122|2026-10-20 13:39:27|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000131|2026-10-20 13:44:15|Hay đó, 8 giờ nhé.
+ACC000122|2026-10-20 13:48:28|Ok, mình chuẩn bị sẵn đề cương.
+ACC000131|2026-10-20 13:50:56|Cảm ơn Huy, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000122|2026-10-23 09:10:18|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000131|2026-10-23 09:10:50|Bài nào vậy?
+ACC000122|2026-10-23 09:11:48|Mình gửi link rồi đó.
+ACC000131|2026-10-23 09:12:35|Nghe rồi, giai điệu dễ chịu thật.
+ACC000122|2026-10-23 09:13:13|Đúng không? Mình nghe suốt tuần này.
+ACC000131|2026-10-23 09:13:59|Cho mình xin playlist nhé.

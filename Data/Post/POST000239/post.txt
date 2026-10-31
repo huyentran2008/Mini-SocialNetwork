@@ -1,0 +1,8 @@
+id=POST000239
+author=ACC000102
+visibility=FRIEND
+created_at=2026-10-23 18:54:46
+edited_at=
+status=VISIBLE
+title=Tập guitar mỗi tối
+content=Đã luyện được hợp âm Barre sau ba tuần, ngón tay đau nhưng cuối cùng cũng bắt đầu nghe ra tiếng. Ai có bài dễ cho người mới thì gợi ý mình với.

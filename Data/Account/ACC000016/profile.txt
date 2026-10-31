@@ -1,0 +1,14 @@
+id=ACC000016
+username=vylt23
+password=5679403833393874
+full_name=Lâm Thảo Vy
+birthday=08-07-2003
+gender=Female
+bio=Thích đạp xe quanh thành phố.
+created_at=2026-10-09
+status=ACTIVE
+residence=
+hometown=Đồng Nai
+school=Đại học FPT TP.HCM
+workplace=Viettel
+hobbies=Chụp ảnh

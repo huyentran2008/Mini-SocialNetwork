@@ -1,0 +1,6 @@
+ACC000083|2026-10-13 09:30:22|Năm nay bạn về quê ăn Tết không?
+ACC000109|2026-10-13 09:32:19|Có, mình đặt vé tàu rồi.
+ACC000083|2026-10-13 09:37:03|Mình còn chưa mua được vé.
+ACC000109|2026-10-13 09:37:51|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000083|2026-10-13 09:40:04|Ok, mình thử xem.
+ACC000109|2026-10-13 09:43:12|Chúc bạn sớm có vé nhé.

@@ -1,0 +1,5 @@
+ACC000036|2026-10-20 11:11:16|Bạn xem phim mới chưa?
+ACC000037|2026-10-20 11:17:35|Phim nào vậy?
+ACC000036|2026-10-20 11:23:44|Phim chiếu rạp tuần này đó, nghe nói hay lắm
+ACC000037|2026-10-20 11:28:17|Để mình rủ nhóm đi xem cuối tuần
+ACC000036|2026-10-20 11:29:25|Hay đó, đi chung luôn cho vui

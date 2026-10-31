@@ -1,0 +1,59 @@
+ACC000037|2026-10-21 08:31:17|Tối nay bạn có chơi game không?
+ACC000006|2026-10-21 08:35:34|Có, mấy giờ?
+ACC000037|2026-10-21 08:37:24|7 rưỡi, rủ thêm hai bạn nữa là đủ đội.
+ACC000006|2026-10-21 08:38:18|Ok, mình online sớm.
+ACC000037|2026-10-21 08:42:12|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000006|2026-10-21 08:43:22|Haha, thua thì đừng trách mình.
+ACC000006|2026-10-21 08:51:17|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000037|2026-10-21 08:51:45|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000006|2026-10-21 08:54:13|Cảm ơn, mình hay quên lắm.
+ACC000037|2026-10-21 09:00:02|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000006|2026-10-21 09:00:58|Ừ, mình in hai bản.
+ACC000037|2026-10-21 09:04:35|Giỏi.
+ACC000037|2026-10-21 21:48:41|Chỉ mình đường tới thư viện thành phố với.
+ACC000006|2026-10-21 21:49:01|Bạn đang ở đâu?
+ACC000037|2026-10-21 22:07:09|Mình đang ở gần cổng chợ.
+ACC000006|2026-10-21 22:09:41|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000037|2026-10-21 22:35:49|Mình thấy rồi, cảm ơn bạn nha.
+ACC000006|2026-10-21 22:36:44|Ok, đi cẩn thận.
+ACC000006|2026-10-21 22:44:51|Bạn ơi, bài tập giải tích nộp chưa?
+ACC000037|2026-10-21 22:47:19|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000006|2026-10-21 22:49:48|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000037|2026-10-21 22:52:00|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000006|2026-10-21 22:54:25|Có gì hỏi mình nhé.
+ACC000037|2026-10-21 22:54:40|Okela, cảm ơn Trúc nhiều.
+ACC000037|2026-10-21 23:04:27|Bạn cho mình mượn tài liệu được không?
+ACC000006|2026-10-21 23:31:24|Được, bạn lấy bản chụp hay bản mềm?
+ACC000037|2026-10-21 23:33:26|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000006|2026-10-21 23:33:55|Gửi rồi nha, kiểm tra thử.
+ACC000037|2026-10-21 23:35:54|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000006|2026-10-21 23:36:20|Không có gì.
+ACC000037|2026-10-23 15:31:02|Haha bạn vui tính thật
+ACC000006|2026-10-23 15:36:32|Để mình xem
+ACC000006|2026-10-23 15:40:18|Cuối tuần rảnh không?
+ACC000006|2026-10-23 18:56:19|Sáng mai bạn có đi tập chạy không?
+ACC000037|2026-10-23 19:01:15|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000006|2026-10-23 19:02:24|Mình sợ dậy không nổi.
+ACC000037|2026-10-23 19:03:34|Để mình gọi bạn dậy.
+ACC000006|2026-10-23 19:03:48|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000037|2026-10-23 19:08:56|Ok, mai gặp.
+ACC000037|2026-10-23 19:55:19|Chỉ mình đường tới thư viện thành phố với.
+ACC000006|2026-10-23 20:32:47|Bạn đang ở đâu?
+ACC000037|2026-10-23 20:35:10|Mình đang ở gần cổng chợ.
+ACC000006|2026-10-23 20:36:57|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000037|2026-10-23 20:37:31|Mình thấy rồi, cảm ơn bạn nha.
+ACC000006|2026-10-23 20:40:52|Ok, đi cẩn thận.
+ACC000006|2026-10-23 20:51:01|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000037|2026-10-23 20:51:23|Chuyện nhỏ thôi mà.
+ACC000006|2026-10-23 20:52:17|Không có bạn chắc mình làm không kịp.
+ACC000037|2026-10-23 20:54:14|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000006|2026-10-23 20:54:59|Hôm nào mình mời bạn hủ tiếu nhé.
+ACC000037|2026-10-23 20:58:45|Vậy thì mình không từ chối đâu.
+ACC000006|2026-10-23 21:37:33|Được luôn
+ACC000037|2026-10-23 21:40:03|Thật à?
+ACC000006|2026-10-23 21:41:40|Cố lên nhé
+ACC000006|2026-10-23 21:54:43|Mệt quá hôm nay
+ACC000037|2026-10-23 21:56:17|Thôi mình đi ăn cơm đã
+ACC000037|2026-10-23 21:56:35|Thật à?
+ACC000006|2026-10-23 21:58:29|Haha
+ACC000006|2026-10-23 22:01:06|Ừm, mình nghĩ vậy

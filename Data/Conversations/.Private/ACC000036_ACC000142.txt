@@ -1,0 +1,128 @@
+ACC000142|2026-10-18 16:24:31|Thôi mình đi ăn cơm đã
+ACC000142|2026-10-18 16:24:43|Có gì báo mình nhé
+ACC000142|2026-10-18 16:24:52|Mình đang bận chút, lát nhắn lại nhé
+ACC000036|2026-10-18 16:25:06|Vừa về tới nhà
+ACC000036|2026-10-18 16:25:11|Mình cũng nghĩ vậy
+ACC000142|2026-10-18 16:25:18|Ừm, mình nghĩ vậy
+ACC000142|2026-10-18 16:25:21|Ngủ ngon
+ACC000142|2026-10-18 16:25:28|Vừa về tới nhà
+ACC000036|2026-10-18 16:25:39|Được luôn
+ACC000036|2026-10-18 16:25:45|Tối nói chuyện tiếp nhé
+ACC000142|2026-10-18 16:25:59|Mình biết rồi
+ACC000142|2026-10-18 16:26:12|Chúc bạn một ngày tốt lành
+ACC000036|2026-10-18 16:26:15|Rồi, mình nhớ rồi
+ACC000036|2026-10-18 16:26:17|Thôi mình đi ăn cơm đã
+ACC000142|2026-10-18 16:26:19|Ừ đúng rồi
+ACC000036|2026-10-19 15:15:50|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000142|2026-10-19 15:16:30|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000036|2026-10-19 15:18:24|Chụp vài tấm nhé.
+ACC000142|2026-10-19 15:20:32|Xong rồi, mình gửi bạn qua đây.
+ACC000036|2026-10-19 15:23:04|Đẹp quá, cảm ơn bạn nhiều.
+ACC000142|2026-10-19 15:23:56|Lần sau mình chụp thêm.
+ACC000036|2026-10-20 09:22:13|Thôi mình đi ăn cơm đã
+ACC000036|2026-10-20 09:22:22|Ừ đúng rồi
+ACC000036|2026-10-20 09:22:24|Đang làm gì đó?
+ACC000036|2026-10-20 09:22:37|Cố lên nhé
+ACC000142|2026-10-20 09:22:43|Mình đang bận chút, lát nhắn lại nhé
+ACC000036|2026-10-20 09:22:56|Ok
+ACC000142|2026-10-20 09:23:00|Vừa về tới nhà
+ACC000036|2026-10-20 09:23:13|Ok
+ACC000142|2026-10-20 09:23:17|Mình biết rồi
+ACC000036|2026-10-20 09:23:26|Mệt quá hôm nay
+ACC000036|2026-10-20 11:56:23|Đang làm gì đó?
+ACC000036|2026-10-20 11:56:26|Nghe được đó
+ACC000142|2026-10-20 11:56:34|Rồi, mình nhớ rồi
+ACC000142|2026-10-20 11:56:44|Mình đang bận chút, lát nhắn lại nhé
+ACC000036|2026-10-20 11:56:56|Cảm ơn nhé
+ACC000036|2026-10-20 11:56:59|Ừm, mình nghĩ vậy
+ACC000142|2026-10-20 11:57:12|Mình biết rồi
+ACC000142|2026-10-20 11:57:15|Thôi mình đi ăn cơm đã
+ACC000036|2026-10-20 11:57:25|Ừ
+ACC000036|2026-10-20 11:57:36|Mình cũng nghĩ vậy
+ACC000036|2026-10-20 11:57:42|Mình biết rồi
+ACC000142|2026-10-20 11:57:54|Vậy hả?
+ACC000036|2026-10-20 11:58:01|Mình cũng nghĩ vậy
+ACC000036|2026-10-20 11:58:06|Ok
+ACC000036|2026-10-20 11:58:09|Chúc bạn một ngày tốt lành
+ACC000142|2026-10-20 11:58:17|Cảm ơn nhé
+ACC000036|2026-10-20 15:46:22|Sáng mai bạn có đi tập chạy không?
+ACC000142|2026-10-20 16:00:34|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000036|2026-10-20 16:02:10|Mình sợ dậy không nổi.
+ACC000142|2026-10-20 16:02:27|Để mình gọi bạn dậy.
+ACC000036|2026-10-20 16:02:36|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000142|2026-10-20 16:03:27|Ok, mai gặp.
+ACC000142|2026-10-20 16:41:32|Đang làm gì đó?
+ACC000142|2026-10-20 16:41:33|Vậy hả?
+ACC000036|2026-10-20 16:41:42|Có gì báo mình nhé
+ACC000142|2026-10-20 16:41:51|Mình cũng nghĩ vậy
+ACC000036|2026-10-20 16:41:59|Nghe được đó
+ACC000142|2026-10-20 16:42:01|Cảm ơn nhé
+ACC000036|2026-10-20 16:42:10|Vậy hả?
+ACC000142|2026-10-20 16:42:12|Có gì báo mình nhé
+ACC000036|2026-10-20 16:42:24|Mai gặp nhé
+ACC000142|2026-10-20 16:42:27|Cảm ơn nhé
+ACC000142|2026-10-20 16:42:39|Mình biết rồi
+ACC000036|2026-10-20 16:42:48|Mai gặp nhé
+ACC000036|2026-10-20 16:42:59|Mình đang bận chút, lát nhắn lại nhé
+ACC000036|2026-10-20 16:43:11|Vậy hả?
+ACC000036|2026-10-20 18:04:40|Chỉ mình đường tới thư viện thành phố với.
+ACC000142|2026-10-20 18:52:01|Bạn đang ở đâu?
+ACC000036|2026-10-20 19:12:22|Mình đang ở gần cổng chợ.
+ACC000142|2026-10-20 19:12:57|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000036|2026-10-20 19:13:40|Mình thấy rồi, cảm ơn bạn nha.
+ACC000142|2026-10-20 19:15:36|Ok, đi cẩn thận.
+ACC000142|2026-10-20 19:43:58|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000036|2026-10-20 19:44:49|Bạn chuẩn bị tới đâu rồi?
+ACC000142|2026-10-20 19:50:24|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000036|2026-10-20 19:51:09|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000142|2026-10-20 19:55:52|Cảm ơn Dương, mình sẽ cố.
+ACC000036|2026-10-20 19:59:50|Xong nhớ nhắn mình kết quả nhé.
+ACC000142|2026-10-20 20:17:23|Cuối tuần này đi xem phim không?
+ACC000036|2026-10-20 20:18:13|Phim gì vậy?
+ACC000142|2026-10-20 20:20:21|Phim mới chiếu, nghe nói hay lắm.
+ACC000036|2026-10-20 20:22:46|Mình đang rảnh thứ sáu, đi buổi chiều nhé.
+ACC000142|2026-10-20 20:26:26|Ok, mình đặt vé luôn.
+ACC000036|2026-10-20 20:27:06|Nhớ chọn ghế giữa nha.
+ACC000142|2026-10-20 20:28:03|Yên tâm.
+ACC000036|2026-10-20 20:40:21|Bạn biết laptop nào học lập trình ổn không?
+ACC000142|2026-10-20 20:43:35|Tầm giá bao nhiêu?
+ACC000036|2026-10-20 20:44:06|Khoảng 15 đến 20 triệu.
+ACC000142|2026-10-20 20:44:19|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000036|2026-10-20 20:45:21|Cảm ơn nhiều, mình đang rối quá.
+ACC000142|2026-10-20 20:46:23|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000142|2026-10-20 20:59:32|Hôm nay bạn có đi học không?
+ACC000036|2026-10-20 21:00:04|Có, mình đang trên đường.
+ACC000142|2026-10-20 21:00:46|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000036|2026-10-20 21:01:37|Ok, giữ rồi.
+ACC000142|2026-10-20 21:02:43|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000036|2026-10-20 21:03:29|Nhanh lên, sắp vào học rồi.
+ACC000142|2026-10-20 23:29:17|Điểm thi xác suất có chưa bạn?
+ACC000036|2026-10-20 23:39:28|Có rồi, mình được 8 điểm.
+ACC000142|2026-10-20 23:41:18|Giỏi quá, mình mới 6 điểm thôi.
+ACC000036|2026-10-20 23:41:58|Cũng ổn mà, qua môn là tốt rồi.
+ACC000142|2026-10-20 23:42:48|Cảm ơn bạn đã động viên.
+ACC000036|2026-10-20 23:43:54|Lần sau mình học nhóm tiếp nhé.
+ACC000142|2026-10-21 11:07:37|Tối nay đi ăn hủ tiếu không?
+ACC000036|2026-10-21 11:07:48|Đi chứ! Quán nào?
+ACC000142|2026-10-21 11:11:42|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000036|2026-10-21 11:15:17|Mấy giờ?
+ACC000142|2026-10-21 11:15:25|5 giờ chiều nhé.
+ACC000036|2026-10-21 11:20:24|Ok, mình rủ thêm một bạn nữa được không?
+ACC000142|2026-10-21 11:48:27|Được chứ, càng đông càng vui.
+ACC000036|2026-10-21 16:09:33|Có gì báo mình nhé
+ACC000036|2026-10-21 16:10:19|Thật à?
+ACC000142|2026-10-21 16:14:41|Vừa về tới nhà
+ACC000142|2026-10-21 16:17:47|Có gì báo mình nhé
+ACC000036|2026-10-21 16:21:17|Mai gặp nhé
+ACC000036|2026-10-21 21:19:41|Bạn cho mình mượn tài liệu được không?
+ACC000142|2026-10-21 21:23:36|Được, bạn lấy bản chụp hay bản mềm?
+ACC000036|2026-10-21 21:28:22|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000142|2026-10-21 21:29:08|Gửi rồi nha, kiểm tra thử.
+ACC000036|2026-10-21 21:30:13|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000142|2026-10-21 21:44:13|Không có gì.
+ACC000142|2026-10-21 21:58:53|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000036|2026-10-21 22:00:04|Bài nào vậy?
+ACC000142|2026-10-21 22:03:45|Mình gửi link rồi đó.
+ACC000036|2026-10-21 22:48:15|Nghe rồi, giai điệu dễ chịu thật.
+ACC000142|2026-10-21 22:51:35|Đúng không? Mình nghe suốt tuần này.
+ACC000036|2026-10-21 22:52:39|Cho mình xin playlist nhé.

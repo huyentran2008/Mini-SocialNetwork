@@ -1,0 +1,8 @@
+id=POST000175
+author=ACC000010
+visibility=PUBLIC
+created_at=2026-10-15 19:47:27
+edited_at=
+status=VISIBLE
+title=Tips học lập trình cho người mới
+content=1. Gõ lại code thay vì copy.\n2. Mỗi ngày giải một bài nhỏ.\n3. Đọc code của người khác.\n4. Đừng ngại hỏi.\nMình áp dụng được hai tháng và tiến bộ rõ rệt.

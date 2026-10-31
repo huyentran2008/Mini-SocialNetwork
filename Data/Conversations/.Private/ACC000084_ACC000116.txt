@@ -1,0 +1,92 @@
+ACC000084|2026-08-29 20:35:18|Năm nay bạn về quê ăn Tết không?
+ACC000116|2026-08-29 21:20:03|Có, mình đặt vé tàu rồi.
+ACC000084|2026-08-29 21:20:41|Mình còn chưa mua được vé.
+ACC000116|2026-08-29 21:23:44|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000084|2026-08-29 21:24:31|Ok, mình thử xem.
+ACC000116|2026-08-29 21:28:08|Chúc bạn sớm có vé nhé.
+ACC000116|2026-09-01 20:27:41|Bạn xem giúp mình CV được không?
+ACC000084|2026-09-01 20:29:25|Gửi mình xem nhé.
+ACC000116|2026-09-01 20:31:57|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000084|2026-09-01 20:34:03|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000116|2026-09-01 20:34:50|Hợp lý, mình sửa luôn.
+ACC000084|2026-09-01 20:35:12|Sửa xong gửi mình xem lại nhé.
+ACC000116|2026-09-02 21:29:30|Nay trời mưa to ghê.
+ACC000084|2026-09-02 21:31:13|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000116|2026-09-02 21:34:28|Bạn có áo mưa không?
+ACC000084|2026-09-02 21:37:19|Không, chắc chờ tạnh.
+ACC000116|2026-09-02 21:38:51|Mình ghé đón nhé, mình đang gần đó.
+ACC000084|2026-09-02 21:41:05|Cảm ơn bạn nhiều lắm.
+ACC000116|2026-09-03 19:36:14|Điểm thi tiếng Anh có chưa bạn?
+ACC000084|2026-09-03 19:36:34|Có rồi, mình được 8 điểm.
+ACC000116|2026-09-03 19:37:15|Giỏi quá, mình mới 6 điểm thôi.
+ACC000084|2026-09-03 19:38:11|Cũng ổn mà, qua môn là tốt rồi.
+ACC000116|2026-09-03 19:44:53|Cảm ơn bạn đã động viên.
+ACC000084|2026-09-03 19:46:05|Lần sau mình học nhóm tiếp nhé.
+ACC000116|2026-09-06 12:35:27|Cuối tuần này đi xem phim không?
+ACC000084|2026-09-06 12:35:46|Phim gì vậy?
+ACC000116|2026-09-06 12:37:33|Phim mới chiếu, nghe nói hay lắm.
+ACC000084|2026-09-06 12:40:38|Mình đang rảnh thứ bảy, đi buổi chiều nhé.
+ACC000116|2026-09-06 12:41:31|Ok, mình đặt vé luôn.
+ACC000084|2026-09-06 12:42:53|Nhớ chọn ghế giữa nha.
+ACC000116|2026-09-06 12:45:29|Yên tâm.
+ACC000116|2026-09-09 11:33:58|Cuối tuần này đi Mũi Né không?
+ACC000084|2026-09-09 11:52:50|Hay đó, đi mấy người?
+ACC000116|2026-09-09 11:54:55|Khoảng 5 người, tự đi xe máy.
+ACC000084|2026-09-09 11:57:18|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000116|2026-09-09 11:57:58|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000084|2026-09-09 11:59:34|Ok, vậy chốt luôn.
+ACC000116|2026-09-17 21:23:37|Bạn ngủ chưa?
+ACC000084|2026-09-17 21:25:57|Chưa, đang làm bài tập.
+ACC000116|2026-09-17 21:27:21|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000084|2026-09-17 21:27:48|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000116|2026-09-17 21:28:18|Ngủ ngon nha.
+ACC000084|2026-09-17 21:29:43|Ngủ ngon.
+ACC000116|2026-09-21 09:56:23|Tối nay bạn có chơi game không?
+ACC000084|2026-09-21 09:58:07|Có, mấy giờ?
+ACC000116|2026-09-21 09:59:40|7 giờ, rủ thêm hai bạn nữa là đủ đội.
+ACC000084|2026-09-21 10:01:07|Ok, mình online sớm.
+ACC000116|2026-09-21 10:04:00|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000084|2026-09-21 10:18:19|Haha, thua thì đừng trách mình.
+ACC000116|2026-09-24 15:31:48|Bạn xem giúp mình CV được không?
+ACC000084|2026-09-24 15:34:06|Gửi mình xem nhé.
+ACC000116|2026-09-24 16:04:32|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000084|2026-09-24 16:05:56|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000116|2026-09-24 16:07:53|Hợp lý, mình sửa luôn.
+ACC000084|2026-09-24 16:11:30|Sửa xong gửi mình xem lại nhé.
+ACC000116|2026-09-24 19:22:48|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000084|2026-09-24 19:23:30|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000116|2026-09-24 19:23:38|Mình thấy rồi, truy cập ngoài mảng.
+ACC000084|2026-09-24 19:25:14|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000116|2026-09-24 19:27:04|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000084|2026-09-24 19:28:46|Lỗi này ai cũng từng gặp thôi.
+ACC000084|2026-10-14 20:15:55|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000116|2026-10-14 20:39:41|Bạn chuẩn bị tới đâu rồi?
+ACC000084|2026-10-14 20:40:31|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000116|2026-10-14 20:41:24|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000084|2026-10-14 20:44:22|Cảm ơn Vinh, mình sẽ cố.
+ACC000116|2026-10-14 20:44:41|Xong nhớ nhắn mình kết quả nhé.
+ACC000116|2026-10-15 12:21:42|Chào bạn, lâu rồi không nói chuyện.
+ACC000084|2026-10-15 12:23:27|Chào bạn, dạo này bạn thế nào?
+ACC000116|2026-10-15 12:24:53|Mình ổn, bận học và làm thêm.
+ACC000084|2026-10-15 12:27:02|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000116|2026-10-15 12:28:55|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000084|2026-10-15 12:29:15|Được, tới lúc đó nhắn mình nhé.
+ACC000084|2026-10-15 18:19:18|Cuối tuần này đi Huế không?
+ACC000116|2026-10-15 18:19:28|Hay đó, đi mấy người?
+ACC000084|2026-10-15 18:46:06|Khoảng 4 người, tự đi xe máy.
+ACC000116|2026-10-15 19:18:16|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000084|2026-10-15 19:18:53|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000116|2026-10-15 19:22:47|Ok, vậy chốt luôn.
+ACC000084|2026-10-15 21:16:45|Tối nay bạn có chơi game không?
+ACC000116|2026-10-15 21:17:09|Có, mấy giờ?
+ACC000084|2026-10-15 21:23:59|11 giờ 30, rủ thêm hai bạn nữa là đủ đội.
+ACC000116|2026-10-15 21:29:04|Ok, mình online sớm.
+ACC000084|2026-10-15 21:32:12|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000116|2026-10-15 21:33:28|Haha, thua thì đừng trách mình.
+ACC000084|2026-10-16 21:53:30|Tối nay đi ăn bánh xèo không?
+ACC000116|2026-10-16 21:58:25|Đi chứ! Quán nào?
+ACC000084|2026-10-16 21:59:26|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000116|2026-10-16 22:00:15|Mấy giờ?
+ACC000084|2026-10-16 22:01:27|7 rưỡi nhé.
+ACC000116|2026-10-16 22:06:35|Ok, mình rủ thêm một bạn nữa được không?
+ACC000084|2026-10-16 22:07:47|Được chứ, càng đông càng vui.

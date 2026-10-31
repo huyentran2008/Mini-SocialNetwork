@@ -1,0 +1,14 @@
+id=ACC000103
+username=mylh54
+password=4d79403636363178
+full_name=Lê Hồng My
+birthday=13-02-2000
+gender=Female
+bio=Kiên trì là chìa khóa.
+created_at=2026-09-25
+status=ACTIVE
+residence=Tây Ninh
+hometown=TP. Hồ Chí Minh
+school=
+workplace=Gojek
+hobbies=Trekking;Lặn biển;Lướt sóng

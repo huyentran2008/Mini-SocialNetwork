@@ -1,0 +1,8 @@
+id=POST000056
+author=ACC000080
+visibility=FRIEND
+created_at=2026-09-17 12:51:10
+edited_at=2026-09-18 01:07:10
+status=VISIBLE
+title=Công thức chè khúc bạch đơn giản tại nhà
+content=Mình thử nấu hủ tiếu theo kiểu đơn giản: nước dùng ninh từ xương, nêm vừa miệng và nhiều rau sống. Cả nhà ăn hết sạch nồi.\nBí quyết là đừng vội, để lửa nhỏ thì nước mới ngọt tự nhiên.

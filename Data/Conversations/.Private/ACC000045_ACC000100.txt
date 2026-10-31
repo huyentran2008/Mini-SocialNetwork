@@ -1,0 +1,6 @@
+ACC000100|2026-10-23 11:58:26|Cuối tuần bạn làm gì?
+ACC000045|2026-10-23 12:00:42|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000100|2026-10-23 12:41:01|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000045|2026-10-23 12:43:03|Thật không? Ngại quá.
+ACC000100|2026-10-23 12:43:20|Ngại gì, mẹ mình quý bạn lắm.
+ACC000045|2026-10-23 12:45:11|Vậy mình qua nhé, cảm ơn bác.

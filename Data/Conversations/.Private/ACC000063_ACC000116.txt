@@ -1,0 +1,31 @@
+ACC000116|2026-09-30 14:41:59|Cuối tuần này đi Huế không?
+ACC000063|2026-09-30 14:42:18|Hay đó, đi mấy người?
+ACC000116|2026-09-30 14:42:35|Khoảng 2 người, tự đi xe máy.
+ACC000063|2026-09-30 14:42:56|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000116|2026-09-30 14:43:48|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000063|2026-09-30 15:09:57|Ok, vậy chốt luôn.
+ACC000116|2026-09-30 19:29:30|Bạn có rảnh để mình hỏi chút về môn xác suất không?
+ACC000063|2026-09-30 19:33:16|Có, bạn hỏi đi.
+ACC000116|2026-09-30 19:35:23|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000063|2026-09-30 19:35:55|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000116|2026-09-30 19:36:06|Nghe hợp lý, cảm ơn bạn.
+ACC000063|2026-09-30 19:36:26|Cần gì cứ nhắn mình.
+ACC000116|2026-10-08 18:17:16|Cuối tuần này đi xem phim không?
+ACC000063|2026-10-08 18:20:56|Phim gì vậy?
+ACC000116|2026-10-08 18:22:04|Phim mới chiếu, nghe nói hay lắm.
+ACC000063|2026-10-08 19:09:25|Mình đang rảnh chủ nhật, đi buổi chiều nhé.
+ACC000116|2026-10-08 19:11:46|Ok, mình đặt vé luôn.
+ACC000063|2026-10-08 19:16:19|Nhớ chọn ghế giữa nha.
+ACC000116|2026-10-08 19:20:22|Yên tâm.
+ACC000063|2026-10-11 09:07:37|Vừa về tới nhà
+ACC000116|2026-10-11 09:07:44|Cảm ơn nhé
+ACC000116|2026-10-11 09:07:46|Có gì báo mình nhé
+ACC000063|2026-10-11 09:07:49|Mình cũng nghĩ vậy
+ACC000116|2026-10-11 09:07:56|Vừa về tới nhà
+ACC000063|2026-10-11 09:08:03|Có gì báo mình nhé
+ACC000063|2026-10-11 09:08:07|Thật à?
+ACC000063|2026-10-11 09:08:16|Để mình xem
+ACC000116|2026-10-11 09:08:19|Vậy hả?
+ACC000063|2026-10-11 09:08:31|Đang làm gì đó?
+ACC000063|2026-10-11 09:08:41|Ngủ ngon
+ACC000063|2026-10-11 09:08:53|Mình biết rồi

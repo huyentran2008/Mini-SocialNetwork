@@ -1,0 +1,14 @@
+id=ACC000095
+username=chipt91
+password=43686940303439346d
+full_name=Phạm Tuyết Chi
+birthday=25-10-2005
+gender=Female
+bio=Đá bóng cuối tuần là chân ái.
+created_at=2026-08-24
+status=ACTIVE
+residence=Thanh Hóa
+hometown=Thanh Hóa
+school=Đại học Fulbright Việt Nam
+workplace=The Coffee House
+hobbies=Tập gym;Bóng bàn;Tennis

@@ -1,0 +1,4 @@
+id=GRP000007
+name=Cộng đồng lập trình viên trẻ
+owner=ACC000116
+created_at=2026-09-05 20:31:21

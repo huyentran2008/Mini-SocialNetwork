@@ -1,0 +1,9 @@
+ACC000035|2026-10-23 12:12:04|Haha bạn vui tính thật
+ACC000035|2026-10-23 12:12:50|Mình biết rồi
+ACC000125|2026-10-23 12:13:05|Chúc bạn một ngày tốt lành
+ACC000125|2026-10-23 13:49:37|Chào bạn, lâu rồi không nói chuyện.
+ACC000035|2026-10-23 13:49:58|Chào bạn, dạo này bạn thế nào?
+ACC000125|2026-10-23 13:52:58|Mình ổn, bận học và làm thêm.
+ACC000035|2026-10-23 14:07:38|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000125|2026-10-23 14:08:20|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000035|2026-10-23 14:09:13|Được, tới lúc đó nhắn mình nhé.

@@ -1,0 +1,29 @@
+ACC000111|2026-10-22 08:23:31|Mình mới mua chiếc xe đạp.
+ACC000081|2026-10-22 08:40:09|Wow, xe đẹp không?
+ACC000111|2026-10-22 08:42:34|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000081|2026-10-22 08:44:34|Cuối tuần đạp xe quanh hồ nhé.
+ACC000111|2026-10-22 08:44:50|Hay đó, chốt luôn.
+ACC000081|2026-10-22 08:48:43|Nhớ mang nước.
+ACC000081|2026-10-22 13:38:45|Bạn ngủ chưa?
+ACC000111|2026-10-22 13:42:43|Chưa, đang làm bài tập.
+ACC000081|2026-10-22 13:47:10|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000111|2026-10-22 13:52:51|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000081|2026-10-22 13:55:05|Ngủ ngon nha.
+ACC000111|2026-10-22 13:57:49|Ngủ ngon.
+ACC000111|2026-10-22 15:22:22|Vậy hả?
+ACC000111|2026-10-22 15:52:43|Okela
+ACC000111|2026-10-22 15:53:41|Ừ
+ACC000111|2026-10-22 16:20:55|Đang làm gì đó?
+ACC000081|2026-10-22 16:21:46|Đang làm gì đó?
+ACC000081|2026-10-22 16:30:55|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000111|2026-10-22 16:36:05|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000081|2026-10-22 16:42:36|Cảm ơn, mình hay quên lắm.
+ACC000111|2026-10-22 16:43:07|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000081|2026-10-22 16:46:25|Ừ, mình in hai bản.
+ACC000111|2026-10-22 16:46:58|Giỏi.
+ACC000111|2026-10-23 06:58:24|Tối nay bạn có chơi game không?
+ACC000081|2026-10-23 07:03:30|Có, mấy giờ?
+ACC000111|2026-10-23 07:07:18|6 giờ tối, rủ thêm hai bạn nữa là đủ đội.
+ACC000081|2026-10-23 07:08:57|Ok, mình online sớm.
+ACC000111|2026-10-23 07:09:07|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000081|2026-10-23 07:11:00|Haha, thua thì đừng trách mình.

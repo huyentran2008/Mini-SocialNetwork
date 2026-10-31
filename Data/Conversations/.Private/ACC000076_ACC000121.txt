@@ -1,0 +1,17 @@
+ACC000076|2026-10-21 15:15:05|Bạn ngủ chưa?
+ACC000121|2026-10-21 15:15:32|Chưa, đang làm bài tập.
+ACC000076|2026-10-21 15:16:17|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000121|2026-10-21 15:17:09|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000076|2026-10-21 15:19:30|Ngủ ngon nha.
+ACC000121|2026-10-21 16:01:44|Ngủ ngon.
+ACC000076|2026-10-21 18:55:53|Sáng mai bạn có đi tập chạy không?
+ACC000121|2026-10-21 18:57:14|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000076|2026-10-21 18:58:30|Mình sợ dậy không nổi.
+ACC000121|2026-10-21 19:01:56|Để mình gọi bạn dậy.
+ACC000076|2026-10-21 19:04:25|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000121|2026-10-21 19:05:21|Ok, mai gặp.
+ACC000076|2026-10-21 22:50:28|Mình đang bận chút, lát nhắn lại nhé
+ACC000076|2026-10-21 22:57:18|Có gì báo mình nhé
+ACC000121|2026-10-21 22:59:30|Thật à?
+ACC000121|2026-10-21 22:59:45|Có gì báo mình nhé
+ACC000076|2026-10-21 23:02:41|Chúc bạn một ngày tốt lành

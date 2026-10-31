@@ -1,0 +1,12 @@
+ACC000124|2026-10-22 19:31:13|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000015|2026-10-22 19:31:23|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000124|2026-10-22 19:34:09|Cảm ơn, mình hay quên lắm.
+ACC000015|2026-10-22 19:37:19|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000124|2026-10-22 19:40:09|Ừ, mình in hai bản.
+ACC000015|2026-10-22 19:40:41|Giỏi.
+ACC000124|2026-10-22 19:56:56|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000015|2026-10-22 19:57:15|Bạn chuẩn bị tới đâu rồi?
+ACC000124|2026-10-22 19:57:55|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000015|2026-10-22 19:59:32|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000124|2026-10-22 19:59:41|Cảm ơn Nam, mình sẽ cố.
+ACC000015|2026-10-22 20:00:13|Xong nhớ nhắn mình kết quả nhé.

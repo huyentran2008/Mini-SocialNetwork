@@ -1,0 +1,10 @@
+ACC000046|2026-10-12 17:50:35|Bạn ơi, đi du lịch Đà Lạt tháng sau không?
+ACC000011|2026-10-12 17:51:06|Nghe hấp dẫn quá, đi mấy ngày?
+ACC000046|2026-10-12 18:00:17|Khoảng 3 ngày 2 đêm, đi xe giường nằm
+ACC000011|2026-10-12 18:03:06|Cho mình xin lịch trình nhé
+ACC000046|2026-10-12 18:12:50|Mình gửi trong nhóm luôn
+ACC000011|2026-10-14 14:07:30|Bạn biết quán bún bò nào ngon không?
+ACC000046|2026-10-14 14:08:26|Có quán ở đường Nguyễn Thị Minh Khai, ngon lắm
+ACC000011|2026-10-14 14:11:38|Gửi mình địa chỉ với
+ACC000046|2026-10-14 14:16:17|Mình gửi liền, nhớ đi sớm kẻo hết
+ACC000011|2026-10-14 14:18:22|Cảm ơn bạn, trưa nay đi thử

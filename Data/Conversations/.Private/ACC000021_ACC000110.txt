@@ -1,0 +1,110 @@
+ACC000021|2026-10-17 22:12:52|Điểm thi tiếng Anh có chưa bạn?
+ACC000110|2026-10-17 22:14:39|Có rồi, mình được 8 điểm.
+ACC000021|2026-10-17 22:16:59|Giỏi quá, mình mới 6 điểm thôi.
+ACC000110|2026-10-17 22:22:30|Cũng ổn mà, qua môn là tốt rồi.
+ACC000021|2026-10-17 22:37:41|Cảm ơn bạn đã động viên.
+ACC000110|2026-10-17 22:38:00|Lần sau mình học nhóm tiếp nhé.
+ACC000110|2026-10-17 22:52:19|Ừ
+ACC000110|2026-10-17 22:53:03|Haha bạn vui tính thật
+ACC000021|2026-10-17 22:57:48|Vậy hả?
+ACC000110|2026-10-17 22:59:14|Haha
+ACC000110|2026-10-18 22:13:49|Được luôn
+ACC000110|2026-10-18 22:16:02|Rồi, mình nhớ rồi
+ACC000021|2026-10-19 10:21:24|Sáng mai bạn có đi tập chạy không?
+ACC000110|2026-10-19 10:23:12|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000021|2026-10-19 10:24:43|Mình sợ dậy không nổi.
+ACC000110|2026-10-19 10:27:20|Để mình gọi bạn dậy.
+ACC000021|2026-10-19 10:28:09|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000110|2026-10-19 11:15:58|Ok, mai gặp.
+ACC000021|2026-10-19 11:24:54|Hôm nay bạn có đi học không?
+ACC000110|2026-10-19 11:25:29|Có, mình đang trên đường.
+ACC000021|2026-10-19 12:14:29|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000110|2026-10-19 12:15:29|Ok, giữ rồi.
+ACC000021|2026-10-19 12:15:58|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000110|2026-10-19 12:18:12|Nhanh lên, sắp vào học rồi.
+ACC000110|2026-10-19 14:10:52|Cuối tuần này đi Hội An không?
+ACC000021|2026-10-19 14:42:13|Hay đó, đi mấy người?
+ACC000110|2026-10-19 14:43:52|Khoảng 20 người, tự đi xe máy.
+ACC000021|2026-10-19 14:44:50|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000110|2026-10-19 14:51:38|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000021|2026-10-19 14:52:42|Ok, vậy chốt luôn.
+ACC000021|2026-10-19 20:50:55|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000110|2026-10-19 20:53:13|Haha, bé làm gì thế?
+ACC000021|2026-10-19 20:54:03|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000110|2026-10-19 20:54:59|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000021|2026-10-19 20:56:12|Đợi chút mình chụp.
+ACC000110|2026-10-19 20:58:12|Đúng là chủ nào mèo nấy.
+ACC000110|2026-10-19 22:57:11|Bạn xem giúp mình CV được không?
+ACC000021|2026-10-19 22:59:32|Gửi mình xem nhé.
+ACC000110|2026-10-19 22:59:44|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000021|2026-10-19 23:00:32|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000110|2026-10-19 23:03:55|Hợp lý, mình sửa luôn.
+ACC000021|2026-10-19 23:05:18|Sửa xong gửi mình xem lại nhé.
+ACC000110|2026-10-21 07:00:09|Mình đang bận chút, lát nhắn lại nhé
+ACC000110|2026-10-21 07:00:15|Mình biết rồi
+ACC000110|2026-10-21 07:00:17|Cuối tuần rảnh không?
+ACC000110|2026-10-21 07:00:23|Cảm ơn nhé
+ACC000021|2026-10-21 07:00:34|Mệt quá hôm nay
+ACC000021|2026-10-21 07:00:44|Ừ đúng rồi
+ACC000021|2026-10-21 07:00:58|Haha bạn vui tính thật
+ACC000110|2026-10-21 07:01:00|Cuối tuần rảnh không?
+ACC000021|2026-10-21 07:01:05|Cuối tuần rảnh không?
+ACC000110|2026-10-21 07:01:18|Rồi, mình nhớ rồi
+ACC000110|2026-10-21 07:01:24|Mình đang bận chút, lát nhắn lại nhé
+ACC000021|2026-10-21 07:01:31|Vừa về tới nhà
+ACC000021|2026-10-21 07:01:35|Vậy hả?
+ACC000021|2026-10-21 07:01:46|Mình đang bận chút, lát nhắn lại nhé
+ACC000021|2026-10-21 11:42:33|Bạn có rảnh để mình hỏi chút về môn giải tích không?
+ACC000110|2026-10-21 11:44:11|Có, bạn hỏi đi.
+ACC000021|2026-10-21 11:46:34|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000110|2026-10-21 11:48:18|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000021|2026-10-21 11:54:50|Nghe hợp lý, cảm ơn bạn.
+ACC000110|2026-10-21 11:58:02|Cần gì cứ nhắn mình.
+ACC000110|2026-10-21 12:25:41|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000021|2026-10-21 12:26:50|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000110|2026-10-21 13:03:31|Giá thế nào?
+ACC000021|2026-10-21 13:07:49|Khoảng 30 nghìn một ly.
+ACC000110|2026-10-21 13:08:05|Hợp lý đó, mai mình thử.
+ACC000021|2026-10-21 13:09:55|Mình cũng hay ngồi ở đó, gặp nhau nhé.
+ACC000110|2026-10-21 16:39:07|Ừm, mình nghĩ vậy
+ACC000110|2026-10-21 16:40:53|Có gì báo mình nhé
+ACC000021|2026-10-21 19:18:51|Bạn có rảnh để mình hỏi chút về môn tiếng Anh không?
+ACC000110|2026-10-21 19:22:09|Có, bạn hỏi đi.
+ACC000021|2026-10-21 19:22:35|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000110|2026-10-21 19:26:09|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000021|2026-10-21 19:26:17|Nghe hợp lý, cảm ơn bạn.
+ACC000110|2026-10-21 19:32:46|Cần gì cứ nhắn mình.
+ACC000021|2026-10-21 22:29:47|Bạn biết laptop nào học lập trình ổn không?
+ACC000110|2026-10-21 22:33:43|Tầm giá bao nhiêu?
+ACC000021|2026-10-21 22:50:24|Khoảng 15 đến 20 triệu.
+ACC000110|2026-10-21 22:52:54|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000021|2026-10-21 22:53:15|Cảm ơn nhiều, mình đang rối quá.
+ACC000110|2026-10-21 23:00:02|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000110|2026-10-22 21:11:04|Tối nay bạn có chơi game không?
+ACC000021|2026-10-22 21:11:56|Có, mấy giờ?
+ACC000110|2026-10-22 21:13:16|8 giờ tối, rủ thêm hai bạn nữa là đủ đội.
+ACC000021|2026-10-22 21:14:10|Ok, mình online sớm.
+ACC000110|2026-10-22 21:14:35|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000021|2026-10-22 21:16:15|Haha, thua thì đừng trách mình.
+ACC000021|2026-10-23 13:19:17|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000110|2026-10-23 13:19:50|Bài nào vậy?
+ACC000021|2026-10-23 13:21:19|Mình gửi link rồi đó.
+ACC000110|2026-10-23 13:22:53|Nghe rồi, giai điệu dễ chịu thật.
+ACC000021|2026-10-23 13:23:19|Đúng không? Mình nghe suốt tuần này.
+ACC000110|2026-10-23 13:25:05|Cho mình xin playlist nhé.
+ACC000110|2026-10-23 18:42:22|Cố lên nhé
+ACC000110|2026-10-23 18:48:29|Ok
+ACC000110|2026-10-23 19:30:15|Cuối tuần rảnh không?
+ACC000021|2026-10-23 19:31:59|Ừm, mình nghĩ vậy
+ACC000110|2026-10-24 07:13:30|Bạn ơi, bài tập xác suất nộp chưa?
+ACC000021|2026-10-24 07:17:13|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000110|2026-10-24 07:18:46|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000021|2026-10-24 07:22:06|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000110|2026-10-24 07:23:04|Có gì hỏi mình nhé.
+ACC000021|2026-10-24 07:29:29|Okela, cảm ơn Dũng nhiều.
+ACC000110|2026-10-24 13:43:45|Bạn có rảnh để mình hỏi chút về môn xác suất không?
+ACC000021|2026-10-24 13:50:07|Có, bạn hỏi đi.
+ACC000110|2026-10-24 14:32:02|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000021|2026-10-24 14:32:28|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000110|2026-10-24 14:33:58|Nghe hợp lý, cảm ơn bạn.
+ACC000021|2026-10-24 14:36:50|Cần gì cứ nhắn mình.

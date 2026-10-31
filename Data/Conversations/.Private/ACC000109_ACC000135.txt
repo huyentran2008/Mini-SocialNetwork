@@ -1,0 +1,119 @@
+ACC000109|2026-10-05 17:47:47|Cuối tuần bạn làm gì?
+ACC000135|2026-10-05 17:48:17|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000109|2026-10-05 17:48:39|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000135|2026-10-05 17:49:20|Thật không? Ngại quá.
+ACC000109|2026-10-05 17:51:48|Ngại gì, mẹ mình quý bạn lắm.
+ACC000135|2026-10-05 17:52:09|Vậy mình qua nhé, cảm ơn bác.
+ACC000109|2026-10-08 14:49:57|Mình mới mua chiếc xe đạp.
+ACC000135|2026-10-08 14:50:29|Wow, xe đẹp không?
+ACC000109|2026-10-08 14:50:58|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000135|2026-10-08 14:52:27|Cuối tuần đạp xe quanh hồ nhé.
+ACC000109|2026-10-08 14:53:34|Hay đó, chốt luôn.
+ACC000135|2026-10-08 14:54:13|Nhớ mang nước.
+ACC000109|2026-10-08 18:05:47|Bạn có rảnh để mình hỏi chút về môn lập trình hướng đối tượng không?
+ACC000135|2026-10-08 18:08:37|Có, bạn hỏi đi.
+ACC000109|2026-10-08 18:09:48|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000135|2026-10-08 18:12:18|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000109|2026-10-08 18:12:46|Nghe hợp lý, cảm ơn bạn.
+ACC000135|2026-10-08 18:13:28|Cần gì cứ nhắn mình.
+ACC000135|2026-10-08 18:54:17|Bạn ơi, bài tập tiếng Anh nộp chưa?
+ACC000109|2026-10-08 18:55:22|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000135|2026-10-08 18:56:06|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000109|2026-10-08 19:30:39|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000135|2026-10-08 19:34:44|Có gì hỏi mình nhé.
+ACC000109|2026-10-08 19:35:00|Okela, cảm ơn Tú nhiều.
+ACC000135|2026-10-08 20:12:50|Hôm nay bạn có đi học không?
+ACC000109|2026-10-08 20:13:14|Có, mình đang trên đường.
+ACC000135|2026-10-08 20:13:25|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000109|2026-10-08 20:13:55|Ok, giữ rồi.
+ACC000135|2026-10-08 20:17:44|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000109|2026-10-08 20:18:53|Nhanh lên, sắp vào học rồi.
+ACC000135|2026-10-08 20:39:54|Mệt quá hôm nay
+ACC000135|2026-10-08 20:40:07|Cuối tuần rảnh không?
+ACC000109|2026-10-08 20:40:11|Để mình xem
+ACC000109|2026-10-08 20:40:25|Cố lên nhé
+ACC000135|2026-10-08 20:40:32|Thật à?
+ACC000109|2026-10-08 20:40:41|Được luôn
+ACC000135|2026-10-08 20:40:51|Nghe được đó
+ACC000109|2026-10-08 20:41:01|Ừ
+ACC000135|2026-10-08 20:41:02|Mình biết rồi
+ACC000109|2026-10-08 20:41:07|Đang làm gì đó?
+ACC000109|2026-10-08 20:41:10|Vậy hả?
+ACC000109|2026-10-08 20:41:11|Mai gặp nhé
+ACC000135|2026-10-08 20:41:20|Cố lên nhé
+ACC000109|2026-10-08 20:41:33|Cuối tuần rảnh không?
+ACC000135|2026-10-12 22:05:33|Ừ
+ACC000109|2026-10-12 22:05:40|Nghe được đó
+ACC000109|2026-10-12 22:05:47|Mình biết rồi
+ACC000109|2026-10-12 22:05:48|Chúc bạn một ngày tốt lành
+ACC000109|2026-10-12 22:05:53|Rồi, mình nhớ rồi
+ACC000109|2026-10-12 22:05:58|Mệt quá hôm nay
+ACC000109|2026-10-12 22:06:03|Haha
+ACC000135|2026-10-12 22:06:11|Ừ
+ACC000135|2026-10-12 22:06:22|Vậy hả?
+ACC000135|2026-10-12 22:06:27|Tối nói chuyện tiếp nhé
+ACC000109|2026-10-12 22:06:36|Đang làm gì đó?
+ACC000135|2026-10-12 22:06:46|Có gì báo mình nhé
+ACC000109|2026-10-12 22:06:48|Mình đang bận chút, lát nhắn lại nhé
+ACC000109|2026-10-12 22:06:55|Cố lên nhé
+ACC000109|2026-10-12 22:07:06|Ok
+ACC000135|2026-10-12 22:07:08|Rồi, mình nhớ rồi
+ACC000135|2026-10-13 07:31:41|Thôi mình đi ăn cơm đã
+ACC000109|2026-10-13 07:37:33|Mình cũng nghĩ vậy
+ACC000135|2026-10-13 09:25:09|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000109|2026-10-13 09:29:04|Chuyện nhỏ thôi mà.
+ACC000135|2026-10-13 09:34:35|Không có bạn chắc mình làm không kịp.
+ACC000109|2026-10-13 09:38:54|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000135|2026-10-13 09:39:13|Hôm nào mình mời bạn bánh mì nhé.
+ACC000109|2026-10-13 09:45:39|Vậy thì mình không từ chối đâu.
+ACC000109|2026-10-13 09:53:49|Chỉ mình đường tới thư viện thành phố với.
+ACC000135|2026-10-13 10:00:07|Bạn đang ở đâu?
+ACC000109|2026-10-13 10:03:13|Mình đang ở gần cổng chợ.
+ACC000135|2026-10-13 10:03:45|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000109|2026-10-13 10:04:41|Mình thấy rồi, cảm ơn bạn nha.
+ACC000135|2026-10-13 10:06:53|Ok, đi cẩn thận.
+ACC000135|2026-10-15 23:59:55|Bạn biết laptop nào học lập trình ổn không?
+ACC000109|2026-10-16 00:00:31|Tầm giá bao nhiêu?
+ACC000135|2026-10-16 00:03:24|Khoảng 15 đến 20 triệu.
+ACC000109|2026-10-16 00:03:50|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000135|2026-10-16 00:10:40|Cảm ơn nhiều, mình đang rối quá.
+ACC000109|2026-10-16 00:15:32|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000135|2026-10-16 15:09:53|Mình mới mua chiếc xe đạp.
+ACC000109|2026-10-16 15:10:58|Wow, xe đẹp không?
+ACC000135|2026-10-16 15:11:21|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000109|2026-10-16 15:16:23|Cuối tuần đạp xe quanh hồ nhé.
+ACC000135|2026-10-16 15:17:18|Hay đó, chốt luôn.
+ACC000109|2026-10-16 15:19:00|Nhớ mang nước.
+ACC000109|2026-10-17 10:36:51|Bạn có rảnh để mình hỏi chút về môn xác suất không?
+ACC000135|2026-10-17 10:39:53|Có, bạn hỏi đi.
+ACC000109|2026-10-17 10:40:26|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000135|2026-10-17 10:40:35|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000109|2026-10-17 10:43:24|Nghe hợp lý, cảm ơn bạn.
+ACC000135|2026-10-17 11:28:54|Cần gì cứ nhắn mình.
+ACC000135|2026-10-17 22:22:28|Cuối tuần bạn làm gì?
+ACC000109|2026-10-17 22:23:07|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000135|2026-10-17 22:24:22|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000109|2026-10-17 22:24:43|Thật không? Ngại quá.
+ACC000135|2026-10-17 22:25:16|Ngại gì, mẹ mình quý bạn lắm.
+ACC000109|2026-10-17 22:28:46|Vậy mình qua nhé, cảm ơn bác.
+ACC000109|2026-10-18 20:21:24|Điểm thi giải tích có chưa bạn?
+ACC000135|2026-10-18 20:21:47|Có rồi, mình được 8 điểm.
+ACC000109|2026-10-18 20:22:06|Giỏi quá, mình mới 6 điểm thôi.
+ACC000135|2026-10-18 20:42:14|Cũng ổn mà, qua môn là tốt rồi.
+ACC000109|2026-10-18 20:42:42|Cảm ơn bạn đã động viên.
+ACC000135|2026-10-18 21:31:01|Lần sau mình học nhóm tiếp nhé.
+ACC000135|2026-10-19 07:17:14|Điểm thi cấu trúc dữ liệu có chưa bạn?
+ACC000109|2026-10-19 07:18:28|Có rồi, mình được 8 điểm.
+ACC000135|2026-10-19 07:21:38|Giỏi quá, mình mới 6 điểm thôi.
+ACC000109|2026-10-19 07:27:14|Cũng ổn mà, qua môn là tốt rồi.
+ACC000135|2026-10-19 07:29:21|Cảm ơn bạn đã động viên.
+ACC000109|2026-10-19 07:30:45|Lần sau mình học nhóm tiếp nhé.
+ACC000109|2026-10-20 23:01:43|Cuối tuần bạn làm gì?
+ACC000135|2026-10-20 23:04:58|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000109|2026-10-20 23:09:35|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000135|2026-10-20 23:11:58|Thật không? Ngại quá.
+ACC000109|2026-10-20 23:12:39|Ngại gì, mẹ mình quý bạn lắm.
+ACC000135|2026-10-20 23:12:59|Vậy mình qua nhé, cảm ơn bác.
+ACC000109|2026-10-23 06:57:12|Được luôn
+ACC000135|2026-10-23 06:59:47|Chúc bạn một ngày tốt lành
+ACC000135|2026-10-23 07:00:30|Đang làm gì đó?

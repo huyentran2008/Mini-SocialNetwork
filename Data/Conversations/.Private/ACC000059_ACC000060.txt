@@ -1,0 +1,10 @@
+ACC000059|2026-10-20 22:58:19|Mình đang bận chút, lát nhắn lại nhé
+ACC000060|2026-10-20 22:58:44|Mình đang bận chút, lát nhắn lại nhé
+ACC000060|2026-10-20 22:59:29|Có gì báo mình nhé
+ACC000060|2026-10-24 14:48:09|Cuối tuần này đi xem phim không?
+ACC000059|2026-10-24 14:49:44|Phim gì vậy?
+ACC000060|2026-10-24 14:50:22|Phim mới chiếu, nghe nói hay lắm.
+ACC000059|2026-10-24 14:50:31|Mình đang rảnh thứ tư, đi buổi chiều nhé.
+ACC000060|2026-10-24 14:52:12|Ok, mình đặt vé luôn.
+ACC000059|2026-10-24 14:55:54|Nhớ chọn ghế giữa nha.
+ACC000060|2026-10-24 15:01:43|Yên tâm.

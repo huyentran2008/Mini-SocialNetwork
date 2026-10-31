@@ -1,0 +1,12 @@
+ACC000143|2026-10-19 20:44:00|Bạn ngủ chưa?
+ACC000110|2026-10-19 21:30:43|Chưa, đang làm bài tập.
+ACC000143|2026-10-19 21:32:08|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000110|2026-10-19 21:32:33|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000143|2026-10-19 21:33:22|Ngủ ngon nha.
+ACC000110|2026-10-19 21:33:44|Ngủ ngon.
+ACC000143|2026-10-19 21:51:41|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000110|2026-10-19 21:52:55|Ủa quên mất, bao nhiêu vậy?
+ACC000143|2026-10-19 21:57:50|40 nghìn thôi.
+ACC000110|2026-10-19 21:58:28|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000143|2026-10-19 21:58:46|Nhận được rồi nha.
+ACC000110|2026-10-19 21:59:12|Ok, xong nợ.

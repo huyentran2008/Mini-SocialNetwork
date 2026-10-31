@@ -1,0 +1,64 @@
+ACC000110|2026-10-21 11:26:42|Công thức làm bánh flan bạn dùng thế nào?
+ACC000004|2026-10-21 12:13:57|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000110|2026-10-21 12:14:38|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000004|2026-10-21 12:16:51|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000110|2026-10-21 12:18:36|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000004|2026-10-21 12:18:58|Làm xong cho mình xin một miếng nhé.
+ACC000004|2026-10-21 21:07:48|Cuối tuần bạn làm gì?
+ACC000110|2026-10-21 21:08:11|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000004|2026-10-21 21:08:46|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000110|2026-10-21 21:11:00|Thật không? Ngại quá.
+ACC000004|2026-10-21 21:12:33|Ngại gì, mẹ mình quý bạn lắm.
+ACC000110|2026-10-21 21:14:32|Vậy mình qua nhé, cảm ơn bác.
+ACC000004|2026-10-22 15:32:43|Bạn biết laptop nào học lập trình ổn không?
+ACC000110|2026-10-22 15:35:03|Tầm giá bao nhiêu?
+ACC000004|2026-10-22 15:36:34|Khoảng 15 đến 20 triệu.
+ACC000110|2026-10-22 16:25:46|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000004|2026-10-22 16:27:02|Cảm ơn nhiều, mình đang rối quá.
+ACC000110|2026-10-22 16:27:26|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000004|2026-10-22 16:56:14|Okela
+ACC000004|2026-10-22 17:01:56|Ok
+ACC000004|2026-10-22 17:03:58|Mình đang bận chút, lát nhắn lại nhé
+ACC000004|2026-10-22 21:24:26|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000110|2026-10-22 21:30:16|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000004|2026-10-22 21:49:03|Giá thế nào?
+ACC000110|2026-10-22 21:50:57|Khoảng 50 nghìn một ly.
+ACC000004|2026-10-22 21:51:07|Hợp lý đó, mai mình thử.
+ACC000110|2026-10-22 21:52:00|Mình cũng hay ngồi ở đó, gặp nhau nhé.
+ACC000004|2026-10-22 22:04:22|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000110|2026-10-22 22:05:50|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000004|2026-10-22 22:07:23|Chụp vài tấm nhé.
+ACC000110|2026-10-22 22:13:29|Xong rồi, mình gửi bạn qua đây.
+ACC000004|2026-10-22 22:15:40|Đẹp quá, cảm ơn bạn nhiều.
+ACC000110|2026-10-22 22:17:20|Lần sau mình chụp thêm.
+ACC000004|2026-10-22 22:27:13|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000110|2026-10-22 22:28:52|Bạn chuẩn bị tới đâu rồi?
+ACC000004|2026-10-22 22:29:20|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000110|2026-10-22 22:31:37|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000004|2026-10-22 22:32:46|Cảm ơn Dũng, mình sẽ cố.
+ACC000110|2026-10-22 22:36:39|Xong nhớ nhắn mình kết quả nhé.
+ACC000110|2026-10-23 05:41:39|Chào bạn, lâu rồi không nói chuyện.
+ACC000004|2026-10-23 05:43:58|Chào bạn, dạo này bạn thế nào?
+ACC000110|2026-10-23 05:47:31|Mình ổn, bận học và làm thêm.
+ACC000004|2026-10-23 05:48:29|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000110|2026-10-23 05:50:12|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000004|2026-10-23 05:50:58|Được, tới lúc đó nhắn mình nhé.
+ACC000110|2026-10-23 11:35:44|Tối nay đi ăn hủ tiếu không?
+ACC000004|2026-10-23 11:37:48|Đi chứ! Quán nào?
+ACC000110|2026-10-23 11:38:22|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000004|2026-10-23 11:38:52|Mấy giờ?
+ACC000110|2026-10-23 11:39:03|12 giờ nhé.
+ACC000004|2026-10-23 11:40:43|Ok, mình rủ thêm một bạn nữa được không?
+ACC000110|2026-10-23 11:41:39|Được chứ, càng đông càng vui.
+ACC000004|2026-10-23 12:44:47|Bạn ngủ chưa?
+ACC000110|2026-10-23 12:45:32|Chưa, đang làm bài tập.
+ACC000004|2026-10-23 12:50:49|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000110|2026-10-23 12:53:25|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000004|2026-10-23 12:54:10|Ngủ ngon nha.
+ACC000110|2026-10-23 12:55:38|Ngủ ngon.
+ACC000110|2026-10-23 21:19:01|Công thức làm bánh flan bạn dùng thế nào?
+ACC000004|2026-10-23 21:19:50|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000110|2026-10-23 21:25:55|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000004|2026-10-23 22:12:43|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000110|2026-10-23 22:12:54|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000004|2026-10-23 22:13:06|Làm xong cho mình xin một miếng nhé.

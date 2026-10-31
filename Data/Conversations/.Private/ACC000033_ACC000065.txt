@@ -1,0 +1,24 @@
+ACC000065|2026-10-22 09:15:14|Sáng mai bạn có đi tập chạy không?
+ACC000033|2026-10-22 09:15:35|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000065|2026-10-22 09:19:24|Mình sợ dậy không nổi.
+ACC000033|2026-10-22 09:22:11|Để mình gọi bạn dậy.
+ACC000065|2026-10-22 09:25:56|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000033|2026-10-22 09:31:42|Ok, mai gặp.
+ACC000065|2026-10-22 20:00:08|Điểm thi giải tích có chưa bạn?
+ACC000033|2026-10-22 20:04:45|Có rồi, mình được 8 điểm.
+ACC000065|2026-10-22 20:05:01|Giỏi quá, mình mới 6 điểm thôi.
+ACC000033|2026-10-22 20:05:49|Cũng ổn mà, qua môn là tốt rồi.
+ACC000065|2026-10-22 20:07:58|Cảm ơn bạn đã động viên.
+ACC000033|2026-10-22 20:10:23|Lần sau mình học nhóm tiếp nhé.
+ACC000065|2026-10-22 21:47:46|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000033|2026-10-22 21:49:39|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000065|2026-10-22 21:50:28|Cảm ơn, mình hay quên lắm.
+ACC000033|2026-10-22 21:50:58|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000065|2026-10-22 22:30:53|Ừ, mình in hai bản.
+ACC000033|2026-10-22 22:33:30|Giỏi.
+ACC000065|2026-10-22 22:43:12|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000033|2026-10-22 22:44:19|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000065|2026-10-22 22:44:40|Mình thấy rồi, truy cập ngoài mảng.
+ACC000033|2026-10-22 22:47:04|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000065|2026-10-22 23:36:08|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000033|2026-10-22 23:58:29|Lỗi này ai cũng từng gặp thôi.

@@ -1,0 +1,12 @@
+ACC000078|2026-10-16 09:44:54|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000139|2026-10-16 09:50:38|Bạn chuẩn bị tới đâu rồi?
+ACC000078|2026-10-16 10:23:29|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000139|2026-10-16 10:25:44|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000078|2026-10-16 10:31:46|Cảm ơn Thuận, mình sẽ cố.
+ACC000139|2026-10-16 10:35:29|Xong nhớ nhắn mình kết quả nhé.
+ACC000139|2026-10-16 10:43:51|Hôm nay mình hơi buồn.
+ACC000078|2026-10-16 10:45:46|Có chuyện gì vậy?
+ACC000139|2026-10-16 10:47:20|Mình bị điểm thấp mà không biết lý do.
+ACC000078|2026-10-16 10:52:41|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000139|2026-10-16 10:57:47|Ừ, mình sẽ gặp thầy tuần này.
+ACC000078|2026-10-16 10:59:18|Đừng buồn nữa, rồi sẽ ổn thôi.

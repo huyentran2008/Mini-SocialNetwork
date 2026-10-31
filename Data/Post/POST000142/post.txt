@@ -1,0 +1,8 @@
+id=POST000142
+author=ACC000095
+visibility=PUBLIC
+created_at=2026-10-11 07:29:09
+edited_at=
+status=VISIBLE
+title=Cầu lông cuối tuần
+content=Cuối tuần nào cũng ra sân cầu lông với hội bạn. Smash chưa chuẩn nhưng phòng thủ thì ổn. Có ai muốn lập đội đánh đôi không?

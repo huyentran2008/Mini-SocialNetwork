@@ -1,0 +1,8 @@
+id=POST000051
+author=ACC000117
+visibility=PUBLIC
+created_at=2026-09-10 22:36:10
+edited_at=
+status=VISIBLE
+title=Nghiện game có phải là xấu?
+content=Mình thấy game giúp giải tỏa áp lực nếu biết kiểm soát thời gian. Nhưng cũng đừng quên ăn uống và ngủ đủ giấc.

@@ -1,0 +1,27 @@
+ACC000095|2026-09-22 19:34:43|Ok
+ACC000083|2026-09-22 19:40:15|Được luôn
+ACC000095|2026-09-22 19:45:15|Cố lên nhé
+ACC000095|2026-09-29 21:25:50|Bạn cho mình mượn tài liệu được không?
+ACC000083|2026-09-29 21:52:23|Được, bạn lấy bản chụp hay bản mềm?
+ACC000095|2026-09-29 21:55:40|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000083|2026-09-29 21:59:22|Gửi rồi nha, kiểm tra thử.
+ACC000095|2026-09-29 22:03:59|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000083|2026-09-29 22:04:34|Không có gì.
+ACC000095|2026-10-16 18:05:08|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000083|2026-10-16 18:06:12|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000095|2026-10-16 18:12:50|Cảm ơn, mình hay quên lắm.
+ACC000083|2026-10-16 18:16:23|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000095|2026-10-16 18:18:53|Ừ, mình in hai bản.
+ACC000083|2026-10-16 18:48:43|Giỏi.
+ACC000095|2026-10-19 22:13:10|Công thức làm bánh flan bạn dùng thế nào?
+ACC000083|2026-10-19 22:15:12|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000095|2026-10-19 22:17:01|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000083|2026-10-19 22:20:06|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000095|2026-10-19 22:20:32|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000083|2026-10-19 22:26:23|Làm xong cho mình xin một miếng nhé.
+ACC000095|2026-10-24 16:54:37|Điểm thi lập trình hướng đối tượng có chưa bạn?
+ACC000083|2026-10-24 16:56:09|Có rồi, mình được 8 điểm.
+ACC000095|2026-10-24 16:56:50|Giỏi quá, mình mới 6 điểm thôi.
+ACC000083|2026-10-24 16:57:29|Cũng ổn mà, qua môn là tốt rồi.
+ACC000095|2026-10-24 16:59:51|Cảm ơn bạn đã động viên.
+ACC000083|2026-10-24 17:00:27|Lần sau mình học nhóm tiếp nhé.

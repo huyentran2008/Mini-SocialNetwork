@@ -1,0 +1,14 @@
+id=ACC000005
+username=huyhg06
+password=487579403638373162
+full_name=Hoàng Gia Huy
+birthday=05-05-2006
+gender=Male
+bio=Fan bóng đá chính hiệu.
+created_at=2026-10-03
+status=ACTIVE
+residence=Hải Phòng
+hometown=TP. Hồ Chí Minh
+school=Đại học Ngoại thương
+workplace=Techcombank
+hobbies=Nuôi mèo

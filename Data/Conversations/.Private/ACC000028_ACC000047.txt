@@ -1,0 +1,23 @@
+ACC000028|2026-10-14 10:23:06|Nay trời mưa quá, bạn có đi học không?
+ACC000047|2026-10-14 10:32:20|Mình đi bằng xe buýt, chắc hơi trễ
+ACC000028|2026-10-14 10:41:53|Vậy mình giữ chỗ cho bạn nhé
+ACC000047|2026-10-14 10:48:56|Cảm ơn bạn, bạn tốt quá
+ACC000028|2026-10-14 10:50:06|Có gì đâu, nhớ mang áo mưa
+ACC000047|2026-10-16 20:58:26|Bạn ngủ chưa?
+ACC000028|2026-10-16 21:00:37|Chưa, đang làm bài tập.
+ACC000047|2026-10-16 21:01:26|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000028|2026-10-16 21:03:55|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000047|2026-10-16 21:04:26|Ngủ ngon nha.
+ACC000028|2026-10-16 21:09:02|Ngủ ngon.
+ACC000047|2026-10-19 11:45:44|Cuối tuần rảnh không?
+ACC000047|2026-10-19 11:47:05|Vậy hả?
+ACC000028|2026-10-19 11:49:42|Ừ đúng rồi
+ACC000047|2026-10-19 12:37:30|Ừ
+ACC000028|2026-10-19 12:39:54|Cảm ơn nhé
+ACC000047|2026-10-22 21:01:30|Cuối tuần này đi xem phim không?
+ACC000028|2026-10-22 21:03:51|Phim gì vậy?
+ACC000047|2026-10-22 21:09:15|Phim mới chiếu, nghe nói hay lắm.
+ACC000028|2026-10-22 21:10:20|Mình đang rảnh thứ hai, đi buổi chiều nhé.
+ACC000047|2026-10-22 21:12:32|Ok, mình đặt vé luôn.
+ACC000028|2026-10-22 21:13:30|Nhớ chọn ghế giữa nha.
+ACC000047|2026-10-22 21:14:54|Yên tâm.

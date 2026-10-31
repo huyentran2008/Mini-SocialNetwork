@@ -1,0 +1,5 @@
+ACC000022|2026-10-13 13:20:06|Bạn biết quán bún bò nào ngon không?
+ACC000045|2026-10-13 13:26:07|Có quán ở đường Nguyễn Thị Minh Khai, ngon lắm
+ACC000022|2026-10-13 13:29:17|Gửi mình địa chỉ với
+ACC000045|2026-10-13 13:38:54|Mình gửi liền, nhớ đi sớm kẻo hết
+ACC000022|2026-10-13 13:47:37|Cảm ơn bạn, trưa nay đi thử

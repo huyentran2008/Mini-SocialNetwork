@@ -1,0 +1,8 @@
+id=POST000168
+author=ACC000078
+visibility=PUBLIC
+created_at=2026-10-14 21:49:03
+edited_at=
+status=VISIBLE
+title=Cuộc thi nấu ăn của lớp
+content=Nhóm mình làm món bánh xèo và được giải ba. Cả đội vui như Tết, giờ đang bàn chuyện tổ chức nấu ăn mỗi tháng.

@@ -1,0 +1,8 @@
+id=POST000029
+author=ACC000031
+visibility=FRIEND
+created_at=2026-10-23 11:51:49
+edited_at=
+status=VISIBLE
+title=Cảm ơn mọi người đã ủng hộ
+content=Cảm ơn mọi người đã động viên mình trong thời gian qua. Mình sẽ cố gắng hơn nữa!

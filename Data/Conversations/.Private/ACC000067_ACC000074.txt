@@ -1,0 +1,144 @@
+ACC000074|2026-10-14 06:36:45|Cuối tuần này đi Vũng Tàu không?
+ACC000067|2026-10-14 06:36:56|Hay đó, đi mấy người?
+ACC000074|2026-10-14 06:38:45|Khoảng 15 người, tự đi xe máy.
+ACC000067|2026-10-14 06:41:44|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000074|2026-10-14 06:42:33|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000067|2026-10-14 06:49:02|Ok, vậy chốt luôn.
+ACC000074|2026-10-14 11:47:03|Công thức làm bánh flan bạn dùng thế nào?
+ACC000067|2026-10-14 12:35:53|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000074|2026-10-14 12:36:16|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000067|2026-10-14 13:04:40|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000074|2026-10-14 13:42:02|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000067|2026-10-14 14:25:34|Làm xong cho mình xin một miếng nhé.
+ACC000074|2026-10-14 14:34:52|Mình biết rồi
+ACC000067|2026-10-14 14:35:41|Haha bạn vui tính thật
+ACC000074|2026-10-14 19:30:35|Cuối tuần bạn làm gì?
+ACC000067|2026-10-14 19:31:15|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000074|2026-10-14 19:31:47|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000067|2026-10-14 19:53:30|Thật không? Ngại quá.
+ACC000074|2026-10-14 19:53:53|Ngại gì, mẹ mình quý bạn lắm.
+ACC000067|2026-10-14 19:54:51|Vậy mình qua nhé, cảm ơn bác.
+ACC000074|2026-10-14 20:05:05|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000067|2026-10-14 20:05:31|Bài nào vậy?
+ACC000074|2026-10-14 20:07:03|Mình gửi link rồi đó.
+ACC000067|2026-10-14 20:09:05|Nghe rồi, giai điệu dễ chịu thật.
+ACC000074|2026-10-14 20:09:13|Đúng không? Mình nghe suốt tuần này.
+ACC000067|2026-10-14 20:16:02|Cho mình xin playlist nhé.
+ACC000074|2026-10-15 00:22:35|Tối nay bạn có chơi game không?
+ACC000067|2026-10-15 00:26:18|Có, mấy giờ?
+ACC000074|2026-10-15 00:27:20|8 giờ tối, rủ thêm hai bạn nữa là đủ đội.
+ACC000067|2026-10-15 00:30:12|Ok, mình online sớm.
+ACC000074|2026-10-15 00:37:08|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000067|2026-10-15 00:43:59|Haha, thua thì đừng trách mình.
+ACC000067|2026-10-15 07:29:06|Dạo này mình áp lực thi quá.
+ACC000074|2026-10-15 07:34:36|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000067|2026-10-15 07:35:15|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000074|2026-10-15 07:37:56|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000067|2026-10-15 07:42:41|Nghe có vẻ ổn, mình thử.
+ACC000074|2026-10-15 08:04:19|Cố lên, có gì cần cứ nhắn mình.
+ACC000067|2026-10-15 13:11:57|Được luôn
+ACC000074|2026-10-15 13:12:11|Có gì báo mình nhé
+ACC000067|2026-10-15 13:12:20|Cố lên nhé
+ACC000067|2026-10-15 13:12:21|Mình biết rồi
+ACC000067|2026-10-15 13:12:34|Chúc bạn một ngày tốt lành
+ACC000067|2026-10-15 13:12:41|Mình biết rồi
+ACC000074|2026-10-15 13:12:43|Cố lên nhé
+ACC000074|2026-10-15 13:12:57|Ừm, mình nghĩ vậy
+ACC000074|2026-10-15 13:12:59|Mình đang bận chút, lát nhắn lại nhé
+ACC000067|2026-10-15 13:13:04|Có gì báo mình nhé
+ACC000074|2026-10-15 13:13:06|Ừ đúng rồi
+ACC000074|2026-10-15 13:13:14|Ừ
+ACC000074|2026-10-15 13:13:21|Cảm ơn nhé
+ACC000074|2026-10-15 13:13:24|Để mình xem
+ACC000067|2026-10-15 13:13:33|Có gì báo mình nhé
+ACC000067|2026-10-15 13:13:43|Haha bạn vui tính thật
+ACC000074|2026-10-15 15:35:22|Cuối tuần này đi Mũi Né không?
+ACC000067|2026-10-15 15:36:29|Hay đó, đi mấy người?
+ACC000074|2026-10-15 15:38:58|Khoảng 5 người, tự đi xe máy.
+ACC000067|2026-10-15 15:43:58|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000074|2026-10-15 15:44:39|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000067|2026-10-15 15:50:00|Ok, vậy chốt luôn.
+ACC000067|2026-10-15 16:06:06|Bạn xem giúp mình CV được không?
+ACC000074|2026-10-15 16:07:37|Gửi mình xem nhé.
+ACC000067|2026-10-15 16:11:10|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000074|2026-10-15 16:13:01|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000067|2026-10-15 16:17:51|Hợp lý, mình sửa luôn.
+ACC000074|2026-10-15 16:18:23|Sửa xong gửi mình xem lại nhé.
+ACC000067|2026-10-15 17:54:34|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000074|2026-10-15 17:55:03|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000067|2026-10-15 17:57:09|Cảm ơn, mình hay quên lắm.
+ACC000074|2026-10-15 18:01:54|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000067|2026-10-15 18:03:23|Ừ, mình in hai bản.
+ACC000074|2026-10-15 18:04:49|Giỏi.
+ACC000074|2026-10-15 18:13:53|Mình đang bận chút, lát nhắn lại nhé
+ACC000067|2026-10-15 18:15:52|Mai gặp nhé
+ACC000074|2026-10-15 18:34:49|Tối nay đi ăn cơm gà không?
+ACC000067|2026-10-15 18:37:21|Đi chứ! Quán nào?
+ACC000074|2026-10-15 18:38:19|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000067|2026-10-15 18:40:49|Mấy giờ?
+ACC000074|2026-10-15 18:43:05|7 rưỡi nhé.
+ACC000067|2026-10-15 19:21:20|Ok, mình rủ thêm một bạn nữa được không?
+ACC000074|2026-10-15 19:27:51|Được chứ, càng đông càng vui.
+ACC000067|2026-10-15 19:36:46|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000074|2026-10-15 20:05:47|Ủa quên mất, bao nhiêu vậy?
+ACC000067|2026-10-15 20:06:59|150 nghìn thôi.
+ACC000074|2026-10-15 20:07:49|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000067|2026-10-15 20:09:29|Nhận được rồi nha.
+ACC000074|2026-10-15 20:09:55|Ok, xong nợ.
+ACC000067|2026-10-15 20:18:44|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000074|2026-10-15 20:20:50|Ủa quên mất, bao nhiêu vậy?
+ACC000067|2026-10-15 20:51:04|70 nghìn thôi.
+ACC000074|2026-10-15 20:52:33|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000067|2026-10-15 20:53:36|Nhận được rồi nha.
+ACC000074|2026-10-15 20:54:58|Ok, xong nợ.
+ACC000074|2026-10-15 21:04:50|Okela
+ACC000074|2026-10-15 21:05:03|Có gì báo mình nhé
+ACC000074|2026-10-15 21:06:21|Ừ đúng rồi
+ACC000074|2026-10-15 21:09:31|Tối nói chuyện tiếp nhé
+ACC000074|2026-10-15 21:16:16|Thật à?
+ACC000074|2026-10-15 21:25:04|Sinh nhật vui vẻ nhé Quốc!
+ACC000067|2026-10-15 21:25:12|Cảm ơn Mai nha, nhớ cả sinh nhật mình luôn.
+ACC000074|2026-10-15 21:25:36|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000067|2026-10-15 21:26:17|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000074|2026-10-15 21:31:23|8 giờ nhé.
+ACC000067|2026-10-15 21:56:02|Ok, hẹn gặp.
+ACC000074|2026-10-15 22:04:20|Tối nay bạn có chơi game không?
+ACC000067|2026-10-15 22:05:05|Có, mấy giờ?
+ACC000074|2026-10-15 22:21:05|8 giờ, rủ thêm hai bạn nữa là đủ đội.
+ACC000067|2026-10-15 22:53:58|Ok, mình online sớm.
+ACC000074|2026-10-15 22:57:21|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000067|2026-10-15 23:00:13|Haha, thua thì đừng trách mình.
+ACC000074|2026-10-16 00:34:27|Công thức làm bánh flan bạn dùng thế nào?
+ACC000067|2026-10-16 00:36:28|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000074|2026-10-16 00:37:27|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000067|2026-10-16 00:38:32|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000074|2026-10-16 00:41:37|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000067|2026-10-16 00:43:24|Làm xong cho mình xin một miếng nhé.
+ACC000074|2026-10-20 09:57:07|Sáng mai bạn có đi tập chạy không?
+ACC000067|2026-10-20 09:57:52|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000074|2026-10-20 10:00:11|Mình sợ dậy không nổi.
+ACC000067|2026-10-20 10:01:13|Để mình gọi bạn dậy.
+ACC000074|2026-10-20 10:01:47|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000067|2026-10-20 10:03:09|Ok, mai gặp.
+ACC000067|2026-10-20 10:17:07|Ừm, mình nghĩ vậy
+ACC000074|2026-10-20 10:17:57|Tối nói chuyện tiếp nhé
+ACC000074|2026-10-20 10:18:34|Có gì báo mình nhé
+ACC000074|2026-10-20 10:18:46|Mệt quá hôm nay
+ACC000067|2026-10-20 19:55:35|Sao git của mình báo conflict hoài vậy?
+ACC000074|2026-10-20 19:58:47|Bạn có pull trước khi push không?
+ACC000067|2026-10-20 20:02:06|Chắc là không.
+ACC000074|2026-10-20 20:04:56|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000067|2026-10-20 20:05:20|Làm xong rồi, cảm ơn bạn.
+ACC000074|2026-10-20 20:06:38|Từ nay nhớ pull trước nhé.
+ACC000074|2026-10-22 21:16:31|Chào bạn, lâu rồi không nói chuyện.
+ACC000067|2026-10-22 21:17:08|Chào bạn, dạo này bạn thế nào?
+ACC000074|2026-10-22 21:18:27|Mình ổn, bận học và làm thêm.
+ACC000067|2026-10-22 21:25:26|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000074|2026-10-22 21:26:07|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000067|2026-10-22 21:27:59|Được, tới lúc đó nhắn mình nhé.
+ACC000067|2026-10-22 22:57:59|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000074|2026-10-22 23:01:02|Bạn chuẩn bị tới đâu rồi?
+ACC000067|2026-10-22 23:03:00|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000074|2026-10-22 23:06:55|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000067|2026-10-22 23:08:50|Cảm ơn Mai, mình sẽ cố.
+ACC000074|2026-10-22 23:09:12|Xong nhớ nhắn mình kết quả nhé.

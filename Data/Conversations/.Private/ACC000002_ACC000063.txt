@@ -1,0 +1,32 @@
+ACC000002|2026-10-23 06:36:18|Cuối tuần bạn làm gì?
+ACC000063|2026-10-23 06:37:13|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000002|2026-10-23 06:37:36|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000063|2026-10-23 06:38:14|Thật không? Ngại quá.
+ACC000002|2026-10-23 06:39:58|Ngại gì, mẹ mình quý bạn lắm.
+ACC000063|2026-10-23 06:40:24|Vậy mình qua nhé, cảm ơn bác.
+ACC000002|2026-10-23 12:35:06|Bạn xem giúp mình CV được không?
+ACC000063|2026-10-23 12:37:13|Gửi mình xem nhé.
+ACC000002|2026-10-23 12:38:47|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000063|2026-10-23 12:39:37|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000002|2026-10-23 12:42:59|Hợp lý, mình sửa luôn.
+ACC000063|2026-10-23 12:44:00|Sửa xong gửi mình xem lại nhé.
+ACC000063|2026-10-23 13:18:54|Được luôn
+ACC000063|2026-10-23 13:18:56|Rồi, mình nhớ rồi
+ACC000063|2026-10-23 13:19:02|Haha
+ACC000063|2026-10-23 13:19:05|Mệt quá hôm nay
+ACC000063|2026-10-23 13:19:11|Mình cũng nghĩ vậy
+ACC000063|2026-10-23 13:19:19|Mệt quá hôm nay
+ACC000063|2026-10-23 13:19:25|Tối nói chuyện tiếp nhé
+ACC000002|2026-10-23 13:19:30|Có gì báo mình nhé
+ACC000002|2026-10-23 16:19:36|Điểm thi lập trình hướng đối tượng có chưa bạn?
+ACC000063|2026-10-23 16:20:26|Có rồi, mình được 8 điểm.
+ACC000002|2026-10-23 16:20:43|Giỏi quá, mình mới 6 điểm thôi.
+ACC000063|2026-10-23 16:21:08|Cũng ổn mà, qua môn là tốt rồi.
+ACC000002|2026-10-23 16:21:51|Cảm ơn bạn đã động viên.
+ACC000063|2026-10-23 16:22:07|Lần sau mình học nhóm tiếp nhé.
+ACC000063|2026-10-23 22:47:21|Chào bạn, lâu rồi không nói chuyện.
+ACC000002|2026-10-23 22:49:31|Chào bạn, dạo này bạn thế nào?
+ACC000063|2026-10-23 22:52:12|Mình ổn, bận học và làm thêm.
+ACC000002|2026-10-23 22:53:10|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000063|2026-10-23 22:54:00|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000002|2026-10-23 22:54:21|Được, tới lúc đó nhắn mình nhé.

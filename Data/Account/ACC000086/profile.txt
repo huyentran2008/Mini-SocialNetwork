@@ -1,0 +1,14 @@
+id=ACC000086
+username=vandh66
+password=56616e403733353970
+full_name=Dương Hải Hà Vân
+birthday=05-05-2005
+gender=Female
+bio=Tìm bạn cùng sở thích.
+created_at=2026-10-03
+status=ACTIVE
+residence=An Giang
+hometown=An Giang
+school=Đại học Phú Yên
+workplace=
+hobbies=Bảo mật thông tin;Học trí tuệ nhân tạo

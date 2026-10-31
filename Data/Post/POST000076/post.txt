@@ -1,0 +1,8 @@
+id=POST000076
+author=ACC000112
+visibility=PUBLIC
+created_at=2026-09-28 12:33:39
+edited_at=
+status=VISIBLE
+title=Board game night
+content=Tối qua cả nhóm chơi board game tới khuya. Thua liên tục nhưng cười suốt buổi. Tuần sau chơi bộ mới nhé!

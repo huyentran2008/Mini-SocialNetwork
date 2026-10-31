@@ -1,0 +1,97 @@
+SYSTEM|2026-10-19 17:05:04|Lê Quỳnh Trân đã tạo nhóm "Hackathon Team 7"
+SYSTEM|2026-10-19 17:05:05|Lê Quỳnh Trân đã thêm Phan Đức Thịnh vào nhóm
+SYSTEM|2026-10-19 17:05:06|Lê Quỳnh Trân đã thêm Nguyễn Minh Hải Tú vào nhóm
+SYSTEM|2026-10-19 17:05:07|Phan Đức Thịnh đã thêm Đặng Tuấn Kiệt vào nhóm
+SYSTEM|2026-10-19 17:05:08|Lê Quỳnh Trân đã thêm Dương Hải Hà Vân vào nhóm
+ACC000086|2026-10-19 20:25:04|Có ai biết bài này làm sao không?
+ACC000013|2026-10-19 20:26:38|Bài nào vậy?
+ACC000086|2026-10-19 20:28:03|Mình gửi ảnh rồi đó.
+ACC000061|2026-10-19 20:29:17|Bài này dùng đệ quy là ra.
+ACC000013|2026-10-19 20:35:25|Đúng rồi, mình giải thích thêm nhé.
+ACC000086|2026-10-19 20:37:54|Cảm ơn cả hai.
+ACC000061|2026-10-19 21:28:51|Hôm nay mưa mà vẫn đi à?
+ACC000086|2026-10-19 21:31:13|Mình +1
+ACC000013|2026-10-19 21:33:04|Ai biết quán nào ngon giới thiệu mình với
+ACC000013|2026-10-19 21:33:58|Okela mọi người
+ACC000013|2026-10-20 10:54:34|Mình bị lỗi biên dịch hoài, ai xem giúp với.
+ACC000061|2026-10-20 11:00:01|Gửi mình đoạn code.
+ACC000013|2026-10-20 11:01:01|Mình dán ở dưới, báo thiếu khai báo hàm.
+ACC000061|2026-10-20 11:01:35|Bạn quên khai báo trước hàm rồi, thêm nguyên mẫu lên đầu file.
+ACC000013|2026-10-20 11:04:21|Chạy được rồi, cảm ơn bạn.
+ACC000086|2026-10-20 11:05:56|Lỗi kinh điển.
+ACC000061|2026-10-20 12:13:01|Ổn rồi nhé
+ACC000061|2026-10-20 12:14:14|Cho mình vào nhóm học với
+ACC000086|2026-10-20 12:15:52|Nhớ mang theo nhé
+ACC000061|2026-10-20 12:24:02|Nghe hợp lý đó
+ACC000013|2026-10-20 12:24:10|Mình sẽ cập nhật sau
+ACC000013|2026-10-20 12:24:22|Mình sẽ cập nhật sau
+ACC000086|2026-10-20 12:24:23|Đừng quên nha mọi người
+ACC000061|2026-10-20 12:24:24|Ổn rồi nhé
+ACC000086|2026-10-20 12:24:29|Okela mọi người
+ACC000061|2026-10-20 12:24:40|Ai đi nữa không?
+ACC000086|2026-10-20 12:24:43|Nghe hợp lý đó
+ACC000013|2026-10-20 12:24:51|Đồng ý với bạn
+ACC000013|2026-10-20 12:25:02|Okela mọi người
+ACC000086|2026-10-20 12:25:07|Đúng rồi
+ACC000086|2026-10-20 12:25:18|Ngủ ngon cả nhóm
+ACC000061|2026-10-20 12:25:21|Ai có tin gì mới không?
+ACC000013|2026-10-20 12:25:28|Ngủ ngon cả nhóm
+ACC000013|2026-10-20 12:25:34|Cảm ơn nhé
+ACC000086|2026-10-20 12:25:38|Có ai online không?
+ACC000086|2026-10-20 12:25:42|Đừng quên nha mọi người
+ACC000013|2026-10-20 12:25:46|Mình vừa tới nơi
+ACC000013|2026-10-20 12:25:53|Trời nóng quá
+ACC000013|2026-10-20 12:25:55|Mệt ghê
+ACC000086|2026-10-20 12:26:04|Nghe hợp lý đó
+ACC000013|2026-10-20 12:26:12|Mọi người ăn cơm chưa?
+ACC000013|2026-10-20 12:26:21|Okela mọi người
+ACC000013|2026-10-20 12:26:23|Lần sau mình rủ thêm người nhé
+ACC000086|2026-10-20 12:26:26|Trời nóng quá
+ACC000013|2026-10-20 18:28:47|Tối nay mình review code cho nhau nhé.
+ACC000061|2026-10-20 18:29:04|Hay đó, mình gửi nhánh của mình.
+ACC000086|2026-10-20 18:30:02|Mình xem phần quản lý bài đăng nhé.
+ACC000013|2026-10-20 18:52:43|Nhớ ghi chú rõ ràng để dễ đọc.
+ACC000007|2026-10-20 18:53:42|Ok, mình đã comment đầy đủ.
+ACC000086|2026-10-20 21:44:56|Mọi người ơi, điểm danh nào.
+ACC000118|2026-10-20 21:45:53|Có mặt!
+ACC000007|2026-10-20 21:49:06|Có mình.
+ACC000013|2026-10-20 21:55:59|Mình đây.
+ACC000086|2026-10-20 22:01:15|Tốt, vậy bắt đầu nhé.
+ACC000061|2026-10-22 11:58:54|Deadline đồ án là bao giờ vậy mọi người?
+ACC000086|2026-10-22 11:59:06|Thứ sáu tuần sau, cô vừa thông báo.
+ACC000061|2026-10-22 12:04:35|Mình mới làm được hai phần ba.
+ACC000013|2026-10-22 12:10:24|Nhóm mình chia việc xong rồi, còn phần giao diện.
+ACC000118|2026-10-22 12:11:07|Mình nhận phần giao diện nhé.
+ACC000013|2026-10-22 12:14:53|Cảm ơn, nhớ đẩy code lên nhánh riêng.
+ACC000013|2026-10-22 17:59:49|Thông báo: tuần này nhóm sinh hoạt vào thứ ba, 7 giờ, địa điểm sẽ cập nhật trong nhóm. Mọi người sắp xếp thời gian tham gia đầy đủ, ai bận thì nhắn lại cho mình trước ngày sinh hoạt để mình tổng hợp danh sách nhé. Cảm ơn mọi người rất nhiều vì đã luôn nhiệt tình tham gia và đóng góp ý kiến cho nhóm thời gian qua.
+ACC000013|2026-10-22 20:12:46|Mình bị lỗi biên dịch hoài, ai xem giúp với.
+ACC000007|2026-10-22 20:13:13|Gửi mình đoạn code.
+ACC000013|2026-10-22 20:14:00|Mình dán ở dưới, báo thiếu khai báo hàm.
+ACC000007|2026-10-22 20:16:31|Bạn quên khai báo trước hàm rồi, thêm nguyên mẫu lên đầu file.
+ACC000013|2026-10-22 20:17:30|Chạy được rồi, cảm ơn bạn.
+ACC000061|2026-10-22 20:20:09|Lỗi kinh điển.
+ACC000086|2026-10-23 10:38:14|Ủa vậy hả?
+ACC000061|2026-10-23 10:43:43|Hẹn mọi người cuối tuần
+ACC000086|2026-10-23 10:45:24|Cố lên mọi người
+ACC000013|2026-10-23 10:50:16|Quá tuyệt
+ACC000086|2026-10-23 10:58:20|Mình về trước nhé
+ACC000086|2026-10-23 10:58:29|Ai biết quán nào ngon giới thiệu mình với
+ACC000086|2026-10-23 10:58:32|Thật không đó?
+ACC000086|2026-10-23 10:58:41|Nghe hợp lý đó
+ACC000086|2026-10-23 10:58:51|Mình cũng nghĩ thế
+ACC000086|2026-10-23 10:59:00|Ổn rồi nhé
+ACC000013|2026-10-23 10:59:03|Mọi người ăn cơm chưa?
+ACC000086|2026-10-23 10:59:07|Vậy chốt nhé
+ACC000086|2026-10-23 18:08:27|Ủa vậy hả?
+ACC000013|2026-10-23 18:10:09|Hẹn mọi người cuối tuần
+ACC000086|2026-10-23 18:11:01|Nghe hợp lý đó
+ACC000013|2026-10-23 18:15:40|Ai có tin gì mới không?
+ACC000086|2026-10-23 18:16:38|Đừng quên nha mọi người
+ACC000086|2026-10-23 18:18:57|Haha cười đau bụng
+ACC000007|2026-10-23 20:10:45|Tối nay mình review code cho nhau nhé.
+ACC000086|2026-10-23 20:11:45|Hay đó, mình gửi nhánh của mình.
+ACC000061|2026-10-23 20:17:42|Mình xem phần quản lý bài đăng nhé.
+ACC000007|2026-10-23 20:56:45|Nhớ ghi chú rõ ràng để dễ đọc.
+ACC000013|2026-10-23 20:59:11|Ok, mình đã comment đầy đủ.
+ACC000118|2026-10-23 23:41:14|Mai gặp nhé
+ACC000061|2026-10-23 23:46:19|Ai đi nữa không?

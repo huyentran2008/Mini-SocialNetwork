@@ -1,0 +1,12 @@
+ACC000055|2026-10-10 21:20:00|Cuối tuần bạn làm gì?
+ACC000133|2026-10-10 21:20:08|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000055|2026-10-10 21:24:05|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000133|2026-10-10 21:24:37|Thật không? Ngại quá.
+ACC000055|2026-10-10 21:28:31|Ngại gì, mẹ mình quý bạn lắm.
+ACC000133|2026-10-10 21:30:07|Vậy mình qua nhé, cảm ơn bác.
+ACC000133|2026-10-22 07:31:41|Hôm nay bạn rảnh không?
+ACC000055|2026-10-22 07:33:10|Chiều mình rảnh, có chuyện gì vậy?
+ACC000133|2026-10-22 07:34:26|Đi uống cà phê nhé, lâu rồi không gặp.
+ACC000055|2026-10-22 07:35:15|Ok, 5 giờ chiều mình qua đón bạn nha.
+ACC000133|2026-10-22 07:54:16|Được, mình chờ ở cổng.
+ACC000055|2026-10-22 07:55:15|Tới rồi nè, ra đi.

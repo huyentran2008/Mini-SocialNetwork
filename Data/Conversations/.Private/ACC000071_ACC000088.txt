@@ -1,0 +1,6 @@
+ACC000088|2026-10-17 16:46:34|Sáng mai bạn có đi tập chạy không?
+ACC000071|2026-10-17 16:46:53|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000088|2026-10-17 16:52:29|Mình sợ dậy không nổi.
+ACC000071|2026-10-17 16:53:27|Để mình gọi bạn dậy.
+ACC000088|2026-10-17 16:55:42|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000071|2026-10-17 17:13:13|Ok, mai gặp.

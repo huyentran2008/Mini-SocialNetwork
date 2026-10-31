@@ -1,0 +1,34 @@
+ACC000014|2026-10-14 17:15:28|Hôm nay bạn rảnh không?
+ACC000016|2026-10-14 17:20:39|Chiều nay mình rảnh, có chuyện gì vậy?
+ACC000014|2026-10-14 17:24:19|Đi cà phê học bài chung nhé, mình có vài chỗ chưa hiểu
+ACC000016|2026-10-14 17:26:36|Ok, 3 giờ ở quán quen nhé
+ACC000014|2026-10-14 17:27:07|Chốt luôn!
+ACC000014|2026-10-18 21:56:37|Sao git của mình báo conflict hoài vậy?
+ACC000016|2026-10-18 21:58:05|Bạn có pull trước khi push không?
+ACC000014|2026-10-18 22:02:31|Chắc là không.
+ACC000016|2026-10-18 22:03:06|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000014|2026-10-18 22:04:01|Làm xong rồi, cảm ơn bạn.
+ACC000016|2026-10-18 22:04:14|Từ nay nhớ pull trước nhé.
+ACC000014|2026-10-20 13:50:52|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000016|2026-10-20 14:25:21|Ủa quên mất, bao nhiêu vậy?
+ACC000014|2026-10-20 14:31:10|300 nghìn thôi.
+ACC000016|2026-10-20 14:32:08|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000014|2026-10-20 14:34:04|Nhận được rồi nha.
+ACC000016|2026-10-20 14:39:19|Ok, xong nợ.
+ACC000016|2026-10-21 08:28:13|Chào bạn, lâu rồi không nói chuyện.
+ACC000014|2026-10-21 08:28:50|Chào bạn, dạo này bạn thế nào?
+ACC000016|2026-10-21 08:30:47|Mình ổn, bận học và làm thêm.
+ACC000014|2026-10-21 08:31:43|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000016|2026-10-21 08:33:53|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000014|2026-10-21 08:35:16|Được, tới lúc đó nhắn mình nhé.
+ACC000014|2026-10-21 10:45:55|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000016|2026-10-21 10:49:43|Bài nào vậy?
+ACC000014|2026-10-21 10:50:27|Mình gửi link rồi đó.
+ACC000016|2026-10-21 10:51:24|Nghe rồi, giai điệu dễ chịu thật.
+ACC000014|2026-10-21 10:51:56|Đúng không? Mình nghe suốt tuần này.
+ACC000016|2026-10-21 10:52:42|Cho mình xin playlist nhé.
+ACC000014|2026-10-24 22:12:42|Mình đang bận chút, lát nhắn lại nhé
+ACC000016|2026-10-24 22:14:54|Haha
+ACC000016|2026-10-24 22:18:30|Mình đang bận chút, lát nhắn lại nhé
+ACC000016|2026-10-24 22:18:41|Tối nói chuyện tiếp nhé
+ACC000014|2026-10-24 22:19:05|Ok

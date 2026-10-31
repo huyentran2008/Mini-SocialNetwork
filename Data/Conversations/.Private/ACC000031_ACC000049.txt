@@ -1,0 +1,6 @@
+ACC000049|2026-10-21 15:54:57|Mình mới mua chiếc xe đạp.
+ACC000031|2026-10-21 15:56:02|Wow, xe đẹp không?
+ACC000049|2026-10-21 15:56:50|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000031|2026-10-21 15:57:39|Cuối tuần đạp xe quanh hồ nhé.
+ACC000049|2026-10-21 15:58:46|Hay đó, chốt luôn.
+ACC000031|2026-10-21 16:04:53|Nhớ mang nước.

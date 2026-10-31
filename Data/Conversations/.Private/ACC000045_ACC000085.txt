@@ -1,0 +1,10 @@
+ACC000045|2026-10-20 19:11:29|Nghe được đó
+ACC000045|2026-10-20 19:12:56|Chúc bạn một ngày tốt lành
+ACC000085|2026-10-20 19:15:09|Ừm, mình nghĩ vậy
+ACC000045|2026-10-20 19:18:10|Thật à?
+ACC000045|2026-10-22 20:59:38|Hôm nay bạn rảnh không?
+ACC000085|2026-10-22 21:01:45|Chiều mình rảnh, có chuyện gì vậy?
+ACC000045|2026-10-22 21:02:35|Đi uống trà sữa nhé, lâu rồi không gặp.
+ACC000085|2026-10-22 21:03:14|Ok, 5 giờ chiều mình qua đón bạn nha.
+ACC000045|2026-10-22 21:04:57|Được, mình chờ ở cổng.
+ACC000085|2026-10-22 21:05:25|Tới rồi nè, ra đi.

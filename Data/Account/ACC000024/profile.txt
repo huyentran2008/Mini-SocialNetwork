@@ -1,0 +1,14 @@
+id=ACC000024
+username=nhihy71
+password=4e6869403539353875
+full_name=Hồ Yến Nhi
+birthday=14-06-2006
+gender=Female
+bio=Đang học C++ và cấu trúc dữ liệu.
+created_at=2026-10-07
+status=ACTIVE
+residence=Thanh Hóa
+hometown=Hà Nội
+school=Đại học Ngoại thương
+workplace=Shopee Việt Nam
+hobbies=Đá bóng;Cầu lông

@@ -1,0 +1,8 @@
+id=POST000129
+author=ACC000029
+visibility=PUBLIC
+created_at=2026-10-09 12:59:01
+edited_at=
+status=HIDDEN
+title=Tin nóng: sáng mai toàn thành phố nghỉ học
+content=Mình nghe nói ngày mai toàn thành phố cho nghỉ học vì thời tiết xấu. Mọi người chia sẻ cho nhau biết nhé! (chưa có thông báo chính thức)

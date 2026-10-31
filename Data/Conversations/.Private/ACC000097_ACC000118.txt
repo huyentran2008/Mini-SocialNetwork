@@ -1,0 +1,6 @@
+ACC000097|2026-10-22 23:11:25|Bạn cho mình mượn tài liệu được không?
+ACC000118|2026-10-22 23:14:21|Được, bạn lấy bản chụp hay bản mềm?
+ACC000097|2026-10-22 23:34:32|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000118|2026-10-22 23:35:01|Gửi rồi nha, kiểm tra thử.
+ACC000097|2026-10-22 23:38:23|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000118|2026-10-22 23:44:38|Không có gì.

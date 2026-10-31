@@ -1,0 +1,10 @@
+ACC000015|2026-10-18 12:33:20|Tối nay chơi game không?
+ACC000026|2026-10-18 12:36:14|Mấy giờ vậy?
+ACC000015|2026-10-18 12:45:02|9 giờ tối nhé, mình rủ thêm hai người nữa
+ACC000026|2026-10-18 12:50:47|Ok, mình online đúng giờ
+ACC000015|2026-10-18 12:56:11|Hẹn tối nay
+ACC000026|2026-10-21 21:19:08|Hôm nay bạn rảnh không?
+ACC000015|2026-10-21 21:26:48|Chiều nay mình rảnh, có chuyện gì vậy?
+ACC000026|2026-10-21 21:31:24|Đi cà phê học bài chung nhé, mình có vài chỗ chưa hiểu
+ACC000015|2026-10-21 21:37:22|Ok, 3 giờ ở quán quen nhé
+ACC000026|2026-10-21 21:45:18|Chốt luôn!

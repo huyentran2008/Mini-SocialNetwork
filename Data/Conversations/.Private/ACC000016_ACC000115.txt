@@ -1,0 +1,12 @@
+ACC000016|2026-10-14 15:39:50|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000115|2026-10-14 15:44:45|Bạn chuẩn bị tới đâu rồi?
+ACC000016|2026-10-14 15:49:23|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000115|2026-10-14 15:51:22|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000016|2026-10-14 15:57:49|Cảm ơn Hoàng, mình sẽ cố.
+ACC000115|2026-10-14 15:58:15|Xong nhớ nhắn mình kết quả nhé.
+ACC000115|2026-10-23 22:05:35|Bạn biết laptop nào học lập trình ổn không?
+ACC000016|2026-10-23 22:41:34|Tầm giá bao nhiêu?
+ACC000115|2026-10-23 22:48:20|Khoảng 15 đến 20 triệu.
+ACC000016|2026-10-23 22:49:25|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000115|2026-10-23 23:02:05|Cảm ơn nhiều, mình đang rối quá.
+ACC000016|2026-10-23 23:06:20|Bạn xem rồi nhắn mình, mình tư vấn thêm.

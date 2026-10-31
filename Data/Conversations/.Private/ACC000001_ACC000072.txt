@@ -1,0 +1,6 @@
+ACC000001|2026-10-16 13:08:08|Bạn ơi, bài tập lập trình hướng đối tượng nộp chưa?
+ACC000072|2026-10-16 13:09:57|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000001|2026-10-16 13:10:43|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000072|2026-10-16 13:10:56|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000001|2026-10-16 13:11:56|Có gì hỏi mình nhé.
+ACC000072|2026-10-16 13:12:12|Okela, cảm ơn Khoa nhiều.

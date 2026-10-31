@@ -1,0 +1,6 @@
+ACC000067|2026-10-20 09:57:33|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000116|2026-10-20 09:58:07|Ủa quên mất, bao nhiêu vậy?
+ACC000067|2026-10-20 10:00:30|150 nghìn thôi.
+ACC000116|2026-10-20 10:02:43|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000067|2026-10-20 10:06:09|Nhận được rồi nha.
+ACC000116|2026-10-20 10:09:55|Ok, xong nợ.

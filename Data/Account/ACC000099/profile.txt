@@ -1,0 +1,14 @@
+id=ACC000099
+username=tuyendq02
+password=547579656e403530383568
+full_name=Đinh Quỳnh Tuyền
+birthday=14-02-2004
+gender=Female
+bio=
+created_at=2026-09-18
+status=ACTIVE
+residence=Quảng Ninh
+hometown=Thái Nguyên
+school=
+workplace=
+hobbies=Muay Thái;Dậy sớm;Boxing

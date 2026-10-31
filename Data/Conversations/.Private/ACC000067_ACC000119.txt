@@ -1,0 +1,32 @@
+ACC000067|2026-10-22 12:40:11|Nay trời mưa to ghê.
+ACC000119|2026-10-22 12:40:51|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000067|2026-10-22 12:47:21|Bạn có áo mưa không?
+ACC000119|2026-10-22 12:51:20|Không, chắc chờ tạnh.
+ACC000067|2026-10-22 12:51:34|Mình ghé đón nhé, mình đang gần đó.
+ACC000119|2026-10-22 12:52:44|Cảm ơn bạn nhiều lắm.
+ACC000067|2026-10-22 13:14:55|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000119|2026-10-22 13:15:43|Bài nào vậy?
+ACC000067|2026-10-22 13:18:49|Mình gửi link rồi đó.
+ACC000119|2026-10-22 13:24:42|Nghe rồi, giai điệu dễ chịu thật.
+ACC000067|2026-10-22 13:53:32|Đúng không? Mình nghe suốt tuần này.
+ACC000119|2026-10-22 13:54:58|Cho mình xin playlist nhé.
+ACC000119|2026-10-23 15:58:21|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000067|2026-10-23 16:04:16|Chuyện nhỏ thôi mà.
+ACC000119|2026-10-23 16:09:29|Không có bạn chắc mình làm không kịp.
+ACC000067|2026-10-23 16:10:27|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000119|2026-10-23 16:15:22|Hôm nào mình mời bạn bánh mì nhé.
+ACC000067|2026-10-23 16:30:44|Vậy thì mình không từ chối đâu.
+ACC000067|2026-10-23 20:15:45|Năm nay bạn về quê ăn Tết không?
+ACC000119|2026-10-23 20:16:17|Có, mình đặt vé tàu rồi.
+ACC000067|2026-10-23 20:18:11|Mình còn chưa mua được vé.
+ACC000119|2026-10-23 20:21:01|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000067|2026-10-23 20:21:34|Ok, mình thử xem.
+ACC000119|2026-10-23 20:23:51|Chúc bạn sớm có vé nhé.
+ACC000119|2026-10-23 21:31:45|Thôi mình đi ăn cơm đã
+ACC000067|2026-10-23 21:31:50|Thật à?
+ACC000119|2026-10-23 21:32:00|Cố lên nhé
+ACC000067|2026-10-23 21:32:08|Cảm ơn nhé
+ACC000119|2026-10-23 21:32:17|Nghe được đó
+ACC000119|2026-10-23 21:32:20|Đang làm gì đó?
+ACC000067|2026-10-23 21:32:30|Cảm ơn nhé
+ACC000119|2026-10-23 21:32:39|Có gì báo mình nhé

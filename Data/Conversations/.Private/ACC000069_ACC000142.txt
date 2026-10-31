@@ -1,0 +1,14 @@
+ACC000069|2026-10-20 12:01:41|Tối nay đi ăn mì cay không?
+ACC000142|2026-10-20 12:08:29|Đi chứ! Quán nào?
+ACC000069|2026-10-20 12:38:38|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000142|2026-10-20 12:39:05|Mấy giờ?
+ACC000069|2026-10-20 12:39:32|6 giờ nhé.
+ACC000142|2026-10-20 12:40:54|Ok, mình rủ thêm một bạn nữa được không?
+ACC000069|2026-10-20 12:41:49|Được chứ, càng đông càng vui.
+ACC000069|2026-10-23 23:29:05|Cuối tuần này đi xem phim không?
+ACC000142|2026-10-24 00:00:23|Phim gì vậy?
+ACC000069|2026-10-24 00:02:35|Phim mới chiếu, nghe nói hay lắm.
+ACC000142|2026-10-24 00:04:14|Mình đang rảnh thứ sáu, đi buổi chiều nhé.
+ACC000069|2026-10-24 00:05:15|Ok, mình đặt vé luôn.
+ACC000142|2026-10-24 00:05:53|Nhớ chọn ghế giữa nha.
+ACC000069|2026-10-24 00:08:36|Yên tâm.

@@ -1,0 +1,14 @@
+id=ACC000135
+username=tund01
+password=5475403930373062
+full_name=Nguyễn Đức Tú
+birthday=
+gender=Male
+bio=Thích đọc sách và nghe nhạc nhẹ.
+created_at=2026-09-04
+status=ACTIVE
+residence=
+hometown=Hà Nội
+school=
+workplace=Shopee Việt Nam
+hobbies=Đi bộ đường dài

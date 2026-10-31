@@ -1,0 +1,14 @@
+id=ACC000124
+username=quynhnm40
+password=5175796e6840383934376e
+full_name=Nguyễn Mỹ Quỳnh
+birthday=26-04-2004
+gender=Female
+bio=Yêu cây cỏ và thú cưng.
+created_at=2026-09-22
+status=ACTIVE
+residence=Khánh Hòa
+hometown=Lào Cai
+school=Đại học Yersin Đà Lạt
+workplace=
+hobbies=Trồng rau;Đi cà phê

@@ -1,0 +1,7 @@
+ACC000116|2026-10-02 20:50:45|Tối nay đi ăn bún bò không?
+ACC000107|2026-10-02 20:52:19|Đi chứ! Quán nào?
+ACC000116|2026-10-02 20:53:12|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000107|2026-10-02 20:57:07|Mấy giờ?
+ACC000116|2026-10-02 21:01:02|8 giờ nhé.
+ACC000107|2026-10-02 21:01:21|Ok, mình rủ thêm một bạn nữa được không?
+ACC000116|2026-10-02 21:02:04|Được chứ, càng đông càng vui.

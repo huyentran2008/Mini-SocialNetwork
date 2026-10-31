@@ -1,0 +1,12 @@
+ACC000039|2026-10-11 22:47:40|Mình dọn trọ sang khu khác rồi.
+ACC000136|2026-10-11 22:48:55|Thật à? Có xa trường không?
+ACC000039|2026-10-11 22:55:30|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000136|2026-10-11 22:57:18|Tốt quá, hôm nào mình qua chơi.
+ACC000039|2026-10-11 22:58:15|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000136|2026-10-11 23:03:27|Ok, nhớ nấu cơm cho mình đó.
+ACC000136|2026-10-12 22:23:40|Cuối tuần này đi Vũng Tàu không?
+ACC000039|2026-10-12 22:27:27|Hay đó, đi mấy người?
+ACC000136|2026-10-12 22:27:49|Khoảng 2 người, tự đi xe máy.
+ACC000039|2026-10-12 22:30:56|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000136|2026-10-12 22:31:25|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000039|2026-10-12 22:34:19|Ok, vậy chốt luôn.

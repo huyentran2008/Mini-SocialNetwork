@@ -1,0 +1,8 @@
+id=POST000241
+author=ACC000116
+visibility=FRIEND
+created_at=2026-10-23 21:04:50
+edited_at=
+status=VISIBLE
+title=Con trỏ trong C++ có đáng sợ như lời đồn?
+content=Mới đầu mình cũng sợ con trỏ lắm. Sau khi vẽ sơ đồ bộ nhớ ra giấy thì mọi thứ rõ ràng hơn hẳn.\nMẹo của mình: mỗi lần dùng con trỏ, tự hỏi nó đang trỏ tới đâu và ai chịu trách nhiệm giải phóng.\nCảm ơn mọi người đã đọc.

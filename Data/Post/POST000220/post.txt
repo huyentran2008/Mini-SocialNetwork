@@ -1,0 +1,8 @@
+id=POST000220
+author=ACC000082
+visibility=FRIEND
+created_at=2026-10-20 22:22:33
+edited_at=
+status=VISIBLE
+title=Chia sẻ ghi chú môn cấu trúc dữ liệu
+content=Mình tổng hợp ghi chú môn kinh tế vi mô thành bảng tóm tắt ngắn. Bạn nào cần có thể nhắn mình để nhận bản đầy đủ.

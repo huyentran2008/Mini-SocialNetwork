@@ -1,0 +1,24 @@
+ACC000092|2026-10-13 11:49:56|Mình dọn trọ sang khu khác rồi.
+ACC000123|2026-10-13 11:55:44|Thật à? Có xa trường không?
+ACC000092|2026-10-13 11:57:38|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000123|2026-10-13 11:58:33|Tốt quá, hôm nào mình qua chơi.
+ACC000092|2026-10-13 11:59:01|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000123|2026-10-13 12:01:17|Ok, nhớ nấu cơm cho mình đó.
+ACC000092|2026-10-13 17:53:25|Bạn cho mình mượn tài liệu được không?
+ACC000123|2026-10-13 17:55:06|Được, bạn lấy bản chụp hay bản mềm?
+ACC000092|2026-10-13 17:57:06|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000123|2026-10-13 17:57:57|Gửi rồi nha, kiểm tra thử.
+ACC000092|2026-10-13 17:58:14|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000123|2026-10-13 18:00:19|Không có gì.
+ACC000123|2026-10-13 20:32:24|Bạn xem giúp mình CV được không?
+ACC000092|2026-10-13 20:33:21|Gửi mình xem nhé.
+ACC000123|2026-10-13 20:35:31|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000092|2026-10-13 20:36:52|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000123|2026-10-13 20:37:24|Hợp lý, mình sửa luôn.
+ACC000092|2026-10-13 20:38:03|Sửa xong gửi mình xem lại nhé.
+ACC000092|2026-10-18 22:58:07|Hôm nay bạn rảnh không?
+ACC000123|2026-10-18 23:00:01|Chiều mình rảnh, có chuyện gì vậy?
+ACC000092|2026-10-18 23:03:08|Đi uống trà sữa nhé, lâu rồi không gặp.
+ACC000123|2026-10-18 23:06:07|Ok, 6 giờ tối mình qua đón bạn nha.
+ACC000092|2026-10-18 23:09:24|Được, mình chờ ở cổng.
+ACC000123|2026-10-18 23:11:24|Tới rồi nè, ra đi.

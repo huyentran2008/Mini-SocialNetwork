@@ -1,0 +1,34 @@
+ACC000024|2026-10-23 06:52:23|Cảm ơn nhé
+ACC000109|2026-10-23 06:52:32|Ngủ ngon
+ACC000024|2026-10-23 22:02:15|Bạn ơi, bài tập cấu trúc dữ liệu nộp chưa?
+ACC000109|2026-10-23 22:03:13|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000024|2026-10-23 22:04:02|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000109|2026-10-23 22:06:25|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000024|2026-10-23 22:07:34|Có gì hỏi mình nhé.
+ACC000109|2026-10-23 22:08:14|Okela, cảm ơn Nhi nhiều.
+ACC000024|2026-10-23 22:16:28|Chúc bạn một ngày tốt lành
+ACC000109|2026-10-23 22:16:38|Cố lên nhé
+ACC000109|2026-10-23 22:16:48|Mình đang bận chút, lát nhắn lại nhé
+ACC000024|2026-10-23 22:16:55|Ngủ ngon
+ACC000109|2026-10-23 22:17:00|Ừ đúng rồi
+ACC000024|2026-10-23 22:17:02|Cảm ơn nhé
+ACC000109|2026-10-23 22:17:16|Mình cũng nghĩ vậy
+ACC000109|2026-10-23 22:17:18|Cảm ơn nhé
+ACC000109|2026-10-23 22:17:31|Ừ đúng rồi
+ACC000024|2026-10-23 22:17:33|Vừa về tới nhà
+ACC000109|2026-10-23 22:17:39|Để mình xem
+ACC000024|2026-10-23 22:17:53|Cuối tuần rảnh không?
+ACC000024|2026-10-23 22:17:55|Okela
+ACC000024|2026-10-23 22:17:59|Có gì báo mình nhé
+ACC000024|2026-10-24 07:00:35|Mình dọn trọ sang khu khác rồi.
+ACC000109|2026-10-24 07:05:19|Thật à? Có xa trường không?
+ACC000024|2026-10-24 07:06:49|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000109|2026-10-24 07:10:37|Tốt quá, hôm nào mình qua chơi.
+ACC000024|2026-10-24 07:12:37|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000109|2026-10-24 07:19:32|Ok, nhớ nấu cơm cho mình đó.
+ACC000109|2026-10-24 14:37:50|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000024|2026-10-24 14:38:18|Bạn chuẩn bị tới đâu rồi?
+ACC000109|2026-10-24 14:40:59|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000024|2026-10-24 14:45:00|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000109|2026-10-24 14:48:14|Cảm ơn Nhi, mình sẽ cố.
+ACC000024|2026-10-24 14:49:17|Xong nhớ nhắn mình kết quả nhé.

@@ -1,0 +1,12 @@
+ACC000080|2026-10-19 22:30:38|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000140|2026-10-19 22:31:37|Ủa quên mất, bao nhiêu vậy?
+ACC000080|2026-10-19 22:32:10|200 nghìn thôi.
+ACC000140|2026-10-19 22:33:09|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000080|2026-10-19 22:36:56|Nhận được rồi nha.
+ACC000140|2026-10-19 22:37:16|Ok, xong nợ.
+ACC000080|2026-10-22 22:41:38|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000140|2026-10-22 22:43:37|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000080|2026-10-22 22:48:10|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000140|2026-10-22 22:49:35|Cảm ơn bạn đã hỏi thăm.
+ACC000080|2026-10-22 22:49:56|Có cần mình mang đồ ăn qua không?
+ACC000140|2026-10-22 22:53:14|Không cần đâu, mình ổn rồi.

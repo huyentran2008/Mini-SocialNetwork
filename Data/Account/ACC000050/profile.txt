@@ -1,0 +1,14 @@
+id=ACC000050
+username=chidm63
+password=43686940373938376e
+full_name=Đinh Mai Chi
+birthday=02-07-2000
+gender=Female
+bio=Đọc sách mỗi tối trước khi ngủ.
+created_at=2026-10-04
+status=ACTIVE
+residence=Khánh Hòa
+hometown=Thanh Hóa
+school=Đại học Bách khoa - ĐHQG TP.HCM
+workplace=Grab Việt Nam
+hobbies=Pha cà phê

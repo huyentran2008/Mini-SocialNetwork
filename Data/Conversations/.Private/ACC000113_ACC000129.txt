@@ -1,0 +1,31 @@
+ACC000113|2026-10-12 17:44:05|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000129|2026-10-12 17:48:12|Chuyện nhỏ thôi mà.
+ACC000113|2026-10-12 17:48:59|Không có bạn chắc mình làm không kịp.
+ACC000129|2026-10-12 17:51:43|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000113|2026-10-12 17:55:24|Hôm nào mình mời bạn bánh xèo nhé.
+ACC000129|2026-10-12 17:55:46|Vậy thì mình không từ chối đâu.
+ACC000113|2026-10-12 20:20:05|Tối nay bạn có chơi game không?
+ACC000129|2026-10-12 20:21:57|Có, mấy giờ?
+ACC000113|2026-10-12 20:24:40|11 giờ 30, rủ thêm hai bạn nữa là đủ đội.
+ACC000129|2026-10-12 20:25:45|Ok, mình online sớm.
+ACC000113|2026-10-12 20:26:21|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000129|2026-10-12 20:28:55|Haha, thua thì đừng trách mình.
+ACC000129|2026-10-13 18:01:42|Để mình xem
+ACC000113|2026-10-13 18:02:55|Thôi mình đi ăn cơm đã
+ACC000129|2026-10-13 18:04:31|Ngủ ngon
+ACC000129|2026-10-13 18:05:00|Thật à?
+ACC000113|2026-10-13 18:07:46|Vừa về tới nhà
+ACC000129|2026-10-13 23:02:16|Cố lên nhé
+ACC000113|2026-10-13 23:03:39|Cố lên nhé
+ACC000113|2026-10-13 23:05:24|Tối nói chuyện tiếp nhé
+ACC000129|2026-10-20 14:26:25|Hôm nay mình hơi buồn.
+ACC000113|2026-10-20 14:32:46|Có chuyện gì vậy?
+ACC000129|2026-10-20 14:33:02|Mình bị điểm thấp mà không biết lý do.
+ACC000113|2026-10-20 14:33:13|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000129|2026-10-20 14:37:02|Ừ, mình sẽ gặp thầy tuần này.
+ACC000113|2026-10-20 15:03:21|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000113|2026-10-21 09:40:33|Thật à?
+ACC000113|2026-10-21 09:41:02|Cố lên nhé
+ACC000113|2026-10-21 09:41:26|Ngủ ngon
+ACC000113|2026-10-21 09:41:41|Có gì báo mình nhé
+ACC000129|2026-10-21 09:42:27|Nghe được đó

@@ -1,0 +1,14 @@
+id=ACC000127
+username=huannm65
+password=4875616e403332343372
+full_name=Nguyễn Minh Huân
+birthday=
+gender=Male
+bio=
+created_at=2026-09-20
+status=ACTIVE
+residence=Quảng Trị
+hometown=TP. Hồ Chí Minh
+school=Đại học Cửu Long
+workplace=
+hobbies=Học trí tuệ nhân tạo

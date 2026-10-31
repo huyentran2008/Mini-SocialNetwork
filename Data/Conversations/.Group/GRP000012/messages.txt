@@ -1,0 +1,87 @@
+SYSTEM|2026-10-20 16:31:23|Tống Tuyết Tiên đã tạo nhóm "Đồ án cấu trúc dữ liệu"
+SYSTEM|2026-10-20 16:31:24|Tống Tuyết Tiên đã thêm Trương Nhật Nam vào nhóm
+SYSTEM|2026-10-20 16:31:25|Trương Nhật Nam đã thêm Phạm Hà My vào nhóm
+SYSTEM|2026-10-20 16:31:26|Tống Tuyết Tiên đã thêm Nguyễn Quốc Tâm vào nhóm
+ACC000136|2026-10-20 17:17:18|Cho mình xin chút thông tin với
+ACC000136|2026-10-20 17:17:21|Mệt ghê
+ACC000136|2026-10-20 17:17:25|Mình +1
+ACC000034|2026-10-20 17:17:37|Chúc mừng nhé!
+ACC000136|2026-10-20 17:17:43|Nhớ giữ sức khỏe nhé mọi người
+ACC000066|2026-10-20 17:17:52|Thật không đó?
+ACC000066|2026-10-20 17:17:57|Đừng quên nha mọi người
+ACC000136|2026-10-20 17:18:04|Mình sẽ cập nhật sau
+ACC000066|2026-10-20 17:18:13|Cảm ơn cả nhóm đã giúp mình
+ACC000034|2026-10-20 17:18:22|Ai có tin gì mới không?
+ACC000136|2026-10-20 17:18:23|Đừng quên nha mọi người
+ACC000136|2026-10-20 17:18:34|Vậy chốt nhé
+ACC000136|2026-10-20 17:18:41|Mệt ghê
+ACC000136|2026-10-21 08:39:45|Mình +1
+ACC000066|2026-10-21 08:44:26|Mọi người ăn cơm chưa?
+ACC000136|2026-10-21 09:37:59|Mình đang trên đường tới
+ACC000015|2026-10-21 09:38:08|Mình đang trên đường tới
+SYSTEM|2026-10-21 12:36:18|Phạm Hà My đã thêm Hoàng Trọng Thuận vào nhóm
+ACC000034|2026-10-21 14:40:09|Hôm nay ai mang theo sạc dự phòng không?
+ACC000136|2026-10-21 14:42:07|Mình có, cần mượn không?
+ACC000034|2026-10-21 14:42:56|Điện thoại mình còn 5% rồi.
+ACC000136|2026-10-21 14:56:57|Lại bàn mình cắm nhé.
+ACC000034|2026-10-21 14:58:28|Cảm ơn bạn nhé.
+ACC000034|2026-10-21 18:09:35|Deadline đồ án là bao giờ vậy mọi người?
+ACC000136|2026-10-21 18:12:47|Thứ sáu tuần sau, cô vừa thông báo.
+ACC000034|2026-10-21 18:16:28|Mình mới làm được hai phần ba.
+ACC000015|2026-10-21 18:59:18|Nhóm mình chia việc xong rồi, còn phần giao diện.
+ACC000139|2026-10-21 19:01:37|Mình nhận phần giao diện nhé.
+ACC000015|2026-10-21 19:05:27|Cảm ơn, nhớ đẩy code lên nhánh riêng.
+ACC000136|2026-10-21 19:13:39|Mọi người nhớ nộp bài trước 5 giờ chiều nhé.
+ACC000034|2026-10-21 19:14:28|Hạn chót là hôm nay đúng không?
+ACC000136|2026-10-21 19:16:20|Đúng rồi, trễ là trừ điểm.
+ACC000066|2026-10-21 19:18:25|Cảm ơn nhắc, mình sắp xong.
+ACC000139|2026-10-21 19:20:27|Mình vừa nộp xong.
+ACC000136|2026-10-21 19:32:57|Haha cười đau bụng
+ACC000139|2026-10-21 19:33:33|Cảm ơn cả nhóm đã giúp mình
+SYSTEM|2026-10-21 22:49:34|Tống Tuyết Tiên đã thêm Võ Thanh Trúc vào nhóm
+ACC000034|2026-10-22 12:01:14|Cuối tuần này mọi người rảnh không, tụ tập nhé.
+ACC000066|2026-10-22 12:02:25|Mình rảnh chủ nhật.
+ACC000136|2026-10-22 12:02:42|Mình bận buổi sáng, chiều thì ổn.
+ACC000015|2026-10-22 12:03:33|Chiều thứ sáu được không?
+ACC000034|2026-10-22 12:05:10|Chốt chiều chủ nhật, địa điểm mình báo sau.
+ACC000066|2026-10-22 12:05:57|Ok.
+ACC000136|2026-10-23 11:30:02|Nhóm mình có ai làm slide giúp phần cuối không?
+ACC000034|2026-10-23 12:17:47|Để mình làm.
+ACC000136|2026-10-23 12:21:54|Cảm ơn My, mình gửi nội dung rồi nhé.
+ACC000034|2026-10-23 12:27:31|Nhận rồi, tối mình làm xong.
+ACC000015|2026-10-23 12:27:49|Mình soát lỗi chính tả giúp.
+ACC000136|2026-10-23 12:29:30|Quá tuyệt.
+ACC000139|2026-10-23 18:33:39|Tối nay mình review code cho nhau nhé.
+ACC000136|2026-10-23 19:16:11|Hay đó, mình gửi nhánh của mình.
+ACC000034|2026-10-23 19:18:41|Mình xem phần quản lý bài đăng nhé.
+ACC000139|2026-10-23 19:18:57|Nhớ ghi chú rõ ràng để dễ đọc.
+ACC000066|2026-10-23 19:19:40|Ok, mình đã comment đầy đủ.
+ACC000136|2026-10-23 21:37:39|Thật không đó?
+ACC000136|2026-10-23 21:41:06|Cảm ơn cả nhóm đã giúp mình
+ACC000136|2026-10-23 21:42:04|Có ai online không?
+ACC000136|2026-10-23 21:42:49|Nghe hợp lý đó
+ACC000034|2026-10-23 21:45:43|Cảm ơn nhé
+ACC000136|2026-10-23 22:44:46|Đồng ý với bạn
+ACC000015|2026-10-23 22:46:22|Cho mình xin chút thông tin với
+ACC000136|2026-10-24 07:19:33|Hôm nay ai mang theo sạc dự phòng không?
+ACC000034|2026-10-24 07:22:48|Mình có, cần mượn không?
+ACC000136|2026-10-24 07:25:41|Điện thoại mình còn 5% rồi.
+ACC000034|2026-10-24 07:28:21|Lại bàn mình cắm nhé.
+ACC000136|2026-10-24 07:30:58|Cảm ơn bạn nhé.
+ACC000066|2026-10-24 12:09:57|Nhớ mang theo nhé
+ACC000006|2026-10-24 12:10:46|Mình vừa tới nơi
+ACC000006|2026-10-24 12:12:40|Ai đi nữa không?
+ACC000136|2026-10-24 12:13:27|Ai biết quán nào ngon giới thiệu mình với
+ACC000136|2026-10-24 12:13:51|Cố lên mọi người
+ACC000136|2026-10-24 12:15:05|Hôm nay mưa mà vẫn đi à?
+ACC000015|2026-10-24 15:13:05|Mọi người ơi, đệ quy khi nào thì dùng được vậy?
+ACC000136|2026-10-24 15:15:17|Khi bài toán chia nhỏ thành bài toán cùng dạng nhưng nhỏ hơn.
+ACC000034|2026-10-24 15:15:37|Nhớ có điều kiện dừng nữa, không là tràn ngăn xếp.
+ACC000015|2026-10-24 15:15:57|À mình hiểu rồi, cảm ơn.
+ACC000066|2026-10-24 15:19:24|Cho mình ví dụ tính giai thừa là dễ nhất.
+ACC000006|2026-10-24 19:20:13|Tối nay có ai online không?
+ACC000139|2026-10-24 19:23:24|Có mình.
+ACC000136|2026-10-24 19:23:58|Mình cũng vậy.
+ACC000006|2026-10-24 19:25:38|Gọi video nói chuyện chút nhé.
+ACC000139|2026-10-24 19:26:11|Ok, 9 giờ.
+ACC000136|2026-10-24 19:28:39|Chờ mình tắm xong đã.

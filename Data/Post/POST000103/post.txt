@@ -1,0 +1,8 @@
+id=POST000103
+author=ACC000078
+visibility=PUBLIC
+created_at=2026-10-06 16:22:45
+edited_at=
+status=VISIBLE
+title=Học pha cacao nóng tại nhà
+content=Mua dụng cụ pha chế về thử, lần đầu hơi hỏng nhưng lần thứ ba đã ra vị giống ngoài quán. Ai muốn học thì mình chỉ.\nMọi người nghĩ sao?

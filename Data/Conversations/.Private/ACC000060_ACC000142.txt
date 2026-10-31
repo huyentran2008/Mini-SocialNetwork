@@ -1,0 +1,6 @@
+ACC000142|2026-10-14 10:22:30|Sinh nhật vui vẻ nhé Trinh!
+ACC000060|2026-10-14 10:22:38|Cảm ơn Hân nha, nhớ cả sinh nhật mình luôn.
+ACC000142|2026-10-14 10:24:23|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000060|2026-10-14 10:24:38|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000142|2026-10-14 10:26:51|12 giờ nhé.
+ACC000060|2026-10-14 10:30:15|Ok, hẹn gặp.

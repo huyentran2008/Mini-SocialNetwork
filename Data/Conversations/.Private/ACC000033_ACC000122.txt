@@ -1,0 +1,40 @@
+ACC000033|2026-10-19 00:29:46|Nay trời mưa to ghê.
+ACC000122|2026-10-19 00:34:51|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000033|2026-10-19 00:37:59|Bạn có áo mưa không?
+ACC000122|2026-10-19 00:41:53|Không, chắc chờ tạnh.
+ACC000033|2026-10-19 00:42:23|Mình ghé đón nhé, mình đang gần đó.
+ACC000122|2026-10-19 00:44:51|Cảm ơn bạn nhiều lắm.
+ACC000122|2026-10-19 21:33:40|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000033|2026-10-19 21:58:07|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000122|2026-10-19 21:59:06|Mình thấy rồi, truy cập ngoài mảng.
+ACC000033|2026-10-19 22:00:04|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000122|2026-10-19 22:01:49|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000033|2026-10-19 22:02:22|Lỗi này ai cũng từng gặp thôi.
+ACC000033|2026-10-19 23:03:08|Tối nói chuyện tiếp nhé
+ACC000122|2026-10-19 23:04:43|Có gì báo mình nhé
+ACC000033|2026-10-19 23:09:39|Thôi mình đi ăn cơm đã
+ACC000122|2026-10-19 23:10:58|Cố lên nhé
+ACC000122|2026-10-20 23:23:50|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000033|2026-10-20 23:51:20|Bạn chuẩn bị tới đâu rồi?
+ACC000122|2026-10-20 23:52:54|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000033|2026-10-20 23:53:39|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000122|2026-10-20 23:54:30|Cảm ơn Khôi, mình sẽ cố.
+ACC000033|2026-10-20 23:57:09|Xong nhớ nhắn mình kết quả nhé.
+ACC000122|2026-10-21 12:56:10|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000033|2026-10-21 13:01:51|Chuyện nhỏ thôi mà.
+ACC000122|2026-10-21 13:07:03|Không có bạn chắc mình làm không kịp.
+ACC000033|2026-10-21 13:07:50|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000122|2026-10-21 13:08:20|Hôm nào mình mời bạn bánh mì nhé.
+ACC000033|2026-10-21 13:09:20|Vậy thì mình không từ chối đâu.
+ACC000122|2026-10-22 21:07:40|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000033|2026-10-22 21:14:08|Bài nào vậy?
+ACC000122|2026-10-22 21:16:27|Mình gửi link rồi đó.
+ACC000033|2026-10-22 21:32:06|Nghe rồi, giai điệu dễ chịu thật.
+ACC000122|2026-10-22 21:33:28|Đúng không? Mình nghe suốt tuần này.
+ACC000033|2026-10-22 21:34:41|Cho mình xin playlist nhé.
+ACC000033|2026-10-23 11:38:56|Mình dọn trọ sang khu khác rồi.
+ACC000122|2026-10-23 11:39:19|Thật à? Có xa trường không?
+ACC000033|2026-10-23 11:40:27|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000122|2026-10-23 11:41:48|Tốt quá, hôm nào mình qua chơi.
+ACC000033|2026-10-23 11:43:33|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000122|2026-10-23 11:43:58|Ok, nhớ nấu cơm cho mình đó.

@@ -1,0 +1,15 @@
+ACC000008|2026-10-21 12:25:19|Bạn biết laptop nào học lập trình ổn không?
+ACC000077|2026-10-21 12:26:03|Tầm giá bao nhiêu?
+ACC000008|2026-10-21 12:26:47|Khoảng 15 đến 20 triệu.
+ACC000077|2026-10-21 12:27:10|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000008|2026-10-21 12:27:47|Cảm ơn nhiều, mình đang rối quá.
+ACC000077|2026-10-21 12:27:57|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000077|2026-10-23 16:56:32|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000008|2026-10-23 16:57:11|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000077|2026-10-23 16:59:03|Giá thế nào?
+ACC000008|2026-10-23 17:00:05|Khoảng 200 nghìn một ly.
+ACC000077|2026-10-23 17:02:09|Hợp lý đó, mai mình thử.
+ACC000008|2026-10-23 17:06:38|Mình cũng hay ngồi ở đó, gặp nhau nhé.
+ACC000008|2026-10-23 17:15:03|Tối nói chuyện tiếp nhé
+ACC000077|2026-10-23 17:18:52|Mệt quá hôm nay
+ACC000077|2026-10-23 17:19:01|Ừ

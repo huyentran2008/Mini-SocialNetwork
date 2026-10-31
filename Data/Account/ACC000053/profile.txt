@@ -1,0 +1,14 @@
+id=ACC000053
+username=quynd67
+password=517579403438373775
+full_name=Nguyễn Đức Quý
+birthday=22-03-2001
+gender=Male
+bio=
+created_at=2026-09-11
+status=ACTIVE
+residence=Thanh Hóa
+hometown=Hà Nội
+school=Đại học Kỹ thuật Công nghiệp - Đại học Thái Nguyên
+workplace=Bệnh viện Chợ Rẫy
+hobbies=Ăn vặt

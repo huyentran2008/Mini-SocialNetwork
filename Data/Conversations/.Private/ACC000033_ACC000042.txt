@@ -1,0 +1,18 @@
+ACC000033|2026-10-22 13:27:43|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000042|2026-10-22 13:30:22|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000033|2026-10-22 13:30:43|Mình thấy rồi, truy cập ngoài mảng.
+ACC000042|2026-10-22 13:34:32|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000033|2026-10-22 13:40:17|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000042|2026-10-22 14:04:56|Lỗi này ai cũng từng gặp thôi.
+ACC000033|2026-10-22 17:53:18|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000042|2026-10-22 17:54:40|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000033|2026-10-22 17:56:39|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000042|2026-10-22 17:59:06|Cảm ơn bạn đã hỏi thăm.
+ACC000033|2026-10-22 18:02:19|Có cần mình mang đồ ăn qua không?
+ACC000042|2026-10-22 18:02:42|Không cần đâu, mình ổn rồi.
+ACC000033|2026-10-24 21:36:52|Mình cũng nghĩ vậy
+ACC000042|2026-10-24 21:37:05|Đang làm gì đó?
+ACC000033|2026-10-24 21:37:19|Nghe được đó
+ACC000042|2026-10-24 21:37:33|Ngủ ngon
+ACC000042|2026-10-24 21:37:46|Ngủ ngon
+ACC000042|2026-10-24 21:37:48|Mình biết rồi

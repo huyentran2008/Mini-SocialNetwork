@@ -1,0 +1,8 @@
+id=POST000172
+author=ACC000040
+visibility=PUBLIC
+created_at=2026-10-15 08:00:08
+edited_at=
+status=VISIBLE
+title=Lên kế hoạch tập luyện tháng này
+content=Mục tiêu tháng này: chạy ba buổi mỗi tuần, ngủ trước 11 giờ và bớt trà sữa. Mong mọi người nhắc mình nếu thấy mình lười.\nHẹn mọi người ở bài sau.

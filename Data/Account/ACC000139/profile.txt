@@ -1,0 +1,14 @@
+id=ACC000139
+username=thuanht02
+password=546875616e403739303270
+full_name=Hoàng Trọng Thuận
+birthday=06-10-1999
+gender=Male
+bio=Thể thao là cuộc sống.
+created_at=2026-10-03
+status=ACTIVE
+residence=Đắk Lắk
+hometown=An Giang
+school=
+workplace=
+hobbies=Tennis;Bóng rổ

@@ -1,0 +1,8 @@
+id=POST000242
+author=ACC000139
+visibility=FRIEND
+created_at=2026-10-23 21:10:15
+edited_at=
+status=VISIBLE
+title=Xem bóng đá đêm qua
+content=Trận đấu đêm qua kịch tính từ phút đầu đến phút cuối. Bàn thắng ở phút bù giờ làm cả xóm la hét. Sáng nay đi học mắt thâm quầng. Thế thôi, chúc mọi người một ngày vui!

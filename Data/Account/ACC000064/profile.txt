@@ -1,0 +1,14 @@
+id=ACC000064
+username=thaint94
+password=54686169403238343166
+full_name=Nguyễn Tuấn Thái
+birthday=23-04-1997
+gender=Male
+bio=Ngày code, đêm debug.
+created_at=2026-10-02
+status=ACTIVE
+residence=Đắk Lắk
+hometown=Khánh Hòa
+school=
+workplace=Trung tâm tiếng Anh ILA
+hobbies=Pha cà phê;Học trí tuệ nhân tạo

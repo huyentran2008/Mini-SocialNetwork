@@ -1,0 +1,26 @@
+ACC000141|2026-10-21 18:27:35|Mình dọn trọ sang khu khác rồi.
+ACC000131|2026-10-21 18:28:11|Thật à? Có xa trường không?
+ACC000141|2026-10-21 18:33:51|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000131|2026-10-21 18:38:04|Tốt quá, hôm nào mình qua chơi.
+ACC000141|2026-10-21 18:59:04|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000131|2026-10-21 19:00:18|Ok, nhớ nấu cơm cho mình đó.
+ACC000131|2026-10-21 19:38:42|Bạn ơi, bài tập giải tích nộp chưa?
+ACC000141|2026-10-21 19:41:14|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000131|2026-10-21 19:41:43|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000141|2026-10-21 19:46:44|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000131|2026-10-21 19:48:55|Có gì hỏi mình nhé.
+ACC000141|2026-10-21 19:50:14|Okela, cảm ơn Thủy nhiều.
+ACC000131|2026-10-23 07:01:48|Ừ đúng rồi
+ACC000131|2026-10-23 07:02:02|Mai gặp nhé
+ACC000141|2026-10-23 07:02:03|Mình biết rồi
+ACC000141|2026-10-23 07:02:13|Ừ đúng rồi
+ACC000131|2026-10-23 07:02:24|Chúc bạn một ngày tốt lành
+ACC000131|2026-10-23 07:02:35|Rồi, mình nhớ rồi
+ACC000141|2026-10-23 07:02:45|Rồi, mình nhớ rồi
+ACC000131|2026-10-23 07:02:48|Vừa về tới nhà
+ACC000141|2026-10-23 07:02:54|Mệt quá hôm nay
+ACC000141|2026-10-23 07:03:06|Okela
+ACC000131|2026-10-23 07:03:16|Nghe được đó
+ACC000141|2026-10-23 07:03:17|Haha
+ACC000141|2026-10-23 07:03:25|Mệt quá hôm nay
+ACC000141|2026-10-23 07:03:29|Vậy hả?

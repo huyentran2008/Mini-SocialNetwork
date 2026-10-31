@@ -1,0 +1,20 @@
+ACC000016|2026-10-20 11:24:34|Hôm nay bạn rảnh không?
+ACC000043|2026-10-20 11:31:35|Chiều nay mình rảnh, có chuyện gì vậy?
+ACC000016|2026-10-20 11:33:30|Đi cà phê học bài chung nhé, mình có vài chỗ chưa hiểu
+ACC000043|2026-10-20 11:37:04|Ok, 3 giờ ở quán quen nhé
+ACC000016|2026-10-20 11:46:23|Chốt luôn!
+ACC000016|2026-10-22 08:57:40|Bạn ơi, bài tập lập trình hướng đối tượng nộp chưa?
+ACC000043|2026-10-22 09:01:25|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000016|2026-10-22 09:02:13|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000043|2026-10-22 09:03:42|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000016|2026-10-22 09:07:21|Có gì hỏi mình nhé.
+ACC000043|2026-10-22 09:08:33|Okela, cảm ơn Vy nhiều.
+ACC000016|2026-10-22 16:12:48|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000043|2026-10-22 16:14:31|Haha, bé làm gì thế?
+ACC000016|2026-10-22 16:15:32|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000043|2026-10-22 16:16:51|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000016|2026-10-22 16:19:55|Đợi chút mình chụp.
+ACC000043|2026-10-22 16:20:40|Đúng là chủ nào mèo nấy.
+ACC000043|2026-10-23 23:03:40|Chúc bạn một ngày tốt lành
+ACC000043|2026-10-23 23:04:54|Mệt quá hôm nay
+ACC000043|2026-10-23 23:07:12|Mình cũng nghĩ vậy

@@ -1,0 +1,14 @@
+id=ACC000040
+username=uyennp25
+password=5579656e403838323975
+full_name=Ngô Phương Uyên
+birthday=12-05-2006
+gender=Female
+bio=Yêu mèo, yêu cây cảnh.
+created_at=2026-10-08
+status=ACTIVE
+residence=Quảng Ninh
+hometown=Đồng Nai
+school=Đại học Huế
+workplace=
+hobbies=Pha cà phê;Chạy bộ;Đạp xe

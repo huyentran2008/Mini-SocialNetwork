@@ -1,0 +1,30 @@
+ACC000077|2026-10-11 11:22:34|Hôm nay bạn có đi học không?
+ACC000105|2026-10-11 11:23:31|Có, mình đang trên đường.
+ACC000077|2026-10-11 11:24:23|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000105|2026-10-11 11:25:00|Ok, giữ rồi.
+ACC000077|2026-10-11 11:30:45|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000105|2026-10-11 11:33:31|Nhanh lên, sắp vào học rồi.
+ACC000105|2026-10-16 19:46:18|Hôm nay bạn rảnh không?
+ACC000077|2026-10-16 19:47:52|Chiều mình rảnh, có chuyện gì vậy?
+ACC000105|2026-10-16 19:48:50|Đi uống trà sữa nhé, lâu rồi không gặp.
+ACC000077|2026-10-16 19:53:04|Ok, 6 giờ mình qua đón bạn nha.
+ACC000105|2026-10-16 19:54:00|Được, mình chờ ở cổng.
+ACC000077|2026-10-16 20:43:18|Tới rồi nè, ra đi.
+ACC000105|2026-10-17 11:00:40|Bạn xem giúp mình CV được không?
+ACC000077|2026-10-17 11:02:04|Gửi mình xem nhé.
+ACC000105|2026-10-17 11:03:13|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000077|2026-10-17 11:09:14|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000105|2026-10-17 11:10:45|Hợp lý, mình sửa luôn.
+ACC000077|2026-10-17 11:11:22|Sửa xong gửi mình xem lại nhé.
+ACC000105|2026-10-18 21:23:23|Điểm thi xác suất có chưa bạn?
+ACC000077|2026-10-18 21:26:27|Có rồi, mình được 8 điểm.
+ACC000105|2026-10-18 21:27:53|Giỏi quá, mình mới 6 điểm thôi.
+ACC000077|2026-10-18 21:33:43|Cũng ổn mà, qua môn là tốt rồi.
+ACC000105|2026-10-18 21:37:10|Cảm ơn bạn đã động viên.
+ACC000077|2026-10-18 21:39:40|Lần sau mình học nhóm tiếp nhé.
+ACC000105|2026-10-18 22:20:30|Bạn xem giúp mình CV được không?
+ACC000077|2026-10-18 22:24:30|Gửi mình xem nhé.
+ACC000105|2026-10-18 22:25:36|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000077|2026-10-18 22:26:54|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000105|2026-10-18 22:27:38|Hợp lý, mình sửa luôn.
+ACC000077|2026-10-18 22:27:56|Sửa xong gửi mình xem lại nhé.

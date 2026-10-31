@@ -1,0 +1,24 @@
+ACC000114|2026-10-09 13:41:26|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000066|2026-10-09 13:42:45|Bài nào vậy?
+ACC000114|2026-10-09 13:44:13|Mình gửi link rồi đó.
+ACC000066|2026-10-09 13:46:28|Nghe rồi, giai điệu dễ chịu thật.
+ACC000114|2026-10-09 13:47:45|Đúng không? Mình nghe suốt tuần này.
+ACC000066|2026-10-09 13:51:24|Cho mình xin playlist nhé.
+ACC000114|2026-10-09 14:05:26|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000066|2026-10-09 14:11:39|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000114|2026-10-09 14:13:07|Mình thấy rồi, truy cập ngoài mảng.
+ACC000066|2026-10-09 14:13:25|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000114|2026-10-09 14:13:39|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000066|2026-10-09 14:18:53|Lỗi này ai cũng từng gặp thôi.
+ACC000066|2026-10-09 18:13:35|Sáng mai bạn có đi tập chạy không?
+ACC000114|2026-10-09 18:15:33|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000066|2026-10-09 18:16:28|Mình sợ dậy không nổi.
+ACC000114|2026-10-09 18:17:16|Để mình gọi bạn dậy.
+ACC000066|2026-10-09 18:20:54|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000114|2026-10-09 18:21:31|Ok, mai gặp.
+ACC000066|2026-10-16 00:28:06|Tối nay bạn có chơi game không?
+ACC000114|2026-10-16 00:30:57|Có, mấy giờ?
+ACC000066|2026-10-16 00:33:47|6 giờ, rủ thêm hai bạn nữa là đủ đội.
+ACC000114|2026-10-16 00:35:58|Ok, mình online sớm.
+ACC000066|2026-10-16 00:36:40|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000114|2026-10-16 00:39:11|Haha, thua thì đừng trách mình.

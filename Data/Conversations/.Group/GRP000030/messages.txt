@@ -1,0 +1,621 @@
+SYSTEM|2026-09-24 19:01:03|Nguyễn Cẩm Nhàn đã tạo nhóm "KTX khu B tầng 4"
+SYSTEM|2026-09-24 19:01:04|Nguyễn Cẩm Nhàn đã thêm Nguyễn Tuấn Phúc vào nhóm
+SYSTEM|2026-09-24 19:01:05|Nguyễn Tuấn Phúc đã thêm Lê Bảo Hùng vào nhóm
+SYSTEM|2026-09-24 19:01:06|Lê Bảo Hùng đã thêm Nguyễn Quốc Tâm vào nhóm
+ACC000136|2026-09-25 11:53:23|Có ai biết bài này làm sao không?
+ACC000082|2026-09-25 11:54:47|Bài nào vậy?
+ACC000136|2026-09-25 11:56:33|Mình gửi ảnh rồi đó.
+ACC000083|2026-09-25 11:57:47|Bài này dùng đệ quy là ra.
+ACC000082|2026-09-25 11:58:17|Đúng rồi, mình giải thích thêm nhé.
+ACC000136|2026-09-25 12:01:50|Cảm ơn cả hai.
+ACC000082|2026-09-26 18:01:37|Có ai biết bài này làm sao không?
+ACC000136|2026-09-26 18:02:51|Bài nào vậy?
+ACC000082|2026-09-26 18:06:47|Mình gửi ảnh rồi đó.
+ACC000083|2026-09-26 18:08:38|Bài này dùng đệ quy là ra.
+ACC000136|2026-09-26 18:10:41|Đúng rồi, mình giải thích thêm nhé.
+ACC000082|2026-09-26 18:17:27|Cảm ơn cả hai.
+ACC000083|2026-09-27 08:26:21|Tuần sau dọn phòng lớn nhé mọi người.
+ACC000111|2026-09-27 08:32:17|Được, thứ ba nhé.
+ACC000136|2026-09-27 08:33:52|Mình lo phần lau cửa kính.
+ACC000082|2026-09-27 08:36:26|Mình dọn nhà vệ sinh.
+ACC000083|2026-09-27 08:38:08|Cảm ơn nhé.
+ACC000083|2026-09-27 09:26:46|Ai đi nữa không?
+ACC000083|2026-09-27 09:26:49|Mình đi ngủ trước nhé
+ACC000111|2026-09-27 09:26:56|Quá tuyệt
+ACC000111|2026-09-27 09:27:02|Ổn rồi nhé
+ACC000083|2026-09-27 09:27:10|Có ai online không?
+ACC000083|2026-09-27 09:27:21|Mọi người ăn cơm chưa?
+ACC000083|2026-09-27 09:27:25|Cố lên mọi người
+ACC000083|2026-09-27 09:27:26|Đúng rồi
+ACC000111|2026-09-27 09:27:34|Hôm nay vui thật
+ACC000083|2026-09-27 09:27:41|Cố lên mọi người
+ACC000083|2026-09-27 09:27:51|Nhớ mang theo nhé
+ACC000083|2026-09-27 09:28:01|Mình +1
+ACC000136|2026-09-27 09:28:09|Để mình kiểm tra lại rồi báo
+ACC000111|2026-09-27 09:28:21|Đừng quên nha mọi người
+ACC000083|2026-09-27 09:28:27|Chuẩn rồi
+ACC000083|2026-09-27 11:53:57|Mai gặp nhé
+ACC000111|2026-09-27 11:55:20|Hôm nay mưa mà vẫn đi à?
+ACC000111|2026-09-27 11:55:32|Đừng quên nha mọi người
+ACC000083|2026-09-27 12:26:57|Cho mình vào nhóm học với
+ACC000083|2026-09-27 12:39:29|Tiền điện tháng này là 70 nghìn, chia đều nhé.
+ACC000136|2026-09-27 12:42:15|Mình chuyển ngay.
+ACC000111|2026-09-27 12:42:51|Cho mình xin số tài khoản.
+ACC000083|2026-09-27 12:43:01|Mình gửi lại rồi.
+ACC000082|2026-09-27 12:48:45|Đã chuyển.
+ACC000111|2026-09-27 14:43:25|Mưa quá, ai đi học được không?
+ACC000083|2026-09-27 14:44:13|Mình vẫn đi, chỉ hơi ướt thôi.
+ACC000136|2026-09-27 14:46:54|Mình ở nhà, học trực tuyến đi.
+ACC000082|2026-09-27 14:48:14|Lớp mình có thông báo gì chưa?
+ACC000111|2026-09-27 15:16:35|Chưa thấy, cứ đến lớp bình thường.
+ACC000083|2026-09-27 15:53:46|Tuần sau dọn phòng lớn nhé mọi người.
+ACC000111|2026-09-27 15:57:01|Được, thứ sáu nhé.
+ACC000136|2026-09-27 15:57:45|Mình lo phần lau cửa kính.
+ACC000082|2026-09-27 15:58:40|Mình dọn nhà vệ sinh.
+ACC000083|2026-09-27 16:02:40|Cảm ơn nhé.
+ACC000083|2026-09-27 18:00:37|Mình sẽ cập nhật sau
+ACC000083|2026-09-27 18:44:57|Tuyệt vời!
+ACC000083|2026-09-27 18:46:19|Chúc mừng nhé!
+ACC000083|2026-09-27 18:46:49|Mình đang bận chút, lát nói tiếp
+ACC000083|2026-09-27 18:52:25|Mình đi ngủ trước nhé
+ACC000083|2026-09-27 18:54:16|Okela mọi người
+ACC000083|2026-09-27 18:56:42|Okela mọi người
+ACC000083|2026-09-27 21:41:52|Mọi người nhớ khóa cửa khi ra ngoài nhé.
+ACC000111|2026-09-27 21:42:20|Ok, xin lỗi hôm qua mình quên.
+ACC000136|2026-09-27 21:48:31|Mình sẽ nhắc nhau.
+ACC000082|2026-09-27 21:49:19|Có ai mua giúp mình chai nước rửa chén không?
+ACC000083|2026-09-27 21:55:23|Mình mua giúp, tối đưa nhé.
+ACC000136|2026-09-27 22:48:15|Trời nóng quá
+ACC000083|2026-09-27 22:50:02|Quá tuyệt
+ACC000083|2026-09-27 22:50:31|Mình vừa tới nơi
+ACC000083|2026-09-27 22:50:58|Mọi người ăn cơm chưa?
+ACC000083|2026-09-27 22:51:38|Đừng quên nha mọi người
+ACC000083|2026-09-28 15:15:33|Ủa vậy hả?
+ACC000083|2026-09-28 15:15:42|Mình sẽ cập nhật sau
+ACC000136|2026-09-28 15:15:46|Đồng ý với bạn
+ACC000083|2026-09-28 15:15:51|Ừ, mình nhớ rồi
+ACC000111|2026-09-28 15:15:59|Ai đi nữa không?
+ACC000083|2026-09-28 15:16:03|Cảm ơn nhé
+ACC000083|2026-09-28 15:16:10|haha
+ACC000083|2026-09-28 15:16:21|Quá tuyệt
+ACC000083|2026-09-28 15:16:33|Ai có tin gì mới không?
+ACC000083|2026-09-28 15:16:39|Đúng rồi
+ACC000111|2026-09-28 15:16:45|Tuyệt vời!
+ACC000083|2026-09-28 15:16:54|Thật không đó?
+ACC000136|2026-09-28 16:34:19|Có ai online không?
+ACC000083|2026-09-28 16:34:47|Mình đang trên đường tới
+ACC000083|2026-09-28 20:05:07|Tuần sau dọn phòng lớn nhé mọi người.
+ACC000111|2026-09-28 20:06:21|Được, thứ ba nhé.
+ACC000136|2026-09-28 20:07:47|Mình lo phần lau cửa kính.
+ACC000082|2026-09-28 20:08:10|Mình dọn nhà vệ sinh.
+ACC000083|2026-09-28 20:11:47|Cảm ơn nhé.
+ACC000083|2026-09-28 22:14:00|Tiền điện tháng này là 300 nghìn, chia đều nhé.
+ACC000082|2026-09-28 22:25:17|Mình chuyển ngay.
+ACC000111|2026-09-28 22:27:13|Cho mình xin số tài khoản.
+ACC000083|2026-09-28 22:28:45|Mình gửi lại rồi.
+ACC000136|2026-09-28 22:30:08|Đã chuyển.
+ACC000083|2026-09-28 23:15:26|Hôm nay ai mang theo sạc dự phòng không?
+ACC000082|2026-09-28 23:15:42|Mình có, cần mượn không?
+ACC000083|2026-09-28 23:17:44|Điện thoại mình còn 5% rồi.
+ACC000082|2026-09-28 23:18:48|Lại bàn mình cắm nhé.
+ACC000083|2026-09-28 23:19:20|Cảm ơn bạn nhé.
+ACC000083|2026-09-30 12:05:03|Tuần sau dọn phòng lớn nhé mọi người.
+ACC000111|2026-09-30 12:06:21|Được, thứ sáu nhé.
+ACC000082|2026-09-30 12:07:34|Mình lo phần lau cửa kính.
+ACC000136|2026-09-30 12:08:37|Mình dọn nhà vệ sinh.
+ACC000083|2026-09-30 12:10:18|Cảm ơn nhé.
+ACC000083|2026-10-01 10:18:48|haha
+ACC000083|2026-10-01 10:18:50|Haha cười đau bụng
+ACC000111|2026-10-01 10:18:55|Đừng quên nha mọi người
+ACC000083|2026-10-01 10:18:56|Ai có tin gì mới không?
+ACC000083|2026-10-01 10:18:59|Mình về trước nhé
+ACC000111|2026-10-01 10:19:05|Mình +1
+ACC000083|2026-10-01 10:19:08|Ai đi nữa không?
+ACC000083|2026-10-01 10:19:10|Ừ, mình nhớ rồi
+ACC000083|2026-10-01 10:19:22|Nghe hợp lý đó
+ACC000111|2026-10-01 10:19:25|Ủa vậy hả?
+ACC000136|2026-10-01 10:19:34|Quá tuyệt
+ACC000083|2026-10-01 10:19:36|Ủa vậy hả?
+ACC000083|2026-10-01 10:19:42|Đồng ý với bạn
+ACC000083|2026-10-01 10:19:51|Hôm nay mưa mà vẫn đi à?
+ACC000083|2026-10-01 10:19:57|Thật không đó?
+ACC000136|2026-10-01 10:20:07|Mình sẽ cập nhật sau
+ACC000083|2026-10-01 10:20:09|Để mình kiểm tra lại rồi báo
+ACC000083|2026-10-01 12:33:57|Tuần sau dọn phòng lớn nhé mọi người.
+ACC000111|2026-10-01 12:34:45|Được, thứ tư nhé.
+ACC000136|2026-10-01 13:05:17|Mình lo phần lau cửa kính.
+ACC000082|2026-10-01 13:05:41|Mình dọn nhà vệ sinh.
+ACC000083|2026-10-01 13:06:57|Cảm ơn nhé.
+ACC000083|2026-10-01 13:53:29|Tiền điện tháng này là 50 nghìn, chia đều nhé.
+ACC000136|2026-10-01 13:54:49|Mình chuyển ngay.
+ACC000082|2026-10-01 13:56:58|Cho mình xin số tài khoản.
+ACC000083|2026-10-01 14:00:47|Mình gửi lại rồi.
+ACC000111|2026-10-01 14:01:36|Đã chuyển.
+ACC000083|2026-10-01 18:22:48|Mình đi ngủ trước nhé
+ACC000083|2026-10-01 18:22:49|Lần sau mình rủ thêm người nhé
+ACC000083|2026-10-01 18:22:58|Mình vừa tới nơi
+ACC000136|2026-10-01 18:23:08|Ngủ ngon cả nhóm
+ACC000083|2026-10-01 18:23:13|Cảm ơn nhé
+ACC000083|2026-10-01 18:23:18|Giỏi quá bạn ơi
+ACC000083|2026-10-01 18:23:24|Ừ, mình nhớ rồi
+ACC000083|2026-10-01 18:23:28|Ủa vậy hả?
+ACC000111|2026-10-01 18:23:30|Ai biết quán nào ngon giới thiệu mình với
+ACC000136|2026-10-01 18:23:32|Nghe hợp lý đó
+ACC000083|2026-10-01 18:23:39|Ổn rồi nhé
+ACC000083|2026-10-01 18:23:42|Cho mình vào nhóm học với
+ACC000111|2026-10-01 18:23:54|Mình đang bận chút, lát nói tiếp
+ACC000111|2026-10-01 18:24:03|Hôm nay mưa mà vẫn đi à?
+ACC000111|2026-10-01 18:24:07|Mình đi ngủ trước nhé
+ACC000083|2026-10-01 18:24:18|Mình đi ngủ trước nhé
+ACC000083|2026-10-01 18:24:20|Mình đang trên đường tới
+ACC000136|2026-10-03 11:05:55|Nhóm mình có ai làm slide giúp phần cuối không?
+ACC000083|2026-10-03 11:08:09|Để mình làm.
+ACC000136|2026-10-03 11:08:52|Cảm ơn Hùng, mình gửi nội dung rồi nhé.
+ACC000083|2026-10-03 11:11:12|Nhận rồi, tối mình làm xong.
+ACC000111|2026-10-03 11:11:29|Mình soát lỗi chính tả giúp.
+ACC000136|2026-10-03 11:13:27|Quá tuyệt.
+ACC000083|2026-10-03 21:38:18|Lần sau mình rủ thêm người nhé
+ACC000083|2026-10-03 21:38:22|Vậy chốt nhé
+ACC000083|2026-10-03 21:38:30|Hẹn mọi người cuối tuần
+ACC000083|2026-10-03 21:38:35|haha
+ACC000111|2026-10-03 21:38:42|Ai đi nữa không?
+ACC000136|2026-10-03 21:38:49|Vậy chốt nhé
+ACC000083|2026-10-03 21:39:01|Đã nhận được rồi nhé
+ACC000083|2026-10-03 21:39:03|Để mình kiểm tra lại rồi báo
+ACC000083|2026-10-03 21:39:10|Ừ, mình nhớ rồi
+ACC000083|2026-10-03 21:39:20|Quá tuyệt
+ACC000083|2026-10-03 21:39:21|Hôm nay mưa mà vẫn đi à?
+ACC000136|2026-10-03 21:39:31|Ai biết quán nào ngon giới thiệu mình với
+ACC000083|2026-10-03 21:39:38|Cho mình xin chút thông tin với
+ACC000083|2026-10-03 21:39:43|Okela mọi người
+ACC000083|2026-10-03 21:39:51|Mai gặp nhé
+ACC000083|2026-10-03 23:32:29|Hôm nay vui thật
+ACC000083|2026-10-03 23:32:45|Chúc mừng nhé!
+ACC000083|2026-10-04 08:45:46|Thật không đó?
+ACC000136|2026-10-04 08:46:06|Mình về trước nhé
+ACC000082|2026-10-04 08:47:58|Mai gặp nhé
+ACC000083|2026-10-04 08:52:10|Lần sau mình rủ thêm người nhé
+ACC000136|2026-10-04 08:55:19|Hôm nay vui thật
+ACC000083|2026-10-04 10:08:38|Tối nay ai nấu cơm vậy?
+ACC000111|2026-10-04 10:09:56|Mình nấu, mọi người rửa chén nhé.
+ACC000136|2026-10-04 10:10:16|Ok, mình rửa.
+ACC000082|2026-10-04 10:11:29|Mình quét nhà.
+ACC000083|2026-10-04 10:12:17|Chia việc rõ ràng, tuyệt vời.
+ACC000083|2026-10-04 15:00:47|Hôm nay ai mang theo sạc dự phòng không?
+ACC000111|2026-10-04 15:07:09|Mình có, cần mượn không?
+ACC000083|2026-10-04 15:07:23|Điện thoại mình còn 5% rồi.
+ACC000111|2026-10-04 15:11:20|Lại bàn mình cắm nhé.
+ACC000083|2026-10-04 15:13:50|Cảm ơn bạn nhé.
+ACC000136|2026-10-04 18:15:00|Cảm ơn cả nhóm đã giúp mình
+ACC000083|2026-10-04 18:46:00|Đã nhận được rồi nhé
+ACC000083|2026-10-04 18:46:56|Lần sau mình rủ thêm người nhé
+ACC000111|2026-10-04 18:48:48|Mình về trước nhé
+ACC000083|2026-10-04 18:49:35|Mình đi ngủ trước nhé
+ACC000083|2026-10-04 18:51:51|Okela mọi người
+ACC000111|2026-10-04 19:39:58|Lần sau mình rủ thêm người nhé
+ACC000083|2026-10-04 19:55:21|Có ai biết bài này làm sao không?
+ACC000136|2026-10-04 19:56:16|Bài nào vậy?
+ACC000083|2026-10-04 19:58:13|Mình gửi ảnh rồi đó.
+ACC000111|2026-10-04 19:58:21|Bài này dùng đệ quy là ra.
+ACC000136|2026-10-04 19:58:47|Đúng rồi, mình giải thích thêm nhé.
+ACC000083|2026-10-04 20:01:41|Cảm ơn cả hai.
+ACC000082|2026-10-04 22:12:14|haha
+ACC000083|2026-10-04 22:12:16|Mình cũng nghĩ thế
+ACC000111|2026-10-04 22:12:17|Quá tuyệt
+ACC000136|2026-10-04 22:12:25|Mai gặp nhé
+ACC000083|2026-10-04 22:12:29|Nghe hợp lý đó
+ACC000083|2026-10-04 22:12:33|Tuyệt vời!
+ACC000136|2026-10-04 22:12:34|Cảm ơn nhé
+ACC000083|2026-10-04 22:12:43|Thật không đó?
+ACC000083|2026-10-04 22:12:44|haha
+ACC000136|2026-10-04 22:12:48|Giỏi quá bạn ơi
+ACC000083|2026-10-04 22:13:00|Chúc mừng nhé!
+ACC000111|2026-10-04 22:13:12|Để mình kiểm tra lại rồi báo
+ACC000083|2026-10-04 22:13:13|Ngủ ngon cả nhóm
+ACC000083|2026-10-05 07:27:32|Nghe hợp lý đó
+ACC000083|2026-10-05 07:28:57|Ai biết quán nào ngon giới thiệu mình với
+ACC000111|2026-10-05 15:31:37|Thật không đó?
+ACC000111|2026-10-05 15:32:07|Có ai online không?
+ACC000083|2026-10-05 15:33:41|Hôm nay mưa mà vẫn đi à?
+ACC000111|2026-10-05 17:33:59|Mình cũng nghĩ thế
+ACC000111|2026-10-05 17:34:07|Giỏi quá bạn ơi
+ACC000083|2026-10-05 17:34:12|Mình cũng nghĩ thế
+ACC000083|2026-10-05 17:34:16|Cảm ơn cả nhóm đã giúp mình
+ACC000083|2026-10-05 17:34:24|Hôm nay vui thật
+ACC000136|2026-10-05 17:34:33|Có ai online không?
+ACC000083|2026-10-05 17:34:34|Có ai online không?
+ACC000111|2026-10-05 17:34:35|Đúng rồi
+ACC000083|2026-10-05 17:34:46|Để mình kiểm tra lại rồi báo
+ACC000083|2026-10-05 17:34:47|Mình sẽ cập nhật sau
+ACC000082|2026-10-05 17:34:56|Haha cười đau bụng
+ACC000083|2026-10-05 17:34:57|Tuyệt vời!
+ACC000136|2026-10-05 17:35:05|Nghe hợp lý đó
+ACC000111|2026-10-05 17:35:17|Mình +1
+ACC000083|2026-10-05 17:35:19|Ai đi nữa không?
+ACC000083|2026-10-05 17:35:26|Ai có tin gì mới không?
+ACC000083|2026-10-05 19:00:32|Danh sách việc cần làm: 1 | chuẩn bị tài liệu; 2 | liên hệ địa điểm; 3 | chốt thời gian; 4 | phân công người phụ trách. Ai nhận việc nào nhắn số thứ tự giúp mình.
+ACC000083|2026-10-06 20:07:02|Nhóm mình có ai làm slide giúp phần cuối không?
+ACC000111|2026-10-06 20:07:40|Để mình làm.
+ACC000083|2026-10-06 20:09:27|Cảm ơn Phúc, mình gửi nội dung rồi nhé.
+ACC000111|2026-10-06 20:10:14|Nhận rồi, tối mình làm xong.
+ACC000136|2026-10-06 20:13:46|Mình soát lỗi chính tả giúp.
+ACC000083|2026-10-06 20:59:52|Quá tuyệt.
+ACC000111|2026-10-08 09:57:05|Tiền điện tháng này là 300 nghìn, chia đều nhé.
+ACC000136|2026-10-08 10:00:43|Mình chuyển ngay.
+ACC000083|2026-10-08 10:06:44|Cho mình xin số tài khoản.
+ACC000111|2026-10-08 10:12:22|Mình gửi lại rồi.
+ACC000082|2026-10-08 10:18:19|Đã chuyển.
+ACC000083|2026-10-09 08:08:39|Nhớ giữ sức khỏe nhé mọi người
+ACC000083|2026-10-09 08:09:17|Đã nhận được rồi nhé
+ACC000083|2026-10-09 08:13:09|Nhớ mang theo nhé
+ACC000111|2026-10-09 08:17:02|Tuyệt vời!
+ACC000083|2026-10-09 08:17:58|Hôm nay mưa mà vẫn đi à?
+ACC000083|2026-10-09 08:19:41|Đã nhận được rồi nhé
+ACC000083|2026-10-09 15:22:21|Ổn rồi nhé
+ACC000083|2026-10-09 17:26:54|Mình về trước nhé
+ACC000083|2026-10-09 17:31:00|Lần sau mình rủ thêm người nhé
+ACC000083|2026-10-09 17:31:42|Mình sẽ cập nhật sau
+ACC000083|2026-10-09 17:33:25|Mệt ghê
+ACC000083|2026-10-09 17:35:09|Ai có tin gì mới không?
+ACC000082|2026-10-09 17:40:47|haha
+ACC000083|2026-10-09 20:32:56|Mình cũng nghĩ thế
+ACC000083|2026-10-09 20:33:10|Mình +1
+ACC000111|2026-10-09 20:36:49|Lần sau mình rủ thêm người nhé
+ACC000136|2026-10-09 20:38:25|Hôm nay mưa mà vẫn đi à?
+ACC000111|2026-10-09 20:44:45|Để mình kiểm tra lại rồi báo
+ACC000083|2026-10-09 20:44:53|Cảm ơn cả nhóm đã giúp mình
+ACC000111|2026-10-09 21:07:32|Tuần sau dọn phòng lớn nhé mọi người.
+ACC000136|2026-10-09 21:08:47|Được, thứ ba nhé.
+ACC000083|2026-10-09 21:09:33|Mình lo phần lau cửa kính.
+ACC000082|2026-10-09 21:11:44|Mình dọn nhà vệ sinh.
+ACC000111|2026-10-09 21:12:44|Cảm ơn nhé.
+ACC000136|2026-10-09 22:15:47|Mọi người ơi, điểm danh nào.
+ACC000083|2026-10-09 22:16:24|Có mặt!
+ACC000111|2026-10-09 22:18:40|Có mình.
+ACC000082|2026-10-09 22:19:29|Mình đây.
+ACC000136|2026-10-09 22:19:57|Tốt, vậy bắt đầu nhé.
+SYSTEM|2026-10-10 02:00:00|Nguyễn Cẩm Nhàn đã thêm Đặng Quang Huy vào nhóm
+SYSTEM|2026-10-10 02:00:00|Nguyễn Cẩm Nhàn đã thêm Nguyễn Minh Mai vào nhóm
+SYSTEM|2026-10-10 02:00:00|Đặng Quang Huy đã thêm Lâm Ngọc Hân vào nhóm
+ACC000136|2026-10-10 13:51:14|Mọi người nhớ khóa cửa khi ra ngoài nhé.
+ACC000074|2026-10-10 13:54:11|Ok, xin lỗi hôm qua mình quên.
+ACC000083|2026-10-10 13:55:44|Mình sẽ nhắc nhau.
+ACC000111|2026-10-10 13:57:12|Có ai mua giúp mình chai nước rửa chén không?
+ACC000136|2026-10-10 13:58:52|Mình mua giúp, tối đưa nhé.
+ACC000074|2026-10-10 22:52:39|Mọi người nhớ khóa cửa khi ra ngoài nhé.
+ACC000136|2026-10-10 22:53:27|Ok, xin lỗi hôm qua mình quên.
+ACC000037|2026-10-10 22:55:36|Mình sẽ nhắc nhau.
+ACC000083|2026-10-10 22:55:54|Có ai mua giúp mình chai nước rửa chén không?
+ACC000074|2026-10-10 23:11:18|Mình mua giúp, tối đưa nhé.
+ACC000083|2026-10-11 14:36:45|Đúng rồi
+ACC000083|2026-10-11 14:36:57|Mình +1
+ACC000136|2026-10-11 14:37:06|Ai có tin gì mới không?
+ACC000083|2026-10-11 14:37:09|Tuyệt vời!
+ACC000083|2026-10-11 14:37:21|Thật không đó?
+ACC000074|2026-10-11 14:37:28|Mai gặp nhé
+ACC000074|2026-10-11 14:37:38|Mình về trước nhé
+ACC000083|2026-10-11 14:37:39|Mình đang trên đường tới
+ACC000083|2026-10-11 14:37:50|Cho mình xin chút thông tin với
+ACC000074|2026-10-11 14:38:01|Ổn rồi nhé
+ACC000111|2026-10-11 14:38:09|Ai có tin gì mới không?
+ACC000111|2026-10-11 14:38:15|Mọi người ăn cơm chưa?
+ACC000046|2026-10-11 14:38:25|Ai có tin gì mới không?
+ACC000083|2026-10-11 14:38:31|Mai gặp nhé
+ACC000074|2026-10-11 14:38:41|Ngủ ngon cả nhóm
+ACC000037|2026-10-11 14:38:47|Mình +1
+ACC000083|2026-10-11 14:38:56|Ủa vậy hả?
+ACC000037|2026-10-11 14:39:04|Mệt ghê
+ACC000074|2026-10-11 14:39:06|Hôm nay mưa mà vẫn đi à?
+ACC000083|2026-10-11 14:39:11|Có ai online không?
+ACC000083|2026-10-11 14:39:20|Haha cười đau bụng
+ACC000083|2026-10-11 14:39:32|Cảm ơn cả nhóm đã giúp mình
+ACC000046|2026-10-11 14:39:41|Đã nhận được rồi nhé
+ACC000083|2026-10-11 16:57:14|Chúc mừng sinh nhật Huy nhé!
+ACC000136|2026-10-11 16:59:22|Sinh nhật vui vẻ nha Huy!
+ACC000111|2026-10-11 17:00:42|Chúc Huy luôn xinh đẹp, học giỏi.
+ACC000037|2026-10-11 17:03:43|Cảm ơn mọi người nhiều lắm.
+ACC000083|2026-10-11 17:05:16|Cuối tuần mình tổ chức ăn mừng nhé.
+ACC000037|2026-10-11 17:07:25|Hay quá, mình mời cả nhóm luôn.
+ACC000074|2026-10-11 19:05:04|Để mình kiểm tra lại rồi báo
+ACC000111|2026-10-11 19:09:27|Ai biết quán nào ngon giới thiệu mình với
+ACC000083|2026-10-11 19:13:06|Thật không đó?
+ACC000074|2026-10-11 19:15:23|Có ai online không?
+ACC000136|2026-10-11 19:16:18|Thật không đó?
+ACC000083|2026-10-12 09:49:55|Tối nay có ai online không?
+ACC000136|2026-10-12 09:52:08|Có mình.
+ACC000111|2026-10-12 09:54:26|Mình cũng vậy.
+ACC000083|2026-10-12 09:55:19|Gọi video nói chuyện chút nhé.
+ACC000136|2026-10-12 09:56:05|Ok, 9 giờ.
+ACC000111|2026-10-12 09:58:14|Chờ mình tắm xong đã.
+ACC000083|2026-10-12 14:27:02|Tuần sau dọn phòng lớn nhé mọi người.
+ACC000046|2026-10-12 14:29:20|Được, thứ ba nhé.
+ACC000111|2026-10-12 14:31:17|Mình lo phần lau cửa kính.
+ACC000136|2026-10-12 14:35:13|Mình dọn nhà vệ sinh.
+ACC000083|2026-10-12 14:36:51|Cảm ơn nhé.
+SYSTEM|2026-10-12 15:00:00|Nguyễn Tuấn Phúc đã thêm Tô Văn Phúc vào nhóm
+SYSTEM|2026-10-12 15:00:00|Nguyễn Minh Mai đã thêm Hoàng Thanh Sang vào nhóm
+SYSTEM|2026-10-12 15:00:00|Hoàng Thanh Sang đã thêm Đỗ Hoàng Long vào nhóm
+SYSTEM|2026-10-12 15:00:00|Nguyễn Minh Mai đã thêm Nguyễn Kim Thủy vào nhóm
+ACC000009|2026-10-12 19:57:34|Trưa nay ăn gì mọi người?
+ACC000111|2026-10-12 20:38:43|Cơm tấm đi, trời nóng ăn nhẹ thôi.
+ACC000088|2026-10-12 20:40:49|Mình thích phở hơn.
+ACC000037|2026-10-12 20:53:26|Phiếu bầu: bún chả +1.
+ACC000009|2026-10-12 20:55:50|Vậy chốt bún chả, 8 giờ tối gặp ở cổng.
+ACC000111|2026-10-12 21:27:02|Ok, mình tới đúng giờ.
+ACC000083|2026-10-12 21:35:06|Để mình kiểm tra lại rồi báo
+ACC000009|2026-10-12 21:35:11|Haha cười đau bụng
+ACC000136|2026-10-12 21:35:23|Chuẩn rồi
+ACC000088|2026-10-12 21:35:35|Mai gặp nhé
+ACC000037|2026-10-12 21:35:40|Trời nóng quá
+ACC000074|2026-10-12 21:35:45|Nhớ mang theo nhé
+ACC000019|2026-10-12 21:35:47|Okela mọi người
+ACC000046|2026-10-12 21:35:57|Vậy chốt nhé
+ACC000088|2026-10-12 21:36:03|Mình vừa tới nơi
+ACC000009|2026-10-12 21:36:04|Chuẩn rồi
+ACC000083|2026-10-12 21:36:07|Đúng rồi
+ACC000019|2026-10-12 21:36:16|Quá tuyệt
+ACC000052|2026-10-12 21:36:19|Nghe hợp lý đó
+ACC000037|2026-10-12 21:36:27|Nhớ mang theo nhé
+ACC000074|2026-10-12 21:36:31|Cảm ơn cả nhóm đã giúp mình
+ACC000074|2026-10-12 21:36:39|Chuẩn rồi
+ACC000083|2026-10-12 21:36:45|Cho mình xin chút thông tin với
+ACC000009|2026-10-12 21:36:56|Mình đang bận chút, lát nói tiếp
+ACC000088|2026-10-12 21:36:59|Thật không đó?
+ACC000136|2026-10-12 21:37:05|Mọi người ăn cơm chưa?
+ACC000088|2026-10-12 21:37:14|Ừ, mình nhớ rồi
+ACC000009|2026-10-12 21:37:16|Quá tuyệt
+ACC000136|2026-10-12 21:37:21|Mình đang bận chút, lát nói tiếp
+ACC000083|2026-10-12 21:37:28|Ừ, mình nhớ rồi
+ACC000037|2026-10-12 21:37:30|Đúng rồi
+ACC000046|2026-10-12 21:47:47|Có ai biết bài này làm sao không?
+ACC000083|2026-10-12 21:49:06|Bài nào vậy?
+ACC000046|2026-10-12 21:50:48|Mình gửi ảnh rồi đó.
+ACC000074|2026-10-12 21:52:11|Bài này dùng đệ quy là ra.
+ACC000083|2026-10-12 21:52:24|Đúng rồi, mình giải thích thêm nhé.
+ACC000046|2026-10-12 21:54:50|Cảm ơn cả hai.
+ACC000037|2026-10-13 20:41:39|Chúc mừng nhé!
+ACC000074|2026-10-13 20:41:48|Giỏi quá bạn ơi
+ACC000136|2026-10-13 20:41:49|Đừng quên nha mọi người
+ACC000019|2026-10-13 20:41:57|Mọi người ăn cơm chưa?
+ACC000083|2026-10-13 20:42:06|Nhớ giữ sức khỏe nhé mọi người
+ACC000019|2026-10-13 20:42:18|Ai đi nữa không?
+ACC000083|2026-10-13 20:42:19|Haha cười đau bụng
+ACC000052|2026-10-13 20:42:30|Ừ, mình nhớ rồi
+ACC000074|2026-10-13 20:42:35|Mình đang bận chút, lát nói tiếp
+ACC000083|2026-10-13 20:42:37|Đừng quên nha mọi người
+ACC000136|2026-10-13 20:42:49|Ngủ ngon cả nhóm
+ACC000082|2026-10-13 20:42:51|Cho mình vào nhóm học với
+ACC000083|2026-10-13 20:42:53|Thật không đó?
+ACC000074|2026-10-13 20:43:02|Mình đang trên đường tới
+ACC000019|2026-10-13 20:43:14|Đã nhận được rồi nhé
+ACC000083|2026-10-13 20:43:26|Tuyệt vời!
+ACC000111|2026-10-13 20:43:35|Mình +1
+ACC000046|2026-10-13 20:43:39|Đúng rồi
+ACC000083|2026-10-13 20:43:45|Đúng rồi
+ACC000009|2026-10-13 20:43:51|Ổn rồi nhé
+ACC000019|2026-10-13 20:43:59|Ai có tin gì mới không?
+ACC000111|2026-10-14 09:20:31|Quá tuyệt
+ACC000088|2026-10-14 11:16:34|Cuối tuần này mọi người rảnh không, tụ tập nhé.
+ACC000009|2026-10-14 11:19:03|Mình rảnh chủ nhật.
+ACC000136|2026-10-14 11:21:09|Mình bận buổi sáng, chiều thì ổn.
+ACC000083|2026-10-14 11:21:36|Chiều thứ năm được không?
+ACC000088|2026-10-14 11:21:55|Chốt chiều thứ năm, địa điểm mình báo sau.
+ACC000009|2026-10-14 11:22:36|Ok.
+ACC000083|2026-10-14 13:00:55|Okela mọi người
+ACC000083|2026-10-14 13:03:07|Haha đúng là vậy
+ACC000009|2026-10-14 13:04:00|Mình cũng nghĩ thế
+ACC000009|2026-10-14 16:45:09|Tiền điện tháng này là 40 nghìn, chia đều nhé.
+ACC000083|2026-10-14 16:47:08|Mình chuyển ngay.
+ACC000111|2026-10-14 16:47:26|Cho mình xin số tài khoản.
+ACC000009|2026-10-14 16:50:58|Mình gửi lại rồi.
+ACC000082|2026-10-14 16:51:38|Đã chuyển.
+ACC000009|2026-10-14 17:28:51|Mọi người nhớ khóa cửa khi ra ngoài nhé.
+ACC000083|2026-10-14 17:31:10|Ok, xin lỗi hôm qua mình quên.
+ACC000088|2026-10-14 17:31:32|Mình sẽ nhắc nhau.
+ACC000074|2026-10-14 17:56:26|Có ai mua giúp mình chai nước rửa chén không?
+ACC000009|2026-10-14 18:00:30|Mình mua giúp, tối đưa nhé.
+ACC000074|2026-10-14 18:54:17|Mình về trước nhé
+ACC000083|2026-10-14 18:54:19|Đồng ý với bạn
+ACC000083|2026-10-14 18:54:20|Để mình kiểm tra lại rồi báo
+ACC000074|2026-10-14 18:54:25|Mình đang trên đường tới
+ACC000037|2026-10-14 18:54:32|Ai có tin gì mới không?
+ACC000136|2026-10-14 18:54:35|Mọi người ăn cơm chưa?
+ACC000083|2026-10-14 18:54:43|Ổn rồi nhé
+ACC000111|2026-10-14 18:54:49|Ổn rồi nhé
+ACC000083|2026-10-14 18:54:52|Mệt ghê
+ACC000083|2026-10-14 18:55:01|Cố lên mọi người
+ACC000111|2026-10-14 18:55:03|Đừng quên nha mọi người
+ACC000037|2026-10-14 18:55:08|Cho mình vào nhóm học với
+ACC000083|2026-10-14 19:07:11|Tiền điện tháng này là 40 nghìn, chia đều nhé.
+ACC000136|2026-10-14 19:09:14|Mình chuyển ngay.
+ACC000074|2026-10-14 19:11:45|Cho mình xin số tài khoản.
+ACC000083|2026-10-14 19:37:45|Mình gửi lại rồi.
+ACC000009|2026-10-14 19:38:19|Đã chuyển.
+ACC000083|2026-10-14 19:49:44|Giỏi quá bạn ơi
+ACC000083|2026-10-14 19:50:28|Cho mình vào nhóm học với
+ACC000083|2026-10-14 19:53:41|Hẹn mọi người cuối tuần
+ACC000019|2026-10-14 19:54:02|Vậy chốt nhé
+ACC000083|2026-10-14 19:54:32|Ừ, mình nhớ rồi
+ACC000083|2026-10-14 20:26:42|Tuần sau dọn phòng lớn nhé mọi người.
+ACC000046|2026-10-14 20:30:34|Được, thứ bảy nhé.
+ACC000082|2026-10-14 20:31:23|Mình lo phần lau cửa kính.
+ACC000009|2026-10-14 20:31:49|Mình dọn nhà vệ sinh.
+ACC000083|2026-10-14 20:44:31|Cảm ơn nhé.
+ACC000009|2026-10-15 11:00:32|Mọi người ăn cơm chưa?
+ACC000083|2026-10-15 21:09:32|Tối nay ai nấu cơm vậy?
+ACC000046|2026-10-15 21:10:48|Mình nấu, mọi người rửa chén nhé.
+ACC000037|2026-10-15 21:11:22|Ok, mình rửa.
+ACC000052|2026-10-15 21:11:30|Mình quét nhà.
+ACC000083|2026-10-15 21:13:34|Chia việc rõ ràng, tuyệt vời.
+ACC000009|2026-10-15 21:21:44|Có ai online không?
+ACC000046|2026-10-16 08:24:16|Tuần sau dọn phòng lớn nhé mọi người.
+ACC000136|2026-10-16 08:28:05|Được, thứ ba nhé.
+ACC000111|2026-10-16 08:33:23|Mình lo phần lau cửa kính.
+ACC000037|2026-10-16 08:35:47|Mình dọn nhà vệ sinh.
+ACC000046|2026-10-16 08:41:07|Cảm ơn nhé.
+SYSTEM|2026-10-16 11:39:45|Nguyễn Cẩm Nhàn đã xóa Lâm Ngọc Hân khỏi nhóm
+ACC000009|2026-10-16 12:22:16|Hôm nay mưa mà vẫn đi à?
+ACC000009|2026-10-16 12:23:44|Mình +1
+ACC000074|2026-10-16 13:22:39|Nay trời đẹp, mọi người đi dạo không?
+ACC000083|2026-10-16 13:24:20|Đi chứ, mình đang chán.
+ACC000088|2026-10-16 13:26:28|Mình đang ở nhà, 15 phút nữa tới.
+ACC000074|2026-10-16 13:27:25|Gặp ở công viên nhé.
+ACC000083|2026-10-16 13:33:22|Ok.
+ACC000082|2026-10-16 13:49:13|Tuyệt vời!
+ACC000088|2026-10-16 13:51:51|Lần sau mình rủ thêm người nhé
+ACC000037|2026-10-16 13:52:49|Để mình kiểm tra lại rồi báo
+ACC000037|2026-10-16 13:54:25|Mình +1
+ACC000111|2026-10-16 16:11:10|Mệt ghê
+ACC000088|2026-10-16 16:11:13|Mình cũng nghĩ thế
+ACC000009|2026-10-16 16:11:23|Đã nhận được rồi nhé
+ACC000009|2026-10-16 16:11:32|haha
+ACC000037|2026-10-16 16:11:33|Giỏi quá bạn ơi
+ACC000111|2026-10-16 16:11:37|Ai đi nữa không?
+ACC000019|2026-10-16 16:11:49|Ngủ ngon cả nhóm
+ACC000083|2026-10-16 16:11:50|Hôm nay mưa mà vẫn đi à?
+ACC000074|2026-10-16 16:11:58|Đừng quên nha mọi người
+ACC000136|2026-10-16 16:12:03|Hôm nay mưa mà vẫn đi à?
+ACC000088|2026-10-16 16:12:05|Thật không đó?
+ACC000083|2026-10-16 16:12:16|Nhớ giữ sức khỏe nhé mọi người
+ACC000083|2026-10-16 16:12:18|Mọi người ăn cơm chưa?
+ACC000083|2026-10-16 16:12:24|Thật không đó?
+ACC000083|2026-10-16 16:12:25|Cảm ơn nhé
+ACC000088|2026-10-16 16:12:35|Mình về trước nhé
+ACC000083|2026-10-16 16:12:44|Cho mình xin chút thông tin với
+ACC000019|2026-10-16 16:12:48|haha
+ACC000037|2026-10-16 16:12:58|Ai biết quán nào ngon giới thiệu mình với
+ACC000088|2026-10-16 16:13:05|Mệt ghê
+ACC000136|2026-10-16 16:13:06|Mình về trước nhé
+ACC000136|2026-10-16 16:13:14|Haha đúng là vậy
+ACC000037|2026-10-16 16:13:19|haha
+ACC000009|2026-10-16 16:13:21|Ai có tin gì mới không?
+ACC000083|2026-10-16 16:13:25|Ổn rồi nhé
+ACC000019|2026-10-16 16:13:31|Ngủ ngon cả nhóm
+ACC000083|2026-10-16 18:16:14|Mình đang trên đường tới
+ACC000082|2026-10-16 18:18:02|Mình đang trên đường tới
+ACC000136|2026-10-16 19:35:52|Mình đi ngủ trước nhé
+ACC000083|2026-10-16 19:35:57|Cho mình vào nhóm học với
+ACC000019|2026-10-16 19:36:09|Mọi người ăn cơm chưa?
+ACC000009|2026-10-16 19:36:14|Thật không đó?
+ACC000052|2026-10-16 19:36:19|Lần sau mình rủ thêm người nhé
+ACC000083|2026-10-16 19:36:25|Ai biết quán nào ngon giới thiệu mình với
+ACC000083|2026-10-16 19:36:37|haha
+ACC000136|2026-10-16 19:36:42|Mình +1
+ACC000083|2026-10-16 19:36:52|Cố lên mọi người
+ACC000082|2026-10-16 19:36:58|Ủa vậy hả?
+ACC000083|2026-10-16 19:37:03|Haha cười đau bụng
+ACC000083|2026-10-16 19:37:05|Hẹn mọi người cuối tuần
+ACC000009|2026-10-16 19:37:15|Ủa vậy hả?
+ACC000009|2026-10-16 19:37:16|Haha đúng là vậy
+ACC000009|2026-10-16 19:37:28|Đúng rồi
+ACC000083|2026-10-16 19:45:31|Ừ, mình nhớ rồi
+ACC000088|2026-10-16 19:45:35|Ai biết quán nào ngon giới thiệu mình với
+ACC000083|2026-10-16 19:45:40|Mình đi ngủ trước nhé
+ACC000074|2026-10-16 19:45:45|Mệt ghê
+ACC000083|2026-10-16 19:45:56|Nghe hợp lý đó
+ACC000083|2026-10-16 19:46:05|Mọi người ăn cơm chưa?
+ACC000083|2026-10-16 19:46:08|Mai gặp nhé
+ACC000136|2026-10-16 19:46:14|Thật không đó?
+ACC000083|2026-10-16 19:46:24|Đừng quên nha mọi người
+ACC000009|2026-10-16 19:46:35|Chúc mừng nhé!
+ACC000019|2026-10-16 19:46:36|Đúng rồi
+ACC000082|2026-10-16 19:46:38|Ủa vậy hả?
+ACC000088|2026-10-16 19:46:39|Hẹn mọi người cuối tuần
+ACC000074|2026-10-16 19:46:50|Mình đang trên đường tới
+ACC000136|2026-10-16 19:47:02|Hôm nay vui thật
+ACC000083|2026-10-16 19:47:06|Mai gặp nhé
+ACC000083|2026-10-16 19:47:07|Ai đi nữa không?
+ACC000019|2026-10-16 19:47:17|Đã nhận được rồi nhé
+ACC000009|2026-10-16 19:47:28|Để mình kiểm tra lại rồi báo
+ACC000083|2026-10-16 19:47:29|Haha cười đau bụng
+ACC000083|2026-10-16 19:47:30|Ổn rồi nhé
+ACC000083|2026-10-16 20:02:53|Chuẩn rồi
+ACC000074|2026-10-16 20:03:53|Hẹn mọi người cuối tuần
+ACC000088|2026-10-16 20:30:05|Nay trời đẹp, mọi người đi dạo không?
+ACC000083|2026-10-16 20:32:43|Đi chứ, mình đang chán.
+ACC000052|2026-10-16 20:32:58|Mình đang ở nhà, 15 phút nữa tới.
+ACC000088|2026-10-16 21:12:22|Gặp ở công viên nhé.
+ACC000083|2026-10-16 21:12:53|Ok.
+ACC000136|2026-10-16 21:21:57|Cuối tuần này mọi người rảnh không, tụ tập nhé.
+ACC000037|2026-10-16 21:23:41|Mình rảnh thứ hai.
+ACC000083|2026-10-16 21:30:35|Mình bận buổi sáng, chiều thì ổn.
+ACC000009|2026-10-16 21:32:34|Chiều thứ bảy được không?
+ACC000136|2026-10-16 21:35:09|Chốt chiều chủ nhật, địa điểm mình báo sau.
+ACC000037|2026-10-16 21:39:10|Ok.
+ACC000111|2026-10-16 21:52:06|Chúc mừng nhé!
+ACC000111|2026-10-16 21:52:11|Ai có tin gì mới không?
+ACC000009|2026-10-16 21:52:14|Cho mình vào nhóm học với
+ACC000088|2026-10-16 21:52:15|Cho mình xin chút thông tin với
+ACC000088|2026-10-16 21:52:20|Mọi người ăn cơm chưa?
+ACC000088|2026-10-16 21:52:25|Mình về trước nhé
+ACC000083|2026-10-16 21:52:36|Cho mình xin chút thông tin với
+ACC000083|2026-10-16 21:52:48|Đúng rồi
+ACC000083|2026-10-16 21:52:50|Mình sẽ cập nhật sau
+ACC000083|2026-10-16 21:52:52|Có ai online không?
+ACC000009|2026-10-16 21:52:58|Đã nhận được rồi nhé
+ACC000009|2026-10-16 21:53:08|Ai có tin gì mới không?
+ACC000083|2026-10-16 21:53:13|Vậy chốt nhé
+ACC000083|2026-10-16 21:53:14|Ừ, mình nhớ rồi
+ACC000083|2026-10-16 22:01:14|Danh sách việc cần làm: 1 | chuẩn bị tài liệu; 2 | liên hệ địa điểm; 3 | chốt thời gian; 4 | phân công người phụ trách. Ai nhận việc nào nhắn số thứ tự giúp mình.
+ACC000083|2026-10-16 23:10:12|Nhóm mình có ai làm slide giúp phần cuối không?
+ACC000009|2026-10-16 23:11:46|Để mình làm.
+ACC000083|2026-10-16 23:12:54|Cảm ơn Long, mình gửi nội dung rồi nhé.
+ACC000009|2026-10-16 23:14:14|Nhận rồi, tối mình làm xong.
+ACC000088|2026-10-16 23:15:17|Mình soát lỗi chính tả giúp.
+ACC000083|2026-10-16 23:17:37|Quá tuyệt.
+ACC000083|2026-10-20 06:01:10|Mình +1
+ACC000019|2026-10-20 06:01:22|Vậy chốt nhé
+ACC000083|2026-10-20 06:01:23|Hôm nay mưa mà vẫn đi à?
+ACC000019|2026-10-20 06:01:31|Nhớ giữ sức khỏe nhé mọi người
+ACC000083|2026-10-20 06:01:40|Mình về trước nhé
+ACC000074|2026-10-20 06:01:52|Mình +1
+ACC000083|2026-10-20 06:02:02|Cho mình vào nhóm học với
+ACC000083|2026-10-20 06:02:13|Tuyệt vời!
+ACC000088|2026-10-20 06:02:14|Ai có tin gì mới không?
+ACC000088|2026-10-20 06:02:20|Ai biết quán nào ngon giới thiệu mình với
+ACC000136|2026-10-20 22:05:38|Ai đi nữa không?
+ACC000037|2026-10-20 22:07:13|Đồng ý với bạn
+ACC000074|2026-10-20 22:31:03|Cố lên mọi người
+ACC000083|2026-10-20 22:33:12|Cho mình vào nhóm học với
+ACC000083|2026-10-20 22:33:56|Cho mình xin chút thông tin với
+ACC000083|2026-10-21 10:54:13|Tuần sau dọn phòng lớn nhé mọi người.
+ACC000082|2026-10-21 10:59:18|Được, chủ nhật nhé.
+ACC000019|2026-10-21 11:00:27|Mình lo phần lau cửa kính.
+ACC000009|2026-10-21 11:01:57|Mình dọn nhà vệ sinh.
+ACC000083|2026-10-21 11:02:40|Cảm ơn nhé.
+ACC000009|2026-10-21 11:28:46|Hẹn mọi người cuối tuần
+ACC000083|2026-10-21 11:28:58|Chuẩn rồi
+ACC000083|2026-10-21 11:29:08|haha
+ACC000009|2026-10-21 11:29:14|Ngủ ngon cả nhóm
+ACC000083|2026-10-21 11:29:21|Nhớ mang theo nhé
+ACC000083|2026-10-21 11:29:26|Ai đi nữa không?
+ACC000009|2026-10-21 11:29:34|Trời nóng quá
+ACC000111|2026-10-21 11:29:38|Đúng rồi
+ACC000111|2026-10-21 11:29:48|Nhớ giữ sức khỏe nhé mọi người
+ACC000009|2026-10-21 11:29:54|Ổn rồi nhé
+ACC000088|2026-10-21 11:29:55|Mình sẽ cập nhật sau
+ACC000083|2026-10-21 11:30:00|Mình vừa tới nơi
+ACC000009|2026-10-21 11:30:01|Cố lên mọi người
+ACC000083|2026-10-21 11:30:08|Haha cười đau bụng
+ACC000037|2026-10-21 11:30:15|Đã nhận được rồi nhé
+ACC000009|2026-10-21 11:30:24|Mệt ghê
+ACC000083|2026-10-21 11:30:34|Quá tuyệt
+ACC000111|2026-10-21 11:30:40|Lần sau mình rủ thêm người nhé
+ACC000019|2026-10-21 11:30:45|Mình sẽ cập nhật sau
+ACC000136|2026-10-21 11:30:50|Đừng quên nha mọi người
+ACC000009|2026-10-21 11:30:54|Nhớ giữ sức khỏe nhé mọi người
+ACC000136|2026-10-21 11:31:04|Mình về trước nhé
+ACC000136|2026-10-21 11:31:15|Thật không đó?
+ACC000009|2026-10-21 11:31:17|Đã nhận được rồi nhé
+ACC000019|2026-10-21 11:31:29|Mình đi ngủ trước nhé
+ACC000083|2026-10-23 09:52:06|Tối nay ai nấu cơm vậy?
+ACC000136|2026-10-23 09:52:49|Mình nấu, mọi người rửa chén nhé.
+ACC000009|2026-10-23 09:53:10|Ok, mình rửa.
+ACC000088|2026-10-23 09:59:16|Mình quét nhà.
+ACC000083|2026-10-23 10:00:24|Chia việc rõ ràng, tuyệt vời.
+ACC000037|2026-10-24 08:45:42|Tiền điện tháng này là 70 nghìn, chia đều nhé.
+ACC000009|2026-10-24 08:46:32|Mình chuyển ngay.
+ACC000083|2026-10-24 08:47:24|Cho mình xin số tài khoản.
+ACC000037|2026-10-24 08:48:56|Mình gửi lại rồi.
+ACC000111|2026-10-24 08:50:40|Đã chuyển.
+SYSTEM|2026-10-24 19:06:32|Tô Văn Phúc đã rời nhóm

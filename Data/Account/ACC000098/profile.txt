@@ -1,0 +1,14 @@
+id=ACC000098
+username=lampk75
+password=4c616d403536363572
+full_name=Phan Khánh Lam
+birthday=12-01-1998
+gender=Female
+bio=Mỗi ngày là một cơ hội mới.
+created_at=2026-09-01
+status=LOCKED
+residence=Đà Nẵng
+hometown=Hà Tĩnh
+school=
+workplace=Samsung Việt Nam
+hobbies=Bảo mật thông tin;Chơi eSports

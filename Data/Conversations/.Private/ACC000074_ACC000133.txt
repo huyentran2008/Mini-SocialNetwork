@@ -1,0 +1,18 @@
+ACC000133|2026-10-13 03:47:01|Năm nay bạn về quê ăn Tết không?
+ACC000074|2026-10-13 03:52:36|Có, mình đặt vé tàu rồi.
+ACC000133|2026-10-13 03:55:00|Mình còn chưa mua được vé.
+ACC000074|2026-10-13 03:58:55|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000133|2026-10-13 03:59:38|Ok, mình thử xem.
+ACC000074|2026-10-13 04:03:33|Chúc bạn sớm có vé nhé.
+ACC000074|2026-10-22 10:04:58|Hôm nay mình hơi buồn.
+ACC000133|2026-10-22 10:07:38|Có chuyện gì vậy?
+ACC000074|2026-10-22 10:07:48|Mình bị điểm thấp mà không biết lý do.
+ACC000133|2026-10-22 10:08:32|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000074|2026-10-22 10:09:00|Ừ, mình sẽ gặp thầy tuần này.
+ACC000133|2026-10-22 10:13:30|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000074|2026-10-23 12:15:12|Chào bạn, lâu rồi không nói chuyện.
+ACC000133|2026-10-23 12:15:53|Chào bạn, dạo này bạn thế nào?
+ACC000074|2026-10-23 12:20:47|Mình ổn, bận học và làm thêm.
+ACC000133|2026-10-23 12:27:07|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000074|2026-10-23 12:54:08|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000133|2026-10-23 12:56:29|Được, tới lúc đó nhắn mình nhé.

@@ -1,0 +1,15 @@
+ACC000011|2026-10-15 05:18:28|Hôm nay mình hơi buồn.
+ACC000002|2026-10-15 05:21:54|Có chuyện gì vậy?
+ACC000011|2026-10-15 05:27:30|Mình bị điểm thấp mà không biết lý do.
+ACC000002|2026-10-15 05:28:22|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000011|2026-10-15 05:28:51|Ừ, mình sẽ gặp thầy tuần này.
+ACC000002|2026-10-15 05:34:57|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000011|2026-10-18 15:13:16|Haha bạn vui tính thật
+ACC000011|2026-10-18 15:13:25|Mình đang bận chút, lát nhắn lại nhé
+ACC000002|2026-10-18 15:14:29|Okela
+ACC000011|2026-10-21 22:28:30|Mình mới mua chiếc xe đạp.
+ACC000002|2026-10-21 22:29:22|Wow, xe đẹp không?
+ACC000011|2026-10-21 22:30:25|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000002|2026-10-21 22:32:21|Cuối tuần đạp xe quanh hồ nhé.
+ACC000011|2026-10-21 23:12:36|Hay đó, chốt luôn.
+ACC000002|2026-10-21 23:13:30|Nhớ mang nước.

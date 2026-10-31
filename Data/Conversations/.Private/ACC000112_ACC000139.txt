@@ -1,0 +1,50 @@
+ACC000139|2026-10-23 08:43:50|Bạn có rảnh để mình hỏi chút về môn giải tích không?
+ACC000112|2026-10-23 08:45:09|Có, bạn hỏi đi.
+ACC000139|2026-10-23 08:45:20|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000112|2026-10-23 08:46:15|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000139|2026-10-23 08:47:10|Nghe hợp lý, cảm ơn bạn.
+ACC000112|2026-10-23 08:49:05|Cần gì cứ nhắn mình.
+ACC000112|2026-10-23 11:18:25|Năm nay bạn về quê ăn Tết không?
+ACC000139|2026-10-23 11:20:16|Có, mình đặt vé tàu rồi.
+ACC000112|2026-10-23 12:10:12|Mình còn chưa mua được vé.
+ACC000139|2026-10-23 12:10:49|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000112|2026-10-23 12:11:24|Ok, mình thử xem.
+ACC000139|2026-10-23 12:12:24|Chúc bạn sớm có vé nhé.
+ACC000112|2026-10-23 15:04:20|Cuối tuần này đi Huế không?
+ACC000139|2026-10-23 15:06:46|Hay đó, đi mấy người?
+ACC000112|2026-10-23 15:38:35|Khoảng 30 người, tự đi xe máy.
+ACC000139|2026-10-23 15:41:45|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000112|2026-10-23 15:42:43|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000139|2026-10-23 16:15:05|Ok, vậy chốt luôn.
+ACC000139|2026-10-23 21:09:55|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000112|2026-10-23 21:12:15|Haha, bé làm gì thế?
+ACC000139|2026-10-23 21:17:01|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000112|2026-10-23 21:17:41|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000139|2026-10-23 21:56:44|Đợi chút mình chụp.
+ACC000112|2026-10-23 22:02:57|Đúng là chủ nào mèo nấy.
+ACC000139|2026-10-23 22:51:10|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000112|2026-10-23 22:52:10|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000139|2026-10-23 22:53:17|Cảm ơn, mình hay quên lắm.
+ACC000112|2026-10-23 22:57:06|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000139|2026-10-23 22:57:38|Ừ, mình in hai bản.
+ACC000112|2026-10-23 22:58:35|Giỏi.
+ACC000112|2026-10-24 10:14:04|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000139|2026-10-24 10:16:25|Haha, bé làm gì thế?
+ACC000112|2026-10-24 10:16:35|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000139|2026-10-24 10:18:46|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000112|2026-10-24 10:19:51|Đợi chút mình chụp.
+ACC000139|2026-10-24 10:20:45|Đúng là chủ nào mèo nấy.
+ACC000112|2026-10-24 12:37:04|Nay trời mưa to ghê.
+ACC000139|2026-10-24 12:37:12|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000112|2026-10-24 12:38:37|Bạn có áo mưa không?
+ACC000139|2026-10-24 12:42:03|Không, chắc chờ tạnh.
+ACC000112|2026-10-24 12:43:42|Mình ghé đón nhé, mình đang gần đó.
+ACC000139|2026-10-24 12:46:34|Cảm ơn bạn nhiều lắm.
+ACC000139|2026-10-24 13:12:41|Mệt quá hôm nay
+ACC000112|2026-10-24 13:13:14|Được luôn
+ACC000139|2026-10-24 13:15:49|Ừ
+ACC000112|2026-10-24 13:24:11|Cuối tuần rảnh không?
+ACC000112|2026-10-24 13:25:31|Đang làm gì đó?
+ACC000112|2026-10-24 13:29:16|Mình biết rồi
+ACC000112|2026-10-24 23:35:12|Sao git của mình báo conflict hoài vậy?
+ACC000139|2026-10-24 23:38:29|Bạn có pull trước khi push không?

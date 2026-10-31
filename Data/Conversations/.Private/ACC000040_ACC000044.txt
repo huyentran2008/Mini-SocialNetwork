@@ -1,0 +1,12 @@
+ACC000040|2026-10-24 12:38:31|Hôm nay bạn có đi học không?
+ACC000044|2026-10-24 12:41:00|Có, mình đang trên đường.
+ACC000040|2026-10-24 13:23:51|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000044|2026-10-24 13:28:31|Ok, giữ rồi.
+ACC000040|2026-10-24 13:31:23|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000044|2026-10-24 13:37:22|Nhanh lên, sắp vào học rồi.
+ACC000040|2026-10-24 18:33:15|Bạn biết laptop nào học lập trình ổn không?
+ACC000044|2026-10-24 18:38:39|Tầm giá bao nhiêu?
+ACC000040|2026-10-24 18:40:21|Khoảng 15 đến 20 triệu.
+ACC000044|2026-10-24 18:46:13|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000040|2026-10-24 18:46:52|Cảm ơn nhiều, mình đang rối quá.
+ACC000044|2026-10-24 18:50:36|Bạn xem rồi nhắn mình, mình tư vấn thêm.

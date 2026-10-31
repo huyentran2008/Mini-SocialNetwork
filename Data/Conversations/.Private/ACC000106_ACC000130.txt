@@ -1,0 +1,15 @@
+ACC000130|2026-09-18 18:53:46|Cuối tuần này đi xem phim không?
+ACC000106|2026-09-18 18:54:25|Phim gì vậy?
+ACC000130|2026-09-18 18:55:49|Phim mới chiếu, nghe nói hay lắm.
+ACC000106|2026-09-18 18:56:19|Mình đang rảnh thứ ba, đi buổi chiều nhé.
+ACC000130|2026-09-18 19:00:28|Ok, mình đặt vé luôn.
+ACC000106|2026-09-18 19:01:18|Nhớ chọn ghế giữa nha.
+ACC000130|2026-09-18 19:07:27|Yên tâm.
+ACC000130|2026-10-24 19:14:46|Vừa về tới nhà
+ACC000130|2026-10-24 19:15:36|Haha
+ACC000130|2026-10-24 20:03:03|Sinh nhật vui vẻ nhé Thuận!
+ACC000106|2026-10-24 20:04:42|Cảm ơn Nhật nha, nhớ cả sinh nhật mình luôn.
+ACC000130|2026-10-24 20:11:11|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000106|2026-10-24 20:11:45|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000130|2026-10-24 20:15:48|8 giờ tối nhé.
+ACC000106|2026-10-24 20:17:14|Ok, hẹn gặp.

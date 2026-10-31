@@ -1,0 +1,63 @@
+ACC000109|2026-09-22 14:13:13|Okela
+ACC000109|2026-09-22 14:15:44|Haha
+ACC000109|2026-09-22 14:19:38|Mệt quá hôm nay
+ACC000116|2026-09-22 14:23:03|Ừ đúng rồi
+ACC000109|2026-09-22 14:26:18|Cuối tuần rảnh không?
+ACC000116|2026-09-28 16:35:05|Được luôn
+ACC000116|2026-09-28 16:57:00|Mai gặp nhé
+ACC000109|2026-09-28 16:58:53|Rồi, mình nhớ rồi
+ACC000116|2026-09-30 21:15:40|Dạo này mình áp lực thi quá.
+ACC000109|2026-09-30 21:16:05|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000116|2026-09-30 21:16:22|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000109|2026-09-30 21:17:06|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000116|2026-09-30 21:56:55|Nghe có vẻ ổn, mình thử.
+ACC000109|2026-09-30 22:26:10|Cố lên, có gì cần cứ nhắn mình.
+ACC000109|2026-10-03 09:46:58|Ok
+ACC000109|2026-10-03 09:48:46|Để mình xem
+ACC000116|2026-10-03 09:52:51|Được luôn
+ACC000116|2026-10-04 21:50:31|Mai gặp nhé
+ACC000116|2026-10-04 21:52:39|Thôi mình đi ăn cơm đã
+ACC000116|2026-10-04 21:53:51|Ừ đúng rồi
+ACC000116|2026-10-04 22:56:43|Sao git của mình báo conflict hoài vậy?
+ACC000109|2026-10-04 23:00:10|Bạn có pull trước khi push không?
+ACC000116|2026-10-04 23:01:57|Chắc là không.
+ACC000109|2026-10-04 23:03:23|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000116|2026-10-04 23:07:18|Làm xong rồi, cảm ơn bạn.
+ACC000109|2026-10-04 23:08:23|Từ nay nhớ pull trước nhé.
+ACC000116|2026-10-07 21:50:52|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000109|2026-10-07 21:52:16|Mình mới xong nửa tài liệu, hơi lo.
+ACC000116|2026-10-07 21:58:28|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000109|2026-10-07 21:59:00|Hay đó, 8 giờ nhé.
+ACC000116|2026-10-07 22:00:15|Ok, mình chuẩn bị sẵn đề cương.
+ACC000109|2026-10-07 22:01:26|Cảm ơn Vinh, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000109|2026-10-10 08:01:39|Tối nay đi ăn hủ tiếu không?
+ACC000116|2026-10-10 08:39:57|Đi chứ! Quán nào?
+ACC000109|2026-10-10 08:40:24|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000116|2026-10-10 08:40:46|Mấy giờ?
+ACC000109|2026-10-10 08:41:29|7 giờ nhé.
+ACC000116|2026-10-10 08:43:51|Ok, mình rủ thêm một bạn nữa được không?
+ACC000109|2026-10-10 08:45:46|Được chứ, càng đông càng vui.
+ACC000109|2026-10-14 13:33:04|Bạn ngủ chưa?
+ACC000116|2026-10-14 13:35:44|Chưa, đang làm bài tập.
+ACC000109|2026-10-14 13:37:26|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000116|2026-10-14 13:39:30|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000109|2026-10-14 13:40:34|Ngủ ngon nha.
+ACC000116|2026-10-14 14:24:17|Ngủ ngon.
+ACC000109|2026-10-16 21:57:02|Bạn xem giúp mình CV được không?
+ACC000116|2026-10-16 21:58:44|Gửi mình xem nhé.
+ACC000109|2026-10-16 22:19:59|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000116|2026-10-16 22:22:22|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000109|2026-10-16 22:26:04|Hợp lý, mình sửa luôn.
+ACC000116|2026-10-16 22:52:43|Sửa xong gửi mình xem lại nhé.
+ACC000109|2026-10-22 18:38:05|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000116|2026-10-22 18:39:00|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000109|2026-10-22 18:40:48|Giá thế nào?
+ACC000116|2026-10-22 18:40:56|Khoảng 300 nghìn một ly.
+ACC000109|2026-10-22 18:41:46|Hợp lý đó, mai mình thử.
+ACC000116|2026-10-22 18:47:03|Mình cũng hay ngồi ở đó, gặp nhau nhé.
+ACC000116|2026-10-22 21:22:59|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000109|2026-10-22 21:24:48|Bạn chuẩn bị tới đâu rồi?
+ACC000116|2026-10-22 21:26:56|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000109|2026-10-22 21:27:49|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000116|2026-10-22 21:29:53|Cảm ơn Trí, mình sẽ cố.
+ACC000109|2026-10-22 21:33:58|Xong nhớ nhắn mình kết quả nhé.

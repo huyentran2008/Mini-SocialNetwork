@@ -1,0 +1,14 @@
+id=ACC000075
+username=lamnt39
+password=4c616d403536333274
+full_name=Nguyễn Thị Lam
+birthday=02-09-2003
+gender=Female
+bio=Thích nấu ăn và khám phá quán mới.
+created_at=2026-09-20
+status=ACTIVE
+residence=Thái Nguyên
+hometown=Thanh Hóa
+school=Cao đẳng Công nghiệp In
+workplace=
+hobbies=Nấu món Hàn;Làm trà sữa

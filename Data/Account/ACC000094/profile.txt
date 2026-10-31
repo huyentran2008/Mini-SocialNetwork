@@ -1,0 +1,14 @@
+id=ACC000094
+username=vanln19
+password=56616e403139393479
+full_name=Lê Ngọc Vân
+birthday=27-12-2005
+gender=Female
+bio=Kiên trì là chìa khóa.
+created_at=2026-10-06
+status=ACTIVE
+residence=Hà Nội
+hometown=Hà Nội
+school=Đại học Luật - ĐHQG Hà Nội
+workplace=MoMo
+hobbies=Chơi eSports

@@ -1,0 +1,18 @@
+ACC000118|2026-10-23 18:56:04|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000039|2026-10-23 18:57:51|Mình mới xong nửa tài liệu, hơi lo.
+ACC000118|2026-10-23 19:00:59|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000039|2026-10-23 19:01:32|Hay đó, 8 giờ nhé.
+ACC000118|2026-10-23 19:02:23|Ok, mình chuẩn bị sẵn đề cương.
+ACC000039|2026-10-23 19:07:47|Cảm ơn Tú, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000118|2026-10-24 10:07:41|Chỉ mình đường tới thư viện thành phố với.
+ACC000039|2026-10-24 10:19:13|Bạn đang ở đâu?
+ACC000118|2026-10-24 10:20:18|Mình đang ở gần cổng chợ.
+ACC000039|2026-10-24 10:22:16|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000118|2026-10-24 10:24:10|Mình thấy rồi, cảm ơn bạn nha.
+ACC000039|2026-10-24 10:27:32|Ok, đi cẩn thận.
+ACC000039|2026-10-24 18:37:16|Hôm nay bạn rảnh không?
+ACC000118|2026-10-24 18:41:11|Chiều mình rảnh, có chuyện gì vậy?
+ACC000039|2026-10-24 18:43:46|Đi uống trà đào nhé, lâu rồi không gặp.
+ACC000118|2026-10-24 18:44:34|Ok, 7 rưỡi mình qua đón bạn nha.
+ACC000039|2026-10-24 18:47:36|Được, mình chờ ở cổng.
+ACC000118|2026-10-24 18:49:08|Tới rồi nè, ra đi.

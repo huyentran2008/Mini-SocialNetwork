@@ -1,0 +1,19 @@
+ACC000003|2026-10-13 18:48:53|Cuối tuần này đi xem phim không?
+ACC000015|2026-10-13 18:49:37|Phim gì vậy?
+ACC000003|2026-10-13 18:52:17|Phim mới chiếu, nghe nói hay lắm.
+ACC000015|2026-10-13 18:54:12|Mình đang rảnh thứ bảy, đi buổi chiều nhé.
+ACC000003|2026-10-13 18:54:54|Ok, mình đặt vé luôn.
+ACC000015|2026-10-13 18:56:57|Nhớ chọn ghế giữa nha.
+ACC000003|2026-10-13 18:57:42|Yên tâm.
+ACC000003|2026-10-13 20:14:39|Sinh nhật vui vẻ nhé Nam!
+ACC000015|2026-10-13 20:17:17|Cảm ơn Bảo nha, nhớ cả sinh nhật mình luôn.
+ACC000003|2026-10-13 20:39:50|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000015|2026-10-13 20:40:04|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000003|2026-10-13 20:40:28|6 giờ tối nhé.
+ACC000015|2026-10-13 20:53:21|Ok, hẹn gặp.
+ACC000003|2026-10-20 22:31:57|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000015|2026-10-20 22:32:45|Mình mới xong nửa tài liệu, hơi lo.
+ACC000003|2026-10-20 22:33:36|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000015|2026-10-20 22:51:52|Hay đó, 8 giờ nhé.
+ACC000003|2026-10-20 22:56:47|Ok, mình chuẩn bị sẵn đề cương.
+ACC000015|2026-10-20 22:57:39|Cảm ơn Bảo, có bạn cùng ôn đỡ áp lực hẳn.

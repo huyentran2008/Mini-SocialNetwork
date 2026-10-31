@@ -1,0 +1,14 @@
+id=ACC000087
+username=quynhht74
+password=5175796e6840363039366b
+full_name=Hồ Thùy Quỳnh
+birthday=20-06-1997
+gender=Female
+bio=Không giỏi nhưng luôn cố gắng.
+created_at=2026-09-25
+status=ACTIVE
+residence=Sơn La
+hometown=TP. Hồ Chí Minh
+school=Cao đẳng Kỹ thuật Công nghệ Vạn Xuân
+workplace=
+hobbies=Phượt

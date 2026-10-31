@@ -1,0 +1,11 @@
+ACC000106|2026-10-19 17:29:19|Cuối tuần này đi Nha Trang không?
+ACC000128|2026-10-19 17:54:45|Hay đó, đi mấy người?
+ACC000106|2026-10-19 17:55:58|Khoảng 20 người, tự đi xe máy.
+ACC000128|2026-10-19 17:59:44|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000106|2026-10-19 18:02:34|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000128|2026-10-19 18:03:15|Ok, vậy chốt luôn.
+ACC000106|2026-10-19 23:27:35|Đang làm gì đó?
+ACC000106|2026-10-19 23:50:29|Tối nói chuyện tiếp nhé
+ACC000106|2026-10-19 23:55:43|Vậy hả?
+ACC000128|2026-10-20 00:25:32|Mệt quá hôm nay
+ACC000106|2026-10-20 00:27:18|Vừa về tới nhà

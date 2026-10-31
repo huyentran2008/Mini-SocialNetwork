@@ -1,0 +1,14 @@
+id=ACC000014
+username=nganhk72
+password=4e67616e40343238356d
+full_name=Huỳnh Kim Ngân
+birthday=26-03-2001
+gender=Female
+bio=Fan bóng đá chính hiệu.
+created_at=2026-10-12
+status=ACTIVE
+residence=Đà Nẵng
+hometown=Khánh Hòa
+school=Đại học Bách khoa - ĐHQG TP.HCM
+workplace=Tiki
+hobbies=Nấu ăn

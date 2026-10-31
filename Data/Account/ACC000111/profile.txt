@@ -1,0 +1,14 @@
+id=ACC000111
+username=phucnt21
+password=50687563403531323575
+full_name=Nguyễn Tuấn Phúc
+birthday=28-12-1999
+gender=Male
+bio=
+created_at=2026-09-08
+status=ACTIVE
+residence=Cà Mau
+hometown=
+school=
+workplace=ACB
+hobbies=Hackathon

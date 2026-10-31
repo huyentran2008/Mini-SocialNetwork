@@ -1,0 +1,143 @@
+ACC000138|2026-10-23 10:24:36|Bạn xem giúp mình CV được không?
+ACC000094|2026-10-23 10:28:37|Gửi mình xem nhé.
+ACC000138|2026-10-23 10:32:41|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000094|2026-10-23 10:32:56|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000138|2026-10-23 10:34:25|Hợp lý, mình sửa luôn.
+ACC000094|2026-10-23 10:35:25|Sửa xong gửi mình xem lại nhé.
+ACC000138|2026-10-23 14:00:05|Cuối tuần này đi Nha Trang không?
+ACC000094|2026-10-23 14:00:36|Hay đó, đi mấy người?
+ACC000138|2026-10-23 14:01:26|Khoảng 5 người, tự đi xe máy.
+ACC000094|2026-10-23 14:05:04|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000138|2026-10-23 14:06:04|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000094|2026-10-23 14:06:34|Ok, vậy chốt luôn.
+ACC000138|2026-10-23 17:13:18|Sao git của mình báo conflict hoài vậy?
+ACC000094|2026-10-23 17:38:59|Bạn có pull trước khi push không?
+ACC000138|2026-10-23 17:39:48|Chắc là không.
+ACC000094|2026-10-23 18:19:02|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000138|2026-10-23 18:21:05|Làm xong rồi, cảm ơn bạn.
+ACC000094|2026-10-23 18:21:46|Từ nay nhớ pull trước nhé.
+ACC000138|2026-10-23 22:14:42|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000094|2026-10-23 22:17:03|Chuyện nhỏ thôi mà.
+ACC000138|2026-10-23 22:17:13|Không có bạn chắc mình làm không kịp.
+ACC000094|2026-10-23 22:18:09|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000138|2026-10-23 22:19:53|Hôm nào mình mời bạn cơm gà nhé.
+ACC000094|2026-10-23 22:20:29|Vậy thì mình không từ chối đâu.
+ACC000138|2026-10-24 08:28:51|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000094|2026-10-24 08:29:40|Haha, bé làm gì thế?
+ACC000138|2026-10-24 08:30:05|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000094|2026-10-24 08:30:57|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000138|2026-10-24 08:31:56|Đợi chút mình chụp.
+ACC000094|2026-10-24 09:01:09|Đúng là chủ nào mèo nấy.
+ACC000094|2026-10-24 11:33:20|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000138|2026-10-24 11:34:20|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000094|2026-10-24 11:36:53|Mình thấy rồi, truy cập ngoài mảng.
+ACC000138|2026-10-24 11:37:51|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000094|2026-10-24 11:39:13|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000138|2026-10-24 11:39:43|Lỗi này ai cũng từng gặp thôi.
+ACC000094|2026-10-24 11:47:48|Ừ
+ACC000138|2026-10-24 11:47:57|Ừ
+ACC000094|2026-10-24 11:47:58|Mình đang bận chút, lát nhắn lại nhé
+ACC000138|2026-10-24 11:48:01|Mình đang bận chút, lát nhắn lại nhé
+ACC000138|2026-10-24 11:48:12|Được luôn
+ACC000138|2026-10-24 11:48:26|Mai gặp nhé
+ACC000138|2026-10-24 12:00:47|Sinh nhật vui vẻ nhé Vân!
+ACC000094|2026-10-24 12:01:33|Cảm ơn Vũ nha, nhớ cả sinh nhật mình luôn.
+ACC000138|2026-10-24 12:02:23|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000094|2026-10-24 12:03:15|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000138|2026-10-24 12:03:53|5 giờ chiều nhé.
+ACC000094|2026-10-24 12:04:13|Ok, hẹn gặp.
+ACC000094|2026-10-24 14:13:14|Rồi, mình nhớ rồi
+ACC000094|2026-10-24 14:13:19|Vậy hả?
+ACC000094|2026-10-24 14:13:24|Có gì báo mình nhé
+ACC000138|2026-10-24 14:13:32|Mai gặp nhé
+ACC000094|2026-10-24 14:13:42|Thôi mình đi ăn cơm đã
+ACC000138|2026-10-24 14:13:50|Để mình xem
+ACC000094|2026-10-24 14:14:00|Mình biết rồi
+ACC000094|2026-10-24 14:14:02|Ok
+ACC000138|2026-10-24 14:14:03|Okela
+ACC000094|2026-10-24 14:14:15|Nghe được đó
+ACC000138|2026-10-24 16:24:39|Bạn biết laptop nào học lập trình ổn không?
+ACC000094|2026-10-24 16:26:03|Tầm giá bao nhiêu?
+ACC000138|2026-10-24 16:27:40|Khoảng 15 đến 20 triệu.
+ACC000094|2026-10-24 16:30:01|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000138|2026-10-24 16:30:52|Cảm ơn nhiều, mình đang rối quá.
+ACC000094|2026-10-24 16:37:38|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000094|2026-10-24 17:32:41|Haha bạn vui tính thật
+ACC000138|2026-10-24 17:33:27|Mai gặp nhé
+ACC000094|2026-10-24 17:33:54|Đang làm gì đó?
+ACC000138|2026-10-24 17:37:23|Ok
+ACC000094|2026-10-24 19:26:22|Mình mới mua chiếc xe đạp.
+ACC000138|2026-10-24 19:28:48|Wow, xe đẹp không?
+ACC000094|2026-10-24 19:35:15|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000138|2026-10-24 19:36:01|Cuối tuần đạp xe quanh hồ nhé.
+ACC000094|2026-10-24 19:37:10|Hay đó, chốt luôn.
+ACC000138|2026-10-24 19:38:06|Nhớ mang nước.
+ACC000094|2026-10-24 20:01:46|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000138|2026-10-24 20:02:51|Mình mới xong nửa tài liệu, hơi lo.
+ACC000094|2026-10-24 20:03:35|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000138|2026-10-24 20:04:34|Hay đó, 8 giờ nhé.
+ACC000094|2026-10-24 20:05:48|Ok, mình chuẩn bị sẵn đề cương.
+ACC000138|2026-10-24 20:07:23|Cảm ơn Vân, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000138|2026-10-24 20:27:55|Cảm ơn nhé
+ACC000094|2026-10-24 20:30:02|Ừm, mình nghĩ vậy
+ACC000138|2026-10-24 20:38:31|Cuối tuần này đi xem phim không?
+ACC000094|2026-10-24 21:11:06|Phim gì vậy?
+ACC000138|2026-10-24 21:36:21|Phim mới chiếu, nghe nói hay lắm.
+ACC000094|2026-10-24 21:38:48|Mình đang rảnh thứ năm, đi buổi chiều nhé.
+ACC000138|2026-10-24 21:41:42|Ok, mình đặt vé luôn.
+ACC000094|2026-10-24 21:45:24|Nhớ chọn ghế giữa nha.
+ACC000138|2026-10-24 21:46:39|Yên tâm.
+ACC000138|2026-10-24 22:08:30|Ngủ ngon
+ACC000138|2026-10-24 22:09:07|Vậy hả?
+ACC000094|2026-10-24 22:12:02|Mình biết rồi
+ACC000138|2026-10-24 22:13:53|Đang làm gì đó?
+ACC000094|2026-10-24 22:18:53|Cuối tuần rảnh không?
+ACC000138|2026-10-24 22:28:21|Bạn có rảnh để mình hỏi chút về môn tiếng Anh không?
+ACC000094|2026-10-24 22:30:00|Có, bạn hỏi đi.
+ACC000138|2026-10-24 22:30:34|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000094|2026-10-24 22:33:58|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000138|2026-10-24 22:35:37|Nghe hợp lý, cảm ơn bạn.
+ACC000094|2026-10-24 22:35:59|Cần gì cứ nhắn mình.
+ACC000094|2026-10-24 22:44:49|Chào bạn, lâu rồi không nói chuyện.
+ACC000138|2026-10-24 22:46:21|Chào bạn, dạo này bạn thế nào?
+ACC000094|2026-10-24 22:50:49|Mình ổn, bận học và làm thêm.
+ACC000138|2026-10-24 22:51:38|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000094|2026-10-24 22:52:39|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000138|2026-10-24 22:54:30|Được, tới lúc đó nhắn mình nhé.
+ACC000094|2026-10-24 23:02:37|Tối nay đi ăn mì cay không?
+ACC000138|2026-10-24 23:03:21|Đi chứ! Quán nào?
+ACC000094|2026-10-24 23:04:52|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000138|2026-10-24 23:07:26|Mấy giờ?
+ACC000094|2026-10-24 23:08:30|5 giờ chiều nhé.
+ACC000138|2026-10-24 23:10:49|Ok, mình rủ thêm một bạn nữa được không?
+ACC000094|2026-10-24 23:12:25|Được chứ, càng đông càng vui.
+ACC000094|2026-10-24 23:20:23|Năm nay bạn về quê ăn Tết không?
+ACC000138|2026-10-24 23:21:20|Có, mình đặt vé tàu rồi.
+ACC000094|2026-10-24 23:21:58|Mình còn chưa mua được vé.
+ACC000138|2026-10-24 23:22:41|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000094|2026-10-24 23:24:10|Ok, mình thử xem.
+ACC000138|2026-10-24 23:28:00|Chúc bạn sớm có vé nhé.
+ACC000094|2026-10-24 23:36:44|Cuối tuần bạn làm gì?
+ACC000138|2026-10-24 23:43:02|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000094|2026-10-24 23:48:43|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000138|2026-10-24 23:51:59|Thật không? Ngại quá.
+ACC000094|2026-10-24 23:56:51|Ngại gì, mẹ mình quý bạn lắm.
+ACC000138|2026-10-25 00:37:11|Vậy mình qua nhé, cảm ơn bác.
+ACC000094|2026-10-25 00:45:04|Sao git của mình báo conflict hoài vậy?
+ACC000138|2026-10-25 01:07:28|Bạn có pull trước khi push không?
+ACC000094|2026-10-25 01:08:27|Chắc là không.
+ACC000138|2026-10-25 01:10:06|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000094|2026-10-25 01:15:27|Làm xong rồi, cảm ơn bạn.
+ACC000138|2026-10-25 01:16:08|Từ nay nhớ pull trước nhé.
+ACC000094|2026-10-25 01:24:10|Sinh nhật vui vẻ nhé Vũ!
+ACC000138|2026-10-25 01:24:42|Cảm ơn Vân nha, nhớ cả sinh nhật mình luôn.
+ACC000094|2026-10-25 01:50:23|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000138|2026-10-25 01:51:31|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000094|2026-10-25 01:55:38|5 giờ chiều nhé.
+ACC000138|2026-10-25 01:57:52|Ok, hẹn gặp.
+ACC000138|2026-10-25 02:51:40|Dạo này mình áp lực thi quá.
+ACC000094|2026-10-25 03:24:44|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000138|2026-10-25 03:25:17|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000094|2026-10-25 03:25:57|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000138|2026-10-25 03:28:43|Nghe có vẻ ổn, mình thử.
+ACC000094|2026-10-25 03:29:39|Cố lên, có gì cần cứ nhắn mình.

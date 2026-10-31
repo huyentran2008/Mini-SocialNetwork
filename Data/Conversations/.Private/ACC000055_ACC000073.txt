@@ -1,0 +1,6 @@
+ACC000055|2026-10-24 17:06:07|Cuối tuần này đi Đà Nẵng không?
+ACC000073|2026-10-24 17:09:58|Hay đó, đi mấy người?
+ACC000055|2026-10-24 17:11:44|Khoảng 10 người, tự đi xe máy.
+ACC000073|2026-10-24 17:13:30|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000055|2026-10-24 17:15:47|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000073|2026-10-24 17:18:10|Ok, vậy chốt luôn.

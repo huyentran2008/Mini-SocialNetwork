@@ -1,0 +1,21 @@
+ACC000041|2026-10-19 22:53:14|Ừ
+ACC000116|2026-10-19 22:54:54|Cảm ơn nhé
+ACC000116|2026-10-20 16:01:35|Cuối tuần này đi Hội An không?
+ACC000041|2026-10-20 16:05:00|Hay đó, đi mấy người?
+ACC000116|2026-10-20 16:08:25|Khoảng 15 người, tự đi xe máy.
+ACC000041|2026-10-20 16:08:38|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000116|2026-10-20 16:10:00|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000041|2026-10-20 16:10:30|Ok, vậy chốt luôn.
+ACC000041|2026-10-20 17:46:07|Tối nay đi ăn mì cay không?
+ACC000116|2026-10-20 17:49:14|Đi chứ! Quán nào?
+ACC000041|2026-10-20 17:50:51|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000116|2026-10-20 17:51:27|Mấy giờ?
+ACC000041|2026-10-20 17:52:19|7 rưỡi nhé.
+ACC000116|2026-10-20 17:56:17|Ok, mình rủ thêm một bạn nữa được không?
+ACC000041|2026-10-20 18:00:21|Được chứ, càng đông càng vui.
+ACC000041|2026-10-21 09:08:15|Cuối tuần bạn làm gì?
+ACC000116|2026-10-21 09:10:17|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000041|2026-10-21 09:11:37|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000116|2026-10-21 09:13:29|Thật không? Ngại quá.
+ACC000041|2026-10-21 09:14:07|Ngại gì, mẹ mình quý bạn lắm.
+ACC000116|2026-10-21 09:28:58|Vậy mình qua nhé, cảm ơn bác.

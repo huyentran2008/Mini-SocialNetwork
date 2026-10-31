@@ -1,0 +1,8 @@
+id=POST000045
+author=ACC000131
+visibility=PUBLIC
+created_at=2026-09-05 21:50:02
+edited_at=
+status=VISIBLE
+title=Mẹo khởi động trước khi chơi thể thao
+content=Dành 10 phút khởi động giúp mình tránh chấn thương rất nhiều. Xoay khớp, giãn cơ và chạy nhẹ vài vòng. Đừng bỏ qua bước này nhé.

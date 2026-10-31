@@ -1,0 +1,13 @@
+ACC000036|2026-10-23 21:46:15|Sáng mai bạn có đi tập chạy không?
+ACC000078|2026-10-23 21:46:49|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000036|2026-10-23 22:34:36|Mình sợ dậy không nổi.
+ACC000078|2026-10-23 22:35:59|Để mình gọi bạn dậy.
+ACC000036|2026-10-23 23:20:45|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000078|2026-10-23 23:23:58|Ok, mai gặp.
+ACC000036|2026-10-24 14:09:25|Cuối tuần này đi xem phim không?
+ACC000078|2026-10-24 14:09:38|Phim gì vậy?
+ACC000036|2026-10-24 14:12:35|Phim mới chiếu, nghe nói hay lắm.
+ACC000078|2026-10-24 14:13:30|Mình đang rảnh thứ tư, đi buổi chiều nhé.
+ACC000036|2026-10-24 14:14:00|Ok, mình đặt vé luôn.
+ACC000078|2026-10-24 14:14:41|Nhớ chọn ghế giữa nha.
+ACC000036|2026-10-24 14:28:21|Yên tâm.

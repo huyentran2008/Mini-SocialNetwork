@@ -1,0 +1,20 @@
+ACC000030|2026-10-21 22:02:38|Mình cũng nghĩ vậy
+ACC000142|2026-10-21 22:02:46|Thật à?
+ACC000030|2026-10-21 22:02:52|Mình cũng nghĩ vậy
+ACC000030|2026-10-21 22:02:59|Thôi mình đi ăn cơm đã
+ACC000030|2026-10-21 22:03:06|Tối nói chuyện tiếp nhé
+ACC000142|2026-10-21 22:03:12|Ok
+ACC000030|2026-10-21 22:03:22|Mình biết rồi
+ACC000030|2026-10-21 22:03:24|Haha bạn vui tính thật
+ACC000030|2026-10-21 22:03:37|Tối nói chuyện tiếp nhé
+ACC000030|2026-10-21 22:03:50|Được luôn
+ACC000142|2026-10-21 22:03:54|Vậy hả?
+ACC000142|2026-10-21 22:04:03|Vừa về tới nhà
+ACC000142|2026-10-21 22:04:17|Ngủ ngon
+ACC000030|2026-10-22 18:45:43|Cuối tuần này đi Nha Trang không?
+ACC000142|2026-10-22 18:49:37|Hay đó, đi mấy người?
+ACC000030|2026-10-22 18:51:11|Khoảng 7 người, tự đi xe máy.
+ACC000142|2026-10-22 18:51:39|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000030|2026-10-22 18:52:09|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000142|2026-10-22 18:53:15|Ok, vậy chốt luôn.
+ACC000030|2026-10-23 21:40:47|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?

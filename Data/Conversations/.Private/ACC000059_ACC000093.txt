@@ -1,0 +1,45 @@
+ACC000093|2026-10-16 18:30:56|Vừa về tới nhà
+ACC000093|2026-10-16 18:31:10|Có gì báo mình nhé
+ACC000059|2026-10-16 18:31:11|Để mình xem
+ACC000093|2026-10-16 18:31:16|Okela
+ACC000093|2026-10-16 18:31:28|Cố lên nhé
+ACC000093|2026-10-16 18:31:30|Cảm ơn nhé
+ACC000093|2026-10-16 18:31:33|Ngủ ngon
+ACC000093|2026-10-16 18:31:45|Rồi, mình nhớ rồi
+ACC000093|2026-10-16 23:15:27|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000059|2026-10-16 23:17:22|Ủa quên mất, bao nhiêu vậy?
+ACC000093|2026-10-16 23:19:27|50 nghìn thôi.
+ACC000059|2026-10-17 00:02:04|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000093|2026-10-17 00:04:12|Nhận được rồi nha.
+ACC000059|2026-10-17 00:04:47|Ok, xong nợ.
+ACC000059|2026-10-19 07:07:51|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000093|2026-10-19 07:09:26|Ủa quên mất, bao nhiêu vậy?
+ACC000059|2026-10-19 07:10:28|30 nghìn thôi.
+ACC000093|2026-10-19 07:10:59|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000059|2026-10-19 07:11:17|Nhận được rồi nha.
+ACC000093|2026-10-19 07:15:21|Ok, xong nợ.
+ACC000093|2026-10-19 13:58:31|Tối nay bạn có chơi game không?
+ACC000059|2026-10-19 13:59:17|Có, mấy giờ?
+ACC000093|2026-10-19 13:59:44|6 giờ, rủ thêm hai bạn nữa là đủ đội.
+ACC000059|2026-10-19 14:26:35|Ok, mình online sớm.
+ACC000093|2026-10-19 14:30:01|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000059|2026-10-19 14:30:31|Haha, thua thì đừng trách mình.
+ACC000093|2026-10-19 16:20:00|Okela
+ACC000059|2026-10-19 16:20:05|Mình cũng nghĩ vậy
+ACC000093|2026-10-19 16:20:14|Haha
+ACC000093|2026-10-19 16:20:24|Được luôn
+ACC000059|2026-10-19 16:20:36|Chúc bạn một ngày tốt lành
+ACC000059|2026-10-19 16:20:49|Ừ đúng rồi
+ACC000093|2026-10-19 16:20:54|Vậy hả?
+ACC000093|2026-10-19 16:21:07|Mình biết rồi
+ACC000093|2026-10-19 16:21:18|Mai gặp nhé
+ACC000059|2026-10-19 16:21:29|Okela
+ACC000093|2026-10-19 16:21:33|Để mình xem
+ACC000093|2026-10-19 16:21:40|Nghe được đó
+ACC000059|2026-10-19 16:21:54|Đang làm gì đó?
+ACC000059|2026-10-22 08:18:24|Cuối tuần này đi Phú Quốc không?
+ACC000093|2026-10-22 08:20:48|Hay đó, đi mấy người?
+ACC000059|2026-10-22 08:22:10|Khoảng 4 người, tự đi xe máy.
+ACC000093|2026-10-22 08:23:31|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000059|2026-10-22 08:24:31|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000093|2026-10-22 08:26:43|Ok, vậy chốt luôn.

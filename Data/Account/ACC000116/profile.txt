@@ -1,0 +1,14 @@
+id=ACC000116
+username=vinhnv29
+password=56696e68403339303478
+full_name=Ngô Việt Vinh
+birthday=31-05-1999
+gender=Male
+bio=Sinh viên CNTT, yêu thuật toán.
+created_at=2026-08-18
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=
+school=Đại học Kinh tế - Tài chính TP.HCM
+workplace=
+hobbies=Bảo mật thông tin;Mạng máy tính

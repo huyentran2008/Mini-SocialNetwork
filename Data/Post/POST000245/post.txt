@@ -1,0 +1,8 @@
+id=POST000245
+author=ACC000109
+visibility=PUBLIC
+created_at=2026-10-24 10:09:24
+edited_at=
+status=VISIBLE
+title=Chia sẻ ghi chú môn kinh tế vi mô
+content=Mình tổng hợp ghi chú môn lập trình hướng đối tượng thành bảng tóm tắt ngắn. Bạn nào cần có thể nhắn mình để nhận bản đầy đủ.

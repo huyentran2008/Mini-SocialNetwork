@@ -1,0 +1,18 @@
+ACC000126|2026-10-24 13:23:26|Tối nói chuyện tiếp nhé
+ACC000052|2026-10-24 13:23:36|Haha
+ACC000126|2026-10-24 13:23:40|Okela
+ACC000052|2026-10-24 13:23:48|Thôi mình đi ăn cơm đã
+ACC000052|2026-10-24 13:23:53|Vừa về tới nhà
+ACC000052|2026-10-24 13:24:05|Ừm, mình nghĩ vậy
+ACC000052|2026-10-24 14:23:40|Hôm nay bạn rảnh không?
+ACC000126|2026-10-24 14:23:59|Chiều mình rảnh, có chuyện gì vậy?
+ACC000052|2026-10-24 14:29:56|Đi uống cà phê nhé, lâu rồi không gặp.
+ACC000126|2026-10-24 14:50:17|Ok, 8 giờ tối mình qua đón bạn nha.
+ACC000052|2026-10-24 14:56:27|Được, mình chờ ở cổng.
+ACC000126|2026-10-24 14:57:06|Tới rồi nè, ra đi.
+ACC000126|2026-10-24 21:43:52|Bạn xem giúp mình CV được không?
+ACC000052|2026-10-24 22:33:06|Gửi mình xem nhé.
+ACC000126|2026-10-24 22:33:23|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000052|2026-10-24 22:35:50|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000126|2026-10-24 22:37:32|Hợp lý, mình sửa luôn.
+ACC000052|2026-10-24 22:44:32|Sửa xong gửi mình xem lại nhé.

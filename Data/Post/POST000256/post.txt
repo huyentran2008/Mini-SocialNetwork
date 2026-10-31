@@ -1,0 +1,8 @@
+id=POST000256
+author=ACC000092
+visibility=PUBLIC
+created_at=2026-10-25 07:25:30
+edited_at=
+status=VISIBLE
+title=Tuần mới, bắt đầu lại
+content=Tuần trước hơi tệ nên mình viết ra ba việc nhỏ cần làm cho tuần này. Làm xong từng việc là thấy nhẹ lòng. Hẹn mọi người ở bài sau.

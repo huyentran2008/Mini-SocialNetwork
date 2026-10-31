@@ -1,0 +1,41 @@
+ACC000078|2026-10-17 21:02:26|Điểm thi tiếng Anh có chưa bạn?
+ACC000087|2026-10-17 21:04:16|Có rồi, mình được 8 điểm.
+ACC000078|2026-10-17 21:05:28|Giỏi quá, mình mới 6 điểm thôi.
+ACC000087|2026-10-17 21:06:41|Cũng ổn mà, qua môn là tốt rồi.
+ACC000078|2026-10-17 21:08:19|Cảm ơn bạn đã động viên.
+ACC000087|2026-10-17 21:09:54|Lần sau mình học nhóm tiếp nhé.
+ACC000087|2026-10-18 17:48:55|Tối nói chuyện tiếp nhé
+ACC000078|2026-10-18 17:50:15|Cảm ơn nhé
+ACC000087|2026-10-18 17:53:06|Okela
+ACC000087|2026-10-18 17:56:26|Haha bạn vui tính thật
+ACC000078|2026-10-22 16:46:47|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000087|2026-10-22 16:49:12|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000078|2026-10-22 16:50:12|Cảm ơn, mình hay quên lắm.
+ACC000087|2026-10-22 16:50:57|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000078|2026-10-22 16:56:40|Ừ, mình in hai bản.
+ACC000087|2026-10-22 16:58:42|Giỏi.
+ACC000087|2026-10-22 19:53:52|Bạn biết laptop nào học lập trình ổn không?
+ACC000078|2026-10-22 19:57:24|Tầm giá bao nhiêu?
+ACC000087|2026-10-22 19:57:54|Khoảng 15 đến 20 triệu.
+ACC000078|2026-10-22 19:59:20|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000087|2026-10-22 20:17:23|Cảm ơn nhiều, mình đang rối quá.
+ACC000078|2026-10-22 20:18:56|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000078|2026-10-22 22:54:52|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000087|2026-10-22 23:00:16|Haha, bé làm gì thế?
+ACC000078|2026-10-22 23:02:16|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000087|2026-10-22 23:06:42|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000078|2026-10-22 23:07:18|Đợi chút mình chụp.
+ACC000087|2026-10-22 23:11:02|Đúng là chủ nào mèo nấy.
+ACC000087|2026-10-22 23:26:20|Nay trời mưa to ghê.
+ACC000078|2026-10-22 23:27:16|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000087|2026-10-23 00:10:01|Bạn có áo mưa không?
+ACC000078|2026-10-23 00:10:20|Không, chắc chờ tạnh.
+ACC000087|2026-10-23 00:12:24|Mình ghé đón nhé, mình đang gần đó.
+ACC000078|2026-10-23 00:13:08|Cảm ơn bạn nhiều lắm.
+ACC000087|2026-10-23 09:56:33|Ừ đúng rồi
+ACC000078|2026-10-23 09:56:36|Vừa về tới nhà
+ACC000078|2026-10-23 09:56:50|Cố lên nhé
+ACC000078|2026-10-23 09:57:04|Mai gặp nhé
+ACC000087|2026-10-23 09:57:16|Có gì báo mình nhé
+ACC000078|2026-10-23 09:57:20|Vậy hả?
+ACC000087|2026-10-23 09:57:26|Ừm, mình nghĩ vậy

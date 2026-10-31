@@ -1,0 +1,16 @@
+ACC000104|2026-10-19 19:01:12|Thôi mình đi ăn cơm đã
+ACC000095|2026-10-19 19:04:12|Mệt quá hôm nay
+ACC000104|2026-10-19 19:05:23|Ừ đúng rồi
+ACC000095|2026-10-19 19:08:12|Tối nói chuyện tiếp nhé
+ACC000104|2026-10-23 01:17:52|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000095|2026-10-23 01:18:10|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000104|2026-10-23 01:39:52|Mình thấy rồi, truy cập ngoài mảng.
+ACC000095|2026-10-23 01:53:10|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000104|2026-10-23 01:54:28|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000095|2026-10-23 01:56:53|Lỗi này ai cũng từng gặp thôi.
+ACC000095|2026-10-23 19:30:11|Bạn biết laptop nào học lập trình ổn không?
+ACC000104|2026-10-23 19:30:23|Tầm giá bao nhiêu?
+ACC000095|2026-10-23 20:18:00|Khoảng 15 đến 20 triệu.
+ACC000104|2026-10-23 20:20:29|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000095|2026-10-23 20:20:44|Cảm ơn nhiều, mình đang rối quá.
+ACC000104|2026-10-23 20:23:02|Bạn xem rồi nhắn mình, mình tư vấn thêm.

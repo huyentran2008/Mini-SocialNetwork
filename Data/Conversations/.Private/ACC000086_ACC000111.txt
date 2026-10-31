@@ -1,0 +1,22 @@
+ACC000111|2026-10-14 21:52:05|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000086|2026-10-14 21:53:37|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000111|2026-10-14 21:54:40|Giá thế nào?
+ACC000086|2026-10-14 22:26:07|Khoảng 50 nghìn một ly.
+ACC000111|2026-10-14 22:29:55|Hợp lý đó, mai mình thử.
+ACC000086|2026-10-14 22:35:52|Mình cũng hay ngồi ở đó, gặp nhau nhé.
+ACC000086|2026-10-15 13:05:30|Bạn có rảnh để mình hỏi chút về môn cơ sở dữ liệu không?
+ACC000111|2026-10-15 13:54:11|Có, bạn hỏi đi.
+ACC000086|2026-10-15 13:56:38|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000111|2026-10-15 14:00:14|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000086|2026-10-15 14:00:57|Nghe hợp lý, cảm ơn bạn.
+ACC000111|2026-10-15 14:02:31|Cần gì cứ nhắn mình.
+ACC000111|2026-10-17 12:57:45|Thôi mình đi ăn cơm đã
+ACC000111|2026-10-17 12:57:52|Cuối tuần rảnh không?
+ACC000086|2026-10-17 12:58:01|Ừm, mình nghĩ vậy
+ACC000086|2026-10-17 12:58:15|Mình đang bận chút, lát nhắn lại nhé
+ACC000086|2026-10-17 12:58:27|Ừ
+ACC000111|2026-10-17 12:58:41|Nghe được đó
+ACC000086|2026-10-17 12:58:46|Có gì báo mình nhé
+ACC000086|2026-10-17 12:58:56|Được luôn
+ACC000086|2026-10-17 12:58:58|Cố lên nhé
+ACC000111|2026-10-17 12:59:06|Ừm, mình nghĩ vậy

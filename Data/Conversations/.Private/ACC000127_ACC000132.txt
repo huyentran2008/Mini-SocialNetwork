@@ -1,0 +1,55 @@
+ACC000127|2026-10-13 20:31:12|Sáng mai bạn có đi tập chạy không?
+ACC000132|2026-10-13 20:34:49|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000127|2026-10-13 20:36:07|Mình sợ dậy không nổi.
+ACC000132|2026-10-13 20:36:26|Để mình gọi bạn dậy.
+ACC000127|2026-10-13 20:37:09|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000132|2026-10-13 20:38:01|Ok, mai gặp.
+ACC000132|2026-10-17 07:46:54|Có gì báo mình nhé
+ACC000132|2026-10-17 07:47:03|Thật à?
+ACC000127|2026-10-17 07:47:17|Mình đang bận chút, lát nhắn lại nhé
+ACC000127|2026-10-17 07:47:19|Haha bạn vui tính thật
+ACC000127|2026-10-17 07:47:26|Mình cũng nghĩ vậy
+ACC000132|2026-10-17 07:47:39|Cố lên nhé
+ACC000132|2026-10-17 07:47:53|Để mình xem
+ACC000132|2026-10-17 07:48:05|Cảm ơn nhé
+ACC000127|2026-10-17 07:48:08|Để mình xem
+ACC000132|2026-10-17 07:48:19|Chúc bạn một ngày tốt lành
+ACC000132|2026-10-17 07:48:29|Cuối tuần rảnh không?
+ACC000132|2026-10-17 07:48:33|Chúc bạn một ngày tốt lành
+ACC000127|2026-10-17 07:48:47|Mình biết rồi
+ACC000132|2026-10-17 17:29:15|Cuối tuần bạn làm gì?
+ACC000127|2026-10-17 17:33:02|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000132|2026-10-17 17:34:00|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000127|2026-10-17 17:37:20|Thật không? Ngại quá.
+ACC000132|2026-10-17 17:38:08|Ngại gì, mẹ mình quý bạn lắm.
+ACC000127|2026-10-17 17:38:25|Vậy mình qua nhé, cảm ơn bác.
+ACC000127|2026-10-17 20:11:35|Hôm nay mình hơi buồn.
+ACC000132|2026-10-17 20:12:07|Có chuyện gì vậy?
+ACC000127|2026-10-17 20:16:26|Mình bị điểm thấp mà không biết lý do.
+ACC000132|2026-10-17 20:16:57|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000127|2026-10-17 21:05:37|Ừ, mình sẽ gặp thầy tuần này.
+ACC000132|2026-10-17 21:07:23|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000127|2026-10-19 08:14:22|Bạn biết laptop nào học lập trình ổn không?
+ACC000132|2026-10-19 08:15:44|Tầm giá bao nhiêu?
+ACC000127|2026-10-19 08:16:12|Khoảng 15 đến 20 triệu.
+ACC000132|2026-10-19 08:16:56|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000127|2026-10-19 08:18:25|Cảm ơn nhiều, mình đang rối quá.
+ACC000132|2026-10-19 08:41:18|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000132|2026-10-20 18:20:38|Năm nay bạn về quê ăn Tết không?
+ACC000127|2026-10-20 18:21:35|Có, mình đặt vé tàu rồi.
+ACC000132|2026-10-20 18:23:48|Mình còn chưa mua được vé.
+ACC000127|2026-10-20 18:24:48|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000132|2026-10-20 18:25:44|Ok, mình thử xem.
+ACC000127|2026-10-20 18:26:36|Chúc bạn sớm có vé nhé.
+ACC000127|2026-10-21 18:39:23|Bạn biết laptop nào học lập trình ổn không?
+ACC000132|2026-10-21 18:40:23|Tầm giá bao nhiêu?
+ACC000127|2026-10-21 18:40:43|Khoảng 15 đến 20 triệu.
+ACC000132|2026-10-21 18:41:56|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000127|2026-10-21 18:47:45|Cảm ơn nhiều, mình đang rối quá.
+ACC000132|2026-10-21 18:49:51|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000127|2026-10-21 23:46:59|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000132|2026-10-21 23:49:38|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000127|2026-10-21 23:49:57|Mình thấy rồi, truy cập ngoài mảng.
+ACC000132|2026-10-21 23:56:09|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000127|2026-10-21 23:56:44|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000132|2026-10-22 00:01:21|Lỗi này ai cũng từng gặp thôi.

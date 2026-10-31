@@ -1,0 +1,267 @@
+SYSTEM|2026-10-12 17:37:21|Hoàng Thúy Lan đã tạo nhóm "Karaoke tối thứ sáu"
+SYSTEM|2026-10-12 17:37:22|Hoàng Thúy Lan đã thêm Lê Quỳnh Trân vào nhóm
+SYSTEM|2026-10-12 17:37:23|Hoàng Thúy Lan đã thêm Phan Diễm Tuyền vào nhóm
+SYSTEM|2026-10-12 17:37:24|Lê Quỳnh Trân đã thêm Nguyễn Đức Tú vào nhóm
+ACC000061|2026-10-12 19:21:47|Mưa quá, ai đi học được không?
+ACC000135|2026-10-12 19:24:16|Mình vẫn đi, chỉ hơi ướt thôi.
+ACC000114|2026-10-12 19:51:53|Mình ở nhà, học trực tuyến đi.
+ACC000102|2026-10-12 19:55:15|Lớp mình có thông báo gì chưa?
+ACC000061|2026-10-12 19:55:59|Chưa thấy, cứ đến lớp bình thường.
+ACC000135|2026-10-12 22:22:57|Chiều thứ năm tập band nhé mọi người.
+ACC000061|2026-10-12 22:24:39|Mình tới đúng giờ.
+ACC000102|2026-10-12 22:30:06|Mình mang trống.
+ACC000114|2026-10-12 22:30:49|Mình mang guitar điện.
+ACC000135|2026-10-12 22:33:59|Nhớ thuộc bài hôm trước nhé.
+SYSTEM|2026-10-13 17:46:15|Lê Quỳnh Trân đã thêm Đặng Minh Quốc vào nhóm
+SYSTEM|2026-10-13 20:25:17|Lê Quỳnh Trân đã thêm Phạm Gia Vũ vào nhóm
+ACC000135|2026-10-14 09:00:02|Vậy chốt nhé
+ACC000135|2026-10-14 09:00:27|Đúng rồi
+SYSTEM|2026-10-14 11:55:40|Phạm Gia Vũ đã thêm Trịnh Công Danh vào nhóm
+SYSTEM|2026-10-14 23:37:44|Hoàng Thúy Lan đã thêm Trần Bảo Châu vào nhóm
+SYSTEM|2026-10-15 12:09:26|Lê Quỳnh Trân đã thêm Phạm Bảo Khôi vào nhóm
+SYSTEM|2026-10-16 14:29:29|Đặng Minh Quốc đã thêm Lý Tuấn Quốc vào nhóm
+ACC000059|2026-10-16 14:42:05|Bài biểu diễn tuần sau chọn bài nào nhỉ?
+ACC000135|2026-10-16 14:46:22|Mình đề xuất bài nhẹ nhàng, dễ hát.
+ACC000061|2026-10-16 14:46:47|Mình thích chơi bài sôi động hơn.
+ACC000032|2026-10-16 14:47:43|Có thể ghép hai bài liền nhau.
+ACC000059|2026-10-16 14:48:06|Ý hay đó, chiều mai mình thử.
+SYSTEM|2026-10-16 19:46:33|Lý Tuấn Quốc đã thêm Nguyễn Đức Quý vào nhóm
+SYSTEM|2026-10-16 21:22:12|Trịnh Công Danh đã thêm Hồ Hải Nhật vào nhóm
+ACC000135|2026-10-17 15:37:25|Cuối tuần này mọi người rảnh không, tụ tập nhé.
+ACC000032|2026-10-17 15:39:00|Mình rảnh thứ ba.
+ACC000126|2026-10-17 15:42:03|Mình bận buổi sáng, chiều thì ổn.
+ACC000059|2026-10-17 15:44:10|Chiều thứ bảy được không?
+ACC000135|2026-10-17 15:50:17|Chốt chiều thứ ba, địa điểm mình báo sau.
+ACC000032|2026-10-17 15:57:10|Ok.
+SYSTEM|2026-10-17 18:40:38|Phạm Bảo Khôi đã thêm Huỳnh Kim Ngân vào nhóm
+ACC000135|2026-10-17 19:13:26|Trưa nay ăn gì mọi người?
+ACC000102|2026-10-17 19:16:13|Cơm tấm đi, trời nóng ăn nhẹ thôi.
+ACC000014|2026-10-17 19:21:38|Mình thích cơm gà hơn.
+SYSTEM|2026-10-17 19:49:18|Đặng Minh Quốc đã thêm Đặng Minh Việt vào nhóm
+ACC000126|2026-10-17 20:00:48|Phiếu bầu: cơm tấm +1.
+ACC000135|2026-10-17 20:02:35|Vậy chốt bánh xèo, 6 giờ gặp ở cổng.
+ACC000102|2026-10-17 20:06:33|Ok, mình tới đúng giờ.
+ACC000053|2026-10-17 20:57:21|Hẹn mọi người cuối tuần
+ACC000135|2026-10-17 21:07:42|Mọi người cho ý kiến về lịch sinh hoạt tháng sau nhé: A | B | C, chọn phương án phù hợp nhất.
+SYSTEM|2026-10-18 07:42:34|Hồ Hải Nhật đã thêm Trịnh Diễm Nga vào nhóm
+ACC000058|2026-10-18 12:42:18|Cuối tuần này mọi người rảnh không, tụ tập nhé.
+ACC000135|2026-10-18 12:43:43|Mình rảnh thứ năm.
+ACC000119|2026-10-18 12:44:42|Mình bận buổi sáng, chiều thì ổn.
+ACC000014|2026-10-18 12:45:59|Chiều thứ năm được không?
+ACC000058|2026-10-18 13:07:21|Chốt chiều thứ hai, địa điểm mình báo sau.
+ACC000135|2026-10-18 13:07:44|Ok.
+ACC000135|2026-10-18 15:02:58|Ừ, mình nhớ rồi
+ACC000135|2026-10-18 15:03:28|Ngủ ngon cả nhóm
+ACC000135|2026-10-18 15:04:21|Nghe hợp lý đó
+ACC000114|2026-10-18 15:16:27|Cảm ơn nhé
+ACC000067|2026-10-18 15:16:40|Cho mình xin chút thông tin với
+ACC000138|2026-10-18 15:16:49|Quá tuyệt
+ACC000126|2026-10-18 16:03:27|Ai đi nữa không?
+ACC000102|2026-10-18 16:03:30|Mệt ghê
+ACC000135|2026-10-18 16:03:31|Nhớ giữ sức khỏe nhé mọi người
+ACC000135|2026-10-18 16:03:39|Chúc mừng nhé!
+ACC000029|2026-10-18 16:03:49|Mình đang trên đường tới
+ACC000135|2026-10-18 16:03:59|Haha cười đau bụng
+ACC000029|2026-10-18 16:04:06|Chuẩn rồi
+ACC000053|2026-10-18 16:04:07|Vậy chốt nhé
+ACC000032|2026-10-18 16:04:14|Nghe hợp lý đó
+ACC000135|2026-10-18 16:04:25|Giỏi quá bạn ơi
+ACC000061|2026-10-18 16:04:37|Trời nóng quá
+ACC000135|2026-10-18 16:04:49|Ai biết quán nào ngon giới thiệu mình với
+ACC000135|2026-10-18 16:04:57|Mọi người ăn cơm chưa?
+ACC000135|2026-10-18 16:05:08|Haha cười đau bụng
+ACC000119|2026-10-18 16:05:10|Giỏi quá bạn ơi
+ACC000114|2026-10-18 16:05:12|Mình vừa tới nơi
+ACC000032|2026-10-18 16:05:19|Đã nhận được rồi nhé
+SYSTEM|2026-10-18 17:20:02|Hoàng Thúy Lan đã xóa Lý Tuấn Quốc khỏi nhóm
+SYSTEM|2026-10-18 20:13:45|Phan Diễm Tuyền đã rời nhóm
+ACC000058|2026-10-18 20:25:39|Ai biết phòng tập nào giá rẻ không?
+ACC000032|2026-10-18 20:41:39|Có phòng gần trường, 20 nghìn một giờ.
+ACC000135|2026-10-18 20:47:04|Cách âm tốt không bạn?
+ACC000032|2026-10-18 20:48:48|Khá ổn, mình từng tập ở đó.
+ACC000058|2026-10-18 20:49:31|Cảm ơn, mình đặt giờ thử.
+ACC000135|2026-10-18 21:30:27|Ngủ ngon cả nhóm
+ACC000053|2026-10-18 21:30:28|Ngủ ngon cả nhóm
+ACC000029|2026-10-18 21:30:32|Nhớ giữ sức khỏe nhé mọi người
+ACC000135|2026-10-18 21:30:39|Chuẩn rồi
+ACC000059|2026-10-18 21:30:45|Hẹn mọi người cuối tuần
+ACC000029|2026-10-18 21:30:55|Mình sẽ cập nhật sau
+ACC000135|2026-10-18 21:31:01|Chúc mừng nhé!
+ACC000032|2026-10-18 21:31:07|Ngủ ngon cả nhóm
+ACC000138|2026-10-18 21:31:10|Ủa vậy hả?
+ACC000032|2026-10-18 21:31:13|Ủa vậy hả?
+ACC000029|2026-10-18 21:31:17|Vậy chốt nhé
+ACC000135|2026-10-18 21:31:20|Nhớ mang theo nhé
+ACC000058|2026-10-18 21:31:28|Mình sẽ cập nhật sau
+ACC000029|2026-10-18 21:40:36|Mọi người nhớ nộp bài trước 5 giờ chiều nhé.
+ACC000059|2026-10-18 21:41:25|Hạn chót là hôm nay đúng không?
+ACC000029|2026-10-18 21:43:05|Đúng rồi, trễ là trừ điểm.
+ACC000135|2026-10-18 22:08:41|Cảm ơn nhắc, mình sắp xong.
+ACC000032|2026-10-18 22:08:53|Mình vừa nộp xong.
+SYSTEM|2026-10-18 22:41:15|Đặng Minh Việt đã thêm Huỳnh Anh Yên vào nhóm
+ACC000135|2026-10-19 06:22:19|Đường dẫn thư mục lưu file nhóm: C:\\Nhom\\TaiLieu\\2026 (mọi người nhớ lưu đúng chỗ nhé).
+ACC000135|2026-10-19 09:52:46|Ai trả lời giúp mình câu hỏi này với.
+ACC000138|2026-10-19 09:53:31|Bạn hỏi đi.
+ACC000135|2026-10-19 09:57:05|Có nên dùng mảng tĩnh hay vector khi số phần tử chưa biết?
+ACC000138|2026-10-19 09:57:22|Dùng vector cho an toàn.
+ACC000059|2026-10-19 09:57:47|Đúng, vector tự mở rộng nên không lo tràn.
+ACC000135|2026-10-19 09:59:45|Cảm ơn mọi người.
+ACC000029|2026-10-19 10:12:08|Chiều thứ năm tập band nhé mọi người.
+ACC000032|2026-10-19 10:13:03|Mình tới đúng giờ.
+ACC000135|2026-10-19 10:13:23|Mình mang trống.
+ACC000058|2026-10-19 10:14:44|Mình mang guitar điện.
+ACC000029|2026-10-19 10:20:38|Nhớ thuộc bài hôm trước nhé.
+ACC000130|2026-10-19 10:29:38|Đồng ý với bạn
+ACC000029|2026-10-19 10:30:08|Ai biết quán nào ngon giới thiệu mình với
+ACC000032|2026-10-19 10:31:48|Quá tuyệt
+ACC000059|2026-10-19 11:15:00|Hẹn mọi người cuối tuần
+ACC000114|2026-10-19 11:25:07|Chiều thứ năm tập band nhé mọi người.
+ACC000135|2026-10-19 11:46:15|Mình tới đúng giờ.
+ACC000029|2026-10-19 11:49:39|Mình mang trống.
+ACC000053|2026-10-19 12:05:39|Mình mang guitar điện.
+ACC000114|2026-10-19 12:05:54|Nhớ thuộc bài hôm trước nhé.
+ACC000135|2026-10-19 12:14:08|Chiều thứ năm tập band nhé mọi người.
+ACC000029|2026-10-19 12:20:31|Mình tới đúng giờ.
+ACC000058|2026-10-19 12:22:04|Mình mang trống.
+ACC000114|2026-10-19 12:22:25|Mình mang guitar điện.
+ACC000135|2026-10-19 12:23:21|Nhớ thuộc bài hôm trước nhé.
+ACC000135|2026-10-19 12:31:31|Mưa quá, ai đi học được không?
+ACC000029|2026-10-19 12:33:46|Mình vẫn đi, chỉ hơi ướt thôi.
+ACC000014|2026-10-19 12:36:37|Mình ở nhà, học trực tuyến đi.
+ACC000032|2026-10-19 12:38:26|Lớp mình có thông báo gì chưa?
+ACC000135|2026-10-19 12:41:28|Chưa thấy, cứ đến lớp bình thường.
+ACC000032|2026-10-19 12:50:52|Giỏi quá bạn ơi
+ACC000014|2026-10-19 12:54:17|Ngủ ngon cả nhóm
+ACC000135|2026-10-19 13:44:00|Ừ, mình nhớ rồi
+ACC000014|2026-10-19 14:16:31|Mình vừa có hợp âm mới cho đoạn điệp khúc.
+ACC000135|2026-10-19 14:41:49|Cho mình nghe thử.
+ACC000014|2026-10-19 14:42:49|Mình gửi file thu âm rồi nhé.
+ACC000135|2026-10-19 14:45:27|Hay đó, nghe mượt hơn bản cũ.
+ACC000053|2026-10-19 14:45:47|Mình đồng ý, đổi sang bản này.
+ACC000029|2026-10-19 14:56:54|Chúc mừng nhé!
+ACC000029|2026-10-19 14:57:49|Đã nhận được rồi nhé
+ACC000067|2026-10-19 14:59:38|Nghe hợp lý đó
+ACC000059|2026-10-19 15:03:17|Trời nóng quá
+ACC000135|2026-10-19 15:12:54|Cuối kỳ mọi người ôn thế nào rồi?
+ACC000059|2026-10-19 15:18:49|Mình mới xong nửa, vẫn còn rối.
+ACC000138|2026-10-19 15:21:00|Mình học theo đề cương cũ.
+ACC000119|2026-10-19 15:21:58|Có ai muốn học nhóm không?
+ACC000135|2026-10-19 15:22:54|Mình tham gia, tối nay nhé.
+ACC000059|2026-10-19 15:25:23|Cho mình một suất.
+ACC000135|2026-10-19 16:43:41|Bài biểu diễn tuần sau chọn bài nào nhỉ?
+ACC000067|2026-10-19 16:46:33|Mình đề xuất bài nhẹ nhàng, dễ hát.
+ACC000032|2026-10-19 16:47:17|Mình thích chơi bài sôi động hơn.
+ACC000014|2026-10-19 17:19:29|Có thể ghép hai bài liền nhau.
+ACC000135|2026-10-19 17:22:24|Ý hay đó, chiều mai mình thử.
+ACC000135|2026-10-19 18:20:27|Ai biết quán nào ngon giới thiệu mình với
+ACC000032|2026-10-19 18:24:05|Cảm ơn nhé
+ACC000135|2026-10-19 18:29:01|Mình cũng nghĩ thế
+ACC000032|2026-10-19 18:32:30|Haha đúng là vậy
+ACC000058|2026-10-19 18:33:00|Ngủ ngon cả nhóm
+ACC000135|2026-10-19 18:33:08|Lần sau mình rủ thêm người nhé
+ACC000032|2026-10-19 18:47:06|Nhóm mình có ai làm slide giúp phần cuối không?
+ACC000135|2026-10-19 18:47:25|Để mình làm.
+ACC000032|2026-10-19 18:49:13|Cảm ơn Tú, mình gửi nội dung rồi nhé.
+ACC000135|2026-10-19 18:49:49|Nhận rồi, tối mình làm xong.
+ACC000059|2026-10-19 18:50:20|Mình soát lỗi chính tả giúp.
+ACC000032|2026-10-19 18:51:26|Quá tuyệt.
+ACC000053|2026-10-19 19:47:59|Chiều thứ năm tập band nhé mọi người.
+ACC000058|2026-10-19 19:48:40|Mình tới đúng giờ.
+ACC000135|2026-10-19 19:52:32|Mình mang trống.
+ACC000119|2026-10-19 19:56:34|Mình mang guitar điện.
+ACC000053|2026-10-19 20:02:09|Nhớ thuộc bài hôm trước nhé.
+SYSTEM|2026-10-19 21:17:06|Lê Quỳnh Trân đã thêm Tăng Hữu Văn vào nhóm
+SYSTEM|2026-10-19 21:46:29|Tăng Hữu Văn đã thêm Trịnh Thùy Trinh vào nhóm
+ACC000029|2026-10-19 22:04:29|Ai biết quán nào ngon giới thiệu mình với
+ACC000060|2026-10-19 22:31:04|Hôm nay ai mang theo sạc dự phòng không?
+ACC000135|2026-10-19 22:35:04|Mình có, cần mượn không?
+ACC000060|2026-10-19 22:38:46|Điện thoại mình còn 5% rồi.
+ACC000135|2026-10-19 22:41:01|Lại bàn mình cắm nhé.
+ACC000060|2026-10-19 22:43:21|Cảm ơn bạn nhé.
+ACC000059|2026-10-19 22:54:26|Cảm ơn cả nhóm đã giúp mình
+ACC000029|2026-10-19 23:08:18|Cho mình vào nhóm học với
+ACC000113|2026-10-19 23:08:47|Cho mình xin chút thông tin với
+ACC000029|2026-10-19 23:10:14|Ai có tin gì mới không?
+ACC000135|2026-10-19 23:13:29|Chúc mừng nhé!
+ACC000114|2026-10-20 12:37:12|Quá tuyệt
+ACC000119|2026-10-20 13:08:04|Mình cũng nghĩ thế
+ACC000119|2026-10-20 13:08:18|Ủa vậy hả?
+ACC000135|2026-10-20 13:09:55|Ai đi nữa không?
+ACC000067|2026-10-21 20:45:56|Chuẩn rồi
+ACC000113|2026-10-21 20:46:03|Đừng quên nha mọi người
+ACC000135|2026-10-21 20:46:12|Ổn rồi nhé
+ACC000029|2026-10-21 20:46:19|Mình đi ngủ trước nhé
+ACC000135|2026-10-21 20:46:30|Hẹn mọi người cuối tuần
+ACC000119|2026-10-21 20:46:40|Mình cũng nghĩ thế
+ACC000058|2026-10-21 20:46:52|Mình vừa tới nơi
+ACC000029|2026-10-21 20:46:53|Ngủ ngon cả nhóm
+ACC000058|2026-10-21 20:47:04|Chuẩn rồi
+ACC000029|2026-10-21 20:47:15|Cho mình xin chút thông tin với
+ACC000076|2026-10-21 20:47:27|Mình +1
+ACC000029|2026-10-21 20:47:39|Cho mình xin chút thông tin với
+ACC000135|2026-10-21 20:47:43|Ổn rồi nhé
+ACC000135|2026-10-22 06:04:17|Mưa quá, ai đi học được không?
+ACC000053|2026-10-22 06:07:26|Mình vẫn đi, chỉ hơi ướt thôi.
+ACC000119|2026-10-22 06:08:22|Mình ở nhà, học trực tuyến đi.
+ACC000076|2026-10-22 06:10:36|Lớp mình có thông báo gì chưa?
+ACC000135|2026-10-22 06:11:26|Chưa thấy, cứ đến lớp bình thường.
+ACC000135|2026-10-22 13:49:49|Ai biết phòng tập nào giá rẻ không?
+ACC000058|2026-10-22 13:54:46|Có phòng gần trường, 30 nghìn một giờ.
+ACC000113|2026-10-22 13:56:13|Cách âm tốt không bạn?
+ACC000058|2026-10-22 13:59:02|Khá ổn, mình từng tập ở đó.
+ACC000135|2026-10-22 14:01:08|Cảm ơn, mình đặt giờ thử.
+ACC000059|2026-10-22 19:15:36|Bài biểu diễn tuần sau chọn bài nào nhỉ?
+ACC000135|2026-10-22 19:18:01|Mình đề xuất bài nhẹ nhàng, dễ hát.
+ACC000053|2026-10-22 19:19:09|Mình thích chơi bài sôi động hơn.
+ACC000076|2026-10-22 19:20:40|Có thể ghép hai bài liền nhau.
+ACC000059|2026-10-22 19:21:58|Ý hay đó, chiều mai mình thử.
+ACC000135|2026-10-22 20:31:06|Okela mọi người
+ACC000032|2026-10-22 20:37:25|Đồng ý với bạn
+ACC000053|2026-10-22 20:37:57|Nhớ mang theo nhé
+ACC000060|2026-10-22 20:42:26|Mình vừa tới nơi
+ACC000135|2026-10-22 20:51:49|Mình vừa có hợp âm mới cho đoạn điệp khúc.
+ACC000032|2026-10-22 20:58:47|Cho mình nghe thử.
+ACC000135|2026-10-22 21:14:25|Mình gửi file thu âm rồi nhé.
+ACC000032|2026-10-22 21:15:19|Hay đó, nghe mượt hơn bản cũ.
+ACC000014|2026-10-22 21:17:42|Mình đồng ý, đổi sang bản này.
+ACC000014|2026-10-22 22:12:56|Bài biểu diễn tuần sau chọn bài nào nhỉ?
+ACC000058|2026-10-22 22:13:21|Mình đề xuất bài nhẹ nhàng, dễ hát.
+ACC000059|2026-10-22 22:15:26|Mình thích chơi bài sôi động hơn.
+ACC000135|2026-10-22 22:18:55|Có thể ghép hai bài liền nhau.
+ACC000014|2026-10-22 22:20:18|Ý hay đó, chiều mai mình thử.
+ACC000135|2026-10-23 09:54:59|Chuẩn rồi
+ACC000032|2026-10-23 09:55:09|Chuẩn rồi
+ACC000058|2026-10-23 09:55:15|Trời nóng quá
+ACC000032|2026-10-23 09:55:24|Ừ, mình nhớ rồi
+ACC000032|2026-10-23 09:55:32|Nghe hợp lý đó
+ACC000032|2026-10-23 09:55:42|Haha đúng là vậy
+ACC000032|2026-10-23 09:55:46|Ai đi nữa không?
+ACC000032|2026-10-23 09:55:55|Mình về trước nhé
+ACC000135|2026-10-23 13:12:07|Mình vừa có hợp âm mới cho đoạn điệp khúc.
+ACC000114|2026-10-23 13:13:40|Cho mình nghe thử.
+ACC000135|2026-10-23 13:15:50|Mình gửi file thu âm rồi nhé.
+ACC000114|2026-10-23 13:19:07|Hay đó, nghe mượt hơn bản cũ.
+ACC000032|2026-10-23 13:19:52|Mình đồng ý, đổi sang bản này.
+ACC000113|2026-10-23 19:14:56|Hôm nay mưa mà vẫn đi à?
+ACC000135|2026-10-23 22:14:09|Ai biết phòng tập nào giá rẻ không?
+ACC000014|2026-10-23 22:18:06|Có phòng gần trường, 300 nghìn một giờ.
+ACC000032|2026-10-23 22:19:47|Cách âm tốt không bạn?
+ACC000014|2026-10-23 22:21:12|Khá ổn, mình từng tập ở đó.
+ACC000135|2026-10-23 22:28:11|Cảm ơn, mình đặt giờ thử.
+ACC000135|2026-10-24 12:14:48|Mình vừa có hợp âm mới cho đoạn điệp khúc.
+ACC000119|2026-10-24 12:15:23|Cho mình nghe thử.
+ACC000135|2026-10-24 12:17:14|Mình gửi file thu âm rồi nhé.
+ACC000119|2026-10-24 12:17:47|Hay đó, nghe mượt hơn bản cũ.
+ACC000113|2026-10-24 12:18:59|Mình đồng ý, đổi sang bản này.
+ACC000135|2026-10-24 20:31:53|Cuối kỳ mọi người ôn thế nào rồi?
+ACC000113|2026-10-24 20:32:46|Mình mới xong nửa, vẫn còn rối.
+ACC000138|2026-10-24 20:34:54|Mình học theo đề cương cũ.
+ACC000032|2026-10-24 20:35:26|Có ai muốn học nhóm không?
+ACC000135|2026-10-24 20:35:50|Mình tham gia, tối nay nhé.
+ACC000113|2026-10-24 20:41:23|Cho mình một suất.
+ACC000135|2026-10-25 07:59:16|Cuối kỳ mọi người ôn thế nào rồi?
+ACC000029|2026-10-25 08:00:14|Mình mới xong nửa, vẫn còn rối.
+ACC000114|2026-10-25 08:01:04|Mình học theo đề cương cũ.
+ACC000032|2026-10-25 08:04:25|Có ai muốn học nhóm không?
+ACC000135|2026-10-25 08:06:18|Mình tham gia, tối nay nhé.
+ACC000029|2026-10-25 08:07:06|Cho mình một suất.

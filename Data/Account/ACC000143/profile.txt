@@ -1,0 +1,14 @@
+id=ACC000143
+username=quync52
+password=517579403239343664
+full_name=Nguyễn Công Quý
+birthday=03-04-1997
+gender=Male
+bio=Một chút nắng, một chút gió, một chút bình yên.
+created_at=2026-09-30
+status=ACTIVE
+residence=Đà Nẵng
+hometown=Huế
+school=Cao đẳng Y tế Đà Nẵng
+workplace=
+hobbies=Điện tử và Arduino

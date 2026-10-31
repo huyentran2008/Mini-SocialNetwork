@@ -1,0 +1,8 @@
+id=POST000191
+author=ACC000109
+visibility=PUBLIC
+created_at=2026-10-17 15:15:54
+edited_at=2026-10-19 08:36:54
+status=VISIBLE
+title=Chụp film lần đầu
+content=Cuộn film đầu tiên rửa ra chỉ được 6 tấm ưng ý trên 36 tấm. Nhưng cảm giác chờ đợi rất thú vị, khác hẳn chụp điện thoại.

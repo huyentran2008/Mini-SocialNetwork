@@ -1,0 +1,4 @@
+id=GRP000006
+name=Lớp CNTT K22 chung
+owner=ACC000101
+created_at=2026-09-05 21:16:36

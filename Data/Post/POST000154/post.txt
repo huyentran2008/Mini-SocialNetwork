@@ -1,0 +1,8 @@
+id=POST000154
+author=ACC000080
+visibility=FRIEND
+created_at=2026-10-12 21:04:57
+edited_at=
+status=VISIBLE
+title=Review quán canh chua gần trường
+content=Hôm nay thử quán bún bò Huế cách trường 500 mét. Phần ăn đầy đặn, nước dùng đậm đà, giá 60k. Mình cho 8 trên 10 điểm.

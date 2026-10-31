@@ -1,0 +1,14 @@
+id=ACC000063
+username=hanhq35
+password=48616e403637393773
+full_name=Huỳnh Quỳnh Hân
+birthday=18-12-2002
+gender=Female
+bio=
+created_at=2026-09-06
+status=ACTIVE
+residence=
+hometown=Lâm Đồng
+school=Đại học RMIT Việt Nam
+workplace=Phúc Long
+hobbies=Quay phim;Làm gốm

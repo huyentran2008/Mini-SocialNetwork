@@ -1,0 +1,12 @@
+ACC000043|2026-10-24 13:45:00|Chào bạn, lâu rồi không nói chuyện.
+ACC000042|2026-10-24 14:31:37|Chào bạn, dạo này bạn thế nào?
+ACC000043|2026-10-24 14:32:25|Mình ổn, bận học và làm thêm.
+ACC000042|2026-10-24 14:32:53|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000043|2026-10-24 14:35:33|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000042|2026-10-24 14:36:16|Được, tới lúc đó nhắn mình nhé.
+ACC000043|2026-10-24 18:04:06|Bạn có rảnh để mình hỏi chút về môn xác suất không?
+ACC000042|2026-10-24 18:07:05|Có, bạn hỏi đi.
+ACC000043|2026-10-24 18:09:52|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000042|2026-10-24 18:10:53|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000043|2026-10-24 18:11:24|Nghe hợp lý, cảm ơn bạn.
+ACC000042|2026-10-24 18:12:14|Cần gì cứ nhắn mình.

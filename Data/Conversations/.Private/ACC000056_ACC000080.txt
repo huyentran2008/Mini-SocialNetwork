@@ -1,0 +1,18 @@
+ACC000080|2026-10-22 09:22:50|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000056|2026-10-22 09:26:17|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000080|2026-10-22 09:27:47|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000056|2026-10-22 09:32:29|Cảm ơn bạn đã hỏi thăm.
+ACC000080|2026-10-22 09:38:40|Có cần mình mang đồ ăn qua không?
+ACC000056|2026-10-22 09:39:32|Không cần đâu, mình ổn rồi.
+ACC000056|2026-10-22 16:37:37|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000080|2026-10-22 16:39:43|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000056|2026-10-22 16:39:58|Chụp vài tấm nhé.
+ACC000080|2026-10-22 16:40:28|Xong rồi, mình gửi bạn qua đây.
+ACC000056|2026-10-22 17:24:17|Đẹp quá, cảm ơn bạn nhiều.
+ACC000080|2026-10-22 17:26:22|Lần sau mình chụp thêm.
+ACC000080|2026-10-22 23:48:07|Cuối tuần bạn làm gì?
+ACC000056|2026-10-23 00:01:17|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000080|2026-10-23 00:02:39|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000056|2026-10-23 00:03:25|Thật không? Ngại quá.
+ACC000080|2026-10-23 00:03:48|Ngại gì, mẹ mình quý bạn lắm.
+ACC000056|2026-10-23 00:06:14|Vậy mình qua nhé, cảm ơn bác.

@@ -1,0 +1,30 @@
+ACC000086|2026-10-22 12:54:13|Hôm nay bạn rảnh không?
+ACC000115|2026-10-22 12:55:07|Chiều mình rảnh, có chuyện gì vậy?
+ACC000086|2026-10-22 13:00:40|Đi uống nước cam nhé, lâu rồi không gặp.
+ACC000115|2026-10-22 13:03:05|Ok, 5 giờ chiều mình qua đón bạn nha.
+ACC000086|2026-10-22 13:49:11|Được, mình chờ ở cổng.
+ACC000115|2026-10-22 13:49:41|Tới rồi nè, ra đi.
+ACC000115|2026-10-22 20:12:20|Dạo này mình áp lực thi quá.
+ACC000086|2026-10-22 20:15:05|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000115|2026-10-22 20:15:51|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000086|2026-10-22 20:19:05|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000115|2026-10-22 20:19:54|Nghe có vẻ ổn, mình thử.
+ACC000086|2026-10-22 20:20:49|Cố lên, có gì cần cứ nhắn mình.
+ACC000115|2026-10-23 10:07:22|Cuối tuần này đi Nha Trang không?
+ACC000086|2026-10-23 10:08:22|Hay đó, đi mấy người?
+ACC000115|2026-10-23 10:11:42|Khoảng 2 người, tự đi xe máy.
+ACC000086|2026-10-23 10:12:42|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000115|2026-10-23 10:15:13|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000086|2026-10-23 10:15:53|Ok, vậy chốt luôn.
+ACC000115|2026-10-23 19:32:51|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000086|2026-10-23 19:34:27|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000115|2026-10-23 19:38:50|Mình thấy rồi, truy cập ngoài mảng.
+ACC000086|2026-10-23 19:40:24|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000115|2026-10-23 19:41:31|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000086|2026-10-23 19:43:23|Lỗi này ai cũng từng gặp thôi.
+ACC000086|2026-10-23 22:15:16|Công thức làm bánh flan bạn dùng thế nào?
+ACC000115|2026-10-23 22:19:44|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000086|2026-10-23 22:20:39|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000115|2026-10-23 22:22:46|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000086|2026-10-23 22:27:09|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000115|2026-10-23 22:27:20|Làm xong cho mình xin một miếng nhé.

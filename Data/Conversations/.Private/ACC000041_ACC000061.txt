@@ -1,0 +1,12 @@
+ACC000041|2026-10-21 09:50:41|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000061|2026-10-21 09:52:00|Bài nào vậy?
+ACC000041|2026-10-21 09:54:16|Mình gửi link rồi đó.
+ACC000061|2026-10-21 09:55:15|Nghe rồi, giai điệu dễ chịu thật.
+ACC000041|2026-10-21 09:55:56|Đúng không? Mình nghe suốt tuần này.
+ACC000061|2026-10-21 09:56:33|Cho mình xin playlist nhé.
+ACC000061|2026-10-21 10:39:08|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000041|2026-10-21 10:50:37|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000061|2026-10-21 10:52:03|Cảm ơn, mình hay quên lắm.
+ACC000041|2026-10-21 10:56:14|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000061|2026-10-21 10:57:57|Ừ, mình in hai bản.
+ACC000041|2026-10-21 10:59:45|Giỏi.

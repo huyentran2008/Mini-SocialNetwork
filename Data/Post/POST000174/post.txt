@@ -1,0 +1,8 @@
+id=POST000174
+author=ACC000039
+visibility=PUBLIC
+created_at=2026-10-15 18:37:23
+edited_at=
+status=VISIBLE
+title=Lắp ráp máy tính lần đầu
+content=Tự lắp con PC đầu tiên, run tay lúc cắm CPU nhưng lên màn hình ngay lần bật đầu tiên. Cảm giác sướng hơn cả nhận điểm cao.

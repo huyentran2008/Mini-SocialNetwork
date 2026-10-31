@@ -1,0 +1,14 @@
+id=ACC000078
+username=tuyenpy30
+password=547579656e40303530386b
+full_name=Phạm Yến Tuyền
+birthday=
+gender=Female
+bio=Chăm chỉ hôm nay, thảnh thơi ngày mai.
+created_at=2026-08-17
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=Cần Thơ
+school=Đại học Kinh tế - Luật - ĐHQG TP.HCM
+workplace=
+hobbies=Đi cà phê;Làm trà sữa;Khám phá ẩm thực

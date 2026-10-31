@@ -1,0 +1,8 @@
+id=POST000092
+author=ACC000062
+visibility=FRIEND
+created_at=2026-10-03 21:46:08
+edited_at=
+status=VISIBLE
+title=Bơi buổi sáng
+content=Đăng ký hồ bơi gần nhà được hai tuần. Dậy 5h30 rất cực nhưng bơi xong người nhẹ hẳn, cả ngày tỉnh táo.

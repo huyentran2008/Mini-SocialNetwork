@@ -1,0 +1,14 @@
+id=ACC000084
+username=vitk67
+password=566940333231356e
+full_name=Trần Khánh Vi
+birthday=21-02-2001
+gender=Female
+bio=Code là đam mê, bug là bạn thân.
+created_at=2026-08-16
+status=ACTIVE
+residence=Hà Nội
+hometown=Hà Nội
+school=
+workplace=Vietcombank
+hobbies=Đóng góp mã nguồn mở

@@ -1,0 +1,10 @@
+ACC000011|2026-10-14 19:33:00|Sinh nhật bạn tuần sau đúng không?
+ACC000017|2026-10-14 19:34:34|Đúng rồi, sao bạn nhớ vậy?
+ACC000011|2026-10-14 19:39:22|Mình ghi trong lịch mà, tổ chức ở đâu?
+ACC000017|2026-10-14 19:46:44|Chắc ở nhà thôi, có mời bạn nhé
+ACC000011|2026-10-14 19:50:01|Nhất định mình đến, mang theo bánh kem
+ACC000017|2026-10-15 18:36:17|Bạn ơi, đi du lịch Đà Lạt tháng sau không?
+ACC000011|2026-10-15 18:42:04|Nghe hấp dẫn quá, đi mấy ngày?
+ACC000017|2026-10-15 18:48:27|Khoảng 3 ngày 2 đêm, đi xe giường nằm
+ACC000011|2026-10-15 18:54:05|Cho mình xin lịch trình nhé
+ACC000017|2026-10-15 19:01:23|Mình gửi trong nhóm luôn

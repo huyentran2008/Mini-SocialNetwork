@@ -1,0 +1,8 @@
+id=POST000162
+author=ACC000040
+visibility=PUBLIC
+created_at=2026-10-14 08:05:08
+edited_at=
+status=VISIBLE
+title=5 mẹo ôn thi hiệu quả
+content=1. Lập lịch ôn từng môn.\n2. Làm đề cũ.\n3. Học nhóm khi có chỗ vướng.\n4. Ngủ đủ giấc trước ngày thi.\nMình áp dụng mùa thi trước và điểm khá hơn hẳn.

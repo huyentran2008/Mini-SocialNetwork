@@ -1,0 +1,20 @@
+ACC000130|2026-10-15 21:19:27|Hôm nay mình hơi buồn.
+ACC000020|2026-10-15 21:58:16|Có chuyện gì vậy?
+ACC000130|2026-10-15 21:59:49|Mình bị điểm thấp mà không biết lý do.
+ACC000020|2026-10-15 22:03:06|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000130|2026-10-15 22:05:33|Ừ, mình sẽ gặp thầy tuần này.
+ACC000020|2026-10-15 22:06:59|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000020|2026-10-17 21:17:35|Ok
+ACC000130|2026-10-17 21:17:49|Được luôn
+ACC000020|2026-10-17 21:17:58|Thôi mình đi ăn cơm đã
+ACC000130|2026-10-17 21:18:01|Đang làm gì đó?
+ACC000130|2026-10-17 21:18:06|Mình đang bận chút, lát nhắn lại nhé
+ACC000020|2026-10-17 21:18:07|Ừ
+ACC000020|2026-10-17 21:18:20|Mình cũng nghĩ vậy
+ACC000020|2026-10-17 21:18:22|Mai gặp nhé
+ACC000020|2026-10-19 12:12:35|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000130|2026-10-19 12:17:09|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000020|2026-10-19 12:17:33|Chụp vài tấm nhé.
+ACC000130|2026-10-19 12:40:56|Xong rồi, mình gửi bạn qua đây.
+ACC000020|2026-10-19 12:47:20|Đẹp quá, cảm ơn bạn nhiều.
+ACC000130|2026-10-19 12:49:57|Lần sau mình chụp thêm.

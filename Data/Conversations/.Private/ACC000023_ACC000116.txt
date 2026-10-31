@@ -1,0 +1,12 @@
+ACC000116|2026-10-13 17:13:22|Sinh nhật vui vẻ nhé Đăng!
+ACC000023|2026-10-13 17:14:00|Cảm ơn Vinh nha, nhớ cả sinh nhật mình luôn.
+ACC000116|2026-10-13 17:14:58|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000023|2026-10-13 17:16:34|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000116|2026-10-13 17:22:59|6 giờ nhé.
+ACC000023|2026-10-13 17:23:51|Ok, hẹn gặp.
+ACC000116|2026-10-20 07:35:22|Mình dọn trọ sang khu khác rồi.
+ACC000023|2026-10-20 07:36:16|Thật à? Có xa trường không?
+ACC000116|2026-10-20 07:37:01|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000023|2026-10-20 07:41:23|Tốt quá, hôm nào mình qua chơi.
+ACC000116|2026-10-20 07:47:56|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000023|2026-10-20 07:51:22|Ok, nhớ nấu cơm cho mình đó.

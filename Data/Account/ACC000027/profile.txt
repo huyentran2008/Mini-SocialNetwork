@@ -1,0 +1,14 @@
+id=ACC000027
+username=vinhqt02
+password=56696e68403938393471
+full_name=Quách Thế Vinh
+birthday=10-03-2006
+gender=Male
+bio=Đang học C++ và cấu trúc dữ liệu.
+created_at=2026-10-07
+status=ACTIVE
+residence=
+hometown=Nghệ An
+school=Đại học Khoa học Tự nhiên - ĐHQG TP.HCM
+workplace=
+hobbies=Nấu ăn;Chụp ảnh

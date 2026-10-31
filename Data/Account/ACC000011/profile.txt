@@ -1,0 +1,14 @@
+id=ACC000011
+username=tuanda08
+password=5475616e403736353875
+full_name=Dương Anh Tuấn
+birthday=06-10-2002
+gender=Male
+bio=Học tiếng Anh mỗi ngày.
+created_at=2026-10-12
+status=ACTIVE
+residence=Lâm Đồng
+hometown=Cần Thơ
+school=
+workplace=Vinamilk
+hobbies=Nấu ăn

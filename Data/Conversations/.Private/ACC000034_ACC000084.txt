@@ -1,0 +1,25 @@
+ACC000034|2026-10-22 12:05:30|Công thức làm bánh flan bạn dùng thế nào?
+ACC000084|2026-10-22 12:06:26|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000034|2026-10-22 12:08:07|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000084|2026-10-22 12:08:34|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000034|2026-10-22 12:57:28|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000084|2026-10-22 13:00:46|Làm xong cho mình xin một miếng nhé.
+ACC000084|2026-10-22 15:16:48|Mình biết rồi
+ACC000034|2026-10-22 15:16:50|Thật à?
+ACC000084|2026-10-22 15:17:04|Mình đang bận chút, lát nhắn lại nhé
+ACC000084|2026-10-22 15:17:13|Cuối tuần rảnh không?
+ACC000034|2026-10-22 15:17:25|Tối nói chuyện tiếp nhé
+ACC000084|2026-10-22 15:17:31|Tối nói chuyện tiếp nhé
+ACC000084|2026-10-22 15:17:38|Cuối tuần rảnh không?
+ACC000034|2026-10-23 19:24:53|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000084|2026-10-23 19:30:41|Ủa quên mất, bao nhiêu vậy?
+ACC000034|2026-10-23 19:31:28|30 nghìn thôi.
+ACC000084|2026-10-23 19:31:49|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000034|2026-10-23 19:32:32|Nhận được rồi nha.
+ACC000084|2026-10-23 19:33:53|Ok, xong nợ.
+ACC000034|2026-10-23 22:52:33|Năm nay bạn về quê ăn Tết không?
+ACC000084|2026-10-23 22:55:07|Có, mình đặt vé tàu rồi.
+ACC000034|2026-10-23 23:01:48|Mình còn chưa mua được vé.
+ACC000084|2026-10-23 23:02:44|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000034|2026-10-23 23:06:30|Ok, mình thử xem.
+ACC000084|2026-10-23 23:07:30|Chúc bạn sớm có vé nhé.

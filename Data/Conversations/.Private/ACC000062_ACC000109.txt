@@ -1,0 +1,23 @@
+ACC000062|2026-10-02 19:17:41|Mình mới mua chiếc xe đạp.
+ACC000109|2026-10-02 20:02:12|Wow, xe đẹp không?
+ACC000062|2026-10-02 20:06:50|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000109|2026-10-02 20:10:33|Cuối tuần đạp xe quanh hồ nhé.
+ACC000062|2026-10-02 20:15:10|Hay đó, chốt luôn.
+ACC000109|2026-10-02 20:15:50|Nhớ mang nước.
+ACC000062|2026-10-10 11:54:18|Haha bạn vui tính thật
+ACC000062|2026-10-10 11:54:46|Tối nói chuyện tiếp nhé
+ACC000062|2026-10-10 12:13:56|Vậy hả?
+ACC000062|2026-10-10 12:15:56|Được luôn
+ACC000109|2026-10-10 12:19:52|Có gì báo mình nhé
+ACC000109|2026-10-10 19:45:34|Bạn xem giúp mình CV được không?
+ACC000062|2026-10-10 19:47:40|Gửi mình xem nhé.
+ACC000109|2026-10-10 19:48:53|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000062|2026-10-10 19:49:54|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000109|2026-10-10 19:53:51|Hợp lý, mình sửa luôn.
+ACC000062|2026-10-10 19:57:34|Sửa xong gửi mình xem lại nhé.
+ACC000062|2026-10-10 22:33:30|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000109|2026-10-10 22:37:52|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000062|2026-10-10 22:38:00|Giá thế nào?
+ACC000109|2026-10-10 22:40:38|Khoảng 200 nghìn một ly.
+ACC000062|2026-10-10 22:41:44|Hợp lý đó, mai mình thử.
+ACC000109|2026-10-10 22:47:05|Mình cũng hay ngồi ở đó, gặp nhau nhé.

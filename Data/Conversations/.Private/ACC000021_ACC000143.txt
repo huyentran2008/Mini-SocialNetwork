@@ -1,0 +1,12 @@
+ACC000021|2026-10-23 16:40:43|Bạn biết laptop nào học lập trình ổn không?
+ACC000143|2026-10-23 16:41:09|Tầm giá bao nhiêu?
+ACC000021|2026-10-23 16:43:46|Khoảng 15 đến 20 triệu.
+ACC000143|2026-10-23 16:47:13|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000021|2026-10-23 16:48:17|Cảm ơn nhiều, mình đang rối quá.
+ACC000143|2026-10-23 16:51:20|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000021|2026-10-23 22:45:40|Mình mới mua chiếc xe đạp.
+ACC000143|2026-10-23 22:47:33|Wow, xe đẹp không?
+ACC000021|2026-10-23 22:51:59|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000143|2026-10-23 22:55:04|Cuối tuần đạp xe quanh hồ nhé.
+ACC000021|2026-10-23 22:56:58|Hay đó, chốt luôn.
+ACC000143|2026-10-23 23:00:03|Nhớ mang nước.

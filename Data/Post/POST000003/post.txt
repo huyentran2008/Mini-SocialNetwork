@@ -1,0 +1,8 @@
+id=POST000003
+author=ACC000044
+visibility=PUBLIC
+created_at=2026-10-09 11:17:00
+edited_at=
+status=VISIBLE
+title=Công thức bún bò Huế tại nhà
+content=Nấu nước dùng từ xương heo, sả đập dập và một ít mắm ruốc. Hầm khoảng hai tiếng là thơm nức mũi. Ăn kèm rau sống và chanh ớt thì hết ý.

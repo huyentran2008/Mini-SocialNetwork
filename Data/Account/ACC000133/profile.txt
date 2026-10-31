@@ -1,0 +1,14 @@
+id=ACC000133
+username=tanht25
+password=54616e403032383164
+full_name=Hà Trọng Tân
+birthday=11-10-2007
+gender=Male
+bio=Thích đi đây đó và chụp ảnh.
+created_at=2026-08-27
+status=ACTIVE
+residence=Thanh Hóa
+hometown=Thanh Hóa
+school=
+workplace=Gojek
+hobbies=Thiết kế đồ họa;Chụp ảnh đường phố;Vẽ digital

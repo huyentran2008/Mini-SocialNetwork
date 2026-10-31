@@ -1,0 +1,32 @@
+ACC000119|2026-10-22 17:18:12|Sao git của mình báo conflict hoài vậy?
+ACC000055|2026-10-22 17:18:44|Bạn có pull trước khi push không?
+ACC000119|2026-10-22 17:22:25|Chắc là không.
+ACC000055|2026-10-22 17:23:18|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000119|2026-10-22 17:24:08|Làm xong rồi, cảm ơn bạn.
+ACC000055|2026-10-22 17:27:09|Từ nay nhớ pull trước nhé.
+ACC000119|2026-10-22 19:14:34|Cuối tuần này đi xem phim không?
+ACC000055|2026-10-22 19:16:02|Phim gì vậy?
+ACC000119|2026-10-22 19:16:14|Phim mới chiếu, nghe nói hay lắm.
+ACC000055|2026-10-22 19:18:31|Mình đang rảnh thứ năm, đi buổi chiều nhé.
+ACC000119|2026-10-22 19:19:38|Ok, mình đặt vé luôn.
+ACC000055|2026-10-22 19:57:02|Nhớ chọn ghế giữa nha.
+ACC000119|2026-10-22 20:33:15|Yên tâm.
+ACC000055|2026-10-22 21:16:40|Bạn ngủ chưa?
+ACC000119|2026-10-22 21:22:52|Chưa, đang làm bài tập.
+ACC000055|2026-10-22 21:23:26|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000119|2026-10-22 21:25:43|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000055|2026-10-22 21:26:20|Ngủ ngon nha.
+ACC000119|2026-10-22 21:28:07|Ngủ ngon.
+ACC000055|2026-10-22 21:38:16|Có gì báo mình nhé
+ACC000119|2026-10-22 21:38:28|Mai gặp nhé
+ACC000055|2026-10-22 21:38:41|Thật à?
+ACC000119|2026-10-22 21:38:46|Okela
+ACC000055|2026-10-22 21:38:49|Được luôn
+ACC000119|2026-10-22 21:38:55|Mình biết rồi
+ACC000119|2026-10-22 21:38:58|Ngủ ngon
+ACC000119|2026-10-24 07:35:40|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000055|2026-10-24 07:35:55|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000119|2026-10-24 07:36:35|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000055|2026-10-24 07:36:51|Cảm ơn bạn đã hỏi thăm.
+ACC000119|2026-10-24 07:37:11|Có cần mình mang đồ ăn qua không?
+ACC000055|2026-10-24 08:09:22|Không cần đâu, mình ổn rồi.

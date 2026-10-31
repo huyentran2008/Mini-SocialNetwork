@@ -1,0 +1,24 @@
+ACC000031|2026-10-13 20:04:58|Hôm nay bạn có đi học không?
+ACC000116|2026-10-13 20:08:33|Có, mình đang trên đường.
+ACC000031|2026-10-13 20:09:03|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000116|2026-10-13 20:11:09|Ok, giữ rồi.
+ACC000031|2026-10-13 20:12:01|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000116|2026-10-13 20:13:56|Nhanh lên, sắp vào học rồi.
+ACC000116|2026-10-23 15:08:32|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000031|2026-10-23 15:09:01|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000116|2026-10-23 15:09:58|Chụp vài tấm nhé.
+ACC000031|2026-10-23 15:10:21|Xong rồi, mình gửi bạn qua đây.
+ACC000116|2026-10-23 15:13:04|Đẹp quá, cảm ơn bạn nhiều.
+ACC000031|2026-10-23 15:19:21|Lần sau mình chụp thêm.
+ACC000031|2026-10-24 20:57:02|Mình dọn trọ sang khu khác rồi.
+ACC000116|2026-10-24 21:14:51|Thật à? Có xa trường không?
+ACC000031|2026-10-24 21:20:13|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000116|2026-10-24 21:20:30|Tốt quá, hôm nào mình qua chơi.
+ACC000031|2026-10-24 21:27:30|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000116|2026-10-24 21:27:53|Ok, nhớ nấu cơm cho mình đó.
+ACC000031|2026-10-24 23:06:57|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000116|2026-10-24 23:08:07|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000031|2026-10-24 23:08:51|Giá thế nào?
+ACC000116|2026-10-24 23:10:53|Khoảng 70 nghìn một ly.
+ACC000031|2026-10-24 23:12:31|Hợp lý đó, mai mình thử.
+ACC000116|2026-10-24 23:13:01|Mình cũng hay ngồi ở đó, gặp nhau nhé.

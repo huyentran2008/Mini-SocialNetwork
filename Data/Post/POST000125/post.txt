@@ -1,0 +1,8 @@
+id=POST000125
+author=ACC000109
+visibility=PUBLIC
+created_at=2026-10-09 06:22:43
+edited_at=
+status=VISIBLE
+title=Dựng video du lịch đầu tay
+content=Mình ghép lại các đoạn quay từ chuyến đi vừa rồi thành video 3 phút. Phần khó nhất là chọn nhạc nền cho khớp nhịp.

@@ -1,0 +1,30 @@
+ACC000001|2026-10-20 22:47:23|Mình mới mua chiếc xe đạp.
+ACC000034|2026-10-20 22:48:14|Wow, xe đẹp không?
+ACC000001|2026-10-20 22:50:47|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000034|2026-10-20 22:53:23|Cuối tuần đạp xe quanh hồ nhé.
+ACC000001|2026-10-20 22:53:58|Hay đó, chốt luôn.
+ACC000034|2026-10-20 22:57:04|Nhớ mang nước.
+ACC000001|2026-10-21 20:57:01|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000034|2026-10-21 20:57:57|Bạn chuẩn bị tới đâu rồi?
+ACC000001|2026-10-21 20:59:49|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000034|2026-10-21 21:01:14|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000001|2026-10-21 21:03:22|Cảm ơn My, mình sẽ cố.
+ACC000034|2026-10-21 21:04:41|Xong nhớ nhắn mình kết quả nhé.
+ACC000001|2026-10-21 22:42:06|Tối nay bạn có chơi game không?
+ACC000034|2026-10-21 22:42:28|Có, mấy giờ?
+ACC000001|2026-10-21 22:47:53|8 giờ, rủ thêm hai bạn nữa là đủ đội.
+ACC000034|2026-10-21 22:48:33|Ok, mình online sớm.
+ACC000001|2026-10-21 22:49:14|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000034|2026-10-21 22:49:39|Haha, thua thì đừng trách mình.
+ACC000034|2026-10-22 20:51:06|Chào bạn, lâu rồi không nói chuyện.
+ACC000001|2026-10-22 20:51:32|Chào bạn, dạo này bạn thế nào?
+ACC000034|2026-10-22 20:51:51|Mình ổn, bận học và làm thêm.
+ACC000001|2026-10-22 20:55:31|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000034|2026-10-22 20:57:36|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000001|2026-10-22 20:58:15|Được, tới lúc đó nhắn mình nhé.
+ACC000034|2026-10-23 06:47:00|Hôm nay bạn rảnh không?
+ACC000001|2026-10-23 06:49:04|Chiều mình rảnh, có chuyện gì vậy?
+ACC000034|2026-10-23 07:34:59|Đi uống trà đào nhé, lâu rồi không gặp.
+ACC000001|2026-10-23 07:40:52|Ok, 6 giờ tối mình qua đón bạn nha.
+ACC000034|2026-10-23 07:42:23|Được, mình chờ ở cổng.
+ACC000001|2026-10-23 07:42:54|Tới rồi nè, ra đi.

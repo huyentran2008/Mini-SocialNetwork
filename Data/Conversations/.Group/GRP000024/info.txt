@@ -1,0 +1,4 @@
+id=GRP000024
+name=Học tiếng Nhật mỗi ngày
+owner=ACC000115
+created_at=2026-10-19 11:39:16

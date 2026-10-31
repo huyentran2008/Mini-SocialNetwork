@@ -1,0 +1,8 @@
+id=POST000133
+author=ACC000114
+visibility=PUBLIC
+created_at=2026-10-09 22:59:53
+edited_at=
+status=VISIBLE
+title=Tuần đầu tiên đi tập gym
+content=Ngày đầu hỏi huấn luyện viên mới biết mình tập sai tư thế. Tuần này chỉ tập nhẹ, chú trọng kỹ thuật. Mong có động lực duy trì.

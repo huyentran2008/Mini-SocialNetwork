@@ -1,0 +1,6 @@
+ACC000058|2026-10-22 09:39:55|Tối nay bạn có chơi game không?
+ACC000011|2026-10-22 09:41:11|Có, mấy giờ?
+ACC000058|2026-10-22 09:42:08|11 giờ 30, rủ thêm hai bạn nữa là đủ đội.
+ACC000011|2026-10-22 09:44:36|Ok, mình online sớm.
+ACC000058|2026-10-22 09:45:55|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000011|2026-10-22 09:47:50|Haha, thua thì đừng trách mình.

@@ -1,0 +1,6 @@
+ACC000049|2026-10-21 21:33:45|Bạn có rảnh để mình hỏi chút về môn tiếng Anh không?
+ACC000047|2026-10-21 21:39:31|Có, bạn hỏi đi.
+ACC000049|2026-10-21 21:43:16|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000047|2026-10-21 21:44:52|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000049|2026-10-21 21:47:08|Nghe hợp lý, cảm ơn bạn.
+ACC000047|2026-10-21 21:49:02|Cần gì cứ nhắn mình.

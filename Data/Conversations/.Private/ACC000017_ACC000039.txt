@@ -1,0 +1,16 @@
+ACC000017|2026-10-13 08:21:13|Cho mình mượn tài liệu Toán rời rạc với
+ACC000039|2026-10-13 08:30:02|Bạn cần chương mấy?
+ACC000017|2026-10-13 08:33:35|Chương 2 đại số Boole
+ACC000039|2026-10-13 08:39:40|Mình gửi file cho bạn ngay
+ACC000017|2026-10-13 08:41:24|Cảm ơn bạn nhiều lắm
+ACC000017|2026-10-17 17:55:20|Sinh nhật vui vẻ nhé Sơn!
+ACC000039|2026-10-17 18:01:14|Cảm ơn Hiếu nha, nhớ cả sinh nhật mình luôn.
+ACC000017|2026-10-17 18:03:35|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000039|2026-10-17 18:05:13|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000017|2026-10-17 18:05:42|5 giờ chiều nhé.
+ACC000039|2026-10-17 18:08:58|Ok, hẹn gặp.
+ACC000017|2026-10-21 12:02:13|Okela
+ACC000017|2026-10-21 12:08:22|Vậy hả?
+ACC000017|2026-10-21 12:12:16|Mai gặp nhé
+ACC000017|2026-10-21 12:16:05|Mai gặp nhé
+ACC000017|2026-10-21 12:58:25|Okela

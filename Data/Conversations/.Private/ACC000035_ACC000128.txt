@@ -1,0 +1,6 @@
+ACC000128|2026-10-20 20:25:09|Bạn biết laptop nào học lập trình ổn không?
+ACC000035|2026-10-20 20:28:04|Tầm giá bao nhiêu?
+ACC000128|2026-10-20 20:28:25|Khoảng 15 đến 20 triệu.
+ACC000035|2026-10-20 20:53:09|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000128|2026-10-20 20:54:21|Cảm ơn nhiều, mình đang rối quá.
+ACC000035|2026-10-20 20:55:07|Bạn xem rồi nhắn mình, mình tư vấn thêm.

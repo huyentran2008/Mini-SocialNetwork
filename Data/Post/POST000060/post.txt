@@ -1,0 +1,8 @@
+id=POST000060
+author=ACC000090
+visibility=PUBLIC
+created_at=2026-09-19 22:23:36
+edited_at=
+status=HIDDEN
+title=Ai bảo mấy người đó giỏi vậy?
+content=Cả lớp cứ khen mấy bạn điểm cao mà không biết họ chỉ học vẹt. Đúng là toàn những kẻ khoe khoang.

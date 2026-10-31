@@ -1,0 +1,14 @@
+id=ACC000026
+username=trandb47
+password=5472616e403735363879
+full_name=Diệp Bảo Trân
+birthday=27-12-2000
+gender=Female
+bio=Làm việc chăm chỉ, chơi hết mình.
+created_at=2026-10-05
+status=ACTIVE
+residence=Khánh Hòa
+hometown=Nghệ An
+school=Cao đẳng FPT Polytechnic
+workplace=Techcombank
+hobbies=Vẽ tranh;Cầu lông

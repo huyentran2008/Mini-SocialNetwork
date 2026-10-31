@@ -1,0 +1,38 @@
+ACC000143|2026-10-23 08:37:08|Mình đang bận chút, lát nhắn lại nhé
+ACC000009|2026-10-23 08:38:09|Nghe được đó
+ACC000009|2026-10-23 14:08:13|Bạn cho mình mượn tài liệu được không?
+ACC000143|2026-10-23 14:10:35|Được, bạn lấy bản chụp hay bản mềm?
+ACC000009|2026-10-23 14:13:34|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000143|2026-10-23 14:15:02|Gửi rồi nha, kiểm tra thử.
+ACC000009|2026-10-23 14:16:53|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000143|2026-10-23 14:18:09|Không có gì.
+ACC000009|2026-10-23 21:49:16|Cuối tuần bạn làm gì?
+ACC000143|2026-10-23 21:51:44|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000009|2026-10-23 21:52:36|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000143|2026-10-23 21:55:19|Thật không? Ngại quá.
+ACC000009|2026-10-23 21:57:32|Ngại gì, mẹ mình quý bạn lắm.
+ACC000143|2026-10-23 21:59:27|Vậy mình qua nhé, cảm ơn bác.
+ACC000009|2026-10-24 09:09:55|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000143|2026-10-24 09:14:27|Haha, bé làm gì thế?
+ACC000009|2026-10-24 09:16:02|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000143|2026-10-24 09:18:31|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000009|2026-10-24 09:20:21|Đợi chút mình chụp.
+ACC000143|2026-10-24 09:24:30|Đúng là chủ nào mèo nấy.
+ACC000009|2026-10-24 10:23:00|Chúc bạn một ngày tốt lành
+ACC000009|2026-10-24 10:23:09|Mình cũng nghĩ vậy
+ACC000009|2026-10-24 10:23:14|Có gì báo mình nhé
+ACC000009|2026-10-24 10:23:24|Mai gặp nhé
+ACC000143|2026-10-24 10:23:35|Mình biết rồi
+ACC000143|2026-10-24 10:23:43|Để mình xem
+ACC000143|2026-10-24 10:23:53|Cảm ơn nhé
+ACC000009|2026-10-24 10:24:04|Vừa về tới nhà
+ACC000009|2026-10-24 10:24:16|Ừm, mình nghĩ vậy
+ACC000143|2026-10-24 10:24:18|Để mình xem
+ACC000143|2026-10-24 10:24:22|Cuối tuần rảnh không?
+ACC000143|2026-10-24 10:24:29|Okela
+ACC000143|2026-10-24 10:24:37|Thôi mình đi ăn cơm đã
+ACC000143|2026-10-24 10:24:42|Chúc bạn một ngày tốt lành
+ACC000143|2026-10-24 10:24:48|Nghe được đó
+ACC000009|2026-10-24 14:50:25|Mình cũng nghĩ vậy
+ACC000143|2026-10-24 14:56:40|Ngủ ngon
+ACC000143|2026-10-24 14:57:59|Thôi mình đi ăn cơm đã

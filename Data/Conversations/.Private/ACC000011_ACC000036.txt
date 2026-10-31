@@ -1,0 +1,40 @@
+ACC000036|2026-10-23 16:15:25|Mệt quá hôm nay
+ACC000011|2026-10-23 16:15:26|Mình đang bận chút, lát nhắn lại nhé
+ACC000011|2026-10-23 16:15:30|Rồi, mình nhớ rồi
+ACC000011|2026-10-23 16:15:39|Đang làm gì đó?
+ACC000011|2026-10-23 16:15:44|Thôi mình đi ăn cơm đã
+ACC000036|2026-10-23 16:15:50|Nghe được đó
+ACC000036|2026-10-23 20:08:37|Nghe được đó
+ACC000036|2026-10-23 20:09:28|Ngủ ngon
+ACC000011|2026-10-23 20:48:06|Ngủ ngon
+ACC000036|2026-10-23 20:51:47|Thôi mình đi ăn cơm đã
+ACC000036|2026-10-23 21:01:34|Năm nay bạn về quê ăn Tết không?
+ACC000011|2026-10-23 21:06:09|Có, mình đặt vé tàu rồi.
+ACC000036|2026-10-23 21:07:07|Mình còn chưa mua được vé.
+ACC000011|2026-10-23 21:12:27|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000036|2026-10-23 21:13:26|Ok, mình thử xem.
+ACC000011|2026-10-23 21:15:04|Chúc bạn sớm có vé nhé.
+ACC000011|2026-10-23 23:07:50|Sinh nhật vui vẻ nhé Dương!
+ACC000036|2026-10-23 23:13:40|Cảm ơn Tuấn nha, nhớ cả sinh nhật mình luôn.
+ACC000011|2026-10-23 23:13:58|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000036|2026-10-23 23:14:42|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000011|2026-10-23 23:16:42|7 rưỡi nhé.
+ACC000036|2026-10-23 23:20:03|Ok, hẹn gặp.
+ACC000036|2026-10-23 23:30:08|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000011|2026-10-23 23:32:13|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000036|2026-10-23 23:34:23|Cảm ơn, mình hay quên lắm.
+ACC000011|2026-10-23 23:35:13|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000036|2026-10-23 23:48:34|Ừ, mình in hai bản.
+ACC000011|2026-10-23 23:48:52|Giỏi.
+ACC000011|2026-10-24 14:03:28|Mình dọn trọ sang khu khác rồi.
+ACC000036|2026-10-24 14:06:39|Thật à? Có xa trường không?
+ACC000011|2026-10-24 14:07:16|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000036|2026-10-24 14:10:36|Tốt quá, hôm nào mình qua chơi.
+ACC000011|2026-10-24 14:11:32|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000036|2026-10-24 14:16:32|Ok, nhớ nấu cơm cho mình đó.
+ACC000011|2026-10-24 17:14:13|Bạn có rảnh để mình hỏi chút về môn cơ sở dữ liệu không?
+ACC000036|2026-10-24 17:15:07|Có, bạn hỏi đi.
+ACC000011|2026-10-24 17:16:03|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000036|2026-10-24 17:16:25|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000011|2026-10-24 17:17:30|Nghe hợp lý, cảm ơn bạn.
+ACC000036|2026-10-24 17:17:39|Cần gì cứ nhắn mình.

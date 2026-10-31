@@ -1,0 +1,35 @@
+ACC000064|2026-10-19 22:37:33|Hôm nay mình hơi buồn.
+ACC000078|2026-10-19 22:40:04|Có chuyện gì vậy?
+ACC000064|2026-10-19 22:42:09|Mình bị điểm thấp mà không biết lý do.
+ACC000078|2026-10-19 22:44:04|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000064|2026-10-19 22:44:43|Ừ, mình sẽ gặp thầy tuần này.
+ACC000078|2026-10-19 22:46:24|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000078|2026-10-21 17:05:26|Mình cũng nghĩ vậy
+ACC000064|2026-10-21 17:05:31|Haha
+ACC000078|2026-10-21 17:05:32|Mai gặp nhé
+ACC000078|2026-10-21 17:05:37|Ừ đúng rồi
+ACC000078|2026-10-21 17:05:49|Okela
+ACC000078|2026-10-21 17:05:56|Có gì báo mình nhé
+ACC000064|2026-10-21 20:21:11|Tối nay đi ăn cơm tấm không?
+ACC000078|2026-10-21 20:22:38|Đi chứ! Quán nào?
+ACC000064|2026-10-21 20:25:24|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000078|2026-10-21 20:31:27|Mấy giờ?
+ACC000064|2026-10-21 20:33:50|8 giờ nhé.
+ACC000078|2026-10-21 20:36:04|Ok, mình rủ thêm một bạn nữa được không?
+ACC000064|2026-10-21 20:37:35|Được chứ, càng đông càng vui.
+ACC000078|2026-10-23 11:54:01|Bạn ơi, bài tập lập trình hướng đối tượng nộp chưa?
+ACC000064|2026-10-23 11:57:35|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000078|2026-10-23 11:57:54|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000064|2026-10-23 11:58:52|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000078|2026-10-23 11:59:18|Có gì hỏi mình nhé.
+ACC000064|2026-10-23 12:02:07|Okela, cảm ơn Tuyền nhiều.
+ACC000078|2026-10-24 22:04:52|Mai gặp nhé
+ACC000078|2026-10-24 22:05:04|Okela
+ACC000078|2026-10-24 22:05:05|Okela
+ACC000064|2026-10-24 22:05:09|Thật à?
+ACC000078|2026-10-24 22:05:22|Mình đang bận chút, lát nhắn lại nhé
+ACC000064|2026-10-24 22:05:23|Nghe được đó
+ACC000064|2026-10-24 22:05:31|Thôi mình đi ăn cơm đã
+ACC000078|2026-10-24 22:05:36|Chúc bạn một ngày tốt lành
+ACC000064|2026-10-24 22:05:41|Ok
+ACC000078|2026-10-24 22:05:50|Cảm ơn nhé

@@ -1,0 +1,4 @@
+id=GRP000022
+name=Karaoke tối thứ sáu
+owner=ACC000114
+created_at=2026-10-12 17:37:21

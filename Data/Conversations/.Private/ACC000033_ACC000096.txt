@@ -1,0 +1,15 @@
+ACC000033|2026-10-05 14:43:12|Ok
+ACC000096|2026-10-05 14:45:20|Chúc bạn một ngày tốt lành
+ACC000096|2026-10-05 14:50:30|Mình cũng nghĩ vậy
+ACC000033|2026-10-05 14:50:47|Tối nói chuyện tiếp nhé
+ACC000033|2026-10-05 19:19:30|Mai gặp nhé
+ACC000033|2026-10-05 19:22:57|Thôi mình đi ăn cơm đã
+ACC000033|2026-10-05 19:24:11|Mệt quá hôm nay
+ACC000033|2026-10-05 19:25:00|Ừ đúng rồi
+ACC000033|2026-10-05 19:25:33|Cuối tuần rảnh không?
+ACC000033|2026-10-07 13:15:53|Bạn có rảnh để mình hỏi chút về môn xác suất không?
+ACC000096|2026-10-07 13:18:00|Có, bạn hỏi đi.
+ACC000033|2026-10-07 13:24:50|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000096|2026-10-07 13:26:39|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000033|2026-10-07 13:27:50|Nghe hợp lý, cảm ơn bạn.
+ACC000096|2026-10-07 13:30:18|Cần gì cứ nhắn mình.

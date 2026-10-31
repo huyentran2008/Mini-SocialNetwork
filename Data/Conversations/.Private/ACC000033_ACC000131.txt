@@ -1,0 +1,23 @@
+ACC000131|2026-10-17 17:38:01|Điểm thi cấu trúc dữ liệu có chưa bạn?
+ACC000033|2026-10-17 17:41:20|Có rồi, mình được 8 điểm.
+ACC000131|2026-10-17 17:44:33|Giỏi quá, mình mới 6 điểm thôi.
+ACC000033|2026-10-17 17:45:50|Cũng ổn mà, qua môn là tốt rồi.
+ACC000131|2026-10-17 17:48:08|Cảm ơn bạn đã động viên.
+ACC000033|2026-10-17 18:25:40|Lần sau mình học nhóm tiếp nhé.
+ACC000131|2026-10-18 19:53:43|Được luôn
+ACC000131|2026-10-18 19:53:44|Thôi mình đi ăn cơm đã
+ACC000131|2026-10-18 19:53:55|Được luôn
+ACC000131|2026-10-18 19:54:04|Mình cũng nghĩ vậy
+ACC000033|2026-10-18 19:54:15|Thật à?
+ACC000033|2026-10-18 19:54:18|Để mình xem
+ACC000033|2026-10-18 19:54:30|Haha
+ACC000131|2026-10-18 19:54:37|Tối nói chuyện tiếp nhé
+ACC000131|2026-10-18 19:54:45|Haha bạn vui tính thật
+ACC000131|2026-10-18 19:54:55|Cuối tuần rảnh không?
+ACC000131|2026-10-18 19:55:06|Haha bạn vui tính thật
+ACC000033|2026-10-19 21:25:44|Cuối tuần bạn làm gì?
+ACC000131|2026-10-19 21:31:50|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000033|2026-10-19 21:32:58|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000131|2026-10-19 21:33:43|Thật không? Ngại quá.
+ACC000033|2026-10-19 21:37:30|Ngại gì, mẹ mình quý bạn lắm.
+ACC000131|2026-10-19 21:37:38|Vậy mình qua nhé, cảm ơn bác.

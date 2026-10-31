@@ -1,0 +1,2 @@
+ACC000086|2026-10-07 23:22:17|Chạy được rồi, cảm ơn bạn!
+ACC000117|2026-10-08 06:58:17|Bạn thử kiểm tra lại biến chưa khởi tạo xem.

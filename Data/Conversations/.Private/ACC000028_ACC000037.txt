@@ -1,0 +1,5 @@
+ACC000028|2026-10-18 15:15:15|Sinh nhật bạn tuần sau đúng không?
+ACC000037|2026-10-18 15:23:19|Đúng rồi, sao bạn nhớ vậy?
+ACC000028|2026-10-18 15:28:29|Mình ghi trong lịch mà, tổ chức ở đâu?
+ACC000037|2026-10-18 15:29:31|Chắc ở nhà thôi, có mời bạn nhé
+ACC000028|2026-10-18 15:36:12|Nhất định mình đến, mang theo bánh kem

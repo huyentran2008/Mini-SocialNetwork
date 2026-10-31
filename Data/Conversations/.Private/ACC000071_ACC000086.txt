@@ -1,0 +1,6 @@
+ACC000086|2026-10-23 21:00:22|Điểm thi cấu trúc dữ liệu có chưa bạn?
+ACC000071|2026-10-23 21:00:40|Có rồi, mình được 8 điểm.
+ACC000086|2026-10-23 21:01:57|Giỏi quá, mình mới 6 điểm thôi.
+ACC000071|2026-10-23 21:02:06|Cũng ổn mà, qua môn là tốt rồi.
+ACC000086|2026-10-23 21:04:31|Cảm ơn bạn đã động viên.
+ACC000071|2026-10-23 21:44:17|Lần sau mình học nhóm tiếp nhé.

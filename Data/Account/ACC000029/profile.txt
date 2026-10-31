@@ -1,0 +1,14 @@
+id=ACC000029
+username=danhtc90
+password=44616e6840333739346b
+full_name=Trịnh Công Danh
+birthday=07-06-1998
+gender=Male
+bio=Sống chậm lại và tận hưởng.
+created_at=2026-10-04
+status=ACTIVE
+residence=Hải Phòng
+hometown=
+school=Đại học Ngoại thương
+workplace=
+hobbies=Nuôi mèo;Chơi guitar

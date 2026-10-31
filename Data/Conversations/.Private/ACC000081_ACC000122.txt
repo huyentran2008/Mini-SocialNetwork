@@ -1,0 +1,12 @@
+ACC000081|2026-10-21 13:34:17|Cuối tuần này đi Huế không?
+ACC000122|2026-10-21 13:34:56|Hay đó, đi mấy người?
+ACC000081|2026-10-21 13:36:00|Khoảng 2 người, tự đi xe máy.
+ACC000122|2026-10-21 13:38:50|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000081|2026-10-21 13:40:26|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000122|2026-10-21 13:46:36|Ok, vậy chốt luôn.
+ACC000122|2026-10-23 14:19:31|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000081|2026-10-23 14:20:12|Ủa quên mất, bao nhiêu vậy?
+ACC000122|2026-10-23 14:20:44|200 nghìn thôi.
+ACC000081|2026-10-23 14:21:12|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000122|2026-10-23 15:00:09|Nhận được rồi nha.
+ACC000081|2026-10-23 15:00:32|Ok, xong nợ.

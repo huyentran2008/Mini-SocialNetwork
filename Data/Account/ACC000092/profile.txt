@@ -1,0 +1,14 @@
+id=ACC000092
+username=hoand06
+password=486f61403230393962
+full_name=Nguyễn Đức Hòa
+birthday=20-11-2000
+gender=Male
+bio=Yêu mèo, yêu cà phê, yêu những ngày mưa.
+created_at=2026-10-06
+status=ACTIVE
+residence=Gia Lai
+hometown=
+school=
+workplace=Gia sư tại nhà
+hobbies=Viết content;Diễn thuyết

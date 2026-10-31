@@ -1,0 +1,8 @@
+id=POST000145
+author=ACC000006
+visibility=PRIVATE
+created_at=2026-10-11 20:08:13
+edited_at=
+status=VISIBLE
+title=Ý tưởng cho đồ án
+content=Thêm chức năng gợi ý bạn bè theo sở thích chung.\nLưu ý tối ưu việc đọc file và kiểm tra dữ liệu đầu vào.

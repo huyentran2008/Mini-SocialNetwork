@@ -1,0 +1,24 @@
+ACC000013|2026-10-21 17:37:21|Mình vừa mua cuốn sách mới
+ACC000029|2026-10-21 17:42:58|Sách gì vậy?
+ACC000013|2026-10-21 17:49:06|Về lập trình C++ hiện đại, đọc rất cuốn
+ACC000029|2026-10-21 17:57:06|Đọc xong cho mình mượn nhé
+ACC000013|2026-10-21 18:02:16|Được, chắc khoảng tuần sau
+ACC000013|2026-10-23 15:49:30|Dạo này mình áp lực thi quá.
+ACC000029|2026-10-23 16:18:35|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000013|2026-10-23 16:19:19|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000029|2026-10-23 16:22:38|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000013|2026-10-23 16:24:23|Nghe có vẻ ổn, mình thử.
+ACC000029|2026-10-23 16:27:46|Cố lên, có gì cần cứ nhắn mình.
+ACC000029|2026-10-23 17:08:37|Mình đang bận chút, lát nhắn lại nhé
+ACC000013|2026-10-23 17:08:49|Thôi mình đi ăn cơm đã
+ACC000029|2026-10-23 17:09:02|Mình đang bận chút, lát nhắn lại nhé
+ACC000013|2026-10-23 17:09:13|Ừ
+ACC000013|2026-10-23 17:09:18|Mình biết rồi
+ACC000013|2026-10-23 17:09:24|Haha bạn vui tính thật
+ACC000013|2026-10-23 17:09:37|Ừm, mình nghĩ vậy
+ACC000029|2026-10-24 20:48:09|Bạn xem giúp mình CV được không?
+ACC000013|2026-10-24 20:50:16|Gửi mình xem nhé.
+ACC000029|2026-10-24 20:50:24|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000013|2026-10-24 20:50:37|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000029|2026-10-24 20:51:07|Hợp lý, mình sửa luôn.
+ACC000013|2026-10-24 20:51:37|Sửa xong gửi mình xem lại nhé.

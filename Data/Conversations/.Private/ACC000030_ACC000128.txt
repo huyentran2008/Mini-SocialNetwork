@@ -1,0 +1,21 @@
+ACC000030|2026-10-22 22:25:22|Để mình xem
+ACC000030|2026-10-22 22:25:36|Ừm, mình nghĩ vậy
+ACC000030|2026-10-22 22:25:43|Tối nói chuyện tiếp nhé
+ACC000030|2026-10-22 22:25:46|Vậy hả?
+ACC000128|2026-10-22 22:25:48|Cảm ơn nhé
+ACC000128|2026-10-22 22:25:59|Ừ đúng rồi
+ACC000128|2026-10-22 22:26:00|Haha bạn vui tính thật
+ACC000030|2026-10-22 22:26:05|Ừ đúng rồi
+ACC000128|2026-10-22 22:26:11|Ngủ ngon
+ACC000128|2026-10-23 13:43:29|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000030|2026-10-23 13:50:24|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000128|2026-10-23 13:53:13|Mình thấy rồi, truy cập ngoài mảng.
+ACC000030|2026-10-23 13:53:35|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000128|2026-10-23 13:54:17|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000030|2026-10-23 13:56:46|Lỗi này ai cũng từng gặp thôi.
+ACC000030|2026-10-23 18:47:54|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000128|2026-10-23 18:48:27|Ủa quên mất, bao nhiêu vậy?
+ACC000030|2026-10-23 19:33:59|150 nghìn thôi.
+ACC000128|2026-10-23 19:34:27|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000030|2026-10-23 19:56:02|Nhận được rồi nha.
+ACC000128|2026-10-23 19:58:20|Ok, xong nợ.

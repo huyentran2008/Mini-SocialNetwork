@@ -1,0 +1,6 @@
+ACC000126|2026-10-10 17:37:49|Cuối tuần này đi Nha Trang không?
+ACC000142|2026-10-10 17:39:37|Hay đó, đi mấy người?
+ACC000126|2026-10-10 17:40:35|Khoảng 2 người, tự đi xe máy.
+ACC000142|2026-10-10 17:42:27|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000126|2026-10-10 17:47:46|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000142|2026-10-10 17:48:35|Ok, vậy chốt luôn.

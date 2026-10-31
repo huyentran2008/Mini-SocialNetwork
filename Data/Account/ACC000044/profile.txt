@@ -1,0 +1,14 @@
+id=ACC000044
+username=tranght35
+password=5472616e6740343138356e
+full_name=Huỳnh Thu Trang
+birthday=20-08-2005
+gender=Female
+bio=Thích nấu ăn vào cuối tuần.
+created_at=2026-10-10
+status=ACTIVE
+residence=Cần Thơ
+hometown=Huế
+school=Đại học FPT TP.HCM
+workplace=Tự do (freelancer)
+hobbies=Vẽ tranh

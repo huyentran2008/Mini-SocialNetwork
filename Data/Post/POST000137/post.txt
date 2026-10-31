@@ -1,0 +1,8 @@
+id=POST000137
+author=ACC000042
+visibility=FRIEND
+created_at=2026-10-10 18:11:22
+edited_at=
+status=VISIBLE
+title=Debug 3 tiếng chỉ vì thiếu một dấu chấm phẩy
+content=Hôm nay ngồi sửa lỗi biên dịch mất đúng 3 tiếng, hóa ra chỉ thiếu một dấu chấm phẩy ở cuối struct. Bài học: đọc thông báo lỗi từ dòng đầu tiên, đừng nhìn dòng cuối.

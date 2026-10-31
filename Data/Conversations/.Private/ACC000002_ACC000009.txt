@@ -1,0 +1,33 @@
+ACC000002|2026-10-20 14:38:43|Tối nay đi ăn mì cay không?
+ACC000009|2026-10-20 14:41:48|Đi chứ! Quán nào?
+ACC000002|2026-10-20 14:42:46|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000009|2026-10-20 14:48:33|Mấy giờ?
+ACC000002|2026-10-20 14:49:32|8 giờ tối nhé.
+ACC000009|2026-10-20 14:50:48|Ok, mình rủ thêm một bạn nữa được không?
+ACC000002|2026-10-20 14:54:34|Được chứ, càng đông càng vui.
+ACC000002|2026-10-20 15:20:00|Điểm thi lập trình hướng đối tượng có chưa bạn?
+ACC000009|2026-10-20 15:20:32|Có rồi, mình được 8 điểm.
+ACC000002|2026-10-20 15:26:17|Giỏi quá, mình mới 6 điểm thôi.
+ACC000009|2026-10-20 15:27:40|Cũng ổn mà, qua môn là tốt rồi.
+ACC000002|2026-10-20 15:30:41|Cảm ơn bạn đã động viên.
+ACC000009|2026-10-20 15:32:42|Lần sau mình học nhóm tiếp nhé.
+ACC000009|2026-10-20 21:09:52|Ừm, mình nghĩ vậy
+ACC000002|2026-10-20 21:11:40|Chúc bạn một ngày tốt lành
+ACC000002|2026-10-20 21:12:02|Ừ
+ACC000002|2026-10-20 21:32:37|Vậy hả?
+ACC000009|2026-10-20 21:33:55|Mai gặp nhé
+ACC000002|2026-10-23 18:18:36|Đang làm gì đó?
+ACC000002|2026-10-23 18:19:07|Mệt quá hôm nay
+ACC000002|2026-10-23 18:25:58|Nghe được đó
+ACC000002|2026-10-23 18:29:29|Haha bạn vui tính thật
+ACC000009|2026-10-24 13:57:32|Haha
+ACC000009|2026-10-24 13:59:56|Chúc bạn một ngày tốt lành
+ACC000009|2026-10-24 14:03:08|Chúc bạn một ngày tốt lành
+ACC000009|2026-10-24 14:05:14|Ok
+ACC000002|2026-10-24 14:05:56|Haha
+ACC000009|2026-10-24 15:32:22|Hôm nay mình hơi buồn.
+ACC000002|2026-10-24 15:37:21|Có chuyện gì vậy?
+ACC000009|2026-10-24 15:39:00|Mình bị điểm thấp mà không biết lý do.
+ACC000002|2026-10-24 15:45:44|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000009|2026-10-24 15:46:52|Ừ, mình sẽ gặp thầy tuần này.
+ACC000002|2026-10-24 15:52:10|Đừng buồn nữa, rồi sẽ ổn thôi.

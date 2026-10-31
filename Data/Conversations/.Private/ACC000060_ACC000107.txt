@@ -1,0 +1,18 @@
+ACC000060|2026-10-19 07:37:34|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000107|2026-10-19 07:37:50|Chuyện nhỏ thôi mà.
+ACC000060|2026-10-19 07:42:04|Không có bạn chắc mình làm không kịp.
+ACC000107|2026-10-19 08:11:11|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000060|2026-10-19 08:15:59|Hôm nào mình mời bạn gà rán nhé.
+ACC000107|2026-10-19 08:16:48|Vậy thì mình không từ chối đâu.
+ACC000060|2026-10-22 11:00:45|Hôm nay bạn có đi học không?
+ACC000107|2026-10-22 11:02:23|Có, mình đang trên đường.
+ACC000060|2026-10-22 11:03:55|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000107|2026-10-22 11:07:51|Ok, giữ rồi.
+ACC000060|2026-10-22 11:11:26|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000107|2026-10-22 11:12:36|Nhanh lên, sắp vào học rồi.
+ACC000060|2026-10-24 00:24:33|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000107|2026-10-24 00:26:06|Ủa quên mất, bao nhiêu vậy?
+ACC000060|2026-10-24 00:29:28|50 nghìn thôi.
+ACC000107|2026-10-24 00:29:47|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000060|2026-10-24 00:30:21|Nhận được rồi nha.
+ACC000107|2026-10-24 00:32:48|Ok, xong nợ.

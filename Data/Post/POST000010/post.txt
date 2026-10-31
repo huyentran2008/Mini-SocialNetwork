@@ -1,0 +1,8 @@
+id=POST000010
+author=ACC000012
+visibility=PUBLIC
+created_at=2026-10-12 09:49:41
+edited_at=
+status=VISIBLE
+title=Bắt đầu học lập trình C++ từ đâu?
+content=Mình khuyên nên nắm chắc biến, vòng lặp, hàm, rồi mới sang con trỏ và lớp. Đừng vội học thư viện nâng cao khi nền tảng chưa vững.

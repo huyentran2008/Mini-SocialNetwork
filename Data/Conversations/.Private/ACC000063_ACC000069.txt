@@ -1,0 +1,6 @@
+ACC000063|2026-10-23 11:33:32|Nay trời mưa to ghê.
+ACC000069|2026-10-23 11:49:32|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000063|2026-10-23 11:49:46|Bạn có áo mưa không?
+ACC000069|2026-10-23 11:50:13|Không, chắc chờ tạnh.
+ACC000063|2026-10-23 11:52:30|Mình ghé đón nhé, mình đang gần đó.
+ACC000069|2026-10-23 11:54:55|Cảm ơn bạn nhiều lắm.

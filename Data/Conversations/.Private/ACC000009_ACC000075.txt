@@ -1,0 +1,30 @@
+ACC000009|2026-10-09 12:22:06|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000075|2026-10-09 12:22:45|Haha, bé làm gì thế?
+ACC000009|2026-10-09 12:29:43|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000075|2026-10-09 12:54:21|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000009|2026-10-09 12:56:26|Đợi chút mình chụp.
+ACC000075|2026-10-09 13:00:08|Đúng là chủ nào mèo nấy.
+ACC000075|2026-10-14 20:12:14|Tối nay bạn có chơi game không?
+ACC000009|2026-10-14 20:15:23|Có, mấy giờ?
+ACC000075|2026-10-14 20:16:06|8 giờ tối, rủ thêm hai bạn nữa là đủ đội.
+ACC000009|2026-10-14 20:17:47|Ok, mình online sớm.
+ACC000075|2026-10-14 20:18:37|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000009|2026-10-14 20:19:32|Haha, thua thì đừng trách mình.
+ACC000009|2026-10-23 17:59:05|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000075|2026-10-23 18:00:04|Ủa quên mất, bao nhiêu vậy?
+ACC000009|2026-10-23 18:03:51|30 nghìn thôi.
+ACC000075|2026-10-23 18:06:24|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000009|2026-10-23 18:07:20|Nhận được rồi nha.
+ACC000075|2026-10-23 18:13:32|Ok, xong nợ.
+ACC000075|2026-10-23 18:46:10|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000009|2026-10-23 18:48:26|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000075|2026-10-23 18:48:43|Mình thấy rồi, truy cập ngoài mảng.
+ACC000009|2026-10-23 18:51:37|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000075|2026-10-23 18:58:07|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000009|2026-10-23 18:58:40|Lỗi này ai cũng từng gặp thôi.
+ACC000075|2026-10-24 12:13:37|Bạn biết laptop nào học lập trình ổn không?
+ACC000009|2026-10-24 12:14:18|Tầm giá bao nhiêu?
+ACC000075|2026-10-24 12:16:41|Khoảng 15 đến 20 triệu.
+ACC000009|2026-10-24 12:18:11|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000075|2026-10-24 12:18:39|Cảm ơn nhiều, mình đang rối quá.
+ACC000009|2026-10-24 12:19:45|Bạn xem rồi nhắn mình, mình tư vấn thêm.

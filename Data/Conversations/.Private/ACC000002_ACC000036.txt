@@ -1,0 +1,10 @@
+ACC000002|2026-10-16 07:38:22|Mình vừa mua cuốn sách mới
+ACC000036|2026-10-16 07:39:30|Sách gì vậy?
+ACC000002|2026-10-16 07:42:39|Về lập trình C++ hiện đại, đọc rất cuốn
+ACC000036|2026-10-16 07:45:11|Đọc xong cho mình mượn nhé
+ACC000002|2026-10-16 07:48:11|Được, chắc khoảng tuần sau
+ACC000036|2026-10-23 13:35:52|Bạn xem phim mới chưa?
+ACC000002|2026-10-23 13:38:02|Phim nào vậy?
+ACC000036|2026-10-23 13:44:57|Phim chiếu rạp tuần này đó, nghe nói hay lắm
+ACC000002|2026-10-23 13:53:39|Để mình rủ nhóm đi xem cuối tuần
+ACC000036|2026-10-23 13:59:07|Hay đó, đi chung luôn cho vui

@@ -1,0 +1,12 @@
+ACC000105|2026-10-22 13:51:38|Cuối tuần này đi Đà Lạt không?
+ACC000116|2026-10-22 13:52:03|Hay đó, đi mấy người?
+ACC000105|2026-10-22 13:53:09|Khoảng 20 người, tự đi xe máy.
+ACC000116|2026-10-22 13:56:50|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000105|2026-10-22 13:58:36|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000116|2026-10-22 14:00:50|Ok, vậy chốt luôn.
+ACC000105|2026-10-23 20:02:09|Hôm nay mình hơi buồn.
+ACC000116|2026-10-23 20:02:56|Có chuyện gì vậy?
+ACC000105|2026-10-23 20:03:44|Mình bị điểm thấp mà không biết lý do.
+ACC000116|2026-10-23 20:05:01|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000105|2026-10-23 20:05:16|Ừ, mình sẽ gặp thầy tuần này.
+ACC000116|2026-10-23 20:05:42|Đừng buồn nữa, rồi sẽ ổn thôi.

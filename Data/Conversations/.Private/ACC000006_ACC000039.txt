@@ -1,0 +1,6 @@
+ACC000039|2026-10-24 11:35:46|Cuối tuần này đi Phú Quốc không?
+ACC000006|2026-10-24 11:39:27|Hay đó, đi mấy người?
+ACC000039|2026-10-24 11:42:04|Khoảng 5 người, tự đi xe máy.
+ACC000006|2026-10-24 12:10:11|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000039|2026-10-24 12:11:27|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000006|2026-10-24 12:16:28|Ok, vậy chốt luôn.

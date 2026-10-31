@@ -1,0 +1,14 @@
+id=ACC000033
+username=khoild26
+password=4b686f69403031353178
+full_name=Lê Đình Khôi
+birthday=19-04-1999
+gender=Male
+bio=Yêu mèo, yêu cây cảnh.
+created_at=2026-10-01
+status=ACTIVE
+residence=Đồng Nai
+hometown=Thanh Hóa
+school=Đại học Cần Thơ
+workplace=Shopee Việt Nam
+hobbies=Đá bóng

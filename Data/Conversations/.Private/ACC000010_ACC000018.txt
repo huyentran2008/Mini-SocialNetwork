@@ -1,0 +1,18 @@
+ACC000018|2026-10-15 20:18:04|Cuối tuần bạn làm gì?
+ACC000010|2026-10-15 20:20:21|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000018|2026-10-15 20:53:12|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000010|2026-10-15 20:57:28|Thật không? Ngại quá.
+ACC000018|2026-10-15 20:57:59|Ngại gì, mẹ mình quý bạn lắm.
+ACC000010|2026-10-15 21:30:38|Vậy mình qua nhé, cảm ơn bác.
+ACC000018|2026-10-19 12:09:50|Bạn xem giúp mình CV được không?
+ACC000010|2026-10-19 12:10:50|Gửi mình xem nhé.
+ACC000018|2026-10-19 12:11:50|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000010|2026-10-19 12:32:24|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000018|2026-10-19 12:34:29|Hợp lý, mình sửa luôn.
+ACC000010|2026-10-19 12:34:37|Sửa xong gửi mình xem lại nhé.
+ACC000018|2026-10-22 11:23:17|Sáng mai bạn có đi tập chạy không?
+ACC000010|2026-10-22 11:25:00|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000018|2026-10-22 11:26:00|Mình sợ dậy không nổi.
+ACC000010|2026-10-22 11:28:47|Để mình gọi bạn dậy.
+ACC000018|2026-10-22 11:59:06|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000010|2026-10-22 12:01:43|Ok, mai gặp.

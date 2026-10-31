@@ -1,0 +1,14 @@
+id=ACC000041
+username=baodg08
+password=42616f403336373064
+full_name=Dương Gia Bảo
+birthday=10-02-2002
+gender=Male
+bio=Fan bóng đá chính hiệu.
+created_at=2026-10-11
+status=ACTIVE
+residence=Đà Nẵng
+hometown=Quảng Ninh
+school=Cao đẳng FPT Polytechnic
+workplace=
+hobbies=Đá bóng;Vẽ tranh;Nuôi mèo

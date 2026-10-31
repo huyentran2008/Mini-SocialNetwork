@@ -1,0 +1,8 @@
+id=POST000120
+author=ACC000090
+visibility=PUBLIC
+created_at=2026-10-08 17:10:33
+edited_at=
+status=HIDDEN
+title=Nói thẳng: lớp mình có nhiều người giả tạo
+content=Trước mặt thì cười nói, sau lưng thì nói xấu nhau. Tụi bây tự biết mình là ai. Đừng giả vờ thân thiện nữa.

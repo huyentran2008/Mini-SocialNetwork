@@ -1,0 +1,21 @@
+ACC000061|2026-10-13 06:03:00|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000098|2026-10-13 06:03:48|Mình mới xong nửa tài liệu, hơi lo.
+ACC000061|2026-10-13 06:06:30|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000098|2026-10-13 06:07:17|Hay đó, 8 giờ nhé.
+ACC000061|2026-10-13 06:08:32|Ok, mình chuẩn bị sẵn đề cương.
+ACC000098|2026-10-13 06:09:23|Cảm ơn Trân, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000061|2026-10-13 22:00:03|Tối nay bạn có chơi game không?
+ACC000098|2026-10-13 22:02:12|Có, mấy giờ?
+ACC000061|2026-10-13 22:03:49|6 giờ, rủ thêm hai bạn nữa là đủ đội.
+ACC000098|2026-10-13 22:04:38|Ok, mình online sớm.
+ACC000061|2026-10-13 22:44:53|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000098|2026-10-13 22:46:23|Haha, thua thì đừng trách mình.
+ACC000061|2026-10-14 14:27:01|Mình mới mua chiếc xe đạp.
+ACC000098|2026-10-14 14:27:31|Wow, xe đẹp không?
+ACC000061|2026-10-14 14:39:06|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000098|2026-10-14 14:39:58|Cuối tuần đạp xe quanh hồ nhé.
+ACC000061|2026-10-14 14:40:26|Hay đó, chốt luôn.
+ACC000098|2026-10-14 14:42:00|Nhớ mang nước.
+ACC000098|2026-10-14 20:23:32|Đang làm gì đó?
+ACC000098|2026-10-14 20:27:03|Chúc bạn một ngày tốt lành
+ACC000098|2026-10-14 20:27:16|Tối nói chuyện tiếp nhé

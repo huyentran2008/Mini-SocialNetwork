@@ -1,0 +1,12 @@
+ACC000092|2026-10-19 18:13:07|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000074|2026-10-19 18:13:27|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000092|2026-10-19 18:15:33|Mình thấy rồi, truy cập ngoài mảng.
+ACC000074|2026-10-19 18:16:22|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000092|2026-10-19 18:22:41|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000074|2026-10-19 18:22:54|Lỗi này ai cũng từng gặp thôi.
+ACC000092|2026-10-21 14:09:06|Bạn ơi, bài tập cơ sở dữ liệu nộp chưa?
+ACC000074|2026-10-21 14:13:08|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000092|2026-10-21 14:19:29|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000074|2026-10-21 14:20:06|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000092|2026-10-21 15:06:51|Có gì hỏi mình nhé.
+ACC000074|2026-10-21 15:08:56|Okela, cảm ơn Hòa nhiều.

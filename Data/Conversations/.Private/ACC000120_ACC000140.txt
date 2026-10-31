@@ -1,0 +1,18 @@
+ACC000120|2026-09-28 23:01:03|Bạn xem giúp mình CV được không?
+ACC000140|2026-09-28 23:03:45|Gửi mình xem nhé.
+ACC000120|2026-09-28 23:04:47|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000140|2026-09-28 23:19:30|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000120|2026-09-28 23:23:57|Hợp lý, mình sửa luôn.
+ACC000140|2026-09-28 23:25:08|Sửa xong gửi mình xem lại nhé.
+ACC000120|2026-10-08 15:30:09|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000140|2026-10-08 15:33:07|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000120|2026-10-08 15:33:23|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000140|2026-10-08 15:39:24|Cảm ơn bạn đã hỏi thăm.
+ACC000120|2026-10-08 15:41:38|Có cần mình mang đồ ăn qua không?
+ACC000140|2026-10-08 15:46:16|Không cần đâu, mình ổn rồi.
+ACC000140|2026-10-11 13:18:55|Hôm nay bạn rảnh không?
+ACC000120|2026-10-11 13:22:39|Chiều mình rảnh, có chuyện gì vậy?
+ACC000140|2026-10-11 13:27:41|Đi uống trà đào nhé, lâu rồi không gặp.
+ACC000120|2026-10-11 13:28:21|Ok, 7 giờ mình qua đón bạn nha.
+ACC000140|2026-10-11 13:30:17|Được, mình chờ ở cổng.
+ACC000120|2026-10-11 13:31:57|Tới rồi nè, ra đi.

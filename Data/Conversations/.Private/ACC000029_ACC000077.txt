@@ -1,0 +1,46 @@
+ACC000029|2026-10-22 07:29:02|Bạn ơi, bài tập cấu trúc dữ liệu nộp chưa?
+ACC000077|2026-10-22 07:29:34|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000029|2026-10-22 07:31:54|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000077|2026-10-22 07:34:21|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000029|2026-10-22 07:34:55|Có gì hỏi mình nhé.
+ACC000077|2026-10-22 07:35:06|Okela, cảm ơn Danh nhiều.
+ACC000077|2026-10-22 09:42:23|Bạn xem giúp mình CV được không?
+ACC000029|2026-10-22 09:46:20|Gửi mình xem nhé.
+ACC000077|2026-10-22 09:46:42|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000029|2026-10-22 09:48:17|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000077|2026-10-22 09:50:01|Hợp lý, mình sửa luôn.
+ACC000029|2026-10-22 09:55:18|Sửa xong gửi mình xem lại nhé.
+ACC000077|2026-10-23 08:47:02|Ừ đúng rồi
+ACC000077|2026-10-23 08:47:03|Ừm, mình nghĩ vậy
+ACC000029|2026-10-23 08:47:11|Để mình xem
+ACC000077|2026-10-23 08:47:18|Thôi mình đi ăn cơm đã
+ACC000077|2026-10-23 08:47:31|Mệt quá hôm nay
+ACC000077|2026-10-23 08:47:32|Cố lên nhé
+ACC000077|2026-10-23 08:47:44|Mình cũng nghĩ vậy
+ACC000029|2026-10-23 08:47:51|Cuối tuần rảnh không?
+ACC000077|2026-10-23 08:48:02|Thôi mình đi ăn cơm đã
+ACC000029|2026-10-23 08:48:04|Đang làm gì đó?
+ACC000029|2026-10-23 08:48:15|Mình cũng nghĩ vậy
+ACC000029|2026-10-23 08:48:25|Mình cũng nghĩ vậy
+ACC000077|2026-10-23 08:48:36|Ừm, mình nghĩ vậy
+ACC000077|2026-10-23 08:48:38|Rồi, mình nhớ rồi
+ACC000077|2026-10-23 08:48:40|Haha
+ACC000029|2026-10-23 08:48:51|Chúc bạn một ngày tốt lành
+ACC000029|2026-10-23 14:34:40|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000077|2026-10-23 14:34:58|Haha, bé làm gì thế?
+ACC000029|2026-10-23 14:35:24|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000077|2026-10-23 14:36:27|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000029|2026-10-23 14:37:09|Đợi chút mình chụp.
+ACC000077|2026-10-23 14:38:46|Đúng là chủ nào mèo nấy.
+ACC000077|2026-10-23 19:59:14|Sao git của mình báo conflict hoài vậy?
+ACC000029|2026-10-23 20:02:34|Bạn có pull trước khi push không?
+ACC000077|2026-10-23 20:33:14|Chắc là không.
+ACC000029|2026-10-23 20:33:33|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000077|2026-10-23 20:36:32|Làm xong rồi, cảm ơn bạn.
+ACC000029|2026-10-23 20:40:24|Từ nay nhớ pull trước nhé.
+ACC000077|2026-10-24 19:31:58|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000029|2026-10-24 19:35:07|Ủa quên mất, bao nhiêu vậy?
+ACC000077|2026-10-24 19:37:14|40 nghìn thôi.
+ACC000029|2026-10-24 19:39:28|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000077|2026-10-24 19:39:46|Nhận được rồi nha.
+ACC000029|2026-10-24 19:40:52|Ok, xong nợ.

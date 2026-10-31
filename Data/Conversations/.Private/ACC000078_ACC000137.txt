@@ -1,0 +1,25 @@
+ACC000078|2026-10-20 20:34:49|Chào bạn, lâu rồi không nói chuyện.
+ACC000137|2026-10-20 20:35:36|Chào bạn, dạo này bạn thế nào?
+ACC000078|2026-10-20 20:36:34|Mình ổn, bận học và làm thêm.
+ACC000137|2026-10-20 20:41:36|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000078|2026-10-20 20:42:07|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000137|2026-10-20 20:48:59|Được, tới lúc đó nhắn mình nhé.
+ACC000137|2026-10-21 20:07:49|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000078|2026-10-21 20:35:17|Haha, bé làm gì thế?
+ACC000137|2026-10-21 20:38:41|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000078|2026-10-21 20:45:20|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000137|2026-10-21 20:47:40|Đợi chút mình chụp.
+ACC000078|2026-10-21 20:50:54|Đúng là chủ nào mèo nấy.
+ACC000078|2026-10-22 19:39:12|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000137|2026-10-22 19:40:11|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000078|2026-10-22 19:42:11|Cảm ơn, mình hay quên lắm.
+ACC000137|2026-10-22 19:45:28|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000078|2026-10-22 19:46:08|Ừ, mình in hai bản.
+ACC000137|2026-10-22 19:46:22|Giỏi.
+ACC000137|2026-10-23 11:03:03|Tối nay đi ăn gà rán không?
+ACC000078|2026-10-23 11:08:54|Đi chứ! Quán nào?
+ACC000137|2026-10-23 11:12:48|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000078|2026-10-23 11:17:45|Mấy giờ?
+ACC000137|2026-10-23 11:20:53|8 giờ nhé.
+ACC000078|2026-10-23 11:21:25|Ok, mình rủ thêm một bạn nữa được không?
+ACC000137|2026-10-23 11:23:04|Được chứ, càng đông càng vui.

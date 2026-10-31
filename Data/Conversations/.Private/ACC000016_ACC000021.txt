@@ -1,0 +1,6 @@
+ACC000016|2026-10-15 14:36:23|Cuối tuần này đi Quy Nhơn không?
+ACC000021|2026-10-15 14:37:20|Hay đó, đi mấy người?
+ACC000016|2026-10-15 14:39:43|Khoảng 7 người, tự đi xe máy.
+ACC000021|2026-10-15 14:42:32|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000016|2026-10-15 14:44:23|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000021|2026-10-15 14:48:14|Ok, vậy chốt luôn.

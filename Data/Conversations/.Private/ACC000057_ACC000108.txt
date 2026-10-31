@@ -1,0 +1,12 @@
+ACC000057|2026-10-22 07:26:54|Cuối tuần này đi Vũng Tàu không?
+ACC000108|2026-10-22 07:29:52|Hay đó, đi mấy người?
+ACC000057|2026-10-22 07:30:32|Khoảng 20 người, tự đi xe máy.
+ACC000108|2026-10-22 07:31:37|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000057|2026-10-22 07:35:14|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000108|2026-10-22 07:35:57|Ok, vậy chốt luôn.
+ACC000108|2026-10-22 22:18:08|Cuối tuần bạn làm gì?
+ACC000057|2026-10-22 22:49:27|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000108|2026-10-22 22:50:41|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000057|2026-10-22 22:51:44|Thật không? Ngại quá.
+ACC000108|2026-10-22 22:57:43|Ngại gì, mẹ mình quý bạn lắm.
+ACC000057|2026-10-22 23:01:25|Vậy mình qua nhé, cảm ơn bác.

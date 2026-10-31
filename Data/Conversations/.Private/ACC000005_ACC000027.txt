@@ -1,0 +1,10 @@
+ACC000005|2026-10-13 11:00:38|Hôm nay bạn rảnh không?
+ACC000027|2026-10-13 11:01:34|Chiều nay mình rảnh, có chuyện gì vậy?
+ACC000005|2026-10-13 11:10:13|Đi cà phê học bài chung nhé, mình có vài chỗ chưa hiểu
+ACC000027|2026-10-13 11:19:51|Ok, 3 giờ ở quán quen nhé
+ACC000005|2026-10-13 11:28:05|Chốt luôn!
+ACC000027|2026-10-22 20:39:30|Nay trời mưa quá, bạn có đi học không?
+ACC000005|2026-10-22 20:46:48|Mình đi bằng xe buýt, chắc hơi trễ
+ACC000027|2026-10-22 20:51:46|Vậy mình giữ chỗ cho bạn nhé
+ACC000005|2026-10-22 20:55:38|Cảm ơn bạn, bạn tốt quá
+ACC000027|2026-10-22 21:01:45|Có gì đâu, nhớ mang áo mưa

@@ -1,0 +1,8 @@
+id=POST000187
+author=ACC000052
+visibility=PUBLIC
+created_at=2026-10-17 08:01:18
+edited_at=
+status=HIDDEN
+title=Tham gia nhóm đầu tư lời gấp đôi sau 1 tuần
+content=Chỉ cần nạp 1 triệu, sau một tuần nhận lại 2 triệu. Đã có hơn 500 người tham gia. Nhắn mình để được hướng dẫn.

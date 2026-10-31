@@ -1,0 +1,27 @@
+ACC000101|2026-10-22 12:42:24|Mình cũng nghĩ vậy
+ACC000101|2026-10-22 13:29:31|Mình đang bận chút, lát nhắn lại nhé
+ACC000016|2026-10-22 13:32:01|Rồi, mình nhớ rồi
+ACC000101|2026-10-24 07:46:13|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000016|2026-10-24 07:47:10|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000101|2026-10-24 07:49:39|Giá thế nào?
+ACC000016|2026-10-24 07:50:30|Khoảng 20 nghìn một ly.
+ACC000101|2026-10-24 07:57:26|Hợp lý đó, mai mình thử.
+ACC000016|2026-10-24 07:57:53|Mình cũng hay ngồi ở đó, gặp nhau nhé.
+ACC000101|2026-10-24 18:21:27|Điểm thi giải tích có chưa bạn?
+ACC000016|2026-10-24 18:22:32|Có rồi, mình được 8 điểm.
+ACC000101|2026-10-24 18:23:35|Giỏi quá, mình mới 6 điểm thôi.
+ACC000016|2026-10-24 18:25:03|Cũng ổn mà, qua môn là tốt rồi.
+ACC000101|2026-10-24 19:00:37|Cảm ơn bạn đã động viên.
+ACC000016|2026-10-24 19:02:10|Lần sau mình học nhóm tiếp nhé.
+ACC000016|2026-10-24 19:13:03|Chỉ mình đường tới thư viện thành phố với.
+ACC000101|2026-10-24 19:16:18|Bạn đang ở đâu?
+ACC000016|2026-10-24 19:17:24|Mình đang ở gần cổng chợ.
+ACC000101|2026-10-24 19:19:05|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000016|2026-10-24 19:22:27|Mình thấy rồi, cảm ơn bạn nha.
+ACC000101|2026-10-24 19:23:20|Ok, đi cẩn thận.
+ACC000016|2026-10-24 21:34:51|Năm nay bạn về quê ăn Tết không?
+ACC000101|2026-10-24 21:36:09|Có, mình đặt vé tàu rồi.
+ACC000016|2026-10-24 21:39:29|Mình còn chưa mua được vé.
+ACC000101|2026-10-24 21:39:41|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000016|2026-10-24 21:40:09|Ok, mình thử xem.
+ACC000101|2026-10-24 21:42:21|Chúc bạn sớm có vé nhé.

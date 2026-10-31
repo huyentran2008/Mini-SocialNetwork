@@ -1,0 +1,14 @@
+ACC000073|2026-10-20 16:39:46|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000059|2026-10-20 16:39:54|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000073|2026-10-20 16:40:54|Giá thế nào?
+ACC000059|2026-10-20 16:41:46|Khoảng 50 nghìn một ly.
+ACC000073|2026-10-20 16:44:48|Hợp lý đó, mai mình thử.
+ACC000059|2026-10-20 16:45:12|Mình cũng hay ngồi ở đó, gặp nhau nhé.
+ACC000073|2026-10-20 19:35:21|Hôm nay bạn có đi học không?
+ACC000059|2026-10-20 19:42:03|Có, mình đang trên đường.
+ACC000073|2026-10-20 19:45:31|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000059|2026-10-20 19:47:59|Ok, giữ rồi.
+ACC000073|2026-10-20 19:49:02|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000059|2026-10-20 19:49:39|Nhanh lên, sắp vào học rồi.
+ACC000059|2026-10-23 20:22:52|Ừ đúng rồi
+ACC000059|2026-10-23 20:37:49|Vừa về tới nhà

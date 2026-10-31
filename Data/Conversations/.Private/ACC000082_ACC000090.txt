@@ -1,0 +1,19 @@
+ACC000082|2026-10-15 08:38:11|Tối nay đi ăn gà rán không?
+ACC000090|2026-10-15 08:41:29|Đi chứ! Quán nào?
+ACC000082|2026-10-15 08:44:43|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000090|2026-10-15 08:56:01|Mấy giờ?
+ACC000082|2026-10-15 08:57:03|7 rưỡi nhé.
+ACC000090|2026-10-15 08:58:11|Ok, mình rủ thêm một bạn nữa được không?
+ACC000082|2026-10-15 08:59:22|Được chứ, càng đông càng vui.
+ACC000090|2026-10-15 22:43:29|Sáng mai bạn có đi tập chạy không?
+ACC000082|2026-10-15 22:44:47|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000090|2026-10-15 22:45:17|Mình sợ dậy không nổi.
+ACC000082|2026-10-15 22:45:53|Để mình gọi bạn dậy.
+ACC000090|2026-10-15 22:49:25|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000082|2026-10-15 22:52:45|Ok, mai gặp.
+ACC000082|2026-10-22 21:14:04|Mình mới mua chiếc xe đạp.
+ACC000090|2026-10-22 21:14:18|Wow, xe đẹp không?
+ACC000082|2026-10-22 21:16:13|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000090|2026-10-22 21:17:34|Cuối tuần đạp xe quanh hồ nhé.
+ACC000082|2026-10-22 21:18:41|Hay đó, chốt luôn.
+ACC000090|2026-10-22 21:19:58|Nhớ mang nước.

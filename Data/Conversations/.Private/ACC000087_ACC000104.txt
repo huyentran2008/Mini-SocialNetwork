@@ -1,0 +1,6 @@
+ACC000087|2026-10-19 08:58:05|Hôm nay bạn rảnh không?
+ACC000104|2026-10-19 09:02:02|Chiều mình rảnh, có chuyện gì vậy?
+ACC000087|2026-10-19 09:02:55|Đi uống nước cam nhé, lâu rồi không gặp.
+ACC000104|2026-10-19 09:03:50|Ok, 6 giờ tối mình qua đón bạn nha.
+ACC000087|2026-10-19 09:04:15|Được, mình chờ ở cổng.
+ACC000104|2026-10-19 09:08:53|Tới rồi nè, ra đi.

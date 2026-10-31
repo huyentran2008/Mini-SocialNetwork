@@ -1,0 +1,14 @@
+id=ACC000118
+username=tunm55
+password=5475403133363570
+full_name=Nguyễn Minh Hải Tú
+birthday=09-07-2006
+gender=Male
+bio=Kiên trì là chìa khóa.
+created_at=2026-10-04
+status=ACTIVE
+residence=Cần Thơ
+hometown=Đà Nẵng
+school=Học viện Y Dược học cổ truyền Việt Nam
+workplace=
+hobbies=Bơi lội

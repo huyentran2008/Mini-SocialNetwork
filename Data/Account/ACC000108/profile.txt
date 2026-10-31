@@ -1,0 +1,14 @@
+id=ACC000108
+username=thuannp88
+password=546875616e40343633307a
+full_name=Nguyễn Phúc Đình Thuận
+birthday=25-03-2002
+gender=Male
+bio=Yêu mèo, yêu cà phê, yêu những ngày mưa.
+created_at=2026-10-08
+status=ACTIVE
+residence=Quảng Ninh
+hometown=Khánh Hòa
+school=Đại học Nguyễn Tất Thành
+workplace=Unilever Việt Nam
+hobbies=Đóng góp mã nguồn mở;Pha cà phê

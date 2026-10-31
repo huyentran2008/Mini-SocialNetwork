@@ -1,0 +1,389 @@
+SYSTEM|2026-10-11 21:11:29|Lê Bảo Hùng đã tạo nhóm "Anime Night"
+SYSTEM|2026-10-11 21:11:30|Lê Bảo Hùng đã thêm Vũ Kim Nga vào nhóm
+SYSTEM|2026-10-11 21:11:31|Vũ Kim Nga đã thêm Đặng Minh Việt vào nhóm
+SYSTEM|2026-10-11 21:11:32|Đặng Minh Việt đã thêm Huỳnh Anh Yên vào nhóm
+ACC000083|2026-10-12 08:27:22|Tối nay leo rank không?
+ACC000055|2026-10-12 08:28:26|Có mình.
+ACC000076|2026-10-12 08:29:24|Mình tham gia nhưng chỉ chơi tới 11 giờ.
+ACC000119|2026-10-12 08:41:26|Cho mình một suất.
+ACC000083|2026-10-12 08:44:29|Ok, 8 giờ online nhé.
+ACC000083|2026-10-12 08:55:50|Tối nay leo rank không?
+ACC000076|2026-10-12 08:57:33|Có mình.
+SYSTEM|2026-10-12 09:00:08|Lê Bảo Hùng đã thêm Nguyễn Mỹ Phương Giang vào nhóm
+ACC000119|2026-10-12 09:02:14|Mình tham gia nhưng chỉ chơi tới 11 giờ.
+ACC000055|2026-10-12 09:04:23|Cho mình một suất.
+ACC000083|2026-10-12 09:06:00|Ok, 8 giờ online nhé.
+ACC000083|2026-10-12 12:52:17|Mọi người nhớ nộp bài trước 6 giờ nhé.
+ACC000076|2026-10-12 12:52:46|Hạn chót là hôm nay đúng không?
+ACC000083|2026-10-12 13:34:30|Đúng rồi, trễ là trừ điểm.
+ACC000093|2026-10-12 13:35:26|Cảm ơn nhắc, mình sắp xong.
+ACC000119|2026-10-12 13:35:35|Mình vừa nộp xong.
+ACC000083|2026-10-12 16:34:47|Mọi người nhớ nộp bài trước 6 giờ nhé.
+ACC000076|2026-10-12 16:35:57|Hạn chót là hôm nay đúng không?
+ACC000083|2026-10-12 16:36:51|Đúng rồi, trễ là trừ điểm.
+ACC000093|2026-10-12 16:38:12|Cảm ơn nhắc, mình sắp xong.
+ACC000055|2026-10-12 16:44:14|Mình vừa nộp xong.
+ACC000119|2026-10-12 16:53:43|Mới ra bản cập nhật mới, mọi người thấy sao?
+ACC000083|2026-10-12 16:54:47|Cân bằng hơn trước nhiều.
+ACC000076|2026-10-12 16:57:01|Mình thấy nhân vật yêu thích bị yếu đi.
+ACC000093|2026-10-12 16:58:51|Không sao, đổi sang nhân vật khác chơi.
+SYSTEM|2026-10-12 17:14:33|Đặng Minh Việt đã thêm Đỗ Hoàng Long vào nhóm
+ACC000076|2026-10-12 18:00:24|Tối nay leo rank không?
+ACC000083|2026-10-12 18:01:35|Có mình.
+ACC000009|2026-10-12 18:04:54|Mình tham gia nhưng chỉ chơi tới 11 giờ.
+ACC000119|2026-10-12 18:11:02|Cho mình một suất.
+ACC000076|2026-10-12 18:13:09|Ok, 8 giờ online nhé.
+ACC000083|2026-10-12 19:00:18|Cuối tuần chơi cờ vua giải trí nhé.
+ACC000076|2026-10-12 19:05:01|Hay đó, mình tham gia.
+ACC000093|2026-10-12 19:08:12|Mình chỉ biết chơi cơ bản thôi.
+ACC000083|2026-10-12 19:13:08|Không sao, chơi cho vui.
+ACC000119|2026-10-12 19:25:08|Nhớ ghi tên người thắng.
+ACC000119|2026-10-12 19:33:31|Mới ra bản cập nhật mới, mọi người thấy sao?
+ACC000083|2026-10-12 19:34:44|Cân bằng hơn trước nhiều.
+ACC000076|2026-10-12 19:35:41|Mình thấy nhân vật yêu thích bị yếu đi.
+ACC000093|2026-10-12 19:38:08|Không sao, đổi sang nhân vật khác chơi.
+SYSTEM|2026-10-12 21:51:17|Nguyễn Mỹ Phương Giang đã thêm Lê Quốc Bảo vào nhóm
+SYSTEM|2026-10-13 13:40:52|Lê Quốc Bảo đã thêm Tăng Thu Mỹ vào nhóm
+SYSTEM|2026-10-13 21:30:04|Nguyễn Mỹ Phương Giang đã thêm Đặng Quang Huy vào nhóm
+SYSTEM|2026-10-14 08:53:23|Lê Quốc Bảo đã thêm Bùi Tuyết Mai vào nhóm
+ACC000091|2026-10-15 02:26:54|Trời nóng quá
+ACC000037|2026-10-15 02:27:03|Cảm ơn cả nhóm đã giúp mình
+ACC000083|2026-10-15 02:27:06|Cố lên mọi người
+ACC000083|2026-10-15 02:27:17|Haha đúng là vậy
+ACC000083|2026-10-15 02:27:21|Cho mình vào nhóm học với
+ACC000083|2026-10-15 02:27:22|Thật không đó?
+ACC000083|2026-10-15 02:27:24|Đừng quên nha mọi người
+ACC000091|2026-10-15 02:27:36|Ngủ ngon cả nhóm
+ACC000119|2026-10-15 02:27:43|Đừng quên nha mọi người
+ACC000083|2026-10-15 02:27:53|Mình đang bận chút, lát nói tiếp
+ACC000119|2026-10-15 02:28:01|Nhớ mang theo nhé
+ACC000083|2026-10-15 02:28:13|Trời nóng quá
+ACC000083|2026-10-15 02:28:18|Có ai online không?
+ACC000093|2026-10-15 02:28:26|Vậy chốt nhé
+ACC000083|2026-10-15 02:28:35|Nhớ mang theo nhé
+ACC000083|2026-10-15 02:28:40|Lần sau mình rủ thêm người nhé
+ACC000083|2026-10-15 02:28:49|Ai đi nữa không?
+ACC000091|2026-10-15 02:28:58|Thật không đó?
+ACC000091|2026-10-15 02:29:06|Lần sau mình rủ thêm người nhé
+ACC000083|2026-10-15 02:29:07|Đừng quên nha mọi người
+ACC000091|2026-10-15 02:29:11|Hẹn mọi người cuối tuần
+ACC000083|2026-10-15 02:29:15|Cảm ơn cả nhóm đã giúp mình
+ACC000091|2026-10-15 02:29:16|haha
+ACC000083|2026-10-15 02:29:28|Cố lên mọi người
+ACC000083|2026-10-15 02:29:30|Ngủ ngon cả nhóm
+ACC000091|2026-10-15 07:21:17|Cảm ơn nhé
+ACC000083|2026-10-15 07:21:42|Ai biết quán nào ngon giới thiệu mình với
+ACC000038|2026-10-15 07:22:39|Mình sẽ cập nhật sau
+ACC000119|2026-10-15 07:57:45|Tối nay có ai online không?
+ACC000091|2026-10-15 07:58:24|Có mình.
+ACC000003|2026-10-15 07:58:58|Mình cũng vậy.
+ACC000119|2026-10-15 08:01:50|Gọi video nói chuyện chút nhé.
+ACC000091|2026-10-15 08:03:56|Ok, 9 giờ.
+ACC000003|2026-10-15 08:06:38|Chờ mình tắm xong đã.
+ACC000091|2026-10-15 09:59:00|Mới ra bản cập nhật mới, mọi người thấy sao?
+ACC000083|2026-10-15 10:02:07|Cân bằng hơn trước nhiều.
+ACC000119|2026-10-15 10:05:59|Mình thấy nhân vật yêu thích bị yếu đi.
+ACC000038|2026-10-15 10:06:42|Không sao, đổi sang nhân vật khác chơi.
+ACC000083|2026-10-15 10:14:45|Ai có tin gì mới không?
+ACC000083|2026-10-15 10:14:50|Cảm ơn nhé
+ACC000083|2026-10-15 10:14:56|Để mình kiểm tra lại rồi báo
+ACC000091|2026-10-15 10:14:57|Tuyệt vời!
+ACC000083|2026-10-15 10:15:04|Cảm ơn cả nhóm đã giúp mình
+ACC000091|2026-10-15 10:15:12|Hôm nay mưa mà vẫn đi à?
+ACC000009|2026-10-15 10:15:23|Tuyệt vời!
+ACC000091|2026-10-15 10:15:31|Ủa vậy hả?
+ACC000091|2026-10-15 10:15:39|Cảm ơn cả nhóm đã giúp mình
+ACC000083|2026-10-15 10:15:48|Mai gặp nhé
+ACC000076|2026-10-15 10:15:52|Nghe hợp lý đó
+ACC000119|2026-10-15 10:15:58|Mình +1
+ACC000083|2026-10-15 10:16:02|Cảm ơn cả nhóm đã giúp mình
+ACC000091|2026-10-15 10:16:14|Có ai online không?
+ACC000091|2026-10-15 10:16:20|Nhớ mang theo nhé
+ACC000091|2026-10-15 10:16:28|Đồng ý với bạn
+ACC000091|2026-10-15 10:16:30|Mình cũng nghĩ thế
+ACC000091|2026-10-15 10:16:33|Mọi người ăn cơm chưa?
+ACC000003|2026-10-15 10:16:35|haha
+ACC000091|2026-10-15 10:26:52|Nhóm mình có ai làm slide giúp phần cuối không?
+ACC000083|2026-10-15 10:30:38|Để mình làm.
+ACC000091|2026-10-15 10:31:21|Cảm ơn Hùng, mình gửi nội dung rồi nhé.
+ACC000083|2026-10-15 10:31:56|Nhận rồi, tối mình làm xong.
+ACC000119|2026-10-15 10:33:42|Mình soát lỗi chính tả giúp.
+ACC000091|2026-10-15 10:35:48|Quá tuyệt.
+ACC000091|2026-10-15 10:48:39|Hôm nay ai mang theo sạc dự phòng không?
+ACC000038|2026-10-15 10:52:40|Mình có, cần mượn không?
+ACC000091|2026-10-15 10:58:53|Điện thoại mình còn 5% rồi.
+ACC000038|2026-10-15 11:26:43|Lại bàn mình cắm nhé.
+ACC000091|2026-10-15 11:29:01|Cảm ơn bạn nhé.
+ACC000091|2026-10-15 11:41:52|Mới ra bản cập nhật mới, mọi người thấy sao?
+ACC000083|2026-10-15 11:44:36|Cân bằng hơn trước nhiều.
+ACC000038|2026-10-15 11:44:56|Mình thấy nhân vật yêu thích bị yếu đi.
+ACC000093|2026-10-15 11:46:47|Không sao, đổi sang nhân vật khác chơi.
+ACC000091|2026-10-15 11:55:42|Mệt ghê
+ACC000119|2026-10-15 11:58:02|Ngủ ngon cả nhóm
+ACC000083|2026-10-15 11:58:52|Mình cũng nghĩ thế
+ACC000009|2026-10-15 12:08:44|Mưa quá, ai đi học được không?
+ACC000083|2026-10-15 12:09:19|Mình vẫn đi, chỉ hơi ướt thôi.
+ACC000091|2026-10-15 12:11:09|Mình ở nhà, học trực tuyến đi.
+ACC000003|2026-10-15 12:13:56|Lớp mình có thông báo gì chưa?
+ACC000009|2026-10-15 12:15:37|Chưa thấy, cứ đến lớp bình thường.
+ACC000009|2026-10-15 12:23:45|Cảm ơn cả nhóm đã giúp mình
+ACC000003|2026-10-15 12:23:48|Ủa vậy hả?
+ACC000083|2026-10-15 12:23:53|Mình vừa tới nơi
+ACC000083|2026-10-15 12:24:00|Giỏi quá bạn ơi
+ACC000076|2026-10-15 12:24:10|Hôm nay vui thật
+ACC000091|2026-10-15 12:24:19|Ổn rồi nhé
+ACC000093|2026-10-15 12:24:28|Ngủ ngon cả nhóm
+ACC000083|2026-10-15 12:24:38|Nhớ mang theo nhé
+ACC000091|2026-10-15 12:24:49|Chuẩn rồi
+ACC000119|2026-10-15 12:24:51|Lần sau mình rủ thêm người nhé
+ACC000083|2026-10-15 12:24:56|Giỏi quá bạn ơi
+ACC000083|2026-10-15 12:25:08|Mình +1
+ACC000009|2026-10-15 12:25:16|Mình sẽ cập nhật sau
+ACC000091|2026-10-15 12:25:20|Mình đang bận chút, lát nói tiếp
+ACC000083|2026-10-15 12:25:30|Ủa vậy hả?
+ACC000037|2026-10-15 12:25:35|Thật không đó?
+ACC000083|2026-10-15 12:25:37|Nhớ giữ sức khỏe nhé mọi người
+ACC000003|2026-10-15 12:25:46|Ừ, mình nhớ rồi
+ACC000083|2026-10-15 12:25:56|Mình +1
+ACC000083|2026-10-15 12:26:07|Mình đang bận chút, lát nói tiếp
+ACC000091|2026-10-15 12:26:08|Đã nhận được rồi nhé
+ACC000091|2026-10-15 12:26:14|Mình +1
+ACC000091|2026-10-15 12:26:20|Chúc mừng nhé!
+ACC000083|2026-10-15 12:38:19|Để mình kiểm tra lại rồi báo
+ACC000083|2026-10-15 12:39:04|Đúng rồi
+ACC000091|2026-10-15 13:10:35|Ổn rồi nhé
+ACC000009|2026-10-15 13:23:18|Ngủ ngon cả nhóm
+ACC000091|2026-10-15 14:09:47|Mình về trước nhé
+ACC000083|2026-10-15 14:49:12|Mọi người ăn cơm chưa?
+ACC000083|2026-10-15 14:51:13|Haha đúng là vậy
+ACC000083|2026-10-15 15:01:06|Tối nay leo rank không?
+ACC000038|2026-10-15 15:01:31|Có mình.
+ACC000091|2026-10-15 15:04:45|Mình tham gia nhưng chỉ chơi tới 11 giờ.
+ACC000009|2026-10-15 15:20:28|Cho mình một suất.
+ACC000083|2026-10-15 15:20:53|Ok, 8 giờ online nhé.
+ACC000091|2026-10-15 15:29:31|Cuối tuần chơi cờ vua giải trí nhé.
+ACC000083|2026-10-15 15:31:43|Hay đó, mình tham gia.
+ACC000093|2026-10-15 15:47:24|Mình chỉ biết chơi cơ bản thôi.
+ACC000091|2026-10-15 15:48:23|Không sao, chơi cho vui.
+ACC000076|2026-10-15 16:08:50|Nhớ ghi tên người thắng.
+ACC000091|2026-10-15 16:21:26|Cuối tuần chơi cờ vua giải trí nhé.
+ACC000083|2026-10-15 16:22:20|Hay đó, mình tham gia.
+ACC000093|2026-10-15 16:25:50|Mình chỉ biết chơi cơ bản thôi.
+ACC000091|2026-10-15 16:27:14|Không sao, chơi cho vui.
+ACC000055|2026-10-15 16:29:17|Nhớ ghi tên người thắng.
+ACC000091|2026-10-15 16:38:16|Mai gặp nhé
+ACC000091|2026-10-15 16:39:30|Mình cũng nghĩ thế
+ACC000119|2026-10-15 16:45:02|Mình đang bận chút, lát nói tiếp
+ACC000091|2026-10-15 16:53:36|Mọi người nhớ nộp bài trước 6 giờ tối nhé.
+ACC000083|2026-10-15 16:54:03|Hạn chót là hôm nay đúng không?
+ACC000091|2026-10-15 16:55:20|Đúng rồi, trễ là trừ điểm.
+ACC000009|2026-10-15 16:59:16|Cảm ơn nhắc, mình sắp xong.
+ACC000003|2026-10-15 16:59:35|Mình vừa nộp xong.
+ACC000003|2026-10-15 17:08:52|Mọi người nhớ nộp bài trước 7 giờ nhé.
+ACC000083|2026-10-15 17:09:24|Hạn chót là hôm nay đúng không?
+ACC000003|2026-10-15 17:11:58|Đúng rồi, trễ là trừ điểm.
+ACC000009|2026-10-15 17:18:05|Cảm ơn nhắc, mình sắp xong.
+ACC000091|2026-10-15 17:20:06|Mình vừa nộp xong.
+ACC000076|2026-10-15 17:28:23|Tối nay có ai online không?
+ACC000083|2026-10-15 17:31:28|Có mình.
+ACC000091|2026-10-15 17:37:11|Mình cũng vậy.
+ACC000076|2026-10-15 17:40:51|Gọi video nói chuyện chút nhé.
+ACC000083|2026-10-15 17:43:04|Ok, 9 giờ.
+ACC000091|2026-10-15 18:04:04|Chờ mình tắm xong đã.
+ACC000091|2026-10-15 18:12:10|Mọi người nhớ nộp bài trước 11 giờ 30 nhé.
+ACC000119|2026-10-15 18:12:37|Hạn chót là hôm nay đúng không?
+ACC000091|2026-10-15 18:13:09|Đúng rồi, trễ là trừ điểm.
+ACC000083|2026-10-15 18:14:02|Cảm ơn nhắc, mình sắp xong.
+ACC000076|2026-10-15 18:16:20|Mình vừa nộp xong.
+ACC000091|2026-10-15 18:24:33|Cuối tuần chơi cờ vua giải trí nhé.
+ACC000083|2026-10-15 18:27:23|Hay đó, mình tham gia.
+ACC000038|2026-10-15 18:34:17|Mình chỉ biết chơi cơ bản thôi.
+ACC000091|2026-10-15 18:36:44|Không sao, chơi cho vui.
+ACC000076|2026-10-15 18:41:58|Nhớ ghi tên người thắng.
+ACC000038|2026-10-15 18:50:57|Có bộ anime mới, tối nay xem chung không?
+ACC000119|2026-10-15 19:37:57|Tập mấy rồi bạn?
+ACC000038|2026-10-15 19:41:43|Mới ra tập 3.
+ACC000083|2026-10-15 20:05:59|Mình xem rồi, hay lắm.
+ACC000091|2026-10-15 20:09:44|Đừng spoil nhé.
+ACC000083|2026-10-15 20:21:21|Trưa nay ăn gì mọi người?
+ACC000076|2026-10-15 20:25:03|Cơm tấm đi, trời nóng ăn nhẹ thôi.
+ACC000119|2026-10-15 20:36:06|Mình thích bánh xèo hơn.
+ACC000091|2026-10-15 20:39:07|Phiếu bầu: gà rán +1.
+ACC000083|2026-10-15 20:39:25|Vậy chốt cơm gà, 7 giờ gặp ở cổng.
+SYSTEM|2026-10-15 21:07:11|Đặng Minh Việt đã thêm Phạm Yến Tuyền vào nhóm
+ACC000076|2026-10-15 21:08:18|Ok, mình tới đúng giờ.
+ACC000093|2026-10-15 21:19:30|Mình +1
+ACC000078|2026-10-15 21:21:00|Ổn rồi nhé
+ACC000083|2026-10-15 21:21:35|Thật không đó?
+ACC000091|2026-10-15 21:23:17|Mình đang bận chút, lát nói tiếp
+ACC000083|2026-10-15 21:24:04|Ủa vậy hả?
+ACC000076|2026-10-15 21:32:09|Cố lên mọi người
+ACC000091|2026-10-15 21:32:18|Mình đang bận chút, lát nói tiếp
+ACC000078|2026-10-15 21:32:21|Ủa vậy hả?
+ACC000091|2026-10-15 21:32:27|Mình vừa tới nơi
+ACC000083|2026-10-15 21:32:35|Để mình kiểm tra lại rồi báo
+ACC000009|2026-10-15 21:32:45|Okela mọi người
+ACC000091|2026-10-15 21:32:54|Cho mình vào nhóm học với
+ACC000091|2026-10-15 21:33:06|Để mình kiểm tra lại rồi báo
+ACC000083|2026-10-15 21:33:15|Hẹn mọi người cuối tuần
+ACC000083|2026-10-15 21:33:26|Mình +1
+ACC000083|2026-10-15 21:33:27|Hôm nay vui thật
+ACC000083|2026-10-15 21:33:33|Ai biết quán nào ngon giới thiệu mình với
+ACC000091|2026-10-15 21:33:34|Mai gặp nhé
+ACC000083|2026-10-15 21:33:36|Nhớ giữ sức khỏe nhé mọi người
+ACC000083|2026-10-15 21:33:48|Chúc mừng nhé!
+ACC000083|2026-10-15 21:33:53|Hẹn mọi người cuối tuần
+ACC000009|2026-10-15 21:34:00|Nghe hợp lý đó
+ACC000083|2026-10-15 21:34:02|Nhớ giữ sức khỏe nhé mọi người
+SYSTEM|2026-10-15 21:41:32|Lê Bảo Hùng đã thêm Lý Bích Ngọc vào nhóm
+ACC000083|2026-10-15 21:43:52|Hôm nay ai mang theo sạc dự phòng không?
+ACC000093|2026-10-15 21:46:02|Mình có, cần mượn không?
+ACC000083|2026-10-15 21:46:40|Điện thoại mình còn 5% rồi.
+ACC000093|2026-10-15 21:48:37|Lại bàn mình cắm nhé.
+ACC000083|2026-10-15 21:51:50|Cảm ơn bạn nhé.
+ACC000091|2026-10-15 21:59:51|Đúng rồi
+ACC000091|2026-10-15 21:59:58|Trời nóng quá
+ACC000091|2026-10-15 22:00:06|Lần sau mình rủ thêm người nhé
+ACC000078|2026-10-15 22:00:18|Cảm ơn cả nhóm đã giúp mình
+ACC000093|2026-10-15 22:00:20|Vậy chốt nhé
+ACC000091|2026-10-15 22:00:23|Có ai online không?
+ACC000091|2026-10-15 22:00:27|Mọi người ăn cơm chưa?
+ACC000083|2026-10-15 22:00:34|Hôm nay mưa mà vẫn đi à?
+ACC000083|2026-10-15 22:00:42|Ngủ ngon cả nhóm
+ACC000083|2026-10-15 22:00:48|Đã nhận được rồi nhé
+ACC000083|2026-10-15 22:00:53|Mệt ghê
+ACC000076|2026-10-15 22:00:54|Okela mọi người
+ACC000009|2026-10-15 22:01:01|Có ai online không?
+ACC000083|2026-10-15 22:01:03|Mình về trước nhé
+ACC000083|2026-10-15 22:01:15|Hẹn mọi người cuối tuần
+ACC000076|2026-10-15 22:01:18|Đừng quên nha mọi người
+ACC000091|2026-10-15 22:01:20|Giỏi quá bạn ơi
+ACC000091|2026-10-15 22:10:34|Nay trời đẹp, mọi người đi dạo không?
+ACC000009|2026-10-15 22:14:16|Đi chứ, mình đang chán.
+ACC000038|2026-10-15 22:15:08|Mình đang ở nhà, 15 phút nữa tới.
+ACC000091|2026-10-15 22:15:55|Gặp ở công viên nhé.
+ACC000009|2026-10-15 22:16:48|Ok.
+ACC000078|2026-10-15 23:02:24|Cuối tuần chơi cờ vua giải trí nhé.
+ACC000091|2026-10-15 23:03:47|Hay đó, mình tham gia.
+ACC000076|2026-10-15 23:04:05|Mình chỉ biết chơi cơ bản thôi.
+ACC000078|2026-10-15 23:04:17|Không sao, chơi cho vui.
+ACC000093|2026-10-15 23:11:17|Nhớ ghi tên người thắng.
+ACC000091|2026-10-15 23:19:34|Tối nay leo rank không?
+ACC000078|2026-10-15 23:20:31|Có mình.
+ACC000083|2026-10-15 23:21:54|Mình tham gia nhưng chỉ chơi tới 11 giờ.
+ACC000076|2026-10-15 23:24:41|Cho mình một suất.
+ACC000091|2026-10-15 23:26:01|Ok, 8 giờ online nhé.
+ACC000003|2026-10-15 23:39:50|Lần sau mình rủ thêm người nhé
+ACC000083|2026-10-15 23:41:53|Chuẩn rồi
+ACC000091|2026-10-15 23:44:06|Hẹn mọi người cuối tuần
+ACC000119|2026-10-15 23:44:15|Nghe hợp lý đó
+ACC000093|2026-10-15 23:47:48|Mình +1
+ACC000083|2026-10-15 23:56:16|Có bộ anime mới, tối nay xem chung không?
+ACC000078|2026-10-16 00:00:58|Tập mấy rồi bạn?
+ACC000083|2026-10-16 00:04:39|Mới ra tập 3.
+ACC000091|2026-10-16 00:04:58|Mình xem rồi, hay lắm.
+ACC000003|2026-10-16 00:05:34|Đừng spoil nhé.
+ACC000091|2026-10-16 00:15:56|Chúc mừng sinh nhật Tuyền nhé!
+ACC000083|2026-10-16 00:16:32|Sinh nhật vui vẻ nha Tuyền!
+ACC000012|2026-10-16 00:22:53|Chúc Tuyền luôn xinh đẹp, học giỏi.
+ACC000078|2026-10-16 00:27:41|Cảm ơn mọi người nhiều lắm.
+ACC000091|2026-10-16 00:28:00|Cuối tuần mình tổ chức ăn mừng nhé.
+ACC000078|2026-10-16 00:28:17|Hay quá, mình mời cả nhóm luôn.
+ACC000038|2026-10-16 00:39:45|Đồng ý với bạn
+ACC000078|2026-10-16 00:47:53|Tối nay có ai online không?
+ACC000083|2026-10-16 00:49:33|Có mình.
+ACC000009|2026-10-16 00:51:07|Mình cũng vậy.
+ACC000078|2026-10-16 01:40:02|Gọi video nói chuyện chút nhé.
+ACC000083|2026-10-16 01:40:38|Ok, 9 giờ.
+ACC000009|2026-10-16 01:43:15|Chờ mình tắm xong đã.
+ACC000091|2026-10-16 01:51:15|Danh sách việc cần làm: 1 | chuẩn bị tài liệu; 2 | liên hệ địa điểm; 3 | chốt thời gian; 4 | phân công người phụ trách. Ai nhận việc nào nhắn số thứ tự giúp mình.
+ACC000083|2026-10-16 02:01:32|Tối nay leo rank không?
+ACC000076|2026-10-16 02:01:56|Có mình.
+ACC000091|2026-10-16 02:05:18|Mình tham gia nhưng chỉ chơi tới 11 giờ.
+ACC000078|2026-10-16 02:08:39|Cho mình một suất.
+ACC000083|2026-10-16 02:10:02|Ok, 8 giờ online nhé.
+ACC000091|2026-10-16 02:24:20|Cuối tuần chơi cờ vua giải trí nhé.
+ACC000003|2026-10-16 02:25:18|Hay đó, mình tham gia.
+ACC000083|2026-10-16 02:31:58|Mình chỉ biết chơi cơ bản thôi.
+ACC000091|2026-10-16 02:33:32|Không sao, chơi cho vui.
+ACC000078|2026-10-16 02:34:24|Nhớ ghi tên người thắng.
+ACC000003|2026-10-16 02:42:27|Cho mình xin chút thông tin với
+ACC000083|2026-10-16 02:42:34|Haha cười đau bụng
+ACC000083|2026-10-16 02:42:46|Đồng ý với bạn
+ACC000076|2026-10-16 02:42:51|Cảm ơn nhé
+ACC000076|2026-10-16 02:42:58|Lần sau mình rủ thêm người nhé
+ACC000078|2026-10-16 02:43:09|Đúng rồi
+ACC000091|2026-10-16 02:43:13|Haha đúng là vậy
+ACC000091|2026-10-16 02:43:23|Cho mình xin chút thông tin với
+ACC000003|2026-10-16 02:43:29|Ủa vậy hả?
+ACC000083|2026-10-16 02:43:34|Cho mình vào nhóm học với
+ACC000083|2026-10-16 02:43:44|Thật không đó?
+ACC000091|2026-10-16 02:43:47|Haha đúng là vậy
+ACC000038|2026-10-16 13:17:13|Cuối tuần này mọi người rảnh không, tụ tập nhé.
+ACC000009|2026-10-16 13:20:01|Mình rảnh thứ bảy.
+ACC000093|2026-10-16 13:21:40|Mình bận buổi sáng, chiều thì ổn.
+ACC000083|2026-10-16 13:28:06|Chiều thứ sáu được không?
+ACC000038|2026-10-16 13:29:05|Chốt chiều thứ tư, địa điểm mình báo sau.
+ACC000009|2026-10-16 13:30:05|Ok.
+ACC000078|2026-10-16 14:53:15|Danh sách việc cần làm: 1 | chuẩn bị tài liệu; 2 | liên hệ địa điểm; 3 | chốt thời gian; 4 | phân công người phụ trách. Ai nhận việc nào nhắn số thứ tự giúp mình.
+ACC000083|2026-10-16 18:17:43|Mới ra bản cập nhật mới, mọi người thấy sao?
+ACC000078|2026-10-16 18:21:42|Cân bằng hơn trước nhiều.
+ACC000091|2026-10-16 18:21:52|Mình thấy nhân vật yêu thích bị yếu đi.
+ACC000009|2026-10-16 18:24:07|Không sao, đổi sang nhân vật khác chơi.
+ACC000083|2026-10-16 21:06:16|Tối nay leo rank không?
+ACC000119|2026-10-16 21:09:59|Có mình.
+ACC000091|2026-10-16 21:54:30|Mình tham gia nhưng chỉ chơi tới 11 giờ.
+ACC000078|2026-10-16 22:21:29|Cho mình một suất.
+ACC000083|2026-10-16 22:21:59|Ok, 8 giờ online nhé.
+ACC000083|2026-10-16 22:30:05|Có ai online không?
+ACC000083|2026-10-16 22:30:13|Thật không đó?
+ACC000083|2026-10-16 22:30:17|Nhớ mang theo nhé
+ACC000083|2026-10-16 22:30:28|Ai biết quán nào ngon giới thiệu mình với
+ACC000076|2026-10-16 22:30:34|Chuẩn rồi
+ACC000091|2026-10-16 22:30:37|Mình vừa tới nơi
+ACC000078|2026-10-16 22:30:48|Ủa vậy hả?
+ACC000083|2026-10-16 22:30:57|Nhớ giữ sức khỏe nhé mọi người
+ACC000078|2026-10-16 22:31:04|Cố lên mọi người
+ACC000076|2026-10-16 22:31:07|Cảm ơn nhé
+ACC000091|2026-10-16 22:31:09|Mọi người ăn cơm chưa?
+ACC000083|2026-10-16 22:31:13|Quá tuyệt
+ACC000076|2026-10-16 22:31:20|Cảm ơn nhé
+ACC000083|2026-10-16 22:31:25|Cho mình xin chút thông tin với
+ACC000091|2026-10-16 22:31:29|Đã nhận được rồi nhé
+ACC000083|2026-10-16 22:31:36|Nhớ giữ sức khỏe nhé mọi người
+ACC000083|2026-10-16 22:31:48|Ai đi nữa không?
+ACC000091|2026-10-16 22:31:50|Nhớ mang theo nhé
+ACC000076|2026-10-16 22:31:57|Cố lên mọi người
+ACC000078|2026-10-16 22:31:59|Lần sau mình rủ thêm người nhé
+ACC000083|2026-10-16 22:32:04|Nhớ mang theo nhé
+ACC000083|2026-10-16 22:32:16|Ai biết quán nào ngon giới thiệu mình với
+ACC000012|2026-10-16 22:32:21|Giỏi quá bạn ơi
+ACC000091|2026-10-16 23:53:54|Nhớ mang theo nhé
+ACC000078|2026-10-16 23:55:27|Mình đang trên đường tới
+ACC000009|2026-10-16 23:55:39|Okela mọi người
+ACC000119|2026-10-16 23:56:37|Để mình kiểm tra lại rồi báo
+ACC000083|2026-10-17 00:03:02|Cảm ơn cả nhóm đã giúp mình
+ACC000083|2026-10-17 00:05:13|Có ai online không?
+SYSTEM|2026-10-17 19:35:14|Phạm Yến Tuyền đã thêm Hoàng Gia Huy vào nhóm
+SYSTEM|2026-10-18 20:45:07|Nguyễn Mỹ Phương Giang đã thêm Huỳnh Kim Ngân vào nhóm
+SYSTEM|2026-10-19 12:28:16|Lê Bảo Hùng đã đổi tên nhóm từ "Anime Night" thành "Anime Night - thứ bảy"
+ACC000083|2026-10-19 13:32:26|Mới ra bản cập nhật mới, mọi người thấy sao?
+ACC000078|2026-10-19 13:32:55|Cân bằng hơn trước nhiều.
+ACC000091|2026-10-19 13:34:52|Mình thấy nhân vật yêu thích bị yếu đi.
+ACC000038|2026-10-19 13:37:44|Không sao, đổi sang nhân vật khác chơi.
+SYSTEM|2026-10-22 13:11:59|Huỳnh Kim Ngân đã rời nhóm
+ACC000119|2026-10-22 21:06:50|Nhớ giữ sức khỏe nhé mọi người
+ACC000083|2026-10-22 21:09:09|Đúng rồi
+ACC000037|2026-10-22 21:46:47|Nhóm mình có ai làm slide giúp phần cuối không?
+ACC000091|2026-10-22 21:53:26|Để mình làm.
+ACC000037|2026-10-22 22:00:23|Cảm ơn Mỹ, mình gửi nội dung rồi nhé.
+ACC000091|2026-10-22 22:00:57|Nhận rồi, tối mình làm xong.
+ACC000119|2026-10-22 22:02:34|Mình soát lỗi chính tả giúp.
+ACC000037|2026-10-22 22:06:29|Quá tuyệt.
+ACC000083|2026-10-24 18:57:10|Cho mình vào nhóm học với
+ACC000083|2026-10-24 21:20:54|Có bộ anime mới, tối nay xem chung không?
+ACC000012|2026-10-24 21:40:53|Tập mấy rồi bạn?
+ACC000083|2026-10-24 21:42:31|Mới ra tập 3.
+ACC000078|2026-10-24 21:43:31|Mình xem rồi, hay lắm.
+ACC000093|2026-10-24 21:45:49|Đừng spoil nhé.
+ACC000093|2026-10-24 22:39:10|Đường dẫn thư mục lưu file nhóm: C:\\Nhom\\TaiLieu\\2026 (mọi người nhớ lưu đúng chỗ nhé).

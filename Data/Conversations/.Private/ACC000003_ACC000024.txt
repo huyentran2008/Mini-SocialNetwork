@@ -1,0 +1,5 @@
+ACC000003|2026-10-21 07:13:29|Nay trời mưa quá, bạn có đi học không?
+ACC000024|2026-10-21 07:18:25|Mình đi bằng xe buýt, chắc hơi trễ
+ACC000003|2026-10-21 07:20:27|Vậy mình giữ chỗ cho bạn nhé
+ACC000024|2026-10-21 07:27:05|Cảm ơn bạn, bạn tốt quá
+ACC000003|2026-10-21 07:29:52|Có gì đâu, nhớ mang áo mưa

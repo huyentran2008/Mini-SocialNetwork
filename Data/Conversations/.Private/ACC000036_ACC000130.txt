@@ -1,0 +1,13 @@
+ACC000130|2026-10-23 13:31:15|Cuối tuần này đi xem phim không?
+ACC000036|2026-10-23 13:33:26|Phim gì vậy?
+ACC000130|2026-10-23 13:35:02|Phim mới chiếu, nghe nói hay lắm.
+ACC000036|2026-10-23 13:41:58|Mình đang rảnh thứ hai, đi buổi chiều nhé.
+ACC000130|2026-10-23 13:44:19|Ok, mình đặt vé luôn.
+ACC000036|2026-10-23 13:45:06|Nhớ chọn ghế giữa nha.
+ACC000130|2026-10-23 13:47:56|Yên tâm.
+ACC000036|2026-10-24 10:00:45|Hôm nay bạn có đi học không?
+ACC000130|2026-10-24 10:01:42|Có, mình đang trên đường.
+ACC000036|2026-10-24 10:03:53|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000130|2026-10-24 10:19:22|Ok, giữ rồi.
+ACC000036|2026-10-24 10:19:52|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000130|2026-10-24 10:21:54|Nhanh lên, sắp vào học rồi.

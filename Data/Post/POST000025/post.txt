@@ -1,0 +1,8 @@
+id=POST000025
+author=ACC000023
+visibility=PUBLIC
+created_at=2026-10-19 16:24:14
+edited_at=
+status=VISIBLE
+title=Mẹo viết code sạch
+content=Đặt tên biến rõ nghĩa, hàm làm đúng một việc, chú thích những chỗ khó hiểu. Đọc lại sau một tháng sẽ thấy khác biệt.

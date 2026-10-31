@@ -1,0 +1,10 @@
+ACC000048|2026-10-12 17:48:40|Bạn biết quán bún bò nào ngon không?
+ACC000046|2026-10-12 17:55:26|Có quán ở đường Nguyễn Thị Minh Khai, ngon lắm
+ACC000048|2026-10-12 18:04:19|Gửi mình địa chỉ với
+ACC000046|2026-10-12 18:05:47|Mình gửi liền, nhớ đi sớm kẻo hết
+ACC000048|2026-10-12 18:13:47|Cảm ơn bạn, trưa nay đi thử
+ACC000046|2026-10-20 20:07:55|Hôm nay bạn rảnh không?
+ACC000048|2026-10-20 20:16:52|Chiều nay mình rảnh, có chuyện gì vậy?
+ACC000046|2026-10-20 20:22:02|Đi cà phê học bài chung nhé, mình có vài chỗ chưa hiểu
+ACC000048|2026-10-20 20:29:59|Ok, 3 giờ ở quán quen nhé
+ACC000046|2026-10-20 20:33:30|Chốt luôn!

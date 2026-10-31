@@ -1,0 +1,12 @@
+ACC000086|2026-10-22 20:38:18|Sao git của mình báo conflict hoài vậy?
+ACC000095|2026-10-22 20:40:43|Bạn có pull trước khi push không?
+ACC000086|2026-10-22 20:41:38|Chắc là không.
+ACC000095|2026-10-22 20:44:09|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000086|2026-10-22 20:50:38|Làm xong rồi, cảm ơn bạn.
+ACC000095|2026-10-22 20:53:07|Từ nay nhớ pull trước nhé.
+ACC000086|2026-10-22 21:25:59|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000095|2026-10-22 21:27:10|Bạn chuẩn bị tới đâu rồi?
+ACC000086|2026-10-22 21:28:29|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000095|2026-10-22 21:30:17|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000086|2026-10-22 21:30:35|Cảm ơn Chi, mình sẽ cố.
+ACC000095|2026-10-22 21:31:30|Xong nhớ nhắn mình kết quả nhé.

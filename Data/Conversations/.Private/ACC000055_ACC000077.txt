@@ -1,0 +1,17 @@
+ACC000077|2026-10-10 22:18:58|Cảm ơn nhé
+ACC000055|2026-10-10 22:19:41|Thật à?
+ACC000077|2026-10-10 22:21:42|Tối nói chuyện tiếp nhé
+ACC000055|2026-10-10 22:24:05|Ok
+ACC000077|2026-10-10 23:07:28|Thật à?
+ACC000077|2026-10-17 08:32:09|Dạo này mình áp lực thi quá.
+ACC000055|2026-10-17 08:33:08|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000077|2026-10-17 08:33:48|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000055|2026-10-17 08:35:11|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000077|2026-10-17 09:02:21|Nghe có vẻ ổn, mình thử.
+ACC000055|2026-10-17 09:29:50|Cố lên, có gì cần cứ nhắn mình.
+ACC000077|2026-10-18 16:03:00|Bạn có rảnh để mình hỏi chút về môn cấu trúc dữ liệu không?
+ACC000055|2026-10-18 16:05:32|Có, bạn hỏi đi.
+ACC000077|2026-10-18 16:08:15|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000055|2026-10-18 16:11:33|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000077|2026-10-18 16:15:05|Nghe hợp lý, cảm ơn bạn.
+ACC000055|2026-10-18 16:15:28|Cần gì cứ nhắn mình.

@@ -1,0 +1,8 @@
+id=POST000151
+author=ACC000078
+visibility=PUBLIC
+created_at=2026-10-12 18:06:21
+edited_at=
+status=VISIBLE
+title=Tuần này ăn chay thử
+content=Mình thử ăn chay một tuần để đổi vị. Ngày đầu hơi đói nhưng sang ngày thứ ba thấy nhẹ bụng hẳn.\nBạn nào cùng sở thích thì kết bạn với mình nha.

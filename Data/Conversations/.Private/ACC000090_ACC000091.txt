@@ -1,0 +1,6 @@
+ACC000090|2026-10-22 21:22:26|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000091|2026-10-22 21:24:12|Ủa quên mất, bao nhiêu vậy?
+ACC000090|2026-10-22 21:28:38|50 nghìn thôi.
+ACC000091|2026-10-22 21:29:19|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000090|2026-10-22 21:31:15|Nhận được rồi nha.
+ACC000091|2026-10-22 21:31:51|Ok, xong nợ.

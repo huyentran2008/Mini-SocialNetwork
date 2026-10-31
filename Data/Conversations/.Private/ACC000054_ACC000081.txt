@@ -1,0 +1,22 @@
+ACC000081|2026-10-20 09:31:48|Bạn ngủ chưa?
+ACC000054|2026-10-20 09:33:01|Chưa, đang làm bài tập.
+ACC000081|2026-10-20 09:34:31|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000054|2026-10-20 09:36:50|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000081|2026-10-20 09:39:08|Ngủ ngon nha.
+ACC000054|2026-10-20 09:45:26|Ngủ ngon.
+ACC000054|2026-10-20 13:03:43|Haha bạn vui tính thật
+ACC000054|2026-10-20 13:06:10|Haha bạn vui tính thật
+ACC000054|2026-10-20 13:08:02|Thôi mình đi ăn cơm đã
+ACC000081|2026-10-20 13:10:02|Rồi, mình nhớ rồi
+ACC000054|2026-10-20 13:38:08|Chỉ mình đường tới thư viện thành phố với.
+ACC000081|2026-10-20 13:39:11|Bạn đang ở đâu?
+ACC000054|2026-10-20 13:40:39|Mình đang ở gần cổng chợ.
+ACC000081|2026-10-20 13:42:33|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000054|2026-10-20 14:16:05|Mình thấy rồi, cảm ơn bạn nha.
+ACC000081|2026-10-20 14:18:22|Ok, đi cẩn thận.
+ACC000054|2026-10-21 12:33:06|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000081|2026-10-21 12:35:02|Bạn chuẩn bị tới đâu rồi?
+ACC000054|2026-10-21 12:35:55|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000081|2026-10-21 12:36:23|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000054|2026-10-21 12:36:57|Cảm ơn Thuận, mình sẽ cố.
+ACC000081|2026-10-21 12:39:12|Xong nhớ nhắn mình kết quả nhé.

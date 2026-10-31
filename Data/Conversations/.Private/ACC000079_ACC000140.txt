@@ -1,0 +1,6 @@
+ACC000140|2026-10-22 20:34:38|Bạn có rảnh để mình hỏi chút về môn cấu trúc dữ liệu không?
+ACC000079|2026-10-22 20:41:08|Có, bạn hỏi đi.
+ACC000140|2026-10-22 20:44:23|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000079|2026-10-22 20:45:20|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000140|2026-10-22 20:45:42|Nghe hợp lý, cảm ơn bạn.
+ACC000079|2026-10-22 21:11:02|Cần gì cứ nhắn mình.

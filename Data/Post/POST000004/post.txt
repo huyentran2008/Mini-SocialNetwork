@@ -1,0 +1,8 @@
+id=POST000004
+author=ACC000023
+visibility=PUBLIC
+created_at=2026-10-09 11:46:20
+edited_at=
+status=VISIBLE
+title=Trận bóng đá hôm qua thật kịch tính
+content=Hiệp hai hai bàn thắng trong năm phút cuối, cả sân vận động như nổ tung. Đúng là bóng đá không bao giờ hết bất ngờ.

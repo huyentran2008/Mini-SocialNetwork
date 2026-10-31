@@ -1,0 +1,14 @@
+id=ACC000069
+username=vynb98
+password=5679403435383274
+full_name=Nguyễn Bích Vy
+birthday=28-11-2002
+gender=Female
+bio=Đang tập làm người lớn.
+created_at=2026-10-09
+status=ACTIVE
+residence=
+hometown=
+school=
+workplace=Tiki
+hobbies=Lập trình web

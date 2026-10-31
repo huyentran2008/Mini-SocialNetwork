@@ -1,0 +1,18 @@
+ACC000099|2026-10-20 20:53:46|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000005|2026-10-20 20:58:51|Mình mới xong nửa tài liệu, hơi lo.
+ACC000099|2026-10-20 21:23:58|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000005|2026-10-20 21:26:33|Hay đó, 8 giờ nhé.
+ACC000099|2026-10-20 21:26:59|Ok, mình chuẩn bị sẵn đề cương.
+ACC000005|2026-10-20 21:31:44|Cảm ơn Tuyền, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000099|2026-10-20 21:43:53|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000005|2026-10-20 21:50:37|Chuyện nhỏ thôi mà.
+ACC000099|2026-10-20 21:53:01|Không có bạn chắc mình làm không kịp.
+ACC000005|2026-10-20 21:53:22|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000099|2026-10-20 21:54:57|Hôm nào mình mời bạn gà rán nhé.
+ACC000005|2026-10-20 21:58:56|Vậy thì mình không từ chối đâu.
+ACC000005|2026-10-20 22:56:34|Hôm nay mình hơi buồn.
+ACC000099|2026-10-20 22:56:49|Có chuyện gì vậy?
+ACC000005|2026-10-20 22:57:34|Mình bị điểm thấp mà không biết lý do.
+ACC000099|2026-10-20 22:58:05|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000005|2026-10-20 23:00:04|Ừ, mình sẽ gặp thầy tuần này.
+ACC000099|2026-10-20 23:01:14|Đừng buồn nữa, rồi sẽ ổn thôi.

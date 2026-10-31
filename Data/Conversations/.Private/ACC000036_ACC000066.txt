@@ -1,0 +1,9 @@
+ACC000036|2026-10-18 20:01:21|Vừa về tới nhà
+ACC000066|2026-10-18 20:03:56|Thôi mình đi ăn cơm đã
+ACC000066|2026-10-18 20:10:06|Rồi, mình nhớ rồi
+ACC000066|2026-10-23 18:32:08|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000036|2026-10-23 18:32:52|Bạn chuẩn bị tới đâu rồi?
+ACC000066|2026-10-23 18:35:10|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000036|2026-10-23 18:36:10|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000066|2026-10-23 18:39:14|Cảm ơn Dương, mình sẽ cố.
+ACC000036|2026-10-23 18:42:29|Xong nhớ nhắn mình kết quả nhé.

@@ -1,0 +1,38 @@
+ACC000034|2026-10-18 19:07:52|Cuối tuần rảnh không?
+ACC000034|2026-10-18 19:10:06|Cố lên nhé
+ACC000039|2026-10-18 19:10:47|Cảm ơn nhé
+ACC000039|2026-10-18 19:13:02|Mai gặp nhé
+ACC000034|2026-10-18 21:40:07|Rồi, mình nhớ rồi
+ACC000034|2026-10-18 21:40:22|Cảm ơn nhé
+ACC000034|2026-10-18 21:40:40|Để mình xem
+ACC000034|2026-10-18 21:43:28|Thật à?
+ACC000034|2026-10-19 19:02:38|Hôm nay bạn có đi học không?
+ACC000039|2026-10-19 19:06:13|Có, mình đang trên đường.
+ACC000034|2026-10-19 19:08:43|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000039|2026-10-19 19:09:14|Ok, giữ rồi.
+ACC000034|2026-10-19 19:10:06|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000039|2026-10-19 19:10:32|Nhanh lên, sắp vào học rồi.
+ACC000034|2026-10-20 19:24:52|Vậy hả?
+ACC000034|2026-10-20 19:25:24|Cảm ơn nhé
+ACC000039|2026-10-20 19:26:15|Ừ
+ACC000034|2026-10-20 22:18:17|Mệt quá hôm nay
+ACC000034|2026-10-20 22:18:35|Haha bạn vui tính thật
+ACC000039|2026-10-20 22:19:04|Tối nói chuyện tiếp nhé
+ACC000034|2026-10-21 16:36:15|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000039|2026-10-21 17:02:22|Bạn chuẩn bị tới đâu rồi?
+ACC000034|2026-10-21 17:06:19|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000039|2026-10-21 17:07:14|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000034|2026-10-21 17:08:57|Cảm ơn Sơn, mình sẽ cố.
+ACC000039|2026-10-21 17:09:41|Xong nhớ nhắn mình kết quả nhé.
+ACC000039|2026-10-21 19:58:09|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000034|2026-10-21 19:59:49|Chuyện nhỏ thôi mà.
+ACC000039|2026-10-21 20:03:05|Không có bạn chắc mình làm không kịp.
+ACC000034|2026-10-21 20:04:03|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000039|2026-10-21 20:04:32|Hôm nào mình mời bạn bánh xèo nhé.
+ACC000034|2026-10-21 20:05:33|Vậy thì mình không từ chối đâu.
+ACC000039|2026-10-21 20:16:51|Bạn cho mình mượn tài liệu được không?
+ACC000034|2026-10-21 20:18:19|Được, bạn lấy bản chụp hay bản mềm?
+ACC000039|2026-10-21 20:18:45|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000034|2026-10-21 20:20:40|Gửi rồi nha, kiểm tra thử.
+ACC000039|2026-10-21 20:23:25|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000034|2026-10-21 20:27:11|Không có gì.

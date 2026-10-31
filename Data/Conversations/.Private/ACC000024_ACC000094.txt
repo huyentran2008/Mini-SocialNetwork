@@ -1,0 +1,28 @@
+ACC000024|2026-10-18 17:57:32|Tối nay bạn có chơi game không?
+ACC000094|2026-10-18 17:58:34|Có, mấy giờ?
+ACC000024|2026-10-18 17:59:22|5 giờ chiều, rủ thêm hai bạn nữa là đủ đội.
+ACC000094|2026-10-18 17:59:42|Ok, mình online sớm.
+ACC000024|2026-10-18 18:05:31|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000094|2026-10-18 18:07:26|Haha, thua thì đừng trách mình.
+ACC000094|2026-10-18 22:30:13|Bạn ngủ chưa?
+ACC000024|2026-10-18 22:32:04|Chưa, đang làm bài tập.
+ACC000094|2026-10-18 23:16:35|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000024|2026-10-18 23:17:36|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000094|2026-10-18 23:23:26|Ngủ ngon nha.
+ACC000024|2026-10-18 23:56:44|Ngủ ngon.
+ACC000094|2026-10-19 00:04:49|Okela
+ACC000094|2026-10-19 00:04:54|Ngủ ngon
+ACC000094|2026-10-19 00:04:55|Ừm, mình nghĩ vậy
+ACC000094|2026-10-19 00:05:03|Ngủ ngon
+ACC000094|2026-10-19 00:05:05|Mình biết rồi
+ACC000024|2026-10-19 00:05:06|Ừ đúng rồi
+ACC000024|2026-10-19 00:05:15|Vừa về tới nhà
+ACC000024|2026-10-19 00:05:20|Haha bạn vui tính thật
+ACC000024|2026-10-19 00:05:24|Mình cũng nghĩ vậy
+ACC000094|2026-10-19 00:05:35|Cố lên nhé
+ACC000024|2026-10-21 14:11:40|Công thức làm bánh flan bạn dùng thế nào?
+ACC000094|2026-10-21 14:13:17|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000024|2026-10-21 14:14:59|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000094|2026-10-21 14:15:48|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000024|2026-10-21 14:26:45|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000094|2026-10-21 14:27:35|Làm xong cho mình xin một miếng nhé.

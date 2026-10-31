@@ -1,0 +1,12 @@
+ACC000067|2026-10-23 21:18:55|Bạn cho mình mượn tài liệu được không?
+ACC000065|2026-10-23 21:20:31|Được, bạn lấy bản chụp hay bản mềm?
+ACC000067|2026-10-23 21:56:42|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000065|2026-10-23 21:57:18|Gửi rồi nha, kiểm tra thử.
+ACC000067|2026-10-23 21:58:24|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000065|2026-10-23 22:05:03|Không có gì.
+ACC000065|2026-10-24 13:51:51|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000067|2026-10-24 13:55:03|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000065|2026-10-24 13:56:25|Mình thấy rồi, truy cập ngoài mảng.
+ACC000067|2026-10-24 13:57:23|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000065|2026-10-24 13:58:29|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000067|2026-10-24 13:59:08|Lỗi này ai cũng từng gặp thôi.

@@ -1,0 +1,6 @@
+ACC000005|2026-10-24 08:36:20|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000052|2026-10-24 08:37:42|Chuyện nhỏ thôi mà.
+ACC000005|2026-10-24 08:39:31|Không có bạn chắc mình làm không kịp.
+ACC000052|2026-10-24 08:41:23|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000005|2026-10-24 08:41:55|Hôm nào mình mời bạn bún bò nhé.
+ACC000052|2026-10-24 08:42:16|Vậy thì mình không từ chối đâu.

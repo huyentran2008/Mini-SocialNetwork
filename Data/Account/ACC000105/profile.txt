@@ -1,0 +1,14 @@
+id=ACC000105
+username=thinhlt65
+password=5468696e68403434303175
+full_name=Lê Trọng Thịnh
+birthday=26-03-2003
+gender=Male
+bio=Chăm chỉ hôm nay, thảnh thơi ngày mai.
+created_at=2026-10-03
+status=ACTIVE
+residence=Hải Phòng
+hometown=Cao Bằng
+school=Đại học Tây Đô
+workplace=Gojek
+hobbies=Bảo mật thông tin;Pha cà phê

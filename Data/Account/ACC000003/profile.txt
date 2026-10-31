@@ -1,0 +1,14 @@
+id=ACC000003
+username=baolq79
+password=42616f403536383471
+full_name=Lê Quốc Bảo
+birthday=17-03-2000
+gender=Male
+bio=Học tiếng Anh mỗi ngày.
+created_at=2026-10-08
+status=ACTIVE
+residence=Hà Nội
+hometown=Thanh Hóa
+school=
+workplace=Công ty TNHH Phần mềm ABC
+hobbies=Đá bóng;Xem phim;Nấu ăn

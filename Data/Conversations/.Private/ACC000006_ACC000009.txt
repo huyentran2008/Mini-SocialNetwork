@@ -1,0 +1,34 @@
+ACC000006|2026-10-15 17:09:29|Bạn biết quán bún bò nào ngon không?
+ACC000009|2026-10-15 17:13:49|Có quán ở đường Nguyễn Thị Minh Khai, ngon lắm
+ACC000006|2026-10-15 17:15:20|Gửi mình địa chỉ với
+ACC000009|2026-10-15 17:22:11|Mình gửi liền, nhớ đi sớm kẻo hết
+ACC000006|2026-10-15 17:25:03|Cảm ơn bạn, trưa nay đi thử
+ACC000009|2026-10-17 16:06:51|Nay trời mưa quá, bạn có đi học không?
+ACC000006|2026-10-17 16:11:58|Mình đi bằng xe buýt, chắc hơi trễ
+ACC000009|2026-10-17 16:19:51|Vậy mình giữ chỗ cho bạn nhé
+ACC000006|2026-10-17 16:25:02|Cảm ơn bạn, bạn tốt quá
+ACC000009|2026-10-17 16:32:12|Có gì đâu, nhớ mang áo mưa
+ACC000006|2026-10-21 11:23:41|Được luôn
+ACC000006|2026-10-21 11:25:39|Mình đang bận chút, lát nhắn lại nhé
+ACC000006|2026-10-21 11:27:34|Cảm ơn nhé
+ACC000009|2026-10-21 11:31:05|Vậy hả?
+ACC000006|2026-10-21 11:31:21|Mai gặp nhé
+ACC000006|2026-10-21 12:54:10|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000009|2026-10-21 12:55:36|Ủa quên mất, bao nhiêu vậy?
+ACC000006|2026-10-21 12:56:25|70 nghìn thôi.
+ACC000009|2026-10-21 12:58:12|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000006|2026-10-21 12:59:36|Nhận được rồi nha.
+ACC000009|2026-10-21 13:00:41|Ok, xong nợ.
+ACC000009|2026-10-21 16:23:39|Tối nay đi ăn bánh mì không?
+ACC000006|2026-10-21 16:26:33|Đi chứ! Quán nào?
+ACC000009|2026-10-21 16:29:06|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000006|2026-10-21 16:30:06|Mấy giờ?
+ACC000009|2026-10-21 16:32:44|6 giờ nhé.
+ACC000006|2026-10-21 16:33:24|Ok, mình rủ thêm một bạn nữa được không?
+ACC000009|2026-10-21 16:35:25|Được chứ, càng đông càng vui.
+ACC000006|2026-10-21 21:18:59|Nay trời mưa to ghê.
+ACC000009|2026-10-21 21:21:41|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000006|2026-10-21 22:00:48|Bạn có áo mưa không?
+ACC000009|2026-10-21 22:00:59|Không, chắc chờ tạnh.
+ACC000006|2026-10-21 22:04:12|Mình ghé đón nhé, mình đang gần đó.
+ACC000009|2026-10-21 22:05:07|Cảm ơn bạn nhiều lắm.

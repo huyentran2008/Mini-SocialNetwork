@@ -1,0 +1,13 @@
+ACC000055|2026-09-24 16:13:38|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000082|2026-09-24 16:15:36|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000055|2026-09-24 16:16:41|Cảm ơn, mình hay quên lắm.
+ACC000082|2026-09-24 16:20:37|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000055|2026-09-24 16:22:41|Ừ, mình in hai bản.
+ACC000082|2026-09-24 16:22:49|Giỏi.
+ACC000082|2026-10-16 03:14:19|Cuối tuần này đi xem phim không?
+ACC000055|2026-10-16 03:14:48|Phim gì vậy?
+ACC000082|2026-10-16 03:18:27|Phim mới chiếu, nghe nói hay lắm.
+ACC000055|2026-10-16 03:20:02|Mình đang rảnh thứ ba, đi buổi chiều nhé.
+ACC000082|2026-10-16 03:25:46|Ok, mình đặt vé luôn.
+ACC000055|2026-10-16 03:27:20|Nhớ chọn ghế giữa nha.
+ACC000082|2026-10-16 03:29:14|Yên tâm.

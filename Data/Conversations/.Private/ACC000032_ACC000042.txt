@@ -1,0 +1,22 @@
+ACC000042|2026-10-16 20:12:04|Bạn biết quán bún bò nào ngon không?
+ACC000032|2026-10-16 20:18:30|Có quán ở đường Nguyễn Thị Minh Khai, ngon lắm
+ACC000042|2026-10-16 20:19:20|Gửi mình địa chỉ với
+ACC000032|2026-10-16 20:22:12|Mình gửi liền, nhớ đi sớm kẻo hết
+ACC000042|2026-10-16 20:30:12|Cảm ơn bạn, trưa nay đi thử
+ACC000032|2026-10-18 19:24:48|Hôm nay bạn rảnh không?
+ACC000042|2026-10-18 19:33:46|Chiều nay mình rảnh, có chuyện gì vậy?
+ACC000032|2026-10-18 19:41:07|Đi cà phê học bài chung nhé, mình có vài chỗ chưa hiểu
+ACC000042|2026-10-18 19:43:07|Ok, 3 giờ ở quán quen nhé
+ACC000032|2026-10-18 19:48:45|Chốt luôn!
+ACC000032|2026-10-19 18:05:44|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000042|2026-10-19 18:06:43|Bạn chuẩn bị tới đâu rồi?
+ACC000032|2026-10-19 18:45:14|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000042|2026-10-19 18:46:51|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000032|2026-10-19 18:47:28|Cảm ơn Tú, mình sẽ cố.
+ACC000042|2026-10-19 18:51:26|Xong nhớ nhắn mình kết quả nhé.
+ACC000042|2026-10-24 20:50:25|Bạn ơi, bài tập cấu trúc dữ liệu nộp chưa?
+ACC000032|2026-10-24 20:53:21|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000042|2026-10-24 20:56:20|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000032|2026-10-24 20:58:51|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000042|2026-10-24 21:03:56|Có gì hỏi mình nhé.
+ACC000032|2026-10-24 21:05:34|Okela, cảm ơn Tú nhiều.

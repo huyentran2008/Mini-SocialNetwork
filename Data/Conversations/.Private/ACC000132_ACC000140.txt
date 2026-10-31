@@ -1,0 +1,23 @@
+ACC000140|2026-10-20 12:34:20|Haha bạn vui tính thật
+ACC000132|2026-10-20 12:34:34|Mai gặp nhé
+ACC000140|2026-10-20 12:36:02|Ừ đúng rồi
+ACC000132|2026-10-20 13:22:36|Ừm, mình nghĩ vậy
+ACC000140|2026-10-20 13:22:45|Được luôn
+ACC000132|2026-10-21 12:09:20|Chỉ mình đường tới thư viện thành phố với.
+ACC000140|2026-10-21 12:09:53|Bạn đang ở đâu?
+ACC000132|2026-10-21 12:12:04|Mình đang ở gần cổng chợ.
+ACC000140|2026-10-21 12:13:39|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000132|2026-10-21 12:15:47|Mình thấy rồi, cảm ơn bạn nha.
+ACC000140|2026-10-21 12:19:10|Ok, đi cẩn thận.
+ACC000140|2026-10-21 20:11:03|Bạn xem giúp mình CV được không?
+ACC000132|2026-10-21 20:11:51|Gửi mình xem nhé.
+ACC000140|2026-10-21 20:15:33|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000132|2026-10-21 20:18:00|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000140|2026-10-21 20:43:46|Hợp lý, mình sửa luôn.
+ACC000132|2026-10-21 20:44:38|Sửa xong gửi mình xem lại nhé.
+ACC000140|2026-10-22 20:52:31|Dạo này mình áp lực thi quá.
+ACC000132|2026-10-22 20:54:24|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000140|2026-10-22 20:54:40|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000132|2026-10-22 20:55:47|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000140|2026-10-22 20:56:31|Nghe có vẻ ổn, mình thử.
+ACC000132|2026-10-22 20:57:04|Cố lên, có gì cần cứ nhắn mình.

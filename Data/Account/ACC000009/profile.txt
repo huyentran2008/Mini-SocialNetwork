@@ -1,0 +1,14 @@
+id=ACC000009
+username=longdh85
+password=4c6f6e67403831303666
+full_name=Đỗ Hoàng Long
+birthday=12-12-2001
+gender=Male
+bio=Sinh viên CNTT, thích khám phá công nghệ mới.
+created_at=2026-10-01
+status=ACTIVE
+residence=Quảng Ninh
+hometown=Cần Thơ
+school=Đại học Đà Nẵng
+workplace=Shopee Việt Nam
+hobbies=Học lập trình;Chơi game;Pha cà phê

@@ -1,0 +1,4 @@
+id=GRP000009
+name=Kiếm tiền online nhẹ nhàng
+owner=ACC000101
+created_at=2026-10-08 22:21:49

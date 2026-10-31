@@ -1,0 +1,12 @@
+ACC000069|2026-10-22 12:48:33|Năm nay bạn về quê ăn Tết không?
+ACC000103|2026-10-22 13:05:34|Có, mình đặt vé tàu rồi.
+ACC000069|2026-10-22 13:06:27|Mình còn chưa mua được vé.
+ACC000103|2026-10-22 13:33:58|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000069|2026-10-22 13:38:56|Ok, mình thử xem.
+ACC000103|2026-10-22 13:40:32|Chúc bạn sớm có vé nhé.
+ACC000069|2026-10-23 11:34:58|Sao git của mình báo conflict hoài vậy?
+ACC000103|2026-10-23 11:36:34|Bạn có pull trước khi push không?
+ACC000069|2026-10-23 11:39:39|Chắc là không.
+ACC000103|2026-10-23 11:40:12|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000069|2026-10-23 11:40:35|Làm xong rồi, cảm ơn bạn.
+ACC000103|2026-10-23 11:44:17|Từ nay nhớ pull trước nhé.

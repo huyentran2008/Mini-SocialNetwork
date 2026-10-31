@@ -1,0 +1,8 @@
+id=POST000042
+author=ACC000142
+visibility=FRIEND
+created_at=2026-09-05 16:49:39
+edited_at=
+status=VISIBLE
+title=Chuyện dài kỳ: Leo rank cuối tuần
+content=Hôm nay mình muốn kể lại một chuyện khá dài, vì mình nghĩ nó giúp ích cho những ai đang ở hoàn cảnh giống mình.\n\nBan đầu mình không nghĩ mọi chuyện lại phức tạp tới vậy. Mọi thứ chỉ bắt đầu từ một quyết định nhỏ vào buổi sáng, nhưng rồi kéo theo hàng loạt việc khác phải giải quyết.\n\nCó những lúc mình thật sự muốn bỏ cuộc. Mình ngồi một mình rất lâu, tự hỏi liệu mình có đang làm đúng hay không. May mắn là có những người bạn luôn sẵn sàng lắng nghe.\n\nĐiều mình học được là không nên so sánh bản thân với người khác. Mỗi người có hoàn cảnh riêng, thời gian riêng và con đường riêng. Quan trọng là mình tiến bộ hơn chính mình của ngày hôm qua.

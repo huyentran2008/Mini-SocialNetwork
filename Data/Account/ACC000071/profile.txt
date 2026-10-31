@@ -1,0 +1,14 @@
+id=ACC000071
+username=kiennv10
+password=4b69656e403731393973
+full_name=Nguyễn Việt Kiên
+birthday=
+gender=Male
+bio=Học để thay đổi, sống để lan tỏa.
+created_at=2026-10-07
+status=ACTIVE
+residence=Lai Châu
+hometown=TP. Hồ Chí Minh
+school=Cao đẳng Công nghệ Thủ Đức
+workplace=
+hobbies=Tennis;Xem bóng đá

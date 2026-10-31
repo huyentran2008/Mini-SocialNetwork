@@ -1,0 +1,14 @@
+ACC000116|2026-10-20 21:17:24|Mệt quá hôm nay
+ACC000018|2026-10-20 21:18:04|Đang làm gì đó?
+ACC000116|2026-10-21 12:18:32|Hôm nay bạn có đi học không?
+ACC000018|2026-10-21 12:21:49|Có, mình đang trên đường.
+ACC000116|2026-10-21 12:24:03|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000018|2026-10-21 12:24:44|Ok, giữ rồi.
+ACC000116|2026-10-21 12:28:06|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000018|2026-10-21 12:28:38|Nhanh lên, sắp vào học rồi.
+ACC000116|2026-10-24 13:29:25|Bạn xem giúp mình CV được không?
+ACC000018|2026-10-24 13:47:41|Gửi mình xem nhé.
+ACC000116|2026-10-24 13:49:16|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000018|2026-10-24 13:49:32|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000116|2026-10-24 13:49:50|Hợp lý, mình sửa luôn.
+ACC000018|2026-10-24 13:50:35|Sửa xong gửi mình xem lại nhé.

@@ -1,0 +1,18 @@
+ACC000029|2026-10-19 22:00:32|Nay trời mưa to ghê.
+ACC000020|2026-10-19 22:00:54|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000029|2026-10-19 22:02:22|Bạn có áo mưa không?
+ACC000020|2026-10-19 22:04:07|Không, chắc chờ tạnh.
+ACC000029|2026-10-19 22:04:23|Mình ghé đón nhé, mình đang gần đó.
+ACC000020|2026-10-19 22:08:02|Cảm ơn bạn nhiều lắm.
+ACC000020|2026-10-20 21:09:29|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000029|2026-10-20 21:10:56|Mình mới xong nửa tài liệu, hơi lo.
+ACC000020|2026-10-20 21:41:05|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000029|2026-10-20 21:42:18|Hay đó, 8 giờ nhé.
+ACC000020|2026-10-20 21:58:46|Ok, mình chuẩn bị sẵn đề cương.
+ACC000029|2026-10-20 21:59:52|Cảm ơn Nhung, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000029|2026-10-21 09:41:00|Bạn có rảnh để mình hỏi chút về môn xác suất không?
+ACC000020|2026-10-21 09:41:22|Có, bạn hỏi đi.
+ACC000029|2026-10-21 09:46:42|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000020|2026-10-21 09:48:59|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000029|2026-10-21 09:49:19|Nghe hợp lý, cảm ơn bạn.
+ACC000020|2026-10-21 09:51:16|Cần gì cứ nhắn mình.

@@ -1,0 +1,14 @@
+id=ACC000128
+username=hoangvt98
+password=486f616e67403036363476
+full_name=Võ Trung Hoàng
+birthday=25-08-2003
+gender=Male
+bio=Thích nấu ăn và khám phá quán mới.
+created_at=2026-08-18
+status=ACTIVE
+residence=
+hometown=Lâm Đồng
+school=Đại học Điện lực
+workplace=
+hobbies=Nấu ăn;Trồng cây

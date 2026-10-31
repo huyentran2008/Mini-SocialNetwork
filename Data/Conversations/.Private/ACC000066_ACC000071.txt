@@ -1,0 +1,76 @@
+ACC000071|2026-10-24 06:12:26|Mai gặp nhé
+ACC000071|2026-10-24 06:13:16|Đang làm gì đó?
+ACC000071|2026-10-24 06:15:24|Mai gặp nhé
+ACC000066|2026-10-24 06:15:50|Mình cũng nghĩ vậy
+ACC000071|2026-10-24 08:15:29|Hôm nay bạn rảnh không?
+ACC000066|2026-10-24 08:16:11|Chiều mình rảnh, có chuyện gì vậy?
+ACC000071|2026-10-24 08:16:41|Đi uống trà đào nhé, lâu rồi không gặp.
+ACC000066|2026-10-24 08:18:05|Ok, 6 giờ tối mình qua đón bạn nha.
+ACC000071|2026-10-24 08:19:39|Được, mình chờ ở cổng.
+ACC000066|2026-10-24 08:19:55|Tới rồi nè, ra đi.
+ACC000071|2026-10-24 11:36:31|Cuối tuần này đi xem phim không?
+ACC000066|2026-10-24 11:38:43|Phim gì vậy?
+ACC000071|2026-10-24 11:39:51|Phim mới chiếu, nghe nói hay lắm.
+ACC000066|2026-10-24 11:42:01|Mình đang rảnh thứ năm, đi buổi chiều nhé.
+ACC000071|2026-10-24 11:44:04|Ok, mình đặt vé luôn.
+ACC000066|2026-10-24 11:44:59|Nhớ chọn ghế giữa nha.
+ACC000071|2026-10-24 11:51:13|Yên tâm.
+ACC000066|2026-10-24 13:33:26|Nghe được đó
+ACC000071|2026-10-24 13:33:29|Vậy hả?
+ACC000066|2026-10-24 13:33:42|Được luôn
+ACC000066|2026-10-24 13:33:55|Ngủ ngon
+ACC000066|2026-10-24 13:34:00|Thật à?
+ACC000066|2026-10-24 13:34:14|Chúc bạn một ngày tốt lành
+ACC000071|2026-10-24 13:34:26|Cảm ơn nhé
+ACC000071|2026-10-24 13:34:28|Để mình xem
+ACC000066|2026-10-24 13:34:38|Ngủ ngon
+ACC000071|2026-10-24 13:34:39|Ừ đúng rồi
+ACC000071|2026-10-24 16:01:37|Mình dọn trọ sang khu khác rồi.
+ACC000066|2026-10-24 16:02:34|Thật à? Có xa trường không?
+ACC000071|2026-10-24 16:03:26|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000066|2026-10-24 16:09:48|Tốt quá, hôm nào mình qua chơi.
+ACC000071|2026-10-24 16:10:46|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000066|2026-10-24 16:14:40|Ok, nhớ nấu cơm cho mình đó.
+ACC000066|2026-10-24 16:39:49|Chỉ mình đường tới thư viện thành phố với.
+ACC000071|2026-10-24 16:42:37|Bạn đang ở đâu?
+ACC000066|2026-10-24 16:43:30|Mình đang ở gần cổng chợ.
+ACC000071|2026-10-24 16:44:16|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000066|2026-10-24 16:49:06|Mình thấy rồi, cảm ơn bạn nha.
+ACC000071|2026-10-24 16:52:45|Ok, đi cẩn thận.
+ACC000071|2026-10-24 17:48:18|Dạo này mình áp lực thi quá.
+ACC000066|2026-10-24 17:52:22|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000071|2026-10-24 17:53:12|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000066|2026-10-24 17:54:31|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000071|2026-10-24 18:01:08|Nghe có vẻ ổn, mình thử.
+ACC000066|2026-10-24 18:04:47|Cố lên, có gì cần cứ nhắn mình.
+ACC000066|2026-10-24 18:56:55|Được luôn
+ACC000071|2026-10-24 18:57:04|Haha bạn vui tính thật
+ACC000066|2026-10-24 18:57:07|Cố lên nhé
+ACC000066|2026-10-24 18:57:21|Ok
+ACC000071|2026-10-24 18:57:30|Để mình xem
+ACC000071|2026-10-24 18:57:44|Mình biết rồi
+ACC000066|2026-10-24 18:57:50|Đang làm gì đó?
+ACC000066|2026-10-24 19:57:57|Mình dọn trọ sang khu khác rồi.
+ACC000071|2026-10-24 20:00:58|Thật à? Có xa trường không?
+ACC000066|2026-10-24 20:02:50|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000071|2026-10-24 20:05:42|Tốt quá, hôm nào mình qua chơi.
+ACC000066|2026-10-24 20:09:20|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000071|2026-10-24 20:11:51|Ok, nhớ nấu cơm cho mình đó.
+ACC000071|2026-10-24 20:30:04|Nay trời mưa to ghê.
+ACC000066|2026-10-24 20:32:25|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000071|2026-10-24 20:33:46|Bạn có áo mưa không?
+ACC000066|2026-10-24 20:37:09|Không, chắc chờ tạnh.
+ACC000071|2026-10-24 20:38:02|Mình ghé đón nhé, mình đang gần đó.
+ACC000066|2026-10-24 20:39:19|Cảm ơn bạn nhiều lắm.
+ACC000071|2026-10-24 20:49:58|Bạn cho mình mượn tài liệu được không?
+ACC000066|2026-10-24 21:24:50|Được, bạn lấy bản chụp hay bản mềm?
+ACC000071|2026-10-24 21:30:16|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000066|2026-10-24 21:32:59|Gửi rồi nha, kiểm tra thử.
+ACC000071|2026-10-24 21:36:30|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000066|2026-10-24 21:36:50|Không có gì.
+ACC000071|2026-10-24 21:46:53|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000066|2026-10-24 21:47:01|Haha, bé làm gì thế?
+ACC000071|2026-10-24 21:47:24|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000066|2026-10-24 22:03:28|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000071|2026-10-24 22:05:02|Đợi chút mình chụp.
+ACC000066|2026-10-24 22:10:39|Đúng là chủ nào mèo nấy.

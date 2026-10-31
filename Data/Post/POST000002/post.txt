@@ -1,0 +1,8 @@
+id=POST000002
+author=ACC000014
+visibility=FRIEND
+created_at=2026-10-08 10:57:28
+edited_at=
+status=VISIBLE
+title=Chuyến đi Đà Lạt cuối tuần
+content=Sương sớm, cà phê nóng và những con dốc đầy hoa dã quỳ. Đà Lạt tháng mười một đẹp hơn mình tưởng nhiều. Ai đi thì nhớ mang áo ấm nhé!

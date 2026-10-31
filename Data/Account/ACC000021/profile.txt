@@ -1,0 +1,14 @@
+id=ACC000021
+username=nghiavt12
+password=4e67686961403338393473
+full_name=Vũ Trọng Nghĩa
+birthday=01-05-2004
+gender=Male
+bio=Thích xem phim và viết review.
+created_at=2026-10-02
+status=ACTIVE
+residence=Đà Nẵng
+hometown=
+school=Đại học Đà Nẵng
+workplace=Grab Việt Nam
+hobbies=Đạp xe;Du lịch

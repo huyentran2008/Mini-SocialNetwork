@@ -1,0 +1,8 @@
+id=POST000110
+author=ACC000135
+visibility=PUBLIC
+created_at=2026-10-07 16:23:02
+edited_at=
+status=VISIBLE
+title=Điều mình học được trong năm nay
+content=Đừng ngại hỏi, đừng ngại sai và đừng so sánh mình với người khác. Mỗi người có tốc độ riêng. Cảm ơn mọi người đã đọc.

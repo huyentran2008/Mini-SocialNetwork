@@ -1,0 +1,6 @@
+ACC000088|2026-10-16 09:04:56|Cuối tuần này đi Sa Pa không?
+ACC000015|2026-10-16 09:05:16|Hay đó, đi mấy người?
+ACC000088|2026-10-16 09:06:35|Khoảng 3 người, tự đi xe máy.
+ACC000015|2026-10-16 09:13:24|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000088|2026-10-16 09:15:08|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000015|2026-10-16 09:16:16|Ok, vậy chốt luôn.

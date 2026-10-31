@@ -1,0 +1,14 @@
+id=ACC000141
+username=lannt79
+password=4c616e403739313965
+full_name=Nguyễn Thị Lan
+birthday=22-06-2003
+gender=Female
+bio=Thích đi đây đó và chụp ảnh.
+created_at=2026-10-10
+status=ACTIVE
+residence=Cần Thơ
+hometown=Tuyên Quang
+school=Đại học Mỹ thuật TP.HCM
+workplace=
+hobbies=Pickleball;Bơi lội;Đọc sách kỹ năng

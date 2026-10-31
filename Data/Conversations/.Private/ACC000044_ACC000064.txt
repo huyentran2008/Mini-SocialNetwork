@@ -1,0 +1,51 @@
+ACC000044|2026-10-24 07:40:36|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000064|2026-10-24 07:41:39|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000044|2026-10-24 07:42:47|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000064|2026-10-24 07:46:26|Cảm ơn bạn đã hỏi thăm.
+ACC000044|2026-10-24 07:47:19|Có cần mình mang đồ ăn qua không?
+ACC000064|2026-10-24 07:47:57|Không cần đâu, mình ổn rồi.
+ACC000064|2026-10-24 08:58:42|Bạn cho mình mượn tài liệu được không?
+ACC000044|2026-10-24 09:02:03|Được, bạn lấy bản chụp hay bản mềm?
+ACC000064|2026-10-24 09:03:31|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000044|2026-10-24 09:06:58|Gửi rồi nha, kiểm tra thử.
+ACC000064|2026-10-24 09:07:37|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000044|2026-10-24 09:07:59|Không có gì.
+ACC000044|2026-10-24 13:32:36|Điểm thi tiếng Anh có chưa bạn?
+ACC000064|2026-10-24 13:33:36|Có rồi, mình được 8 điểm.
+ACC000044|2026-10-24 13:34:22|Giỏi quá, mình mới 6 điểm thôi.
+ACC000064|2026-10-24 13:36:37|Cũng ổn mà, qua môn là tốt rồi.
+ACC000044|2026-10-24 14:24:19|Cảm ơn bạn đã động viên.
+ACC000064|2026-10-24 14:27:42|Lần sau mình học nhóm tiếp nhé.
+ACC000064|2026-10-24 14:41:21|Bạn có rảnh để mình hỏi chút về môn giải tích không?
+ACC000044|2026-10-24 14:42:00|Có, bạn hỏi đi.
+ACC000064|2026-10-24 14:44:21|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000044|2026-10-24 15:27:31|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000064|2026-10-24 15:28:06|Nghe hợp lý, cảm ơn bạn.
+ACC000044|2026-10-24 15:30:30|Cần gì cứ nhắn mình.
+ACC000044|2026-10-24 16:19:16|Tối nói chuyện tiếp nhé
+ACC000064|2026-10-24 16:21:44|Để mình xem
+ACC000064|2026-10-24 16:22:43|Mệt quá hôm nay
+ACC000044|2026-10-24 16:29:15|Đang làm gì đó?
+ACC000064|2026-10-24 16:31:48|Ừ
+ACC000044|2026-10-24 16:56:26|Bạn ngủ chưa?
+ACC000064|2026-10-24 16:58:17|Chưa, đang làm bài tập.
+ACC000044|2026-10-24 16:59:49|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000064|2026-10-24 17:02:34|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000044|2026-10-24 17:09:33|Ngủ ngon nha.
+ACC000064|2026-10-24 17:13:57|Ngủ ngon.
+ACC000044|2026-10-24 17:56:32|Cảm ơn nhé
+ACC000064|2026-10-24 17:57:20|Mai gặp nhé
+ACC000044|2026-10-24 17:59:10|Haha bạn vui tính thật
+ACC000064|2026-10-24 18:05:12|Cố lên nhé
+ACC000064|2026-10-24 22:05:18|Công thức làm bánh flan bạn dùng thế nào?
+ACC000044|2026-10-24 22:07:46|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000064|2026-10-24 22:11:37|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000044|2026-10-24 22:12:52|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000064|2026-10-24 22:14:24|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000044|2026-10-24 22:15:24|Làm xong cho mình xin một miếng nhé.
+ACC000044|2026-10-24 23:02:29|Hôm nay bạn rảnh không?
+ACC000064|2026-10-24 23:03:36|Chiều mình rảnh, có chuyện gì vậy?
+ACC000044|2026-10-24 23:06:07|Đi uống nước cam nhé, lâu rồi không gặp.
+ACC000064|2026-10-24 23:10:02|Ok, 7 rưỡi mình qua đón bạn nha.
+ACC000044|2026-10-24 23:14:34|Được, mình chờ ở cổng.
+ACC000064|2026-10-24 23:17:04|Tới rồi nè, ra đi.

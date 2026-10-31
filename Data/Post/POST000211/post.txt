@@ -1,0 +1,8 @@
+id=POST000211
+author=ACC000083
+visibility=PUBLIC
+created_at=2026-10-19 21:47:56
+edited_at=
+status=VISIBLE
+title=Săn sale cuối tháng
+content=Mình tranh thủ mua đôi giày mới đúng đợt giảm giá. Tiết kiệm được gần nửa giá, vui cả ngày.

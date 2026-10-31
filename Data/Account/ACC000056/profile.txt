@@ -1,0 +1,14 @@
+id=ACC000056
+username=nguyennv53
+password=4e677579656e403039343663
+full_name=Nguyễn Văn Nguyên
+birthday=11-05-1998
+gender=Male
+bio=Gamer chính hiệu.
+created_at=2026-09-09
+status=LOCKED
+residence=
+hometown=An Giang
+school=Học viện Khoa học Quân sự
+workplace=Vietcombank
+hobbies=Chơi eSports;Cosplay;Chơi cờ vua

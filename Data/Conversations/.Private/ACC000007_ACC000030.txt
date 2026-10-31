@@ -1,0 +1,11 @@
+ACC000007|2026-10-19 19:42:01|Hôm nay bạn rảnh không?
+ACC000030|2026-10-19 19:51:48|Chiều nay mình rảnh, có chuyện gì vậy?
+ACC000007|2026-10-19 19:57:00|Đi cà phê học bài chung nhé, mình có vài chỗ chưa hiểu
+ACC000030|2026-10-19 20:02:50|Ok, 3 giờ ở quán quen nhé
+ACC000007|2026-10-19 20:03:12|Chốt luôn!
+ACC000030|2026-10-23 21:10:32|Bạn có rảnh để mình hỏi chút về môn xác suất không?
+ACC000007|2026-10-23 21:11:10|Có, bạn hỏi đi.
+ACC000030|2026-10-23 21:16:18|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000007|2026-10-23 21:17:53|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000030|2026-10-23 21:18:54|Nghe hợp lý, cảm ơn bạn.
+ACC000007|2026-10-23 21:19:46|Cần gì cứ nhắn mình.

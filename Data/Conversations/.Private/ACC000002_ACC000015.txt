@@ -1,0 +1,11 @@
+ACC000002|2026-10-18 11:27:28|Chào bạn, lâu rồi không gặp
+ACC000015|2026-10-18 11:34:05|Chào bạn! Dạo này thế nào?
+ACC000002|2026-10-18 11:38:40|Mình vẫn bình thường, đang ôn thi
+ACC000015|2026-10-18 11:44:17|Cố lên nhé, thi xong mình đi ăn mừng
+ACC000002|2026-10-18 11:45:40|Hẹn nhé!
+ACC000015|2026-10-19 09:48:57|Tối nay bạn có chơi game không?
+ACC000002|2026-10-19 09:51:06|Có, mấy giờ?
+ACC000015|2026-10-19 09:52:44|6 giờ tối, rủ thêm hai bạn nữa là đủ đội.
+ACC000002|2026-10-19 09:55:02|Ok, mình online sớm.
+ACC000015|2026-10-19 10:27:42|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000002|2026-10-19 10:29:20|Haha, thua thì đừng trách mình.

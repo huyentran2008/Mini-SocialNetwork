@@ -1,0 +1,248 @@
+ACC000013|2026-10-12 10:08:24|Nghe được đó
+ACC000024|2026-10-12 10:08:37|Để mình xem
+ACC000013|2026-10-12 10:09:32|Rồi, mình nhớ rồi
+ACC000013|2026-10-12 17:46:11|Tối nay đi ăn gà rán không?
+ACC000024|2026-10-12 17:46:36|Đi chứ! Quán nào?
+ACC000013|2026-10-12 17:46:52|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000024|2026-10-12 17:49:15|Mấy giờ?
+ACC000013|2026-10-12 17:55:11|8 giờ tối nhé.
+ACC000024|2026-10-12 17:56:16|Ok, mình rủ thêm một bạn nữa được không?
+ACC000013|2026-10-12 17:56:35|Được chứ, càng đông càng vui.
+ACC000013|2026-10-12 18:16:48|Sao git của mình báo conflict hoài vậy?
+ACC000024|2026-10-12 18:17:25|Bạn có pull trước khi push không?
+ACC000013|2026-10-12 18:19:56|Chắc là không.
+ACC000024|2026-10-12 18:20:27|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000013|2026-10-12 18:22:12|Làm xong rồi, cảm ơn bạn.
+ACC000024|2026-10-12 18:23:02|Từ nay nhớ pull trước nhé.
+ACC000013|2026-10-12 20:15:56|Có gì báo mình nhé
+ACC000013|2026-10-12 20:16:08|Okela
+ACC000024|2026-10-12 20:16:12|Vậy hả?
+ACC000024|2026-10-12 20:16:15|Để mình xem
+ACC000024|2026-10-12 20:16:25|Cảm ơn nhé
+ACC000013|2026-10-12 20:16:36|Mệt quá hôm nay
+ACC000024|2026-10-12 20:16:45|Chúc bạn một ngày tốt lành
+ACC000024|2026-10-12 20:16:48|Mình cũng nghĩ vậy
+ACC000024|2026-10-12 20:17:01|Okela
+ACC000013|2026-10-12 20:17:07|Mệt quá hôm nay
+ACC000013|2026-10-12 20:17:16|Ừ đúng rồi
+ACC000013|2026-10-12 20:17:18|Nghe được đó
+ACC000013|2026-10-12 20:17:20|Chúc bạn một ngày tốt lành
+ACC000024|2026-10-13 13:15:20|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000013|2026-10-13 13:31:52|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000024|2026-10-13 13:32:32|Giá thế nào?
+ACC000013|2026-10-13 13:33:10|Khoảng 100 nghìn một ly.
+ACC000024|2026-10-13 13:33:30|Hợp lý đó, mai mình thử.
+ACC000013|2026-10-13 13:37:18|Mình cũng hay ngồi ở đó, gặp nhau nhé.
+ACC000013|2026-10-13 18:53:33|Tối nói chuyện tiếp nhé
+ACC000013|2026-10-13 19:39:51|Ok
+ACC000024|2026-10-13 20:08:34|Đang làm gì đó?
+ACC000013|2026-10-13 20:12:25|Tối nói chuyện tiếp nhé
+ACC000024|2026-10-14 13:54:16|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000013|2026-10-14 13:54:46|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000024|2026-10-14 13:55:07|Mình thấy rồi, truy cập ngoài mảng.
+ACC000013|2026-10-14 13:59:18|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000024|2026-10-14 14:02:49|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000013|2026-10-14 14:03:05|Lỗi này ai cũng từng gặp thôi.
+ACC000024|2026-10-14 16:00:22|Mình cũng nghĩ vậy
+ACC000024|2026-10-14 16:00:29|Mệt quá hôm nay
+ACC000024|2026-10-14 16:00:38|Ok
+ACC000024|2026-10-14 16:00:50|Vậy hả?
+ACC000024|2026-10-14 16:00:57|Ngủ ngon
+ACC000013|2026-10-14 16:01:09|Ừ đúng rồi
+ACC000024|2026-10-14 16:01:10|Haha
+ACC000024|2026-10-14 16:01:13|Ừ đúng rồi
+ACC000024|2026-10-14 16:01:21|Mình đang bận chút, lát nhắn lại nhé
+ACC000024|2026-10-14 16:01:34|Ok
+ACC000024|2026-10-14 16:01:48|Ngủ ngon
+ACC000024|2026-10-14 21:40:18|Sao git của mình báo conflict hoài vậy?
+ACC000013|2026-10-14 21:40:26|Bạn có pull trước khi push không?
+ACC000024|2026-10-14 21:42:01|Chắc là không.
+ACC000013|2026-10-14 21:43:46|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000024|2026-10-14 21:44:27|Làm xong rồi, cảm ơn bạn.
+ACC000013|2026-10-14 21:48:55|Từ nay nhớ pull trước nhé.
+ACC000024|2026-10-15 08:41:28|Cuối tuần này đi Hội An không?
+ACC000013|2026-10-15 08:41:40|Hay đó, đi mấy người?
+ACC000024|2026-10-15 08:42:02|Khoảng 7 người, tự đi xe máy.
+ACC000013|2026-10-15 08:42:42|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000024|2026-10-15 08:42:59|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000013|2026-10-15 08:43:13|Ok, vậy chốt luôn.
+ACC000024|2026-10-15 15:44:26|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000013|2026-10-15 15:44:50|Mình mới xong nửa tài liệu, hơi lo.
+ACC000024|2026-10-15 15:44:59|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000013|2026-10-15 16:15:19|Hay đó, 8 giờ nhé.
+ACC000024|2026-10-15 16:15:54|Ok, mình chuẩn bị sẵn đề cương.
+ACC000013|2026-10-15 16:17:38|Cảm ơn Nhi, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000013|2026-10-15 16:25:46|Cảm ơn nhé
+ACC000024|2026-10-15 16:25:56|Vừa về tới nhà
+ACC000024|2026-10-15 16:25:58|Cố lên nhé
+ACC000024|2026-10-15 16:26:03|Mệt quá hôm nay
+ACC000024|2026-10-15 16:26:13|Mệt quá hôm nay
+ACC000024|2026-10-15 16:26:14|Cố lên nhé
+ACC000013|2026-10-15 16:26:15|Vậy hả?
+ACC000013|2026-10-15 16:26:25|Ừ
+ACC000013|2026-10-15 16:26:33|Đang làm gì đó?
+ACC000024|2026-10-15 16:26:36|Ngủ ngon
+ACC000013|2026-10-15 16:26:41|Thật à?
+ACC000013|2026-10-15 16:35:48|Mệt quá hôm nay
+ACC000024|2026-10-15 16:37:16|Ừm, mình nghĩ vậy
+ACC000024|2026-10-15 16:37:27|Mình cũng nghĩ vậy
+ACC000013|2026-10-15 16:37:45|Ừ
+ACC000024|2026-10-15 16:38:43|Để mình xem
+ACC000024|2026-10-15 16:57:07|Cuối tuần bạn làm gì?
+ACC000013|2026-10-15 16:57:24|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000024|2026-10-15 16:59:06|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000013|2026-10-15 16:59:36|Thật không? Ngại quá.
+ACC000024|2026-10-15 17:03:12|Ngại gì, mẹ mình quý bạn lắm.
+ACC000013|2026-10-15 17:05:49|Vậy mình qua nhé, cảm ơn bác.
+ACC000013|2026-10-15 18:37:01|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000024|2026-10-15 18:40:57|Bạn chuẩn bị tới đâu rồi?
+ACC000013|2026-10-15 18:42:39|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000024|2026-10-15 18:43:14|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000013|2026-10-15 18:43:36|Cảm ơn Nhi, mình sẽ cố.
+ACC000024|2026-10-15 19:10:17|Xong nhớ nhắn mình kết quả nhé.
+ACC000024|2026-10-15 20:08:46|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000013|2026-10-15 20:10:18|Mình mới xong nửa tài liệu, hơi lo.
+ACC000024|2026-10-15 20:16:56|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000013|2026-10-15 20:17:27|Hay đó, 8 giờ nhé.
+ACC000024|2026-10-15 20:18:56|Ok, mình chuẩn bị sẵn đề cương.
+ACC000013|2026-10-15 20:20:59|Cảm ơn Nhi, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000024|2026-10-15 22:15:40|Nay trời mưa to ghê.
+ACC000013|2026-10-15 22:18:22|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000024|2026-10-15 22:19:52|Bạn có áo mưa không?
+ACC000013|2026-10-15 22:21:21|Không, chắc chờ tạnh.
+ACC000024|2026-10-15 22:46:48|Mình ghé đón nhé, mình đang gần đó.
+ACC000013|2026-10-15 22:47:09|Cảm ơn bạn nhiều lắm.
+ACC000024|2026-10-15 22:55:13|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000013|2026-10-15 22:57:58|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000024|2026-10-15 23:00:02|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000013|2026-10-15 23:02:36|Cảm ơn bạn đã hỏi thăm.
+ACC000024|2026-10-15 23:03:16|Có cần mình mang đồ ăn qua không?
+ACC000013|2026-10-15 23:04:46|Không cần đâu, mình ổn rồi.
+ACC000024|2026-10-17 15:29:11|Đang làm gì đó?
+ACC000024|2026-10-17 15:30:35|Rồi, mình nhớ rồi
+ACC000024|2026-10-17 15:32:23|Nghe được đó
+ACC000024|2026-10-17 15:33:25|Cảm ơn nhé
+ACC000013|2026-10-17 16:30:18|Nay trời mưa to ghê.
+ACC000024|2026-10-17 16:31:41|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000013|2026-10-17 16:36:35|Bạn có áo mưa không?
+ACC000024|2026-10-17 16:42:51|Không, chắc chờ tạnh.
+ACC000013|2026-10-17 16:43:18|Mình ghé đón nhé, mình đang gần đó.
+ACC000024|2026-10-17 16:44:17|Cảm ơn bạn nhiều lắm.
+ACC000024|2026-10-17 16:54:58|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000013|2026-10-17 16:56:21|Mình mới xong nửa tài liệu, hơi lo.
+ACC000024|2026-10-17 16:57:12|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000013|2026-10-17 16:58:22|Hay đó, 8 giờ nhé.
+ACC000024|2026-10-17 16:58:30|Ok, mình chuẩn bị sẵn đề cương.
+ACC000013|2026-10-17 17:00:06|Cảm ơn Nhi, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000024|2026-10-17 20:11:23|Tối nay đi ăn lẩu không?
+ACC000013|2026-10-17 20:12:45|Đi chứ! Quán nào?
+ACC000024|2026-10-17 20:13:25|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000013|2026-10-17 20:19:34|Mấy giờ?
+ACC000024|2026-10-17 20:21:40|5 giờ chiều nhé.
+ACC000013|2026-10-17 20:23:07|Ok, mình rủ thêm một bạn nữa được không?
+ACC000024|2026-10-17 20:23:27|Được chứ, càng đông càng vui.
+ACC000013|2026-10-17 20:36:28|Rồi, mình nhớ rồi
+ACC000024|2026-10-17 20:36:57|Vừa về tới nhà
+ACC000024|2026-10-17 21:00:01|Ừm, mình nghĩ vậy
+ACC000024|2026-10-17 21:02:48|Chúc bạn một ngày tốt lành
+ACC000024|2026-10-17 21:03:41|Haha bạn vui tính thật
+ACC000024|2026-10-17 21:11:49|Mình biết rồi
+ACC000024|2026-10-17 21:11:59|Cảm ơn nhé
+ACC000013|2026-10-17 21:12:08|Mai gặp nhé
+ACC000013|2026-10-17 21:12:19|Okela
+ACC000013|2026-10-17 21:12:30|Thật à?
+ACC000024|2026-10-17 21:12:35|Cảm ơn nhé
+ACC000024|2026-10-17 21:12:49|Okela
+ACC000024|2026-10-17 21:12:50|Thật à?
+ACC000024|2026-10-17 21:13:03|Cuối tuần rảnh không?
+ACC000024|2026-10-17 21:21:35|Sao git của mình báo conflict hoài vậy?
+ACC000013|2026-10-17 21:22:04|Bạn có pull trước khi push không?
+ACC000024|2026-10-17 21:28:50|Chắc là không.
+ACC000013|2026-10-17 21:29:20|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000024|2026-10-17 21:30:49|Làm xong rồi, cảm ơn bạn.
+ACC000013|2026-10-17 21:31:42|Từ nay nhớ pull trước nhé.
+ACC000013|2026-10-17 21:43:07|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000024|2026-10-17 21:44:29|Bạn chuẩn bị tới đâu rồi?
+ACC000013|2026-10-17 21:47:01|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000024|2026-10-17 21:47:12|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000013|2026-10-17 21:47:52|Cảm ơn Nhi, mình sẽ cố.
+ACC000024|2026-10-17 21:50:17|Xong nhớ nhắn mình kết quả nhé.
+ACC000013|2026-10-17 23:03:16|Công thức làm bánh flan bạn dùng thế nào?
+ACC000024|2026-10-17 23:06:18|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000013|2026-10-17 23:54:36|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000024|2026-10-17 23:57:15|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000013|2026-10-17 23:59:02|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000024|2026-10-18 00:02:07|Làm xong cho mình xin một miếng nhé.
+ACC000013|2026-10-19 18:02:23|Mai gặp nhé
+ACC000024|2026-10-19 18:02:24|Vừa về tới nhà
+ACC000013|2026-10-19 18:02:26|Vừa về tới nhà
+ACC000013|2026-10-19 18:02:36|Đang làm gì đó?
+ACC000024|2026-10-19 18:02:49|Mệt quá hôm nay
+ACC000024|2026-10-19 18:02:57|Nghe được đó
+ACC000013|2026-10-19 18:03:01|Ừ
+ACC000013|2026-10-19 18:03:13|Haha bạn vui tính thật
+ACC000024|2026-10-19 18:03:22|Đang làm gì đó?
+ACC000013|2026-10-19 18:03:32|Đang làm gì đó?
+ACC000013|2026-10-19 18:03:42|Rồi, mình nhớ rồi
+ACC000024|2026-10-19 20:28:52|Nay trời mưa to ghê.
+ACC000013|2026-10-19 20:29:30|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000024|2026-10-19 20:31:52|Bạn có áo mưa không?
+ACC000013|2026-10-19 20:35:14|Không, chắc chờ tạnh.
+ACC000024|2026-10-19 20:35:48|Mình ghé đón nhé, mình đang gần đó.
+ACC000013|2026-10-19 20:39:00|Cảm ơn bạn nhiều lắm.
+ACC000024|2026-10-19 20:47:07|Để mình xem
+ACC000013|2026-10-19 20:47:20|Mình đang bận chút, lát nhắn lại nhé
+ACC000013|2026-10-19 20:47:29|Ok
+ACC000013|2026-10-19 20:47:42|Nghe được đó
+ACC000024|2026-10-19 20:47:48|Mệt quá hôm nay
+ACC000024|2026-10-19 20:47:57|Đang làm gì đó?
+ACC000013|2026-10-19 20:48:07|Vậy hả?
+ACC000013|2026-10-19 20:48:16|Mình cũng nghĩ vậy
+ACC000013|2026-10-19 20:48:17|Mình biết rồi
+ACC000024|2026-10-19 20:48:30|Mệt quá hôm nay
+ACC000024|2026-10-19 20:48:35|Okela
+ACC000013|2026-10-19 20:48:46|Cuối tuần rảnh không?
+ACC000024|2026-10-19 20:48:47|Chúc bạn một ngày tốt lành
+ACC000024|2026-10-19 20:48:48|Ừm, mình nghĩ vậy
+ACC000013|2026-10-19 20:58:01|Mình dọn trọ sang khu khác rồi.
+ACC000024|2026-10-19 21:00:28|Thật à? Có xa trường không?
+ACC000013|2026-10-19 21:02:08|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000024|2026-10-19 21:04:49|Tốt quá, hôm nào mình qua chơi.
+ACC000013|2026-10-19 21:08:11|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000024|2026-10-19 21:09:44|Ok, nhớ nấu cơm cho mình đó.
+ACC000013|2026-10-19 22:06:35|Nay trời mưa to ghê.
+ACC000024|2026-10-19 22:07:28|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000013|2026-10-19 22:09:49|Bạn có áo mưa không?
+ACC000024|2026-10-19 22:12:16|Không, chắc chờ tạnh.
+ACC000013|2026-10-19 22:16:11|Mình ghé đón nhé, mình đang gần đó.
+ACC000024|2026-10-19 22:18:40|Cảm ơn bạn nhiều lắm.
+ACC000024|2026-10-21 21:58:12|Tối nay bạn có chơi game không?
+ACC000013|2026-10-21 22:04:02|Có, mấy giờ?
+ACC000024|2026-10-21 22:09:48|7 giờ, rủ thêm hai bạn nữa là đủ đội.
+ACC000013|2026-10-21 22:11:42|Ok, mình online sớm.
+ACC000024|2026-10-21 22:12:32|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000013|2026-10-21 22:17:21|Haha, thua thì đừng trách mình.
+ACC000013|2026-10-23 11:25:09|Cuối tuần bạn làm gì?
+ACC000024|2026-10-23 11:54:34|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000013|2026-10-23 12:01:15|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000024|2026-10-23 12:20:35|Thật không? Ngại quá.
+ACC000013|2026-10-23 12:22:47|Ngại gì, mẹ mình quý bạn lắm.
+ACC000024|2026-10-23 12:23:13|Vậy mình qua nhé, cảm ơn bác.
+ACC000013|2026-10-23 16:58:46|Bạn biết laptop nào học lập trình ổn không?
+ACC000024|2026-10-23 16:59:41|Tầm giá bao nhiêu?
+ACC000013|2026-10-23 17:01:52|Khoảng 15 đến 20 triệu.
+ACC000024|2026-10-23 17:02:14|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000013|2026-10-23 17:04:35|Cảm ơn nhiều, mình đang rối quá.
+ACC000024|2026-10-23 17:05:29|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000013|2026-10-23 21:42:24|Cố lên nhé
+ACC000024|2026-10-23 21:42:28|Chúc bạn một ngày tốt lành
+ACC000024|2026-10-23 21:42:34|Vậy hả?
+ACC000024|2026-10-23 21:42:37|Vậy hả?
+ACC000024|2026-10-23 21:42:45|Thật à?
+ACC000024|2026-10-23 21:42:47|Chúc bạn một ngày tốt lành
+ACC000013|2026-10-23 21:42:48|Vậy hả?
+ACC000024|2026-10-23 21:42:51|Để mình xem
+ACC000024|2026-10-23 21:42:52|Mai gặp nhé
+ACC000024|2026-10-23 21:42:53|Ừ đúng rồi
+ACC000013|2026-10-23 21:42:58|Cảm ơn nhé
+ACC000013|2026-10-23 21:43:07|Cuối tuần rảnh không?

@@ -1,0 +1,14 @@
+id=ACC000046
+username=hanln31
+password=48616e403238323373
+full_name=Lâm Ngọc Hân
+birthday=26-05-2005
+gender=Female
+bio=Học tiếng Anh mỗi ngày.
+created_at=2026-10-07
+status=ACTIVE
+residence=Đồng Nai
+hometown=Đồng Nai
+school=Đại học FPT TP.HCM
+workplace=
+hobbies=Chơi game

@@ -1,0 +1,68 @@
+ACC000129|2026-10-21 13:03:47|Năm nay bạn về quê ăn Tết không?
+ACC000063|2026-10-21 13:06:15|Có, mình đặt vé tàu rồi.
+ACC000129|2026-10-21 13:06:42|Mình còn chưa mua được vé.
+ACC000063|2026-10-21 13:07:46|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000129|2026-10-21 13:09:26|Ok, mình thử xem.
+ACC000063|2026-10-21 13:13:04|Chúc bạn sớm có vé nhé.
+ACC000129|2026-10-21 13:45:35|Haha
+ACC000063|2026-10-21 13:45:43|Thôi mình đi ăn cơm đã
+ACC000063|2026-10-21 13:45:55|Okela
+ACC000063|2026-10-21 13:46:09|Tối nói chuyện tiếp nhé
+ACC000129|2026-10-21 13:46:14|Thật à?
+ACC000063|2026-10-21 13:46:17|Ok
+ACC000063|2026-10-21 13:46:18|Đang làm gì đó?
+ACC000129|2026-10-21 14:29:33|Điểm thi giải tích có chưa bạn?
+ACC000063|2026-10-21 14:32:21|Có rồi, mình được 8 điểm.
+ACC000129|2026-10-21 14:33:38|Giỏi quá, mình mới 6 điểm thôi.
+ACC000063|2026-10-21 14:35:55|Cũng ổn mà, qua môn là tốt rồi.
+ACC000129|2026-10-21 14:37:46|Cảm ơn bạn đã động viên.
+ACC000063|2026-10-21 14:40:39|Lần sau mình học nhóm tiếp nhé.
+ACC000129|2026-10-21 16:14:30|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000063|2026-10-21 16:14:39|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000129|2026-10-21 16:17:17|Mình thấy rồi, truy cập ngoài mảng.
+ACC000063|2026-10-21 16:17:59|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000129|2026-10-21 16:52:59|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000063|2026-10-21 16:53:08|Lỗi này ai cũng từng gặp thôi.
+ACC000129|2026-10-21 17:38:31|Năm nay bạn về quê ăn Tết không?
+ACC000063|2026-10-21 18:23:29|Có, mình đặt vé tàu rồi.
+ACC000129|2026-10-21 18:23:58|Mình còn chưa mua được vé.
+ACC000063|2026-10-21 18:25:54|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000129|2026-10-21 18:27:27|Ok, mình thử xem.
+ACC000063|2026-10-21 18:27:38|Chúc bạn sớm có vé nhé.
+ACC000129|2026-10-21 18:35:32|Mình dọn trọ sang khu khác rồi.
+ACC000063|2026-10-21 18:36:07|Thật à? Có xa trường không?
+ACC000129|2026-10-21 18:37:35|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000063|2026-10-21 18:40:11|Tốt quá, hôm nào mình qua chơi.
+ACC000129|2026-10-21 18:41:18|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000063|2026-10-21 18:43:26|Ok, nhớ nấu cơm cho mình đó.
+ACC000129|2026-10-21 19:00:58|Điểm thi xác suất có chưa bạn?
+ACC000063|2026-10-21 19:04:36|Có rồi, mình được 8 điểm.
+ACC000129|2026-10-21 19:06:44|Giỏi quá, mình mới 6 điểm thôi.
+ACC000063|2026-10-21 19:08:53|Cũng ổn mà, qua môn là tốt rồi.
+ACC000129|2026-10-21 19:12:42|Cảm ơn bạn đã động viên.
+ACC000063|2026-10-21 19:27:48|Lần sau mình học nhóm tiếp nhé.
+ACC000063|2026-10-21 21:13:56|Tối nay đi ăn bánh mì không?
+ACC000129|2026-10-21 21:14:20|Đi chứ! Quán nào?
+ACC000063|2026-10-21 21:16:26|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000129|2026-10-21 21:17:16|Mấy giờ?
+ACC000063|2026-10-21 21:17:29|7 rưỡi nhé.
+ACC000129|2026-10-21 21:19:59|Ok, mình rủ thêm một bạn nữa được không?
+ACC000063|2026-10-21 21:20:38|Được chứ, càng đông càng vui.
+ACC000063|2026-10-21 23:08:42|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000129|2026-10-21 23:14:00|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000063|2026-10-21 23:16:08|Chụp vài tấm nhé.
+ACC000129|2026-10-21 23:33:47|Xong rồi, mình gửi bạn qua đây.
+ACC000063|2026-10-21 23:40:16|Đẹp quá, cảm ơn bạn nhiều.
+ACC000129|2026-10-21 23:40:28|Lần sau mình chụp thêm.
+ACC000129|2026-10-22 15:28:00|Bạn ơi, bài tập tiếng Anh nộp chưa?
+ACC000063|2026-10-22 16:16:46|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000129|2026-10-22 16:18:59|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000063|2026-10-22 16:20:24|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000129|2026-10-22 16:22:21|Có gì hỏi mình nhé.
+ACC000063|2026-10-22 16:23:31|Okela, cảm ơn Nhàn nhiều.
+ACC000129|2026-10-24 12:13:01|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000063|2026-10-24 12:13:22|Bạn chuẩn bị tới đâu rồi?
+ACC000129|2026-10-24 12:15:00|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000063|2026-10-24 12:48:54|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000129|2026-10-24 12:52:08|Cảm ơn Hân, mình sẽ cố.
+ACC000063|2026-10-24 12:55:25|Xong nhớ nhắn mình kết quả nhé.

@@ -1,0 +1,6 @@
+ACC000038|2026-10-21 18:00:11|Bạn ơi, bài tập cơ sở dữ liệu nộp chưa?
+ACC000029|2026-10-21 18:00:33|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000038|2026-10-21 18:06:31|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000029|2026-10-21 18:12:32|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000038|2026-10-21 18:14:53|Có gì hỏi mình nhé.
+ACC000029|2026-10-21 18:16:48|Okela, cảm ơn Mai nhiều.

@@ -1,0 +1,12 @@
+ACC000087|2026-10-17 22:20:39|Chỉ mình đường tới thư viện thành phố với.
+ACC000111|2026-10-17 22:24:26|Bạn đang ở đâu?
+ACC000087|2026-10-17 22:26:30|Mình đang ở gần cổng chợ.
+ACC000111|2026-10-17 22:28:08|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000087|2026-10-17 22:32:48|Mình thấy rồi, cảm ơn bạn nha.
+ACC000111|2026-10-17 22:34:16|Ok, đi cẩn thận.
+ACC000087|2026-10-21 20:56:42|Mình mới mua chiếc xe đạp.
+ACC000111|2026-10-21 20:59:12|Wow, xe đẹp không?
+ACC000087|2026-10-21 20:59:41|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000111|2026-10-21 21:00:36|Cuối tuần đạp xe quanh hồ nhé.
+ACC000087|2026-10-21 21:01:09|Hay đó, chốt luôn.
+ACC000111|2026-10-21 21:50:58|Nhớ mang nước.

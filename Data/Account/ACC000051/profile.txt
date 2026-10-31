@@ -1,0 +1,14 @@
+id=ACC000051
+username=danghd52
+password=44616e67403539353665
+full_name=Hồ Đình Đăng
+birthday=11-01-2004
+gender=Male
+bio=Cà phê sáng, deadline chiều.
+created_at=2026-09-13
+status=ACTIVE
+residence=Huế
+hometown=Lào Cai
+school=
+workplace=Phúc Long
+hobbies=Chụp ảnh film

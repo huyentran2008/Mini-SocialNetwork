@@ -1,0 +1,8 @@
+id=POST000088
+author=ACC000057
+visibility=FRIEND
+created_at=2026-10-02 21:28:19
+edited_at=
+status=VISIBLE
+title=Thuật toán BFS gợi ý kết bạn hoạt động thế nào
+content=Mỗi người là một đỉnh, mỗi quan hệ bạn bè là một cạnh. Duyệt BFS từ một người sẽ ra bạn của bạn ở tầng 2, bạn của bạn của bạn ở tầng 3. Sắp xếp theo số bạn chung là ra danh sách gợi ý khá hợp lý. Thế thôi, chúc mọi người một ngày vui!

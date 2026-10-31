@@ -1,0 +1,12 @@
+ACC000039|2026-10-16 20:06:53|Năm nay bạn về quê ăn Tết không?
+ACC000128|2026-10-16 20:07:32|Có, mình đặt vé tàu rồi.
+ACC000039|2026-10-16 20:09:29|Mình còn chưa mua được vé.
+ACC000128|2026-10-16 20:09:50|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000039|2026-10-16 20:14:48|Ok, mình thử xem.
+ACC000128|2026-10-16 20:15:43|Chúc bạn sớm có vé nhé.
+ACC000128|2026-10-22 21:19:39|Sáng mai bạn có đi tập chạy không?
+ACC000039|2026-10-22 21:20:16|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000128|2026-10-22 21:20:42|Mình sợ dậy không nổi.
+ACC000039|2026-10-22 21:35:26|Để mình gọi bạn dậy.
+ACC000128|2026-10-22 21:35:52|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000039|2026-10-22 21:38:52|Ok, mai gặp.

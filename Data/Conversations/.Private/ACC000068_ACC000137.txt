@@ -1,0 +1,13 @@
+ACC000068|2026-10-21 22:49:26|Chào bạn, lâu rồi không nói chuyện.
+ACC000137|2026-10-21 22:52:22|Chào bạn, dạo này bạn thế nào?
+ACC000068|2026-10-21 22:56:46|Mình ổn, bận học và làm thêm.
+ACC000137|2026-10-21 22:57:16|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000068|2026-10-21 22:58:17|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000137|2026-10-21 23:00:51|Được, tới lúc đó nhắn mình nhé.
+ACC000137|2026-10-21 23:10:07|Cuối tuần này đi xem phim không?
+ACC000068|2026-10-21 23:13:16|Phim gì vậy?
+ACC000137|2026-10-21 23:14:15|Phim mới chiếu, nghe nói hay lắm.
+ACC000068|2026-10-21 23:18:49|Mình đang rảnh thứ tư, đi buổi chiều nhé.
+ACC000137|2026-10-21 23:19:13|Ok, mình đặt vé luôn.
+ACC000068|2026-10-21 23:21:48|Nhớ chọn ghế giữa nha.
+ACC000137|2026-10-21 23:22:53|Yên tâm.

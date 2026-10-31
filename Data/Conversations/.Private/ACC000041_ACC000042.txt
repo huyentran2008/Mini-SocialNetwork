@@ -1,0 +1,25 @@
+ACC000041|2026-10-20 18:06:30|Bạn xem phim mới chưa?
+ACC000042|2026-10-20 18:10:03|Phim nào vậy?
+ACC000041|2026-10-20 18:17:50|Phim chiếu rạp tuần này đó, nghe nói hay lắm
+ACC000042|2026-10-20 18:23:15|Để mình rủ nhóm đi xem cuối tuần
+ACC000041|2026-10-20 18:26:53|Hay đó, đi chung luôn cho vui
+ACC000042|2026-10-21 19:54:46|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000041|2026-10-21 19:55:31|Bạn chuẩn bị tới đâu rồi?
+ACC000042|2026-10-21 19:59:07|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000041|2026-10-21 20:00:57|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000042|2026-10-21 20:03:40|Cảm ơn Bảo, mình sẽ cố.
+ACC000041|2026-10-21 20:05:33|Xong nhớ nhắn mình kết quả nhé.
+ACC000042|2026-10-23 05:33:56|Cuối tuần bạn làm gì?
+ACC000041|2026-10-23 05:34:28|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000042|2026-10-23 05:35:38|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000041|2026-10-23 05:38:12|Thật không? Ngại quá.
+ACC000042|2026-10-23 05:38:47|Ngại gì, mẹ mình quý bạn lắm.
+ACC000041|2026-10-23 05:41:07|Vậy mình qua nhé, cảm ơn bác.
+ACC000042|2026-10-24 18:15:19|Thật à?
+ACC000042|2026-10-24 18:15:29|Ok
+ACC000041|2026-10-24 18:15:42|Vậy hả?
+ACC000042|2026-10-24 18:15:54|Ừ đúng rồi
+ACC000042|2026-10-24 18:16:08|Mệt quá hôm nay
+ACC000042|2026-10-24 18:16:10|Mình biết rồi
+ACC000041|2026-10-24 18:16:16|Ok
+ACC000042|2026-10-24 18:16:26|Mệt quá hôm nay

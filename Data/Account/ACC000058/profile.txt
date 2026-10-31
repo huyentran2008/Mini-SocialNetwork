@@ -1,0 +1,14 @@
+id=ACC000058
+username=ngatd19
+password=4e6761403039323663
+full_name=Trịnh Diễm Nga
+birthday=04-01-1998
+gender=Female
+bio=Osin của một bé mèo.
+created_at=2026-10-10
+status=ACTIVE
+residence=Hà Nội
+hometown=Đà Nẵng
+school=
+workplace=Bệnh viện Chợ Rẫy
+hobbies=Chăm sóc bonsai;Làm vườn;Chăm sóc cây cảnh

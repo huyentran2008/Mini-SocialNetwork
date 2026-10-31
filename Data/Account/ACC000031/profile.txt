@@ -1,0 +1,14 @@
+id=ACC000031
+username=phuocnh85
+password=5068756f63403630373270
+full_name=Nguyễn Hữu Phước
+birthday=26-10-2006
+gender=Male
+bio=Đang tập gym và ăn sạch.
+created_at=2026-10-01
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=Hà Nội
+school=Đại học Khoa học Tự nhiên - ĐHQG TP.HCM
+workplace=VNG
+hobbies=Học lập trình

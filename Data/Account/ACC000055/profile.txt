@@ -1,0 +1,14 @@
+id=ACC000055
+username=ngavk24
+password=4e6761403430303778
+full_name=Vũ Kim Nga
+birthday=26-05-2004
+gender=Female
+bio=Viết để nhớ, đọc để hiểu.
+created_at=2026-08-19
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=TP. Hồ Chí Minh
+school=Cao đẳng Quốc tế TP.HCM
+workplace=Quán cà phê của gia đình
+hobbies=Triết học;Học ngoại ngữ;Đọc truyện chữ

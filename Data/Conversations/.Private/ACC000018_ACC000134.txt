@@ -1,0 +1,12 @@
+ACC000018|2026-10-22 20:00:26|Sao git của mình báo conflict hoài vậy?
+ACC000134|2026-10-22 20:01:12|Bạn có pull trước khi push không?
+ACC000018|2026-10-22 20:03:35|Chắc là không.
+ACC000134|2026-10-22 20:03:55|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000018|2026-10-22 20:04:37|Làm xong rồi, cảm ơn bạn.
+ACC000134|2026-10-22 20:05:42|Từ nay nhớ pull trước nhé.
+ACC000134|2026-10-22 20:16:16|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000018|2026-10-22 20:16:57|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000134|2026-10-22 20:17:16|Giá thế nào?
+ACC000018|2026-10-22 20:18:01|Khoảng 300 nghìn một ly.
+ACC000134|2026-10-22 20:19:07|Hợp lý đó, mai mình thử.
+ACC000018|2026-10-22 20:21:19|Mình cũng hay ngồi ở đó, gặp nhau nhé.

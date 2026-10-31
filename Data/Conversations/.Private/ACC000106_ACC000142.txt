@@ -1,0 +1,46 @@
+ACC000106|2026-09-19 20:31:51|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000142|2026-09-19 20:35:43|Bài nào vậy?
+ACC000106|2026-09-19 20:37:46|Mình gửi link rồi đó.
+ACC000142|2026-09-19 20:39:12|Nghe rồi, giai điệu dễ chịu thật.
+ACC000106|2026-09-19 20:39:55|Đúng không? Mình nghe suốt tuần này.
+ACC000142|2026-09-19 20:40:40|Cho mình xin playlist nhé.
+ACC000142|2026-09-25 19:24:52|Chào bạn, lâu rồi không nói chuyện.
+ACC000106|2026-09-25 19:25:23|Chào bạn, dạo này bạn thế nào?
+ACC000142|2026-09-25 19:27:11|Mình ổn, bận học và làm thêm.
+ACC000106|2026-09-25 19:29:19|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000142|2026-09-25 19:31:11|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000106|2026-09-25 19:36:56|Được, tới lúc đó nhắn mình nhé.
+ACC000142|2026-09-28 21:59:48|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000106|2026-09-28 22:01:28|Ủa quên mất, bao nhiêu vậy?
+ACC000142|2026-09-28 22:02:15|200 nghìn thôi.
+ACC000106|2026-09-28 22:04:06|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000142|2026-09-28 22:05:06|Nhận được rồi nha.
+ACC000106|2026-09-28 22:05:38|Ok, xong nợ.
+ACC000106|2026-10-03 11:03:29|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000142|2026-10-03 11:03:58|Haha, bé làm gì thế?
+ACC000106|2026-10-03 11:45:33|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000142|2026-10-03 11:46:23|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000106|2026-10-03 11:48:37|Đợi chút mình chụp.
+ACC000142|2026-10-03 11:51:32|Đúng là chủ nào mèo nấy.
+ACC000142|2026-10-18 11:53:29|Mình cũng nghĩ vậy
+ACC000142|2026-10-18 11:57:47|Để mình xem
+ACC000106|2026-10-18 11:58:03|Thật à?
+ACC000142|2026-10-18 12:02:31|Rồi, mình nhớ rồi
+ACC000106|2026-10-22 07:30:58|Bạn có rảnh để mình hỏi chút về môn tiếng Anh không?
+ACC000142|2026-10-22 07:32:39|Có, bạn hỏi đi.
+ACC000106|2026-10-22 07:33:07|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000142|2026-10-22 07:33:59|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000106|2026-10-22 07:35:42|Nghe hợp lý, cảm ơn bạn.
+ACC000142|2026-10-22 07:37:03|Cần gì cứ nhắn mình.
+ACC000106|2026-10-24 22:37:49|Công thức làm bánh flan bạn dùng thế nào?
+ACC000142|2026-10-24 22:38:47|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000106|2026-10-24 22:42:33|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000142|2026-10-24 22:44:37|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000106|2026-10-24 22:46:44|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000142|2026-10-24 22:53:12|Làm xong cho mình xin một miếng nhé.
+ACC000142|2026-10-24 23:08:35|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000106|2026-10-24 23:14:57|Mình mới xong nửa tài liệu, hơi lo.
+ACC000142|2026-10-24 23:16:37|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000106|2026-10-24 23:18:24|Hay đó, 8 giờ nhé.
+ACC000142|2026-10-24 23:22:50|Ok, mình chuẩn bị sẵn đề cương.
+ACC000106|2026-10-24 23:23:47|Cảm ơn Hân, có bạn cùng ôn đỡ áp lực hẳn.

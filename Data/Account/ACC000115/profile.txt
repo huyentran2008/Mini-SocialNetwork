@@ -1,0 +1,14 @@
+id=ACC000115
+username=hoangqq29
+password=486f616e67403039363263
+full_name=Quách Quang Hoàng
+birthday=03-09-1996
+gender=Male
+bio=Đá bóng cuối tuần là chân ái.
+created_at=2026-09-28
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=TP. Hồ Chí Minh
+school=
+workplace=Lazada
+hobbies=Cầu lông

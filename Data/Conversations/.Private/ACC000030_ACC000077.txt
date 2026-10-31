@@ -1,0 +1,12 @@
+ACC000030|2026-10-22 21:16:32|Sao git của mình báo conflict hoài vậy?
+ACC000077|2026-10-22 21:17:22|Bạn có pull trước khi push không?
+ACC000030|2026-10-22 21:20:59|Chắc là không.
+ACC000077|2026-10-22 21:22:03|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000030|2026-10-22 21:22:51|Làm xong rồi, cảm ơn bạn.
+ACC000077|2026-10-22 21:25:19|Từ nay nhớ pull trước nhé.
+ACC000077|2026-10-23 13:46:19|Bạn ơi, bài tập giải tích nộp chưa?
+ACC000030|2026-10-23 13:46:31|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000077|2026-10-23 13:49:43|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000030|2026-10-23 13:50:02|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000077|2026-10-23 13:51:04|Có gì hỏi mình nhé.
+ACC000030|2026-10-23 14:33:41|Okela, cảm ơn Liên nhiều.

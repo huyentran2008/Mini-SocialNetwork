@@ -1,0 +1,6 @@
+ACC000030|2026-10-20 19:48:01|Bạn có rảnh để mình hỏi chút về môn giải tích không?
+ACC000024|2026-10-20 19:49:38|Có, bạn hỏi đi.
+ACC000030|2026-10-20 19:50:10|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000024|2026-10-20 19:55:02|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000030|2026-10-20 19:59:02|Nghe hợp lý, cảm ơn bạn.
+ACC000024|2026-10-20 20:05:33|Cần gì cứ nhắn mình.

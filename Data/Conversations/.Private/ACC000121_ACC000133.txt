@@ -1,0 +1,26 @@
+ACC000133|2026-10-17 21:28:39|Tối nay đi ăn phở không?
+ACC000121|2026-10-17 21:30:29|Đi chứ! Quán nào?
+ACC000133|2026-10-17 21:32:23|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000121|2026-10-17 21:33:46|Mấy giờ?
+ACC000133|2026-10-17 21:34:30|7 giờ nhé.
+ACC000121|2026-10-17 21:36:21|Ok, mình rủ thêm một bạn nữa được không?
+ACC000133|2026-10-17 21:38:26|Được chứ, càng đông càng vui.
+ACC000121|2026-10-18 22:31:48|Chỉ mình đường tới thư viện thành phố với.
+ACC000133|2026-10-18 22:38:24|Bạn đang ở đâu?
+ACC000121|2026-10-18 22:39:20|Mình đang ở gần cổng chợ.
+ACC000133|2026-10-18 22:39:34|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000121|2026-10-18 22:41:58|Mình thấy rồi, cảm ơn bạn nha.
+ACC000133|2026-10-18 22:43:30|Ok, đi cẩn thận.
+ACC000121|2026-10-19 15:23:58|Mình cũng nghĩ vậy
+ACC000121|2026-10-19 15:24:03|Cuối tuần rảnh không?
+ACC000133|2026-10-19 15:24:08|Đang làm gì đó?
+ACC000133|2026-10-19 15:24:12|Được luôn
+ACC000133|2026-10-19 15:24:18|Được luôn
+ACC000121|2026-10-19 15:24:24|Mình cũng nghĩ vậy
+ACC000133|2026-10-19 15:24:36|Cố lên nhé
+ACC000133|2026-10-20 22:36:34|Bạn xem giúp mình CV được không?
+ACC000121|2026-10-20 23:18:48|Gửi mình xem nhé.
+ACC000133|2026-10-20 23:21:58|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000121|2026-10-20 23:25:36|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000133|2026-10-20 23:27:42|Hợp lý, mình sửa luôn.
+ACC000121|2026-10-20 23:29:54|Sửa xong gửi mình xem lại nhé.

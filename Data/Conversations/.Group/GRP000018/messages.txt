@@ -1,0 +1,125 @@
+SYSTEM|2026-09-24 18:41:18|Võ Thảo Thanh đã tạo nhóm "Team đi Đà Lạt"
+SYSTEM|2026-09-24 18:41:19|Võ Thảo Thanh đã thêm Phạm Yến Tuyền vào nhóm
+SYSTEM|2026-09-24 18:41:20|Phạm Yến Tuyền đã thêm Trần Minh Hiếu vào nhóm
+ACC000073|2026-09-26 16:26:55|Thông báo: tuần này nhóm sinh hoạt vào thứ tư, 11 giờ 30, địa điểm sẽ cập nhật trong nhóm. Mọi người sắp xếp thời gian tham gia đầy đủ, ai bận thì nhắn lại cho mình trước ngày sinh hoạt để mình tổng hợp danh sách nhé. Cảm ơn mọi người rất nhiều vì đã luôn nhiệt tình tham gia và đóng góp ý kiến cho nhóm thời gian qua.
+ACC000073|2026-09-26 17:15:18|Nghe hợp lý đó
+ACC000073|2026-09-26 17:17:46|Cố lên mọi người
+ACC000073|2026-09-28 16:42:17|Thông báo: tuần này nhóm sinh hoạt vào thứ năm, 8 giờ, địa điểm sẽ cập nhật trong nhóm. Mọi người sắp xếp thời gian tham gia đầy đủ, ai bận thì nhắn lại cho mình trước ngày sinh hoạt để mình tổng hợp danh sách nhé. Cảm ơn mọi người rất nhiều vì đã luôn nhiệt tình tham gia và đóng góp ý kiến cho nhóm thời gian qua.
+SYSTEM|2026-09-29 08:00:00|Phạm Yến Tuyền đã thêm Quách Quang Hoàng vào nhóm
+ACC000115|2026-09-30 12:17:51|Mọi người xem dự báo thời tiết Đà Nẵng chưa?
+ACC000078|2026-09-30 12:18:07|Có mưa nhẹ buổi chiều.
+ACC000073|2026-09-30 12:18:25|Nhớ mang áo mưa nhé.
+ACC000062|2026-09-30 12:20:33|Mình mang ô và áo khoác mỏng.
+ACC000115|2026-09-30 12:21:36|Ok, đi vẫn được nhưng chuẩn bị kỹ.
+ACC000078|2026-10-02 21:08:11|Nghe hợp lý đó
+ACC000062|2026-10-02 21:09:56|Tuyệt vời!
+ACC000073|2026-10-02 21:11:44|Cảm ơn cả nhóm đã giúp mình
+ACC000115|2026-10-02 21:12:10|Hẹn mọi người cuối tuần
+ACC000062|2026-10-04 10:21:43|Haha cười đau bụng
+ACC000115|2026-10-04 10:23:19|Mình đang trên đường tới
+ACC000115|2026-10-04 10:27:18|Chúc mừng nhé!
+ACC000078|2026-10-04 10:30:57|Mình vừa tới nơi
+ACC000062|2026-10-04 10:31:18|Đồng ý với bạn
+ACC000073|2026-10-04 20:38:12|Mọi người xem dự báo thời tiết Vũng Tàu chưa?
+ACC000115|2026-10-04 20:38:23|Có mưa nhẹ buổi chiều.
+ACC000078|2026-10-04 20:51:17|Nhớ mang áo mưa nhé.
+ACC000062|2026-10-04 20:52:44|Mình mang ô và áo khoác mỏng.
+ACC000073|2026-10-04 20:53:11|Ok, đi vẫn được nhưng chuẩn bị kỹ.
+ACC000078|2026-10-09 18:34:31|Tối nay có ai online không?
+ACC000073|2026-10-09 18:35:21|Có mình.
+ACC000115|2026-10-09 18:36:54|Mình cũng vậy.
+ACC000078|2026-10-09 18:37:05|Gọi video nói chuyện chút nhé.
+ACC000073|2026-10-09 18:39:33|Ok, 9 giờ.
+ACC000115|2026-10-09 18:39:55|Chờ mình tắm xong đã.
+ACC000073|2026-10-09 22:06:49|Cảm ơn nhé
+ACC000115|2026-10-09 22:07:04|Haha đúng là vậy
+ACC000115|2026-10-09 22:07:16|Mình đi ngủ trước nhé
+SYSTEM|2026-10-11 03:00:00|Võ Thảo Thanh đã thêm Huỳnh Kim Ly vào nhóm
+SYSTEM|2026-10-11 03:00:00|Phạm Yến Tuyền đã thêm Phạm Ngọc Anh vào nhóm
+SYSTEM|2026-10-11 03:00:00|Võ Thảo Thanh đã thêm Lê Hồng My vào nhóm
+SYSTEM|2026-10-11 19:16:53|Trần Minh Hiếu đã thêm Phạm Mai Nga vào nhóm
+ACC000115|2026-10-12 23:22:49|Đường dẫn thư mục lưu file nhóm: C:\\Nhom\\TaiLieu\\2026 (mọi người nhớ lưu đúng chỗ nhé).
+ACC000103|2026-10-16 12:56:24|Hôm nay ai mang theo sạc dự phòng không?
+ACC000072|2026-10-16 12:57:13|Mình có, cần mượn không?
+ACC000103|2026-10-16 13:03:21|Điện thoại mình còn 5% rồi.
+ACC000072|2026-10-16 13:03:40|Lại bàn mình cắm nhé.
+ACC000103|2026-10-16 13:05:26|Cảm ơn bạn nhé.
+ACC000103|2026-10-18 10:05:18|Đúng rồi
+ACC000004|2026-10-18 10:06:31|Nhớ giữ sức khỏe nhé mọi người
+ACC000004|2026-10-18 10:09:18|Hôm nay mưa mà vẫn đi à?
+ACC000004|2026-10-18 10:38:27|Tuyệt vời!
+ACC000103|2026-10-18 10:40:35|Vậy chốt nhé
+ACC000004|2026-10-18 10:40:49|Ngủ ngon cả nhóm
+ACC000004|2026-10-18 10:48:58|Hôm nay mưa mà vẫn đi à?
+ACC000073|2026-10-18 10:49:04|Ngủ ngon cả nhóm
+ACC000073|2026-10-18 10:49:14|Ai đi nữa không?
+ACC000073|2026-10-18 10:49:18|Mình cũng nghĩ thế
+ACC000004|2026-10-18 10:49:22|Okela mọi người
+ACC000137|2026-10-18 10:49:34|Cảm ơn nhé
+ACC000115|2026-10-18 10:49:35|Ai có tin gì mới không?
+ACC000004|2026-10-18 10:49:43|Mình cũng nghĩ thế
+ACC000073|2026-10-18 10:49:44|Mình +1
+ACC000004|2026-10-18 10:49:50|Đừng quên nha mọi người
+ACC000103|2026-10-18 10:49:56|Chuẩn rồi
+ACC000004|2026-10-18 10:49:58|Thật không đó?
+ACC000137|2026-10-18 10:50:00|Cảm ơn nhé
+ACC000103|2026-10-18 10:50:11|Mình cũng nghĩ thế
+ACC000115|2026-10-18 10:50:16|Nhớ giữ sức khỏe nhé mọi người
+ACC000078|2026-10-18 10:50:27|Mình về trước nhé
+ACC000115|2026-10-18 10:50:29|Chúc mừng nhé!
+ACC000004|2026-10-18 10:50:37|Hôm nay mưa mà vẫn đi à?
+ACC000004|2026-10-18 10:50:38|Ừ, mình nhớ rồi
+ACC000072|2026-10-18 10:50:48|Để mình kiểm tra lại rồi báo
+ACC000137|2026-10-18 10:50:53|Haha đúng là vậy
+ACC000103|2026-10-18 10:50:58|Cảm ơn cả nhóm đã giúp mình
+ACC000004|2026-10-18 10:51:09|Okela mọi người
+ACC000072|2026-10-18 10:51:11|Cảm ơn nhé
+ACC000103|2026-10-18 14:53:00|Trưa nay ăn gì mọi người?
+ACC000115|2026-10-18 14:59:40|Cơm tấm đi, trời nóng ăn nhẹ thôi.
+ACC000004|2026-10-18 15:01:44|Mình thích gà rán hơn.
+ACC000078|2026-10-18 15:03:24|Phiếu bầu: hủ tiếu +1.
+ACC000103|2026-10-18 15:03:39|Vậy chốt bún bò, 5 giờ chiều gặp ở cổng.
+ACC000115|2026-10-18 15:41:55|Ok, mình tới đúng giờ.
+ACC000004|2026-10-18 15:50:31|Cố lên mọi người
+ACC000073|2026-10-18 15:50:56|Cảm ơn cả nhóm đã giúp mình
+ACC000073|2026-10-18 15:56:22|Ổn rồi nhé
+ACC000115|2026-10-18 15:57:04|Haha đúng là vậy
+ACC000062|2026-10-18 15:58:22|Ai đi nữa không?
+ACC000103|2026-10-18 16:26:04|Ừ, mình nhớ rồi
+ACC000073|2026-10-18 20:00:18|Cho mình xin chút thông tin với
+ACC000103|2026-10-18 20:01:00|Nhớ giữ sức khỏe nhé mọi người
+ACC000103|2026-10-18 20:01:26|Mình đi ngủ trước nhé
+ACC000078|2026-10-18 20:02:01|Quá tuyệt
+ACC000004|2026-10-18 20:06:39|Mệt ghê
+ACC000004|2026-10-18 20:14:43|Mình đang trên đường tới
+ACC000004|2026-10-18 20:14:53|Hôm nay vui thật
+ACC000004|2026-10-18 20:15:03|Hẹn mọi người cuối tuần
+ACC000115|2026-10-18 20:15:09|Cố lên mọi người
+ACC000115|2026-10-18 20:15:20|Hôm nay mưa mà vẫn đi à?
+ACC000103|2026-10-18 20:15:28|Đừng quên nha mọi người
+ACC000004|2026-10-18 20:15:32|Đồng ý với bạn
+ACC000073|2026-10-18 20:15:44|Haha cười đau bụng
+ACC000073|2026-10-18 20:15:56|Mệt ghê
+ACC000103|2026-10-18 22:26:45|Phòng nghỉ ở Nha Trang giá 200 nghìn một đêm, ổn không?
+ACC000004|2026-10-18 22:29:28|Giá ổn, còn phòng không?
+ACC000103|2026-10-18 22:30:29|Còn, mình đặt luôn nhé.
+ACC000072|2026-10-18 22:32:54|Mình đặt cọc giúp.
+ACC000073|2026-10-18 22:35:03|Cảm ơn nhé, chia tiền sau.
+ACC000103|2026-10-19 22:37:57|Mưa quá, ai đi học được không?
+ACC000004|2026-10-19 22:38:27|Mình vẫn đi, chỉ hơi ướt thôi.
+ACC000073|2026-10-19 22:39:51|Mình ở nhà, học trực tuyến đi.
+ACC000137|2026-10-19 22:40:36|Lớp mình có thông báo gì chưa?
+ACC000103|2026-10-19 23:29:13|Chưa thấy, cứ đến lớp bình thường.
+SYSTEM|2026-10-20 15:33:18|Phạm Ngọc Anh đã rời nhóm
+SYSTEM|2026-10-20 17:47:07|Võ Thảo Thanh đã rời nhóm
+ACC000072|2026-10-23 22:42:28|Lịch trình ngày đầu: sáng đi chợ, chiều đi biển, tối ăn hải sản.
+ACC000103|2026-10-23 22:42:58|Nghe hay đó.
+ACC000115|2026-10-23 22:44:49|Thêm một buổi cà phê buổi sáng nhé.
+ACC000072|2026-10-23 22:48:31|Ok, mình thêm vào.
+ACC000062|2026-10-23 23:08:04|Nhớ bôi kem chống nắng.
+ACC000103|2026-10-25 08:53:54|Mọi người chốt lịch đi Mũi Né chưa?
+ACC000078|2026-10-25 08:55:26|Mình rảnh cuối tuần này.
+ACC000137|2026-10-25 08:55:53|Mình chỉ đi được thứ sáu.
+ACC000115|2026-10-25 08:56:47|Vậy đi chủ nhật đi, mình đặt phòng.
+ACC000103|2026-10-25 08:59:51|Ok, mình tìm xe.
+ACC000072|2026-10-25 09:00:39|Mình lo phần ăn uống nhé.

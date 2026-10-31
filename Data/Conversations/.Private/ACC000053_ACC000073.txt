@@ -1,0 +1,18 @@
+ACC000053|2026-09-21 10:20:36|Chỉ mình đường tới thư viện thành phố với.
+ACC000073|2026-09-21 10:22:17|Bạn đang ở đâu?
+ACC000053|2026-09-21 10:22:37|Mình đang ở gần cổng chợ.
+ACC000073|2026-09-21 10:25:08|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000053|2026-09-21 10:28:44|Mình thấy rồi, cảm ơn bạn nha.
+ACC000073|2026-09-21 10:28:52|Ok, đi cẩn thận.
+ACC000053|2026-10-09 21:37:02|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000073|2026-10-09 21:40:26|Bạn chuẩn bị tới đâu rồi?
+ACC000053|2026-10-09 21:41:40|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000073|2026-10-09 21:42:28|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000053|2026-10-09 21:47:52|Cảm ơn Thanh, mình sẽ cố.
+ACC000073|2026-10-09 21:53:09|Xong nhớ nhắn mình kết quả nhé.
+ACC000053|2026-10-11 10:55:20|Bạn có rảnh để mình hỏi chút về môn tiếng Anh không?
+ACC000073|2026-10-11 10:56:08|Có, bạn hỏi đi.
+ACC000053|2026-10-11 10:56:21|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000073|2026-10-11 10:58:28|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000053|2026-10-11 10:59:59|Nghe hợp lý, cảm ơn bạn.
+ACC000073|2026-10-11 11:44:03|Cần gì cứ nhắn mình.

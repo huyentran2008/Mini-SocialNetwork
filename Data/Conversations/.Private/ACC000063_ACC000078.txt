@@ -1,0 +1,6 @@
+ACC000078|2026-10-16 11:11:42|Chỉ mình đường tới thư viện thành phố với.
+ACC000063|2026-10-16 11:15:41|Bạn đang ở đâu?
+ACC000078|2026-10-16 11:16:40|Mình đang ở gần cổng chợ.
+ACC000063|2026-10-16 11:16:53|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000078|2026-10-16 11:21:29|Mình thấy rồi, cảm ơn bạn nha.
+ACC000063|2026-10-16 11:22:44|Ok, đi cẩn thận.

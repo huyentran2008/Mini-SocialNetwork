@@ -1,0 +1,8 @@
+id=POST000163
+author=ACC000029
+visibility=PUBLIC
+created_at=2026-10-14 09:44:01
+edited_at=
+status=VISIBLE
+title=Hỏi ngành học
+content=Mình sắp chọn chuyên ngành và đang phân vân giữa hai hướng. Các anh chị đã đi làm có thể chia sẻ trải nghiệm của mình không? Cảm ơn mọi người đã đọc.

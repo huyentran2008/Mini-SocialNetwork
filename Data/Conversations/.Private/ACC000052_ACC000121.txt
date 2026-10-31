@@ -1,0 +1,18 @@
+ACC000121|2026-09-16 11:29:31|Chỉ mình đường tới thư viện thành phố với.
+ACC000052|2026-09-16 11:32:48|Bạn đang ở đâu?
+ACC000121|2026-09-16 11:35:21|Mình đang ở gần cổng chợ.
+ACC000052|2026-09-16 11:37:17|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000121|2026-09-16 11:37:51|Mình thấy rồi, cảm ơn bạn nha.
+ACC000052|2026-09-16 11:44:36|Ok, đi cẩn thận.
+ACC000052|2026-09-16 21:26:11|Hôm nay bạn rảnh không?
+ACC000121|2026-09-16 21:26:47|Chiều mình rảnh, có chuyện gì vậy?
+ACC000052|2026-09-16 21:27:36|Đi uống nước cam nhé, lâu rồi không gặp.
+ACC000121|2026-09-16 21:28:31|Ok, 6 giờ mình qua đón bạn nha.
+ACC000052|2026-09-16 21:28:51|Được, mình chờ ở cổng.
+ACC000121|2026-09-16 21:30:21|Tới rồi nè, ra đi.
+ACC000121|2026-10-14 18:52:06|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000052|2026-10-14 18:54:02|Ủa quên mất, bao nhiêu vậy?
+ACC000121|2026-10-14 19:40:38|40 nghìn thôi.
+ACC000052|2026-10-14 19:41:18|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000121|2026-10-14 19:42:16|Nhận được rồi nha.
+ACC000052|2026-10-14 19:44:45|Ok, xong nợ.

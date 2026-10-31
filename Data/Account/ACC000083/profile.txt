@@ -1,0 +1,14 @@
+id=ACC000083
+username=hunglb21
+password=48756e67403434313576
+full_name=Lê Bảo Hùng
+birthday=23-11-2003
+gender=Male
+bio=Thích thời trang và âm nhạc.
+created_at=2026-09-18
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=Thái Nguyên
+school=Đại học Văn Lang
+workplace=FPT Software
+hobbies=Phối đồ thời trang;Nuôi cá cảnh

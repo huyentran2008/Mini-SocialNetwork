@@ -1,0 +1,57 @@
+ACC000112|2026-10-09 13:18:09|Tối nay đi ăn hủ tiếu không?
+ACC000090|2026-10-09 13:19:03|Đi chứ! Quán nào?
+ACC000112|2026-10-09 13:20:00|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000090|2026-10-09 13:21:56|Mấy giờ?
+ACC000112|2026-10-09 13:24:47|7 rưỡi nhé.
+ACC000090|2026-10-09 13:30:24|Ok, mình rủ thêm một bạn nữa được không?
+ACC000112|2026-10-09 13:34:22|Được chứ, càng đông càng vui.
+ACC000090|2026-10-11 12:16:19|Chúc bạn một ngày tốt lành
+ACC000112|2026-10-11 12:16:33|Mình cũng nghĩ vậy
+ACC000112|2026-10-11 12:16:41|Mệt quá hôm nay
+ACC000112|2026-10-11 12:16:53|Mình đang bận chút, lát nhắn lại nhé
+ACC000112|2026-10-11 12:17:00|Ngủ ngon
+ACC000090|2026-10-11 12:17:03|Cảm ơn nhé
+ACC000090|2026-10-11 12:17:06|Mình biết rồi
+ACC000090|2026-10-11 18:24:49|Thật à?
+ACC000112|2026-10-11 18:28:35|Mình cũng nghĩ vậy
+ACC000090|2026-10-11 18:32:10|Cảm ơn nhé
+ACC000112|2026-10-11 18:32:55|Rồi, mình nhớ rồi
+ACC000112|2026-10-11 20:57:30|Để mình xem
+ACC000112|2026-10-11 21:03:05|Haha bạn vui tính thật
+ACC000090|2026-10-11 21:08:26|Ừm, mình nghĩ vậy
+ACC000112|2026-10-12 21:16:59|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000090|2026-10-12 21:17:13|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000112|2026-10-12 21:17:58|Mình thấy rồi, truy cập ngoài mảng.
+ACC000090|2026-10-12 21:19:23|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000112|2026-10-12 21:24:43|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000090|2026-10-12 21:25:25|Lỗi này ai cũng từng gặp thôi.
+ACC000090|2026-10-13 20:15:28|Tối nay bạn có chơi game không?
+ACC000112|2026-10-13 20:16:37|Có, mấy giờ?
+ACC000090|2026-10-13 20:17:29|5 giờ chiều, rủ thêm hai bạn nữa là đủ đội.
+ACC000112|2026-10-13 20:18:55|Ok, mình online sớm.
+ACC000090|2026-10-13 20:22:10|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000112|2026-10-13 20:24:30|Haha, thua thì đừng trách mình.
+ACC000112|2026-10-15 10:46:50|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000090|2026-10-15 10:47:42|Bạn chuẩn bị tới đâu rồi?
+ACC000112|2026-10-15 10:48:19|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000090|2026-10-15 10:52:48|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000112|2026-10-15 10:56:12|Cảm ơn Nghĩa, mình sẽ cố.
+ACC000090|2026-10-15 10:56:36|Xong nhớ nhắn mình kết quả nhé.
+ACC000090|2026-10-15 22:29:54|Bạn có rảnh để mình hỏi chút về môn cơ sở dữ liệu không?
+ACC000112|2026-10-15 22:30:14|Có, bạn hỏi đi.
+ACC000090|2026-10-15 22:34:11|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000112|2026-10-15 22:36:10|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000090|2026-10-15 22:41:15|Nghe hợp lý, cảm ơn bạn.
+ACC000112|2026-10-15 22:52:04|Cần gì cứ nhắn mình.
+ACC000112|2026-10-20 22:18:08|Bạn ơi, bài tập tiếng Anh nộp chưa?
+ACC000090|2026-10-20 22:36:23|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000112|2026-10-20 22:40:03|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000090|2026-10-20 22:58:38|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000112|2026-10-20 22:59:40|Có gì hỏi mình nhé.
+ACC000090|2026-10-20 23:00:35|Okela, cảm ơn Phượng nhiều.
+ACC000112|2026-10-23 20:08:13|Điểm thi giải tích có chưa bạn?
+ACC000090|2026-10-23 20:09:34|Có rồi, mình được 8 điểm.
+ACC000112|2026-10-23 20:10:10|Giỏi quá, mình mới 6 điểm thôi.
+ACC000090|2026-10-23 20:21:13|Cũng ổn mà, qua môn là tốt rồi.
+ACC000112|2026-10-23 20:24:04|Cảm ơn bạn đã động viên.
+ACC000090|2026-10-23 20:24:43|Lần sau mình học nhóm tiếp nhé.

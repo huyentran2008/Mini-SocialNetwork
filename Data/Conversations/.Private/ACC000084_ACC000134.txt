@@ -1,0 +1,26 @@
+ACC000084|2026-10-19 09:49:23|Cuối tuần này đi Quy Nhơn không?
+ACC000134|2026-10-19 09:50:13|Hay đó, đi mấy người?
+ACC000084|2026-10-19 09:51:15|Khoảng 4 người, tự đi xe máy.
+ACC000134|2026-10-19 09:53:23|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000084|2026-10-19 09:57:37|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000134|2026-10-19 10:04:33|Ok, vậy chốt luôn.
+ACC000084|2026-10-19 16:27:29|Bạn biết laptop nào học lập trình ổn không?
+ACC000134|2026-10-19 16:32:48|Tầm giá bao nhiêu?
+ACC000084|2026-10-19 16:38:44|Khoảng 15 đến 20 triệu.
+ACC000134|2026-10-19 17:16:13|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000084|2026-10-19 17:18:43|Cảm ơn nhiều, mình đang rối quá.
+ACC000134|2026-10-19 17:25:43|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000134|2026-10-21 20:08:58|Được luôn
+ACC000134|2026-10-21 20:09:05|Ngủ ngon
+ACC000134|2026-10-21 20:09:14|Okela
+ACC000134|2026-10-21 20:09:27|Tối nói chuyện tiếp nhé
+ACC000084|2026-10-21 20:09:34|Cuối tuần rảnh không?
+ACC000134|2026-10-21 20:09:48|Vừa về tới nhà
+ACC000134|2026-10-21 20:10:02|Vừa về tới nhà
+ACC000084|2026-10-21 20:10:10|Mình biết rồi
+ACC000084|2026-10-21 20:10:22|Thật à?
+ACC000134|2026-10-21 20:10:23|Mình biết rồi
+ACC000134|2026-10-21 20:10:29|Ừ đúng rồi
+ACC000134|2026-10-21 20:10:31|Cuối tuần rảnh không?
+ACC000084|2026-10-21 20:10:37|Ừm, mình nghĩ vậy
+ACC000134|2026-10-21 20:10:43|Vừa về tới nhà

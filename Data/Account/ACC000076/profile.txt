@@ -1,0 +1,14 @@
+id=ACC000076
+username=yenha14
+password=59656e403831393367
+full_name=Huỳnh Anh Yên
+birthday=
+gender=Other
+bio=Sống chậm lại và tận hưởng.
+created_at=2026-08-28
+status=ACTIVE
+residence=
+hometown=Phú Thọ
+school=
+workplace=Bosch Việt Nam
+hobbies=Vẽ chân dung;Ăn vặt

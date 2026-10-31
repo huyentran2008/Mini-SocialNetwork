@@ -1,0 +1,6 @@
+ACC000073|2026-10-14 16:25:50|Cuối tuần này đi Mũi Né không?
+ACC000097|2026-10-14 16:26:41|Hay đó, đi mấy người?
+ACC000073|2026-10-14 16:30:25|Khoảng 10 người, tự đi xe máy.
+ACC000097|2026-10-14 16:31:58|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000073|2026-10-14 16:32:56|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000097|2026-10-14 16:36:18|Ok, vậy chốt luôn.

@@ -1,0 +1,8 @@
+id=POST000223
+author=ACC000072
+visibility=PUBLIC
+created_at=2026-10-21 06:14:35
+edited_at=
+status=VISIBLE
+title=Nên học Python trước hay sau C++?
+content=Mình đang phân vân thứ tự học. Nghe nói học Python sau C++ sẽ dễ hơn vì đã hiểu nền tảng. Các anh chị đi trước cho mình lời khuyên với.

@@ -1,0 +1,8 @@
+id=POST000119
+author=ACC000127
+visibility=PUBLIC
+created_at=2026-10-08 13:37:26
+edited_at=
+status=VISIBLE
+title=So sánh vector, list và deque khi làm bài tập
+content=Làm bài tập lớn môn cấu trúc dữ liệu mới thấy chọn sai container thì chậm khủng khiếp. Truy cập ngẫu nhiên thì dùng vector, chèn xóa giữa nhiều thì dùng list, còn deque hợp với hàng đợi hai đầu. Mọi người hay dùng cái nào nhất?

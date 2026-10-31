@@ -1,0 +1,14 @@
+id=ACC000107
+username=vinhpd46
+password=56696e68403131303962
+full_name=Phan Đình Vinh
+birthday=19-04-2003
+gender=Male
+bio=Người hướng nội thích khám phá.
+created_at=2026-08-23
+status=ACTIVE
+residence=Huế
+hometown=TP. Hồ Chí Minh
+school=Đại học Kinh tế Kỹ thuật Công nghiệp
+workplace=FPT Software
+hobbies=

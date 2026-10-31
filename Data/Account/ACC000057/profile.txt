@@ -1,0 +1,14 @@
+id=ACC000057
+username=kieubt92
+password=4b696575403634363562
+full_name=Bùi Thị Kiều
+birthday=13-07-2005
+gender=Female
+bio=Tìm bạn cùng sở thích.
+created_at=2026-09-19
+status=ACTIVE
+residence=Lâm Đồng
+hometown=Hà Nội
+school=Đại học Nguyễn Tất Thành
+workplace=
+hobbies=Học trí tuệ nhân tạo;Pha cà phê

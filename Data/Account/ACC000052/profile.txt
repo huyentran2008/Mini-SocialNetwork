@@ -1,0 +1,14 @@
+id=ACC000052
+username=thuynk59
+password=54687579403434373178
+full_name=Nguyễn Kim Thủy
+birthday=21-08-2001
+gender=Female
+bio=
+created_at=2026-08-25
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=Hà Nội
+school=
+workplace=Quán cà phê của gia đình
+hobbies=Chơi game

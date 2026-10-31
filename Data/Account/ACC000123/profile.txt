@@ -1,0 +1,14 @@
+id=ACC000123
+username=binhnt50
+password=42696e68403639373967
+full_name=Nguyễn Thanh Bình
+birthday=13-10-2001
+gender=Male
+bio=Khỏe để sống tốt.
+created_at=2026-09-14
+status=ACTIVE
+residence=
+hometown=Hà Nội
+school=
+workplace=VPBank
+hobbies=Tập thể dục buổi sáng;Thiền

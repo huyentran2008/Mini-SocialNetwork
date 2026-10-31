@@ -1,0 +1,12 @@
+ACC000116|2026-10-09 18:52:57|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000060|2026-10-09 18:54:32|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000116|2026-10-09 18:58:43|Giá thế nào?
+ACC000060|2026-10-09 19:01:17|Khoảng 30 nghìn một ly.
+ACC000116|2026-10-09 19:06:58|Hợp lý đó, mai mình thử.
+ACC000060|2026-10-09 19:08:45|Mình cũng hay ngồi ở đó, gặp nhau nhé.
+ACC000060|2026-10-15 10:31:55|Công thức làm bánh flan bạn dùng thế nào?
+ACC000116|2026-10-15 10:43:57|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000060|2026-10-15 11:04:31|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000116|2026-10-15 11:06:48|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000060|2026-10-15 11:08:23|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000116|2026-10-15 11:08:45|Làm xong cho mình xin một miếng nhé.

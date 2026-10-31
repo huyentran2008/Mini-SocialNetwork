@@ -1,0 +1,18 @@
+ACC000122|2026-10-22 20:21:16|Hôm nay mình hơi buồn.
+ACC000077|2026-10-22 20:22:10|Có chuyện gì vậy?
+ACC000122|2026-10-22 20:22:27|Mình bị điểm thấp mà không biết lý do.
+ACC000077|2026-10-22 20:24:57|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000122|2026-10-22 20:31:14|Ừ, mình sẽ gặp thầy tuần này.
+ACC000077|2026-10-22 20:37:57|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000122|2026-10-24 12:34:13|Haha
+ACC000077|2026-10-24 12:34:27|Ừ đúng rồi
+ACC000122|2026-10-24 12:35:29|Thật à?
+ACC000077|2026-10-24 12:41:55|Ừm, mình nghĩ vậy
+ACC000122|2026-10-24 12:43:48|Chúc bạn một ngày tốt lành
+ACC000077|2026-10-24 18:37:05|Ừm, mình nghĩ vậy
+ACC000077|2026-10-24 18:37:16|Chúc bạn một ngày tốt lành
+ACC000077|2026-10-24 18:37:29|Mình đang bận chút, lát nhắn lại nhé
+ACC000077|2026-10-24 18:37:42|Ừm, mình nghĩ vậy
+ACC000122|2026-10-24 18:37:43|Mình đang bận chút, lát nhắn lại nhé
+ACC000122|2026-10-24 18:37:47|Okela
+ACC000077|2026-10-24 18:37:50|Ừ đúng rồi

@@ -1,0 +1,18 @@
+ACC000119|2026-10-14 22:39:42|Sinh nhật vui vẻ nhé Tuyền!
+ACC000078|2026-10-14 22:57:31|Cảm ơn Việt nha, nhớ cả sinh nhật mình luôn.
+ACC000119|2026-10-14 23:00:51|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000078|2026-10-14 23:01:02|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000119|2026-10-14 23:01:46|8 giờ tối nhé.
+ACC000078|2026-10-14 23:05:13|Ok, hẹn gặp.
+ACC000119|2026-10-15 20:55:18|Nay trời mưa to ghê.
+ACC000078|2026-10-15 20:57:30|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000119|2026-10-15 21:01:22|Bạn có áo mưa không?
+ACC000078|2026-10-15 21:05:11|Không, chắc chờ tạnh.
+ACC000119|2026-10-15 21:07:09|Mình ghé đón nhé, mình đang gần đó.
+ACC000078|2026-10-15 21:09:43|Cảm ơn bạn nhiều lắm.
+ACC000119|2026-10-23 12:16:15|Hôm nay bạn có đi học không?
+ACC000078|2026-10-23 12:55:34|Có, mình đang trên đường.
+ACC000119|2026-10-23 12:56:51|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000078|2026-10-23 12:58:12|Ok, giữ rồi.
+ACC000119|2026-10-23 13:04:13|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000078|2026-10-23 13:05:29|Nhanh lên, sắp vào học rồi.

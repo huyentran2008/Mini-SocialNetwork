@@ -1,0 +1,83 @@
+ACC000137|2026-10-19 10:37:56|Năm nay bạn về quê ăn Tết không?
+ACC000036|2026-10-19 10:38:31|Có, mình đặt vé tàu rồi.
+ACC000137|2026-10-19 10:38:56|Mình còn chưa mua được vé.
+ACC000036|2026-10-19 10:41:12|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000137|2026-10-19 10:42:34|Ok, mình thử xem.
+ACC000036|2026-10-19 10:43:58|Chúc bạn sớm có vé nhé.
+ACC000137|2026-10-19 10:57:46|Điểm thi xác suất có chưa bạn?
+ACC000036|2026-10-19 10:59:03|Có rồi, mình được 8 điểm.
+ACC000137|2026-10-19 10:59:29|Giỏi quá, mình mới 6 điểm thôi.
+ACC000036|2026-10-19 10:59:48|Cũng ổn mà, qua môn là tốt rồi.
+ACC000137|2026-10-19 11:00:13|Cảm ơn bạn đã động viên.
+ACC000036|2026-10-19 11:02:46|Lần sau mình học nhóm tiếp nhé.
+ACC000036|2026-10-19 11:34:59|Dạo này mình áp lực thi quá.
+ACC000137|2026-10-19 11:35:37|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000036|2026-10-19 11:36:15|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000137|2026-10-19 11:38:16|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000036|2026-10-19 11:43:12|Nghe có vẻ ổn, mình thử.
+ACC000137|2026-10-19 11:50:04|Cố lên, có gì cần cứ nhắn mình.
+ACC000036|2026-10-19 18:34:40|Cuối tuần bạn làm gì?
+ACC000137|2026-10-19 18:35:16|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000036|2026-10-19 18:35:51|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000137|2026-10-19 18:36:33|Thật không? Ngại quá.
+ACC000036|2026-10-19 18:36:52|Ngại gì, mẹ mình quý bạn lắm.
+ACC000137|2026-10-19 18:37:37|Vậy mình qua nhé, cảm ơn bác.
+ACC000137|2026-10-19 18:47:44|Có gì báo mình nhé
+ACC000137|2026-10-19 18:48:40|Ngủ ngon
+ACC000137|2026-10-19 18:53:40|Haha bạn vui tính thật
+ACC000137|2026-10-19 18:54:01|Tối nói chuyện tiếp nhé
+ACC000036|2026-10-19 18:54:42|Cố lên nhé
+ACC000137|2026-10-19 19:03:02|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000036|2026-10-19 19:03:57|Chuyện nhỏ thôi mà.
+ACC000137|2026-10-19 19:04:35|Không có bạn chắc mình làm không kịp.
+ACC000036|2026-10-19 19:10:34|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000137|2026-10-19 19:12:49|Hôm nào mình mời bạn bún bò nhé.
+ACC000036|2026-10-19 19:15:16|Vậy thì mình không từ chối đâu.
+ACC000036|2026-10-19 19:55:10|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000137|2026-10-19 19:56:15|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000036|2026-10-19 19:58:51|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000137|2026-10-19 20:03:26|Cảm ơn bạn đã hỏi thăm.
+ACC000036|2026-10-19 20:04:45|Có cần mình mang đồ ăn qua không?
+ACC000137|2026-10-19 20:08:40|Không cần đâu, mình ổn rồi.
+ACC000036|2026-10-19 23:43:23|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000137|2026-10-19 23:44:20|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000036|2026-10-20 00:24:32|Mình thấy rồi, truy cập ngoài mảng.
+ACC000137|2026-10-20 00:24:52|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000036|2026-10-20 00:27:10|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000137|2026-10-20 00:30:56|Lỗi này ai cũng từng gặp thôi.
+ACC000036|2026-10-20 08:43:39|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000137|2026-10-20 09:09:11|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000036|2026-10-20 09:13:05|Chụp vài tấm nhé.
+ACC000137|2026-10-20 09:16:23|Xong rồi, mình gửi bạn qua đây.
+ACC000036|2026-10-20 09:17:21|Đẹp quá, cảm ơn bạn nhiều.
+ACC000137|2026-10-20 09:20:26|Lần sau mình chụp thêm.
+ACC000036|2026-10-20 16:32:59|Sinh nhật vui vẻ nhé Ly!
+ACC000137|2026-10-20 16:33:32|Cảm ơn Dương nha, nhớ cả sinh nhật mình luôn.
+ACC000036|2026-10-20 16:34:01|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000137|2026-10-20 16:34:39|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000036|2026-10-20 16:35:10|12 giờ nhé.
+ACC000137|2026-10-20 16:46:55|Ok, hẹn gặp.
+ACC000137|2026-10-21 21:50:53|Sinh nhật vui vẻ nhé Dương!
+ACC000036|2026-10-21 21:51:33|Cảm ơn Ly nha, nhớ cả sinh nhật mình luôn.
+ACC000137|2026-10-21 21:52:01|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000036|2026-10-21 21:52:33|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000137|2026-10-21 21:53:10|11 giờ 30 nhé.
+ACC000036|2026-10-21 21:54:00|Ok, hẹn gặp.
+ACC000036|2026-10-22 17:31:57|Mình dọn trọ sang khu khác rồi.
+ACC000137|2026-10-22 17:32:54|Thật à? Có xa trường không?
+ACC000036|2026-10-22 17:33:24|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000137|2026-10-22 17:33:36|Tốt quá, hôm nào mình qua chơi.
+ACC000036|2026-10-22 17:34:22|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000137|2026-10-22 17:35:38|Ok, nhớ nấu cơm cho mình đó.
+ACC000036|2026-10-23 13:00:27|Mình mới mua chiếc xe đạp.
+ACC000137|2026-10-23 13:01:22|Wow, xe đẹp không?
+ACC000036|2026-10-23 13:03:35|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000137|2026-10-23 13:03:47|Cuối tuần đạp xe quanh hồ nhé.
+ACC000036|2026-10-23 13:04:37|Hay đó, chốt luôn.
+ACC000137|2026-10-23 13:10:57|Nhớ mang nước.
+ACC000137|2026-10-23 23:54:05|Công thức làm bánh flan bạn dùng thế nào?
+ACC000036|2026-10-23 23:54:42|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000137|2026-10-23 23:55:53|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000036|2026-10-23 23:59:16|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000137|2026-10-24 00:04:17|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000036|2026-10-24 00:04:34|Làm xong cho mình xin một miếng nhé.

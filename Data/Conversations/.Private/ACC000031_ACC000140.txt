@@ -1,0 +1,36 @@
+ACC000140|2026-10-18 18:51:53|Công thức làm bánh flan bạn dùng thế nào?
+ACC000031|2026-10-18 18:53:00|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000140|2026-10-18 18:53:34|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000031|2026-10-18 18:54:30|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000140|2026-10-18 18:57:01|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000031|2026-10-18 18:59:27|Làm xong cho mình xin một miếng nhé.
+ACC000031|2026-10-18 21:41:04|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000140|2026-10-18 21:41:23|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000031|2026-10-18 21:46:50|Cảm ơn, mình hay quên lắm.
+ACC000140|2026-10-18 21:47:24|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000031|2026-10-18 21:51:45|Ừ, mình in hai bản.
+ACC000140|2026-10-18 21:57:43|Giỏi.
+ACC000031|2026-10-21 15:52:30|Mình mới mua chiếc xe đạp.
+ACC000140|2026-10-21 15:52:49|Wow, xe đẹp không?
+ACC000031|2026-10-21 15:54:42|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000140|2026-10-21 15:55:18|Cuối tuần đạp xe quanh hồ nhé.
+ACC000031|2026-10-21 15:55:46|Hay đó, chốt luôn.
+ACC000140|2026-10-21 15:56:41|Nhớ mang nước.
+ACC000140|2026-10-21 23:08:57|Sáng mai bạn có đi tập chạy không?
+ACC000031|2026-10-21 23:12:15|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000140|2026-10-21 23:15:53|Mình sợ dậy không nổi.
+ACC000031|2026-10-21 23:19:21|Để mình gọi bạn dậy.
+ACC000140|2026-10-21 23:25:44|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000031|2026-10-21 23:27:33|Ok, mai gặp.
+ACC000140|2026-10-22 07:22:39|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000031|2026-10-22 07:24:39|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000140|2026-10-22 07:24:58|Mình thấy rồi, truy cập ngoài mảng.
+ACC000031|2026-10-22 07:27:00|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000140|2026-10-22 07:30:31|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000031|2026-10-22 07:35:31|Lỗi này ai cũng từng gặp thôi.
+ACC000031|2026-10-22 22:57:59|Bạn ngủ chưa?
+ACC000140|2026-10-22 23:28:28|Chưa, đang làm bài tập.
+ACC000031|2026-10-22 23:28:43|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000140|2026-10-22 23:32:23|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000031|2026-10-22 23:34:37|Ngủ ngon nha.
+ACC000140|2026-10-22 23:34:58|Ngủ ngon.

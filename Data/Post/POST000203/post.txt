@@ -1,0 +1,8 @@
+id=POST000203
+author=ACC000018
+visibility=PUBLIC
+created_at=2026-10-19 10:08:10
+edited_at=
+status=VISIBLE
+title=Thông báo nhóm học tuần này
+content=Nhóm mình học vào tối thứ ba và thứ năm. Ai muốn tham gia thì nhắn để mình thêm vào nhóm chat. Có gì góp ý cứ bình luận nhé.

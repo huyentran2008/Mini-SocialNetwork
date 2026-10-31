@@ -1,0 +1,39 @@
+ACC000031|2026-10-10 18:10:03|Ừ đúng rồi
+ACC000090|2026-10-10 18:10:19|Tối nói chuyện tiếp nhé
+ACC000031|2026-10-10 18:10:36|Cố lên nhé
+ACC000031|2026-10-10 18:53:18|Bạn ngủ chưa?
+ACC000090|2026-10-10 18:53:58|Chưa, đang làm bài tập.
+ACC000031|2026-10-10 18:55:11|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000090|2026-10-10 18:57:34|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000031|2026-10-10 19:01:18|Ngủ ngon nha.
+ACC000090|2026-10-10 19:08:06|Ngủ ngon.
+ACC000031|2026-10-10 22:50:40|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000090|2026-10-10 22:55:38|Bạn chuẩn bị tới đâu rồi?
+ACC000031|2026-10-10 22:56:45|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000090|2026-10-10 22:58:40|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000031|2026-10-10 23:00:28|Cảm ơn Nghĩa, mình sẽ cố.
+ACC000090|2026-10-10 23:32:08|Xong nhớ nhắn mình kết quả nhé.
+ACC000090|2026-10-17 12:33:34|Công thức làm bánh flan bạn dùng thế nào?
+ACC000031|2026-10-17 12:34:54|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000090|2026-10-17 12:37:11|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000031|2026-10-17 12:39:11|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000090|2026-10-17 12:39:57|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000031|2026-10-17 12:40:42|Làm xong cho mình xin một miếng nhé.
+ACC000031|2026-10-17 17:48:46|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000090|2026-10-17 17:49:11|Bạn chuẩn bị tới đâu rồi?
+ACC000031|2026-10-17 17:50:06|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000090|2026-10-17 17:51:35|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000031|2026-10-17 17:55:35|Cảm ơn Nghĩa, mình sẽ cố.
+ACC000090|2026-10-17 18:38:56|Xong nhớ nhắn mình kết quả nhé.
+ACC000090|2026-10-20 09:08:04|Dạo này mình áp lực thi quá.
+ACC000031|2026-10-20 09:10:10|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000090|2026-10-20 09:11:04|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000031|2026-10-20 09:15:04|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000090|2026-10-20 09:17:35|Nghe có vẻ ổn, mình thử.
+ACC000031|2026-10-20 09:19:41|Cố lên, có gì cần cứ nhắn mình.
+ACC000031|2026-10-22 12:17:10|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000090|2026-10-22 12:20:33|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000031|2026-10-22 12:24:08|Giá thế nào?
+ACC000090|2026-10-22 12:24:47|Khoảng 150 nghìn một ly.
+ACC000031|2026-10-22 12:26:20|Hợp lý đó, mai mình thử.
+ACC000090|2026-10-22 12:30:28|Mình cũng hay ngồi ở đó, gặp nhau nhé.

@@ -1,0 +1,44 @@
+ACC000078|2026-10-16 12:45:38|Bạn có rảnh để mình hỏi chút về môn cơ sở dữ liệu không?
+ACC000098|2026-10-16 12:46:33|Có, bạn hỏi đi.
+ACC000078|2026-10-16 12:50:10|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000098|2026-10-16 12:52:09|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000078|2026-10-16 13:40:40|Nghe hợp lý, cảm ơn bạn.
+ACC000098|2026-10-16 13:41:14|Cần gì cứ nhắn mình.
+ACC000098|2026-10-16 15:41:04|Năm nay bạn về quê ăn Tết không?
+ACC000078|2026-10-16 15:41:20|Có, mình đặt vé tàu rồi.
+ACC000098|2026-10-16 15:41:46|Mình còn chưa mua được vé.
+ACC000078|2026-10-16 15:42:01|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000098|2026-10-16 15:46:58|Ok, mình thử xem.
+ACC000078|2026-10-16 15:53:54|Chúc bạn sớm có vé nhé.
+ACC000078|2026-10-16 20:55:45|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000098|2026-10-16 20:58:48|Chuyện nhỏ thôi mà.
+ACC000078|2026-10-16 21:02:18|Không có bạn chắc mình làm không kịp.
+ACC000098|2026-10-16 21:05:02|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000078|2026-10-16 21:05:22|Hôm nào mình mời bạn mì cay nhé.
+ACC000098|2026-10-16 21:11:56|Vậy thì mình không từ chối đâu.
+ACC000078|2026-10-20 15:20:44|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000098|2026-10-20 15:22:05|Haha, bé làm gì thế?
+ACC000078|2026-10-20 15:23:12|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000098|2026-10-20 15:26:23|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000078|2026-10-20 15:26:43|Đợi chút mình chụp.
+ACC000098|2026-10-20 15:31:37|Đúng là chủ nào mèo nấy.
+ACC000098|2026-10-20 19:06:36|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000078|2026-10-20 19:07:17|Ủa quên mất, bao nhiêu vậy?
+ACC000098|2026-10-20 19:12:51|20 nghìn thôi.
+ACC000078|2026-10-20 19:13:43|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000098|2026-10-20 19:14:09|Nhận được rồi nha.
+ACC000078|2026-10-20 19:14:41|Ok, xong nợ.
+ACC000098|2026-10-21 21:34:31|Tối nay bạn có chơi game không?
+ACC000078|2026-10-21 21:39:53|Có, mấy giờ?
+ACC000098|2026-10-21 21:40:27|7 rưỡi, rủ thêm hai bạn nữa là đủ đội.
+ACC000078|2026-10-21 21:41:10|Ok, mình online sớm.
+ACC000098|2026-10-21 21:42:47|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000078|2026-10-21 21:43:44|Haha, thua thì đừng trách mình.
+ACC000098|2026-10-21 22:16:42|Cuối tuần rảnh không?
+ACC000098|2026-10-21 22:17:39|Rồi, mình nhớ rồi
+ACC000098|2026-10-22 18:03:02|Bạn biết laptop nào học lập trình ổn không?
+ACC000078|2026-10-22 18:04:35|Tầm giá bao nhiêu?
+ACC000098|2026-10-22 18:05:12|Khoảng 15 đến 20 triệu.
+ACC000078|2026-10-22 18:09:45|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000098|2026-10-22 18:10:56|Cảm ơn nhiều, mình đang rối quá.
+ACC000078|2026-10-22 18:12:31|Bạn xem rồi nhắn mình, mình tư vấn thêm.

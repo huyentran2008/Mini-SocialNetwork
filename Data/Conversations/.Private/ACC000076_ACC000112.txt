@@ -1,0 +1,39 @@
+ACC000076|2026-10-21 12:42:37|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000112|2026-10-21 12:46:15|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000076|2026-10-21 12:46:39|Mình thấy rồi, truy cập ngoài mảng.
+ACC000112|2026-10-21 12:58:15|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000076|2026-10-21 12:58:44|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000112|2026-10-21 12:59:04|Lỗi này ai cũng từng gặp thôi.
+ACC000112|2026-10-22 11:53:34|Bạn ngủ chưa?
+ACC000076|2026-10-22 11:58:27|Chưa, đang làm bài tập.
+ACC000112|2026-10-22 12:44:17|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000076|2026-10-22 12:48:03|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000112|2026-10-22 12:51:37|Ngủ ngon nha.
+ACC000076|2026-10-22 12:52:23|Ngủ ngon.
+ACC000112|2026-10-22 16:16:28|Ok
+ACC000076|2026-10-22 16:16:40|Cố lên nhé
+ACC000076|2026-10-22 16:16:47|Mình cũng nghĩ vậy
+ACC000076|2026-10-22 16:17:01|Mình biết rồi
+ACC000076|2026-10-22 16:17:05|Mình đang bận chút, lát nhắn lại nhé
+ACC000076|2026-10-22 16:17:12|Mình biết rồi
+ACC000076|2026-10-22 16:17:23|Vậy hả?
+ACC000112|2026-10-22 16:17:28|Vậy hả?
+ACC000112|2026-10-22 16:17:38|Mình biết rồi
+ACC000076|2026-10-22 16:17:44|Mình cũng nghĩ vậy
+ACC000112|2026-10-22 16:17:53|Okela
+ACC000112|2026-10-22 16:18:04|Để mình xem
+ACC000076|2026-10-22 16:18:10|Đang làm gì đó?
+ACC000076|2026-10-22 16:18:15|Mình đang bận chút, lát nhắn lại nhé
+ACC000076|2026-10-22 16:18:25|Tối nói chuyện tiếp nhé
+ACC000076|2026-10-22 20:27:47|Bạn có rảnh để mình hỏi chút về môn tiếng Anh không?
+ACC000112|2026-10-22 20:32:27|Có, bạn hỏi đi.
+ACC000076|2026-10-22 20:34:05|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000112|2026-10-22 20:36:12|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000076|2026-10-22 20:42:58|Nghe hợp lý, cảm ơn bạn.
+ACC000112|2026-10-22 21:29:38|Cần gì cứ nhắn mình.
+ACC000076|2026-10-23 09:30:14|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000112|2026-10-23 09:34:08|Bạn chuẩn bị tới đâu rồi?
+ACC000076|2026-10-23 09:35:04|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000112|2026-10-23 09:36:00|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000076|2026-10-23 09:36:23|Cảm ơn Phượng, mình sẽ cố.
+ACC000112|2026-10-23 09:38:14|Xong nhớ nhắn mình kết quả nhé.

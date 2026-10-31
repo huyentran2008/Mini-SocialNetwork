@@ -1,0 +1,12 @@
+ACC000138|2026-10-23 10:45:23|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000012|2026-10-23 10:45:45|Bài nào vậy?
+ACC000138|2026-10-23 10:48:00|Mình gửi link rồi đó.
+ACC000012|2026-10-23 11:23:35|Nghe rồi, giai điệu dễ chịu thật.
+ACC000138|2026-10-23 12:01:10|Đúng không? Mình nghe suốt tuần này.
+ACC000012|2026-10-23 12:02:18|Cho mình xin playlist nhé.
+ACC000138|2026-10-23 20:39:40|Bạn cho mình mượn tài liệu được không?
+ACC000012|2026-10-23 20:42:46|Được, bạn lấy bản chụp hay bản mềm?
+ACC000138|2026-10-23 20:43:09|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000012|2026-10-23 20:44:55|Gửi rồi nha, kiểm tra thử.
+ACC000138|2026-10-23 20:47:19|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000012|2026-10-23 20:49:36|Không có gì.

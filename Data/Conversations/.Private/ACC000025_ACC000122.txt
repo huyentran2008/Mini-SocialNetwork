@@ -1,0 +1,24 @@
+ACC000122|2026-10-12 08:53:46|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000025|2026-10-12 08:57:30|Haha, bé làm gì thế?
+ACC000122|2026-10-12 08:58:15|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000025|2026-10-12 08:59:36|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000122|2026-10-12 09:02:02|Đợi chút mình chụp.
+ACC000025|2026-10-12 09:02:56|Đúng là chủ nào mèo nấy.
+ACC000122|2026-10-12 15:23:44|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000025|2026-10-12 15:26:48|Chuyện nhỏ thôi mà.
+ACC000122|2026-10-12 15:33:11|Không có bạn chắc mình làm không kịp.
+ACC000025|2026-10-12 15:33:55|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000122|2026-10-12 15:52:48|Hôm nào mình mời bạn bún chả nhé.
+ACC000025|2026-10-12 15:56:21|Vậy thì mình không từ chối đâu.
+ACC000025|2026-10-12 18:14:28|Mình mới mua chiếc xe đạp.
+ACC000122|2026-10-12 18:15:13|Wow, xe đẹp không?
+ACC000025|2026-10-12 18:31:17|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000122|2026-10-12 18:31:30|Cuối tuần đạp xe quanh hồ nhé.
+ACC000025|2026-10-12 18:31:55|Hay đó, chốt luôn.
+ACC000122|2026-10-12 18:32:04|Nhớ mang nước.
+ACC000122|2026-10-12 19:06:00|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000025|2026-10-12 19:06:25|Ủa quên mất, bao nhiêu vậy?
+ACC000122|2026-10-12 19:25:25|150 nghìn thôi.
+ACC000025|2026-10-12 19:31:51|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000122|2026-10-12 19:34:53|Nhận được rồi nha.
+ACC000025|2026-10-12 19:35:39|Ok, xong nợ.

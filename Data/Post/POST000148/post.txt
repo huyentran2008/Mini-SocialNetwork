@@ -1,0 +1,8 @@
+id=POST000148
+author=ACC000054
+visibility=PUBLIC
+created_at=2026-10-12 10:53:46
+edited_at=
+status=VISIBLE
+title=Nhặt được thẻ sinh viên ở thư viện
+content=Mình nhặt được một thẻ sinh viên ở tầng hai thư viện sáng nay. Bạn nào bị mất hãy nhắn mình để nhận lại nhé.

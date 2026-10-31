@@ -1,0 +1,76 @@
+ACC000032|2026-10-11 16:37:27|Cố lên nhé
+ACC000032|2026-10-11 16:38:07|Thật à?
+ACC000032|2026-10-11 16:39:14|Cảm ơn nhé
+ACC000072|2026-10-11 18:08:03|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000032|2026-10-11 18:11:53|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000072|2026-10-11 18:53:54|Mình thấy rồi, truy cập ngoài mảng.
+ACC000032|2026-10-11 18:54:24|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000072|2026-10-11 18:55:50|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000032|2026-10-11 18:56:10|Lỗi này ai cũng từng gặp thôi.
+ACC000072|2026-10-13 11:32:36|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000032|2026-10-13 11:32:52|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000072|2026-10-13 11:34:40|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000032|2026-10-13 11:35:32|Cảm ơn bạn đã hỏi thăm.
+ACC000072|2026-10-13 11:36:31|Có cần mình mang đồ ăn qua không?
+ACC000032|2026-10-13 11:36:52|Không cần đâu, mình ổn rồi.
+ACC000032|2026-10-13 13:39:10|Tối nói chuyện tiếp nhé
+ACC000072|2026-10-13 13:40:09|Mình cũng nghĩ vậy
+ACC000072|2026-10-13 13:40:41|Thôi mình đi ăn cơm đã
+ACC000032|2026-10-13 19:27:43|Bạn ngủ chưa?
+ACC000072|2026-10-13 19:27:58|Chưa, đang làm bài tập.
+ACC000032|2026-10-13 19:28:44|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000072|2026-10-13 19:34:57|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000032|2026-10-13 19:39:54|Ngủ ngon nha.
+ACC000072|2026-10-13 19:41:44|Ngủ ngon.
+ACC000032|2026-10-13 21:38:33|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000072|2026-10-13 22:21:37|Ủa quên mất, bao nhiêu vậy?
+ACC000032|2026-10-13 22:22:09|300 nghìn thôi.
+ACC000072|2026-10-13 22:22:44|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000032|2026-10-13 22:23:26|Nhận được rồi nha.
+ACC000072|2026-10-13 22:23:34|Ok, xong nợ.
+ACC000072|2026-10-14 14:36:05|Cuối tuần rảnh không?
+ACC000072|2026-10-14 14:36:12|Ừ đúng rồi
+ACC000032|2026-10-14 14:36:21|Được luôn
+ACC000032|2026-10-14 14:36:25|Cố lên nhé
+ACC000032|2026-10-14 14:36:38|Haha
+ACC000032|2026-10-14 14:36:50|Vậy hả?
+ACC000032|2026-10-14 14:36:51|Chúc bạn một ngày tốt lành
+ACC000032|2026-10-14 14:36:52|Cảm ơn nhé
+ACC000032|2026-10-14 14:36:59|Có gì báo mình nhé
+ACC000032|2026-10-14 14:37:00|Haha
+ACC000072|2026-10-14 14:37:04|Ừm, mình nghĩ vậy
+ACC000072|2026-10-16 12:28:15|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000032|2026-10-16 12:31:31|Haha, bé làm gì thế?
+ACC000072|2026-10-16 12:31:40|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000032|2026-10-16 12:35:54|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000072|2026-10-16 12:37:23|Đợi chút mình chụp.
+ACC000032|2026-10-16 12:47:37|Đúng là chủ nào mèo nấy.
+ACC000072|2026-10-16 21:46:01|Haha
+ACC000072|2026-10-16 21:49:23|Để mình xem
+ACC000072|2026-10-16 21:54:06|Tối nói chuyện tiếp nhé
+ACC000032|2026-10-16 21:54:31|Ừ
+ACC000032|2026-10-16 22:16:54|Haha
+ACC000072|2026-10-17 13:57:55|Chỉ mình đường tới thư viện thành phố với.
+ACC000032|2026-10-17 13:58:35|Bạn đang ở đâu?
+ACC000072|2026-10-17 13:59:15|Mình đang ở gần cổng chợ.
+ACC000032|2026-10-17 14:01:19|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000072|2026-10-17 14:02:59|Mình thấy rồi, cảm ơn bạn nha.
+ACC000032|2026-10-17 14:06:34|Ok, đi cẩn thận.
+ACC000072|2026-10-18 20:22:05|Mình đang bận chút, lát nhắn lại nhé
+ACC000072|2026-10-18 20:25:30|Mai gặp nhé
+ACC000032|2026-10-19 16:07:51|Có gì báo mình nhé
+ACC000032|2026-10-19 16:08:49|Mai gặp nhé
+ACC000032|2026-10-19 16:51:06|Cảm ơn nhé
+ACC000032|2026-10-19 16:51:59|Haha
+ACC000072|2026-10-23 17:42:21|Chỉ mình đường tới thư viện thành phố với.
+ACC000032|2026-10-23 17:44:56|Bạn đang ở đâu?
+ACC000072|2026-10-23 17:45:07|Mình đang ở gần cổng chợ.
+ACC000032|2026-10-23 17:46:44|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000072|2026-10-23 17:48:45|Mình thấy rồi, cảm ơn bạn nha.
+ACC000032|2026-10-23 17:49:51|Ok, đi cẩn thận.
+ACC000072|2026-10-23 20:08:29|Điểm thi xác suất có chưa bạn?
+ACC000032|2026-10-23 20:09:18|Có rồi, mình được 8 điểm.
+ACC000072|2026-10-23 20:09:29|Giỏi quá, mình mới 6 điểm thôi.
+ACC000032|2026-10-23 20:38:13|Cũng ổn mà, qua môn là tốt rồi.
+ACC000072|2026-10-23 20:39:07|Cảm ơn bạn đã động viên.
+ACC000032|2026-10-23 20:43:59|Lần sau mình học nhóm tiếp nhé.

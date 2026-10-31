@@ -1,0 +1,12 @@
+ACC000080|2026-10-19 18:03:14|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000126|2026-10-19 18:16:28|Chuyện nhỏ thôi mà.
+ACC000080|2026-10-19 18:17:20|Không có bạn chắc mình làm không kịp.
+ACC000126|2026-10-19 18:17:57|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000080|2026-10-19 18:19:48|Hôm nào mình mời bạn gà rán nhé.
+ACC000126|2026-10-19 18:20:39|Vậy thì mình không từ chối đâu.
+ACC000126|2026-10-20 10:38:47|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000080|2026-10-20 10:39:40|Chuyện nhỏ thôi mà.
+ACC000126|2026-10-20 10:42:37|Không có bạn chắc mình làm không kịp.
+ACC000080|2026-10-20 10:44:56|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000126|2026-10-20 10:49:15|Hôm nào mình mời bạn bánh mì nhé.
+ACC000080|2026-10-20 10:51:30|Vậy thì mình không từ chối đâu.

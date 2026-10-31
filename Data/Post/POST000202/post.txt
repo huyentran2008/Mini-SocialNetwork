@@ -1,0 +1,8 @@
+id=POST000202
+author=ACC000104
+visibility=PUBLIC
+created_at=2026-10-18 23:39:52
+edited_at=
+status=VISIBLE
+title=Chạy marathon đầu tiên
+content=Đã đăng ký giải bán marathon vào tháng sau. Mỗi tuần mình tăng thêm 2 km, hy vọng về đích an toàn.

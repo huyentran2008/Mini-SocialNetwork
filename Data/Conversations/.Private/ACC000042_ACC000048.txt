@@ -1,0 +1,26 @@
+ACC000048|2026-10-20 20:10:04|Năm nay bạn về quê ăn Tết không?
+ACC000042|2026-10-20 20:11:47|Có, mình đặt vé tàu rồi.
+ACC000048|2026-10-20 20:27:14|Mình còn chưa mua được vé.
+ACC000042|2026-10-20 20:28:20|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000048|2026-10-20 20:30:33|Ok, mình thử xem.
+ACC000042|2026-10-20 20:41:22|Chúc bạn sớm có vé nhé.
+ACC000042|2026-10-22 08:50:35|Hôm nay mình hơi buồn.
+ACC000048|2026-10-22 08:52:35|Có chuyện gì vậy?
+ACC000042|2026-10-22 08:54:09|Mình bị điểm thấp mà không biết lý do.
+ACC000048|2026-10-22 08:56:29|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000042|2026-10-22 08:58:40|Ừ, mình sẽ gặp thầy tuần này.
+ACC000048|2026-10-22 08:59:36|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000048|2026-10-22 12:21:31|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000042|2026-10-22 12:21:58|Ủa quên mất, bao nhiêu vậy?
+ACC000048|2026-10-22 12:22:43|70 nghìn thôi.
+ACC000042|2026-10-22 12:45:44|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000048|2026-10-22 12:47:36|Nhận được rồi nha.
+ACC000042|2026-10-22 12:51:56|Ok, xong nợ.
+ACC000048|2026-10-22 21:17:27|Mai gặp nhé
+ACC000042|2026-10-22 21:42:41|Thôi mình đi ăn cơm đã
+ACC000048|2026-10-22 22:38:18|Dạo này mình áp lực thi quá.
+ACC000042|2026-10-22 22:39:14|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000048|2026-10-22 22:41:43|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000042|2026-10-22 22:41:52|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000048|2026-10-22 22:45:42|Nghe có vẻ ổn, mình thử.
+ACC000042|2026-10-22 22:46:19|Cố lên, có gì cần cứ nhắn mình.

@@ -1,0 +1,27 @@
+ACC000036|2026-10-21 21:00:33|Bạn có rảnh để mình hỏi chút về môn cơ sở dữ liệu không?
+ACC000054|2026-10-21 21:27:04|Có, bạn hỏi đi.
+ACC000036|2026-10-21 21:28:50|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000054|2026-10-21 21:34:05|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000036|2026-10-21 21:36:43|Nghe hợp lý, cảm ơn bạn.
+ACC000054|2026-10-21 21:36:53|Cần gì cứ nhắn mình.
+ACC000054|2026-10-22 12:17:46|Cuối tuần bạn làm gì?
+ACC000036|2026-10-22 12:19:13|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000054|2026-10-22 12:19:43|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000036|2026-10-22 12:19:57|Thật không? Ngại quá.
+ACC000054|2026-10-22 12:21:54|Ngại gì, mẹ mình quý bạn lắm.
+ACC000036|2026-10-22 12:23:40|Vậy mình qua nhé, cảm ơn bác.
+ACC000036|2026-10-22 15:26:30|Mệt quá hôm nay
+ACC000054|2026-10-22 15:26:44|Vừa về tới nhà
+ACC000054|2026-10-22 15:26:45|Cố lên nhé
+ACC000036|2026-10-22 15:26:55|Mình đang bận chút, lát nhắn lại nhé
+ACC000036|2026-10-22 15:26:58|Ok
+ACC000054|2026-10-22 15:27:11|Okela
+ACC000036|2026-10-22 15:27:21|Để mình xem
+ACC000036|2026-10-22 15:27:35|Mình đang bận chút, lát nhắn lại nhé
+ACC000036|2026-10-22 15:27:45|Nghe được đó
+ACC000036|2026-10-22 15:27:50|Mệt quá hôm nay
+ACC000054|2026-10-22 15:28:03|Okela
+ACC000036|2026-10-22 15:28:11|Ok
+ACC000036|2026-10-22 15:28:17|Vậy hả?
+ACC000054|2026-10-22 15:28:18|Mai gặp nhé
+ACC000036|2026-10-22 15:28:24|Tối nói chuyện tiếp nhé

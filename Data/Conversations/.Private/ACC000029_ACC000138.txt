@@ -1,0 +1,18 @@
+ACC000138|2026-10-20 16:32:25|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000029|2026-10-20 16:34:14|Chuyện nhỏ thôi mà.
+ACC000138|2026-10-20 16:36:34|Không có bạn chắc mình làm không kịp.
+ACC000029|2026-10-20 16:38:59|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000138|2026-10-20 16:40:43|Hôm nào mình mời bạn hủ tiếu nhé.
+ACC000029|2026-10-20 16:51:47|Vậy thì mình không từ chối đâu.
+ACC000138|2026-10-20 18:00:07|Cuối tuần bạn làm gì?
+ACC000029|2026-10-20 18:00:38|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000138|2026-10-20 18:01:18|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000029|2026-10-20 18:01:34|Thật không? Ngại quá.
+ACC000138|2026-10-20 18:02:02|Ngại gì, mẹ mình quý bạn lắm.
+ACC000029|2026-10-20 18:04:27|Vậy mình qua nhé, cảm ơn bác.
+ACC000138|2026-10-22 10:04:52|Cuối tuần bạn làm gì?
+ACC000029|2026-10-22 10:06:13|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000138|2026-10-22 10:11:05|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000029|2026-10-22 10:12:28|Thật không? Ngại quá.
+ACC000138|2026-10-22 10:13:42|Ngại gì, mẹ mình quý bạn lắm.
+ACC000029|2026-10-22 10:14:06|Vậy mình qua nhé, cảm ơn bác.

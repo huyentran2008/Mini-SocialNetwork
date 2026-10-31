@@ -1,0 +1,34 @@
+ACC000029|2026-10-14 15:10:02|Cuối tuần này đi đá bóng không?
+ACC000037|2026-10-14 15:11:03|Đi chứ, mấy giờ?
+ACC000029|2026-10-14 15:12:39|Sáng chủ nhật 6 giờ ở sân gần trường
+ACC000037|2026-10-14 15:16:28|Hơi sớm nhưng được, mình đi
+ACC000029|2026-10-14 15:25:40|Nhớ mang nước nhé
+ACC000029|2026-10-17 16:36:19|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000037|2026-10-17 16:40:07|Bài nào vậy?
+ACC000029|2026-10-17 16:42:40|Mình gửi link rồi đó.
+ACC000037|2026-10-17 16:43:32|Nghe rồi, giai điệu dễ chịu thật.
+ACC000029|2026-10-17 16:47:00|Đúng không? Mình nghe suốt tuần này.
+ACC000037|2026-10-17 16:47:59|Cho mình xin playlist nhé.
+ACC000029|2026-10-20 16:10:47|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000037|2026-10-20 16:11:35|Bạn chuẩn bị tới đâu rồi?
+ACC000029|2026-10-20 16:12:12|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000037|2026-10-20 16:14:29|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000029|2026-10-20 16:15:11|Cảm ơn Huy, mình sẽ cố.
+ACC000037|2026-10-20 16:19:04|Xong nhớ nhắn mình kết quả nhé.
+ACC000029|2026-10-21 20:46:49|Thôi mình đi ăn cơm đã
+ACC000029|2026-10-21 20:47:01|Ừ
+ACC000037|2026-10-21 20:47:06|Haha bạn vui tính thật
+ACC000029|2026-10-21 20:47:20|Mình cũng nghĩ vậy
+ACC000037|2026-10-21 20:47:26|Ừ đúng rồi
+ACC000037|2026-10-21 20:47:31|Nghe được đó
+ACC000037|2026-10-21 20:47:41|Haha
+ACC000029|2026-10-21 20:47:45|Mệt quá hôm nay
+ACC000029|2026-10-21 20:47:59|Được luôn
+ACC000037|2026-10-21 20:48:13|Tối nói chuyện tiếp nhé
+ACC000029|2026-10-21 20:48:26|Rồi, mình nhớ rồi
+ACC000029|2026-10-21 20:48:27|Thôi mình đi ăn cơm đã
+ACC000029|2026-10-21 20:48:41|Ừm, mình nghĩ vậy
+ACC000029|2026-10-22 21:49:12|Mệt quá hôm nay
+ACC000037|2026-10-22 21:49:48|Haha
+ACC000037|2026-10-22 21:53:34|Cảm ơn nhé
+ACC000029|2026-10-22 21:55:04|Ừm, mình nghĩ vậy

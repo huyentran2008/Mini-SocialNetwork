@@ -1,0 +1,30 @@
+ACC000107|2026-10-14 21:59:59|Cuối tuần này đi Phú Quốc không?
+ACC000094|2026-10-14 22:03:10|Hay đó, đi mấy người?
+ACC000107|2026-10-14 22:05:22|Khoảng 5 người, tự đi xe máy.
+ACC000094|2026-10-14 22:05:33|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000107|2026-10-14 22:08:11|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000094|2026-10-14 22:08:55|Ok, vậy chốt luôn.
+ACC000094|2026-10-15 12:07:16|Hôm nay bạn có đi học không?
+ACC000107|2026-10-15 12:08:21|Có, mình đang trên đường.
+ACC000094|2026-10-15 12:08:33|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000107|2026-10-15 12:09:35|Ok, giữ rồi.
+ACC000094|2026-10-15 12:10:02|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000107|2026-10-15 12:12:34|Nhanh lên, sắp vào học rồi.
+ACC000107|2026-10-16 09:51:42|Chỉ mình đường tới thư viện thành phố với.
+ACC000094|2026-10-16 09:54:10|Bạn đang ở đâu?
+ACC000107|2026-10-16 09:57:27|Mình đang ở gần cổng chợ.
+ACC000094|2026-10-16 10:01:42|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000107|2026-10-16 10:02:07|Mình thấy rồi, cảm ơn bạn nha.
+ACC000094|2026-10-16 10:06:39|Ok, đi cẩn thận.
+ACC000107|2026-10-20 14:01:15|Cuối tuần này đi xem phim không?
+ACC000094|2026-10-20 14:02:07|Phim gì vậy?
+ACC000107|2026-10-20 14:03:18|Phim mới chiếu, nghe nói hay lắm.
+ACC000094|2026-10-20 14:03:42|Mình đang rảnh thứ hai, đi buổi chiều nhé.
+ACC000107|2026-10-20 14:05:25|Ok, mình đặt vé luôn.
+ACC000094|2026-10-20 14:06:13|Nhớ chọn ghế giữa nha.
+ACC000107|2026-10-20 14:08:56|Yên tâm.
+ACC000107|2026-10-23 21:48:22|Cảm ơn nhé
+ACC000094|2026-10-23 21:53:08|Cố lên nhé
+ACC000094|2026-10-23 21:53:24|Vừa về tới nhà
+ACC000107|2026-10-23 21:59:01|Nghe được đó
+ACC000107|2026-10-23 21:59:09|Nghe được đó

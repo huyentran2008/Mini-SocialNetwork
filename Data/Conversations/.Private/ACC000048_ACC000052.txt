@@ -1,0 +1,43 @@
+ACC000052|2026-10-16 22:26:01|Bạn cho mình mượn tài liệu được không?
+ACC000048|2026-10-16 22:29:27|Được, bạn lấy bản chụp hay bản mềm?
+ACC000052|2026-10-16 22:30:55|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000048|2026-10-16 22:36:38|Gửi rồi nha, kiểm tra thử.
+ACC000052|2026-10-16 22:37:00|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000048|2026-10-16 22:39:20|Không có gì.
+ACC000052|2026-10-22 09:40:05|Được luôn
+ACC000052|2026-10-22 09:40:09|Có gì báo mình nhé
+ACC000048|2026-10-22 09:40:11|Có gì báo mình nhé
+ACC000052|2026-10-22 09:40:23|Ừ đúng rồi
+ACC000048|2026-10-22 09:40:24|Tối nói chuyện tiếp nhé
+ACC000052|2026-10-22 09:40:25|Vừa về tới nhà
+ACC000052|2026-10-22 09:40:34|Ừ đúng rồi
+ACC000052|2026-10-22 09:40:44|Ừm, mình nghĩ vậy
+ACC000048|2026-10-22 09:40:46|Vừa về tới nhà
+ACC000052|2026-10-22 09:40:54|Mình cũng nghĩ vậy
+ACC000048|2026-10-22 09:41:00|Thôi mình đi ăn cơm đã
+ACC000052|2026-10-22 09:41:07|Thật à?
+ACC000048|2026-10-22 09:41:13|Ừ
+ACC000052|2026-10-22 09:41:20|Mai gặp nhé
+ACC000052|2026-10-22 09:41:31|Mệt quá hôm nay
+ACC000052|2026-10-22 09:41:38|Có gì báo mình nhé
+ACC000052|2026-10-22 11:24:28|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000048|2026-10-22 11:25:05|Bạn chuẩn bị tới đâu rồi?
+ACC000052|2026-10-22 11:26:36|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000048|2026-10-22 11:27:14|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000052|2026-10-22 11:30:58|Cảm ơn Hân, mình sẽ cố.
+ACC000048|2026-10-22 11:34:11|Xong nhớ nhắn mình kết quả nhé.
+ACC000052|2026-10-22 13:44:13|Năm nay bạn về quê ăn Tết không?
+ACC000048|2026-10-22 13:47:48|Có, mình đặt vé tàu rồi.
+ACC000052|2026-10-22 13:48:34|Mình còn chưa mua được vé.
+ACC000048|2026-10-22 13:48:57|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000052|2026-10-22 13:50:31|Ok, mình thử xem.
+ACC000048|2026-10-22 13:52:26|Chúc bạn sớm có vé nhé.
+ACC000048|2026-10-22 19:57:24|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000052|2026-10-22 19:58:20|Ủa quên mất, bao nhiêu vậy?
+ACC000048|2026-10-22 19:59:02|50 nghìn thôi.
+ACC000052|2026-10-22 19:59:17|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000048|2026-10-22 20:03:07|Nhận được rồi nha.
+ACC000052|2026-10-22 20:07:52|Ok, xong nợ.
+ACC000052|2026-10-23 20:56:13|Mình biết rồi
+ACC000052|2026-10-23 20:58:46|Vậy hả?
+ACC000052|2026-10-23 21:00:36|Đang làm gì đó?

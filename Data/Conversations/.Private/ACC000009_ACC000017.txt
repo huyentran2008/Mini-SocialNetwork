@@ -1,0 +1,10 @@
+ACC000009|2026-10-16 11:02:01|Cuối tuần này đi đá bóng không?
+ACC000017|2026-10-16 11:07:27|Đi chứ, mấy giờ?
+ACC000009|2026-10-16 11:15:55|Sáng chủ nhật 6 giờ ở sân gần trường
+ACC000017|2026-10-16 11:24:34|Hơi sớm nhưng được, mình đi
+ACC000009|2026-10-16 11:28:33|Nhớ mang nước nhé
+ACC000017|2026-10-23 13:23:54|Bạn xem phim mới chưa?
+ACC000009|2026-10-23 13:25:48|Phim nào vậy?
+ACC000017|2026-10-23 13:26:16|Phim chiếu rạp tuần này đó, nghe nói hay lắm
+ACC000009|2026-10-23 13:28:38|Để mình rủ nhóm đi xem cuối tuần
+ACC000017|2026-10-23 13:32:38|Hay đó, đi chung luôn cho vui

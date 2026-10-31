@@ -1,0 +1,127 @@
+ACC000008|2026-10-23 18:12:31|Tối nay bạn có chơi game không?
+ACC000092|2026-10-23 18:14:56|Có, mấy giờ?
+ACC000008|2026-10-23 18:15:05|6 giờ, rủ thêm hai bạn nữa là đủ đội.
+ACC000092|2026-10-23 19:00:37|Ok, mình online sớm.
+ACC000008|2026-10-23 19:00:52|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000092|2026-10-23 19:01:29|Haha, thua thì đừng trách mình.
+ACC000092|2026-10-23 19:22:52|Sáng mai bạn có đi tập chạy không?
+ACC000008|2026-10-23 19:25:38|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000092|2026-10-23 20:02:02|Mình sợ dậy không nổi.
+ACC000008|2026-10-23 20:03:39|Để mình gọi bạn dậy.
+ACC000092|2026-10-23 20:04:56|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000008|2026-10-23 20:06:48|Ok, mai gặp.
+ACC000008|2026-10-23 21:26:25|Bạn ngủ chưa?
+ACC000092|2026-10-23 21:27:00|Chưa, đang làm bài tập.
+ACC000008|2026-10-23 21:27:45|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000092|2026-10-23 21:31:56|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000008|2026-10-23 21:34:59|Ngủ ngon nha.
+ACC000092|2026-10-23 21:35:54|Ngủ ngon.
+ACC000008|2026-10-24 06:18:25|Cuối tuần này đi Quy Nhơn không?
+ACC000092|2026-10-24 06:20:16|Hay đó, đi mấy người?
+ACC000008|2026-10-24 06:20:24|Khoảng 20 người, tự đi xe máy.
+ACC000092|2026-10-24 06:21:41|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000008|2026-10-24 06:22:34|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000092|2026-10-24 06:26:14|Ok, vậy chốt luôn.
+ACC000008|2026-10-24 07:41:19|Bạn biết laptop nào học lập trình ổn không?
+ACC000092|2026-10-24 07:45:39|Tầm giá bao nhiêu?
+ACC000008|2026-10-24 07:49:12|Khoảng 15 đến 20 triệu.
+ACC000092|2026-10-24 07:51:05|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000008|2026-10-24 07:51:36|Cảm ơn nhiều, mình đang rối quá.
+ACC000092|2026-10-24 08:31:05|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000092|2026-10-24 08:39:08|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000008|2026-10-24 08:39:29|Mình mới xong nửa tài liệu, hơi lo.
+ACC000092|2026-10-24 08:40:04|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000008|2026-10-24 08:43:57|Hay đó, 8 giờ nhé.
+ACC000092|2026-10-24 08:44:43|Ok, mình chuẩn bị sẵn đề cương.
+ACC000008|2026-10-24 08:48:54|Cảm ơn Hòa, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000092|2026-10-24 09:01:01|Cuối tuần này đi xem phim không?
+ACC000008|2026-10-24 09:06:08|Phim gì vậy?
+ACC000092|2026-10-24 09:11:15|Phim mới chiếu, nghe nói hay lắm.
+ACC000008|2026-10-24 09:36:22|Mình đang rảnh thứ hai, đi buổi chiều nhé.
+ACC000092|2026-10-24 09:37:19|Ok, mình đặt vé luôn.
+ACC000008|2026-10-24 09:39:49|Nhớ chọn ghế giữa nha.
+ACC000092|2026-10-24 09:42:49|Yên tâm.
+ACC000092|2026-10-24 09:52:13|Chào bạn, lâu rồi không nói chuyện.
+ACC000008|2026-10-24 09:57:29|Chào bạn, dạo này bạn thế nào?
+ACC000092|2026-10-24 10:01:14|Mình ổn, bận học và làm thêm.
+ACC000008|2026-10-24 10:06:45|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000092|2026-10-24 10:06:55|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000008|2026-10-24 10:07:36|Được, tới lúc đó nhắn mình nhé.
+ACC000008|2026-10-24 10:16:53|Vậy hả?
+ACC000008|2026-10-24 10:17:39|Cảm ơn nhé
+ACC000092|2026-10-24 10:17:52|Thật à?
+ACC000092|2026-10-24 10:26:19|Hôm nay mình hơi buồn.
+ACC000008|2026-10-24 10:28:29|Có chuyện gì vậy?
+ACC000092|2026-10-24 10:30:46|Mình bị điểm thấp mà không biết lý do.
+ACC000008|2026-10-24 10:33:09|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000092|2026-10-24 10:33:48|Ừ, mình sẽ gặp thầy tuần này.
+ACC000008|2026-10-24 10:35:45|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000008|2026-10-24 10:53:32|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000092|2026-10-24 10:54:11|Mình mới xong nửa tài liệu, hơi lo.
+ACC000008|2026-10-24 10:59:03|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000092|2026-10-24 10:59:34|Hay đó, 8 giờ nhé.
+ACC000008|2026-10-24 10:59:53|Ok, mình chuẩn bị sẵn đề cương.
+ACC000092|2026-10-24 11:01:40|Cảm ơn Linh, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000008|2026-10-24 11:32:33|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000092|2026-10-24 11:34:01|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000008|2026-10-24 11:36:24|Chụp vài tấm nhé.
+ACC000092|2026-10-24 11:36:43|Xong rồi, mình gửi bạn qua đây.
+ACC000008|2026-10-24 11:37:16|Đẹp quá, cảm ơn bạn nhiều.
+ACC000092|2026-10-24 11:37:35|Lần sau mình chụp thêm.
+ACC000092|2026-10-24 11:47:11|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000008|2026-10-24 11:50:06|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000092|2026-10-24 11:51:11|Cảm ơn, mình hay quên lắm.
+ACC000008|2026-10-24 11:52:36|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000092|2026-10-24 11:53:13|Ừ, mình in hai bản.
+ACC000008|2026-10-24 11:59:35|Giỏi.
+ACC000092|2026-10-24 12:52:21|Chào bạn, lâu rồi không nói chuyện.
+ACC000008|2026-10-24 12:56:38|Chào bạn, dạo này bạn thế nào?
+ACC000092|2026-10-24 12:57:19|Mình ổn, bận học và làm thêm.
+ACC000008|2026-10-24 12:57:32|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000092|2026-10-24 12:58:10|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000008|2026-10-24 13:00:18|Được, tới lúc đó nhắn mình nhé.
+ACC000092|2026-10-24 13:34:50|Mệt quá hôm nay
+ACC000092|2026-10-24 14:08:38|Cuối tuần rảnh không?
+ACC000008|2026-10-24 14:16:40|Ok
+ACC000008|2026-10-24 14:16:43|Haha
+ACC000092|2026-10-24 14:16:52|Ừ đúng rồi
+ACC000092|2026-10-24 14:16:59|Được luôn
+ACC000092|2026-10-24 14:17:08|Thôi mình đi ăn cơm đã
+ACC000008|2026-10-24 14:17:13|Rồi, mình nhớ rồi
+ACC000008|2026-10-24 14:17:18|Vậy hả?
+ACC000008|2026-10-24 14:25:20|Ừ
+ACC000008|2026-10-24 14:25:31|Vừa về tới nhà
+ACC000092|2026-10-24 14:25:36|Rồi, mình nhớ rồi
+ACC000008|2026-10-24 14:25:38|Cuối tuần rảnh không?
+ACC000008|2026-10-24 14:25:48|Thật à?
+ACC000092|2026-10-24 14:25:58|Vừa về tới nhà
+ACC000092|2026-10-24 14:26:09|Okela
+ACC000092|2026-10-24 14:26:12|Nghe được đó
+ACC000092|2026-10-24 14:26:26|Thật à?
+ACC000092|2026-10-24 14:26:38|Ok
+ACC000092|2026-10-24 14:26:52|Nghe được đó
+ACC000008|2026-10-24 14:26:58|Thật à?
+ACC000008|2026-10-24 14:26:59|Ừ đúng rồi
+ACC000092|2026-10-24 14:27:03|Có gì báo mình nhé
+ACC000092|2026-10-24 14:27:05|Okela
+ACC000008|2026-10-24 14:35:09|Vừa về tới nhà
+ACC000092|2026-10-24 14:35:23|Haha bạn vui tính thật
+ACC000008|2026-10-24 14:35:26|Ừm, mình nghĩ vậy
+ACC000092|2026-10-24 14:35:34|Haha bạn vui tính thật
+ACC000092|2026-10-24 14:35:35|Để mình xem
+ACC000092|2026-10-24 14:35:47|Mình biết rồi
+ACC000092|2026-10-24 14:58:30|Sinh nhật vui vẻ nhé Linh!
+ACC000008|2026-10-24 15:00:21|Cảm ơn Hòa nha, nhớ cả sinh nhật mình luôn.
+ACC000092|2026-10-24 15:02:10|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000008|2026-10-24 15:31:38|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000092|2026-10-24 15:33:24|7 rưỡi nhé.
+ACC000008|2026-10-24 15:34:08|Ok, hẹn gặp.
+ACC000008|2026-10-24 15:49:41|Mai gặp nhé
+ACC000092|2026-10-24 15:49:53|Ừ
+ACC000008|2026-10-24 15:49:54|Ok
+ACC000092|2026-10-24 15:49:57|Được luôn
+ACC000092|2026-10-24 15:49:59|Thôi mình đi ăn cơm đã
+ACC000008|2026-10-24 15:50:07|Vừa về tới nhà
+ACC000008|2026-10-24 15:50:19|Cảm ơn nhé
+ACC000008|2026-10-24 15:50:22|Được luôn
+ACC000008|2026-10-24 15:50:34|Thật à?

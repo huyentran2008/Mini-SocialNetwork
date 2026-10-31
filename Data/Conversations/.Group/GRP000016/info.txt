@@ -1,0 +1,4 @@
+id=GRP000016
+name=Cầu lông tối thứ ba
+owner=ACC000138
+created_at=2026-10-01 22:18:49

@@ -1,0 +1,85 @@
+ACC000109|2026-10-23 08:28:35|Sáng mai bạn có đi tập chạy không?
+ACC000137|2026-10-23 08:50:00|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000109|2026-10-23 08:51:49|Mình sợ dậy không nổi.
+ACC000137|2026-10-23 08:52:27|Để mình gọi bạn dậy.
+ACC000109|2026-10-23 08:56:20|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000137|2026-10-23 09:00:05|Ok, mai gặp.
+ACC000109|2026-10-23 09:08:45|Bạn ngủ chưa?
+ACC000137|2026-10-23 09:14:19|Chưa, đang làm bài tập.
+ACC000109|2026-10-23 09:17:12|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000137|2026-10-23 09:21:50|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000109|2026-10-23 09:24:12|Ngủ ngon nha.
+ACC000137|2026-10-23 09:24:57|Ngủ ngon.
+ACC000109|2026-10-23 09:33:25|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000137|2026-10-23 09:34:31|Haha, bé làm gì thế?
+ACC000109|2026-10-23 09:35:20|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000137|2026-10-23 09:36:28|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000109|2026-10-23 09:38:00|Đợi chút mình chụp.
+ACC000137|2026-10-23 09:39:31|Đúng là chủ nào mèo nấy.
+ACC000109|2026-10-23 09:47:59|Vậy hả?
+ACC000109|2026-10-23 09:49:19|Vừa về tới nhà
+ACC000137|2026-10-23 09:50:06|Đang làm gì đó?
+ACC000109|2026-10-23 10:03:19|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000137|2026-10-23 10:05:49|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000109|2026-10-23 10:11:44|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000137|2026-10-23 10:14:49|Cảm ơn bạn đã hỏi thăm.
+ACC000109|2026-10-23 10:15:01|Có cần mình mang đồ ăn qua không?
+ACC000137|2026-10-23 10:16:22|Không cần đâu, mình ổn rồi.
+ACC000109|2026-10-23 10:25:56|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000137|2026-10-23 10:28:08|Bài nào vậy?
+ACC000109|2026-10-23 10:28:33|Mình gửi link rồi đó.
+ACC000137|2026-10-23 10:35:29|Nghe rồi, giai điệu dễ chịu thật.
+ACC000109|2026-10-23 10:40:16|Đúng không? Mình nghe suốt tuần này.
+ACC000137|2026-10-23 10:41:02|Cho mình xin playlist nhé.
+ACC000109|2026-10-23 10:49:22|Tối nay đi ăn bún chả không?
+ACC000137|2026-10-23 10:52:14|Đi chứ! Quán nào?
+ACC000109|2026-10-23 10:56:47|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000137|2026-10-23 11:08:10|Mấy giờ?
+ACC000109|2026-10-23 11:08:50|6 giờ tối nhé.
+ACC000137|2026-10-23 11:11:33|Ok, mình rủ thêm một bạn nữa được không?
+ACC000109|2026-10-23 11:12:22|Được chứ, càng đông càng vui.
+ACC000137|2026-10-23 12:28:38|Cuối tuần này đi xem phim không?
+ACC000109|2026-10-23 12:30:42|Phim gì vậy?
+ACC000137|2026-10-23 12:32:24|Phim mới chiếu, nghe nói hay lắm.
+ACC000109|2026-10-23 12:34:18|Mình đang rảnh thứ bảy, đi buổi chiều nhé.
+ACC000137|2026-10-23 12:34:29|Ok, mình đặt vé luôn.
+ACC000109|2026-10-23 13:19:47|Nhớ chọn ghế giữa nha.
+ACC000137|2026-10-23 14:04:21|Yên tâm.
+ACC000109|2026-10-23 14:15:15|Dạo này mình áp lực thi quá.
+ACC000137|2026-10-23 14:57:18|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000109|2026-10-23 15:00:04|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000137|2026-10-23 15:03:24|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000109|2026-10-23 15:04:53|Nghe có vẻ ổn, mình thử.
+ACC000137|2026-10-23 15:07:41|Cố lên, có gì cần cứ nhắn mình.
+ACC000137|2026-10-23 15:28:19|Cuối tuần bạn làm gì?
+ACC000109|2026-10-23 15:28:59|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000137|2026-10-23 16:17:50|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000109|2026-10-23 16:18:04|Thật không? Ngại quá.
+ACC000137|2026-10-23 16:18:48|Ngại gì, mẹ mình quý bạn lắm.
+ACC000109|2026-10-23 16:20:59|Vậy mình qua nhé, cảm ơn bác.
+ACC000137|2026-10-23 16:29:10|Sáng mai bạn có đi tập chạy không?
+ACC000109|2026-10-23 16:30:45|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000137|2026-10-23 16:32:47|Mình sợ dậy không nổi.
+ACC000109|2026-10-23 16:33:48|Để mình gọi bạn dậy.
+ACC000137|2026-10-23 16:34:20|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000109|2026-10-23 16:35:29|Ok, mai gặp.
+ACC000137|2026-10-23 17:02:22|Bạn biết laptop nào học lập trình ổn không?
+ACC000109|2026-10-23 17:05:56|Tầm giá bao nhiêu?
+ACC000137|2026-10-23 17:06:04|Khoảng 15 đến 20 triệu.
+ACC000109|2026-10-23 17:10:18|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000137|2026-10-23 17:13:00|Cảm ơn nhiều, mình đang rối quá.
+ACC000109|2026-10-23 17:13:26|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000109|2026-10-23 17:22:46|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000137|2026-10-23 17:27:54|Haha, bé làm gì thế?
+ACC000109|2026-10-23 17:30:12|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000137|2026-10-23 17:31:45|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000109|2026-10-23 18:18:28|Đợi chút mình chụp.
+ACC000137|2026-10-23 18:22:12|Đúng là chủ nào mèo nấy.
+ACC000137|2026-10-23 18:33:25|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000109|2026-10-23 18:35:28|Bài nào vậy?
+ACC000137|2026-10-23 18:37:51|Mình gửi link rồi đó.
+ACC000109|2026-10-23 18:40:28|Nghe rồi, giai điệu dễ chịu thật.
+ACC000137|2026-10-23 18:41:06|Đúng không? Mình nghe suốt tuần này.
+ACC000109|2026-10-23 18:46:25|Cho mình xin playlist nhé.
+ACC000137|2026-10-23 19:00:40|Bạn biết laptop nào học lập trình ổn không?
+ACC000109|2026-10-23 19:02:18|Tầm giá bao nhiêu?

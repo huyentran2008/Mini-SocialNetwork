@@ -1,0 +1,6 @@
+ACC000028|2026-10-24 12:06:29|Cuối tuần này đi Vũng Tàu không?
+ACC000069|2026-10-24 12:07:15|Hay đó, đi mấy người?
+ACC000028|2026-10-24 12:07:54|Khoảng 7 người, tự đi xe máy.
+ACC000069|2026-10-24 12:08:58|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000028|2026-10-24 12:09:34|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000069|2026-10-24 12:10:18|Ok, vậy chốt luôn.

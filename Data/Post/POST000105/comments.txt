@@ -1,0 +1,23 @@
+ACC000102|2026-10-06 22:31:23|Mình đang cần đúng thông tin này.
+ACC000052|2026-10-07 03:52:23|Nên viết unit test cho phần này đó.
+ACC000142|2026-10-07 09:21:23|Có gì chia sẻ thêm nhé.
+ACC000042|2026-10-07 14:54:23|Cảm ơn bạn đã ủng hộ!
+ACC000004|2026-10-07 20:51:23|Nên viết unit test cho phần này đó.
+ACC000043|2026-10-07 20:58:23|Cho mình xin repo với nhé.
+ACC000143|2026-10-08 00:33:23|Bạn thử kiểm tra lại biến chưa khởi tạo xem.
+ACC000057|2026-10-08 02:06:23|Đồng ý 100%.
+ACC000042|2026-10-08 07:20:23|Ok bạn, hẹn gặp.
+ACC000036|2026-10-08 13:43:23|Lần sau nhớ gọi mình.
+ACC000042|2026-10-08 16:57:23|Cảm ơn bạn nha!
+ACC000028|2026-10-08 20:43:23|Nên viết unit test cho phần này đó.
+ACC000043|2026-10-09 03:13:23|Nghe hấp dẫn đó, kể thêm đi.
+ACC000010|2026-10-09 08:25:23|Hay quá bạn ơi!
+ACC000036|2026-10-09 13:37:23|Haha đúng là mình luôn.
+ACC000052|2026-10-09 16:34:23|Mình cũng từng trải qua giống vậy.
+ACC000079|2026-10-09 19:46:23|Mình hay dùng cách khác nhưng cách của bạn cũng hay.
+ACC000042|2026-10-10 01:20:23|Cảm ơn bạn đã ủng hộ!
+ACC000134|2026-10-10 04:20:23|Lần sau nhớ gọi mình.
+ACC000010|2026-10-10 09:35:23|Mình thích bài này.
+ACC000128|2026-10-10 14:01:23|Thích cách bạn kể chuyện.
+ACC000142|2026-10-10 16:15:23|Hôm nào gặp mình nói chuyện thêm.
+ACC000042|2026-10-10 21:45:23|Mình sẽ nhắn bạn sau.

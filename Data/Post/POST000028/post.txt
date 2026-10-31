@@ -1,0 +1,8 @@
+id=POST000028
+author=ACC000034
+visibility=PUBLIC
+created_at=2026-10-22 13:41:26
+edited_at=
+status=VISIBLE
+title=Thời tiết Sài Gòn dạo này
+content=Sáng nắng chiều mưa, nhớ mang theo áo mưa. Đường ngập vài đoạn nên đi sớm kẻo trễ.

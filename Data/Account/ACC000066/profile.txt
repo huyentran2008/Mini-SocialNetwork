@@ -1,0 +1,14 @@
+id=ACC000066
+username=tientt90
+password=5469656e40353431326d
+full_name=Tống Tuyết Tiên
+birthday=23-10-2005
+gender=Female
+bio=Vận động mỗi ngày để khỏe mạnh.
+created_at=2026-09-06
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=Tuyên Quang
+school=
+workplace=NashTech
+hobbies=Bóng bàn;Đá bóng

@@ -1,0 +1,16 @@
+ACC000084|2026-10-09 15:39:35|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000072|2026-10-09 15:42:02|Ủa quên mất, bao nhiêu vậy?
+ACC000084|2026-10-09 15:44:53|200 nghìn thôi.
+ACC000072|2026-10-09 15:47:13|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000084|2026-10-09 15:47:32|Nhận được rồi nha.
+ACC000072|2026-10-09 15:52:11|Ok, xong nợ.
+ACC000072|2026-10-16 13:18:46|Mình cũng nghĩ vậy
+ACC000084|2026-10-16 13:19:31|Mình biết rồi
+ACC000084|2026-10-16 13:20:19|Đang làm gì đó?
+ACC000072|2026-10-20 23:44:11|Tối nay đi ăn cơm tấm không?
+ACC000084|2026-10-20 23:44:24|Đi chứ! Quán nào?
+ACC000072|2026-10-20 23:46:43|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000084|2026-10-20 23:47:22|Mấy giờ?
+ACC000072|2026-10-20 23:48:48|12 giờ nhé.
+ACC000084|2026-10-20 23:52:03|Ok, mình rủ thêm một bạn nữa được không?
+ACC000072|2026-10-20 23:55:14|Được chứ, càng đông càng vui.

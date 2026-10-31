@@ -1,0 +1,18 @@
+ACC000005|2026-10-10 13:30:22|Sao git của mình báo conflict hoài vậy?
+ACC000017|2026-10-10 13:34:52|Bạn có pull trước khi push không?
+ACC000005|2026-10-10 13:36:09|Chắc là không.
+ACC000017|2026-10-10 13:40:56|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000005|2026-10-10 13:44:43|Làm xong rồi, cảm ơn bạn.
+ACC000017|2026-10-10 13:45:39|Từ nay nhớ pull trước nhé.
+ACC000017|2026-10-15 19:27:01|Nay trời mưa to ghê.
+ACC000005|2026-10-15 19:29:24|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000017|2026-10-15 19:30:11|Bạn có áo mưa không?
+ACC000005|2026-10-15 19:32:33|Không, chắc chờ tạnh.
+ACC000017|2026-10-15 19:34:26|Mình ghé đón nhé, mình đang gần đó.
+ACC000005|2026-10-15 19:39:59|Cảm ơn bạn nhiều lắm.
+ACC000017|2026-10-24 21:04:18|Bạn xem giúp mình CV được không?
+ACC000005|2026-10-24 21:10:27|Gửi mình xem nhé.
+ACC000017|2026-10-24 21:11:53|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000005|2026-10-24 21:15:58|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000017|2026-10-24 21:16:51|Hợp lý, mình sửa luôn.
+ACC000005|2026-10-24 21:21:08|Sửa xong gửi mình xem lại nhé.

@@ -1,0 +1,8 @@
+id=POST000001
+author=ACC000024
+visibility=PUBLIC
+created_at=2026-10-08 10:15:35
+edited_at=
+status=VISIBLE
+title=Học cấu trúc dữ liệu có thật sự khó?
+content=Mấy tuần nay mình làm bài tập lớn về đồ thị và hàng đợi. Ban đầu thấy rối, nhưng khi vẽ ra giấy thì mọi thứ rõ ràng hẳn.\nLời khuyên: hãy vẽ trước, code sau.

@@ -1,0 +1,12 @@
+ACC000130|2026-10-21 18:27:18|Điểm thi cấu trúc dữ liệu có chưa bạn?
+ACC000091|2026-10-21 18:30:12|Có rồi, mình được 8 điểm.
+ACC000130|2026-10-21 18:35:54|Giỏi quá, mình mới 6 điểm thôi.
+ACC000091|2026-10-21 18:36:22|Cũng ổn mà, qua môn là tốt rồi.
+ACC000130|2026-10-21 18:37:02|Cảm ơn bạn đã động viên.
+ACC000091|2026-10-21 18:40:06|Lần sau mình học nhóm tiếp nhé.
+ACC000091|2026-10-23 11:50:39|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000130|2026-10-23 11:51:14|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000091|2026-10-23 11:52:17|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000130|2026-10-23 11:53:02|Cảm ơn bạn đã hỏi thăm.
+ACC000091|2026-10-23 11:57:35|Có cần mình mang đồ ăn qua không?
+ACC000130|2026-10-23 11:58:43|Không cần đâu, mình ổn rồi.

@@ -1,0 +1,12 @@
+ACC000031|2026-10-16 08:54:40|Công thức làm bánh flan bạn dùng thế nào?
+ACC000067|2026-10-16 09:34:03|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000031|2026-10-16 09:35:27|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000067|2026-10-16 09:40:52|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000031|2026-10-16 09:42:29|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000067|2026-10-16 09:44:34|Làm xong cho mình xin một miếng nhé.
+ACC000067|2026-10-19 12:55:36|Mình dọn trọ sang khu khác rồi.
+ACC000031|2026-10-19 12:57:48|Thật à? Có xa trường không?
+ACC000067|2026-10-19 12:58:20|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000031|2026-10-19 12:58:43|Tốt quá, hôm nào mình qua chơi.
+ACC000067|2026-10-19 13:05:28|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000031|2026-10-19 13:07:36|Ok, nhớ nấu cơm cho mình đó.

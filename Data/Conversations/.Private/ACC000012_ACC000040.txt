@@ -1,0 +1,35 @@
+ACC000040|2026-10-15 16:57:27|Dạo này mình áp lực thi quá.
+ACC000012|2026-10-15 16:58:16|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000040|2026-10-15 17:00:12|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000012|2026-10-15 17:01:14|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000040|2026-10-15 17:07:54|Nghe có vẻ ổn, mình thử.
+ACC000012|2026-10-15 17:09:03|Cố lên, có gì cần cứ nhắn mình.
+ACC000012|2026-10-15 18:56:28|Cuối tuần rảnh không?
+ACC000040|2026-10-15 18:56:30|Mai gặp nhé
+ACC000040|2026-10-15 18:56:31|Haha bạn vui tính thật
+ACC000012|2026-10-15 18:56:37|Vậy hả?
+ACC000040|2026-10-15 18:56:49|Vậy hả?
+ACC000012|2026-10-15 18:56:56|Đang làm gì đó?
+ACC000040|2026-10-15 18:57:05|Mình đang bận chút, lát nhắn lại nhé
+ACC000040|2026-10-15 18:57:19|Ừ đúng rồi
+ACC000040|2026-10-15 18:57:26|Rồi, mình nhớ rồi
+ACC000012|2026-10-15 20:04:39|Hôm nay bạn có đi học không?
+ACC000040|2026-10-15 20:09:05|Có, mình đang trên đường.
+ACC000012|2026-10-15 20:11:52|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000040|2026-10-15 20:12:44|Ok, giữ rồi.
+ACC000012|2026-10-15 20:16:59|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000040|2026-10-15 20:17:15|Nhanh lên, sắp vào học rồi.
+ACC000012|2026-10-16 18:30:19|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000040|2026-10-16 18:31:12|Mình mới xong nửa tài liệu, hơi lo.
+ACC000012|2026-10-16 18:31:59|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000040|2026-10-16 18:32:12|Hay đó, 8 giờ nhé.
+ACC000012|2026-10-16 18:34:51|Ok, mình chuẩn bị sẵn đề cương.
+ACC000040|2026-10-16 18:35:58|Cảm ơn Ngọc, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000040|2026-10-18 20:38:09|Ok
+ACC000012|2026-10-18 20:42:21|Rồi, mình nhớ rồi
+ACC000040|2026-10-22 07:50:18|Mình mới mua chiếc xe đạp.
+ACC000012|2026-10-22 07:52:06|Wow, xe đẹp không?
+ACC000040|2026-10-22 08:28:06|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000012|2026-10-22 08:29:26|Cuối tuần đạp xe quanh hồ nhé.
+ACC000040|2026-10-22 08:29:38|Hay đó, chốt luôn.
+ACC000012|2026-10-22 08:32:47|Nhớ mang nước.

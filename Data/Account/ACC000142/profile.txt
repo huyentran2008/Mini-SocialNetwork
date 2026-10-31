@@ -1,0 +1,14 @@
+id=ACC000142
+username=handp08
+password=48616e403331373176
+full_name=Đỗ Phương Hân
+birthday=07-09-2004
+gender=Female
+bio=Đang tập làm người lớn.
+created_at=2026-08-22
+status=ACTIVE
+residence=Quảng Ngãi
+hometown=Quảng Ngãi
+school=Đại học Thủ Dầu Một
+workplace=
+hobbies=

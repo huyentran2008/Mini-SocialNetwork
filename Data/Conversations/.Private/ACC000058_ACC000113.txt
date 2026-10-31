@@ -1,0 +1,15 @@
+ACC000113|2026-10-21 22:18:53|Dạo này mình áp lực thi quá.
+ACC000058|2026-10-21 22:19:59|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000113|2026-10-21 22:22:39|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000058|2026-10-21 22:34:57|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000113|2026-10-21 22:35:18|Nghe có vẻ ổn, mình thử.
+ACC000058|2026-10-21 22:35:43|Cố lên, có gì cần cứ nhắn mình.
+ACC000058|2026-10-22 18:00:51|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000113|2026-10-22 18:37:45|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000058|2026-10-22 18:41:25|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000113|2026-10-22 18:42:00|Cảm ơn bạn đã hỏi thăm.
+ACC000058|2026-10-22 18:52:10|Có cần mình mang đồ ăn qua không?
+ACC000113|2026-10-22 18:57:58|Không cần đâu, mình ổn rồi.
+ACC000058|2026-10-23 20:14:56|Tối nói chuyện tiếp nhé
+ACC000113|2026-10-23 20:21:52|Được luôn
+ACC000058|2026-10-23 20:54:44|Chúc bạn một ngày tốt lành

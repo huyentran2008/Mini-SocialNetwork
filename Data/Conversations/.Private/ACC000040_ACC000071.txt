@@ -1,0 +1,12 @@
+ACC000040|2026-10-20 20:13:27|Điểm thi giải tích có chưa bạn?
+ACC000071|2026-10-20 20:14:56|Có rồi, mình được 8 điểm.
+ACC000040|2026-10-20 20:36:17|Giỏi quá, mình mới 6 điểm thôi.
+ACC000071|2026-10-20 20:37:18|Cũng ổn mà, qua môn là tốt rồi.
+ACC000040|2026-10-20 20:37:30|Cảm ơn bạn đã động viên.
+ACC000071|2026-10-20 20:38:02|Lần sau mình học nhóm tiếp nhé.
+ACC000071|2026-10-23 17:37:44|Mình dọn trọ sang khu khác rồi.
+ACC000040|2026-10-23 17:38:49|Thật à? Có xa trường không?
+ACC000071|2026-10-23 17:41:58|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000040|2026-10-23 17:44:05|Tốt quá, hôm nào mình qua chơi.
+ACC000071|2026-10-23 17:45:30|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000040|2026-10-23 17:46:42|Ok, nhớ nấu cơm cho mình đó.

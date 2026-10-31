@@ -1,0 +1,11 @@
+ACC000095|2026-10-23 11:58:05|Cuối tuần bạn làm gì?
+ACC000034|2026-10-23 12:04:12|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000095|2026-10-23 12:06:34|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000034|2026-10-23 12:07:09|Thật không? Ngại quá.
+ACC000095|2026-10-23 12:08:46|Ngại gì, mẹ mình quý bạn lắm.
+ACC000034|2026-10-23 12:12:30|Vậy mình qua nhé, cảm ơn bác.
+ACC000034|2026-10-23 12:40:54|Bạn ơi, bài tập lập trình hướng đối tượng nộp chưa?
+ACC000095|2026-10-23 12:43:40|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000034|2026-10-23 12:44:17|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000095|2026-10-23 12:45:40|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000034|2026-10-23 12:51:57|Có gì hỏi mình nhé.

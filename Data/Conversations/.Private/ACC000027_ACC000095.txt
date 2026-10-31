@@ -1,0 +1,59 @@
+ACC000027|2026-10-22 14:56:28|Thật à?
+ACC000027|2026-10-22 14:57:23|Vừa về tới nhà
+ACC000095|2026-10-22 14:58:17|Haha
+ACC000095|2026-10-22 14:59:14|Ừm, mình nghĩ vậy
+ACC000095|2026-10-22 18:12:48|Haha
+ACC000095|2026-10-22 18:13:01|Chúc bạn một ngày tốt lành
+ACC000027|2026-10-22 18:13:12|Rồi, mình nhớ rồi
+ACC000095|2026-10-22 18:13:14|Để mình xem
+ACC000027|2026-10-22 18:13:27|Tối nói chuyện tiếp nhé
+ACC000095|2026-10-22 18:13:35|Chúc bạn một ngày tốt lành
+ACC000095|2026-10-22 18:13:41|Haha bạn vui tính thật
+ACC000027|2026-10-22 18:13:52|Ừ
+ACC000095|2026-10-22 18:14:06|Mệt quá hôm nay
+ACC000095|2026-10-22 20:20:46|Bạn ngủ chưa?
+ACC000027|2026-10-22 20:27:04|Chưa, đang làm bài tập.
+ACC000095|2026-10-22 20:29:59|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000027|2026-10-22 20:35:06|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000095|2026-10-22 20:36:48|Ngủ ngon nha.
+ACC000027|2026-10-22 20:39:42|Ngủ ngon.
+ACC000027|2026-10-22 20:48:08|Cuối tuần này đi Đà Nẵng không?
+ACC000095|2026-10-22 20:49:20|Hay đó, đi mấy người?
+ACC000027|2026-10-22 20:53:03|Khoảng 5 người, tự đi xe máy.
+ACC000095|2026-10-22 20:53:26|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000027|2026-10-22 20:54:58|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000095|2026-10-22 20:55:41|Ok, vậy chốt luôn.
+ACC000095|2026-10-22 21:43:06|Hôm nay bạn có đi học không?
+ACC000027|2026-10-22 21:43:33|Có, mình đang trên đường.
+ACC000095|2026-10-22 21:49:37|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000027|2026-10-22 21:50:25|Ok, giữ rồi.
+ACC000095|2026-10-22 21:52:43|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000027|2026-10-22 21:53:41|Nhanh lên, sắp vào học rồi.
+ACC000095|2026-10-22 22:03:22|Cuối tuần bạn làm gì?
+ACC000027|2026-10-22 22:06:51|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000095|2026-10-22 22:06:59|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000027|2026-10-22 22:13:01|Thật không? Ngại quá.
+ACC000095|2026-10-22 22:16:54|Ngại gì, mẹ mình quý bạn lắm.
+ACC000027|2026-10-22 22:17:47|Vậy mình qua nhé, cảm ơn bác.
+ACC000027|2026-10-22 22:25:37|Hôm nay mình hơi buồn.
+ACC000095|2026-10-22 23:03:42|Có chuyện gì vậy?
+ACC000027|2026-10-22 23:04:10|Mình bị điểm thấp mà không biết lý do.
+ACC000095|2026-10-22 23:04:53|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000027|2026-10-22 23:06:55|Ừ, mình sẽ gặp thầy tuần này.
+ACC000095|2026-10-22 23:07:12|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000027|2026-10-22 23:18:13|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000095|2026-10-22 23:36:56|Bạn chuẩn bị tới đâu rồi?
+ACC000027|2026-10-22 23:38:52|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000095|2026-10-22 23:45:26|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000027|2026-10-22 23:50:01|Cảm ơn Chi, mình sẽ cố.
+ACC000095|2026-10-22 23:52:17|Xong nhớ nhắn mình kết quả nhé.
+ACC000095|2026-10-23 12:20:25|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000027|2026-10-23 12:21:56|Bạn chuẩn bị tới đâu rồi?
+ACC000095|2026-10-23 12:23:20|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000027|2026-10-23 12:26:35|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000095|2026-10-23 12:28:54|Cảm ơn Vinh, mình sẽ cố.
+ACC000027|2026-10-23 12:30:13|Xong nhớ nhắn mình kết quả nhé.
+ACC000027|2026-10-23 12:38:34|Cố lên nhé
+ACC000027|2026-10-23 12:39:18|Nghe được đó
+ACC000027|2026-10-23 12:44:33|Cảm ơn nhé
+ACC000095|2026-10-23 12:46:30|Nghe được đó

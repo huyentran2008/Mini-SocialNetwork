@@ -1,0 +1,14 @@
+id=ACC000042
+username=tulc92
+password=547540383334346b
+full_name=Lý Cẩm Tú
+birthday=25-09-2006
+gender=Female
+bio=Fan bóng đá chính hiệu.
+created_at=2026-10-04
+status=ACTIVE
+residence=
+hometown=Quảng Ninh
+school=Đại học Đà Nẵng
+workplace=Samsung Việt Nam
+hobbies=Nghe nhạc;Học lập trình

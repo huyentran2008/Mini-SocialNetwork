@@ -1,0 +1,14 @@
+id=ACC000007
+username=kietdt41
+password=4b696574403734393862
+full_name=Đặng Tuấn Kiệt
+birthday=28-01-2004
+gender=Male
+bio=Mê du lịch bụi và chụp ảnh.
+created_at=2026-10-04
+status=ACTIVE
+residence=Đồng Nai
+hometown=TP. Hồ Chí Minh
+school=Đại học Huế
+workplace=
+hobbies=Pha cà phê;Du lịch;Nấu ăn

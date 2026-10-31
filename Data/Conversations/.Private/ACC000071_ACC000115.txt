@@ -1,0 +1,6 @@
+ACC000071|2026-10-19 10:16:03|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000115|2026-10-19 10:17:23|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000071|2026-10-19 10:17:57|Mình thấy rồi, truy cập ngoài mảng.
+ACC000115|2026-10-19 10:20:23|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000071|2026-10-19 10:22:16|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000115|2026-10-19 10:23:35|Lỗi này ai cũng từng gặp thôi.

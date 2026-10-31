@@ -1,0 +1,75 @@
+ACC000063|2026-10-05 12:03:03|Dạo này mình áp lực thi quá.
+ACC000084|2026-10-05 12:05:56|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000063|2026-10-05 12:06:53|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000084|2026-10-05 12:09:28|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000063|2026-10-05 12:11:37|Nghe có vẻ ổn, mình thử.
+ACC000084|2026-10-05 12:12:15|Cố lên, có gì cần cứ nhắn mình.
+ACC000063|2026-10-05 14:13:13|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000084|2026-10-05 14:15:00|Bài nào vậy?
+ACC000063|2026-10-05 14:18:24|Mình gửi link rồi đó.
+ACC000084|2026-10-05 14:19:10|Nghe rồi, giai điệu dễ chịu thật.
+ACC000063|2026-10-05 14:21:04|Đúng không? Mình nghe suốt tuần này.
+ACC000084|2026-10-05 14:22:45|Cho mình xin playlist nhé.
+ACC000084|2026-10-05 17:55:48|Công thức làm bánh flan bạn dùng thế nào?
+ACC000063|2026-10-05 17:56:10|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000084|2026-10-05 18:01:39|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000063|2026-10-05 18:08:07|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000084|2026-10-05 18:50:42|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000063|2026-10-05 18:51:23|Làm xong cho mình xin một miếng nhé.
+ACC000084|2026-10-07 10:07:42|Cuối tuần này đi xem phim không?
+ACC000063|2026-10-07 10:08:39|Phim gì vậy?
+ACC000084|2026-10-07 10:10:30|Phim mới chiếu, nghe nói hay lắm.
+ACC000063|2026-10-07 10:58:32|Mình đang rảnh thứ năm, đi buổi chiều nhé.
+ACC000084|2026-10-07 11:04:29|Ok, mình đặt vé luôn.
+ACC000063|2026-10-07 11:05:56|Nhớ chọn ghế giữa nha.
+ACC000084|2026-10-07 11:09:15|Yên tâm.
+ACC000063|2026-10-07 12:34:40|Bạn có rảnh để mình hỏi chút về môn lập trình hướng đối tượng không?
+ACC000084|2026-10-07 12:35:28|Có, bạn hỏi đi.
+ACC000063|2026-10-07 12:36:01|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000084|2026-10-07 12:37:51|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000063|2026-10-07 12:41:55|Nghe hợp lý, cảm ơn bạn.
+ACC000084|2026-10-07 12:59:04|Cần gì cứ nhắn mình.
+ACC000063|2026-10-07 21:14:50|Dạo này mình áp lực thi quá.
+ACC000084|2026-10-07 21:17:37|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000063|2026-10-07 21:19:57|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000084|2026-10-07 21:55:42|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000063|2026-10-07 21:56:33|Nghe có vẻ ổn, mình thử.
+ACC000084|2026-10-07 21:57:13|Cố lên, có gì cần cứ nhắn mình.
+ACC000063|2026-10-08 21:20:32|Sáng mai bạn có đi tập chạy không?
+ACC000084|2026-10-08 21:21:47|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000063|2026-10-08 21:24:13|Mình sợ dậy không nổi.
+ACC000084|2026-10-08 21:26:01|Để mình gọi bạn dậy.
+ACC000063|2026-10-08 21:28:07|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000084|2026-10-08 21:28:49|Ok, mai gặp.
+ACC000084|2026-10-10 20:47:27|Cuối tuần rảnh không?
+ACC000063|2026-10-10 20:47:39|Tối nói chuyện tiếp nhé
+ACC000063|2026-10-10 20:47:50|Cố lên nhé
+ACC000063|2026-10-10 20:48:03|Vừa về tới nhà
+ACC000084|2026-10-10 20:48:06|Mệt quá hôm nay
+ACC000063|2026-10-10 20:48:10|Có gì báo mình nhé
+ACC000063|2026-10-10 20:48:22|Mình biết rồi
+ACC000063|2026-10-10 20:48:24|Thôi mình đi ăn cơm đã
+ACC000063|2026-10-10 20:48:27|Cảm ơn nhé
+ACC000063|2026-10-10 20:48:30|Ok
+ACC000063|2026-10-10 20:48:44|Có gì báo mình nhé
+ACC000084|2026-10-10 20:48:47|Ừ
+ACC000084|2026-10-10 20:48:52|Vậy hả?
+ACC000063|2026-10-10 20:48:57|Rồi, mình nhớ rồi
+ACC000063|2026-10-10 20:49:09|Vậy hả?
+ACC000084|2026-10-10 20:49:13|Okela
+ACC000063|2026-10-12 08:25:08|Đang làm gì đó?
+ACC000063|2026-10-12 08:25:22|Vậy hả?
+ACC000084|2026-10-12 08:26:13|Mai gặp nhé
+ACC000084|2026-10-12 09:12:06|Chúc bạn một ngày tốt lành
+ACC000084|2026-10-12 15:28:37|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000063|2026-10-12 15:59:12|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000084|2026-10-12 16:01:33|Cảm ơn, mình hay quên lắm.
+ACC000063|2026-10-12 16:04:58|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000084|2026-10-12 16:05:27|Ừ, mình in hai bản.
+ACC000063|2026-10-12 16:06:00|Giỏi.
+ACC000084|2026-10-18 19:12:13|Tối nay bạn có chơi game không?
+ACC000063|2026-10-18 19:12:52|Có, mấy giờ?
+ACC000084|2026-10-18 19:15:39|12 giờ, rủ thêm hai bạn nữa là đủ đội.
+ACC000063|2026-10-18 19:18:06|Ok, mình online sớm.
+ACC000084|2026-10-18 19:22:15|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000063|2026-10-18 19:26:58|Haha, thua thì đừng trách mình.

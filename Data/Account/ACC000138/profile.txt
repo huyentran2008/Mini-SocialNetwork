@@ -1,0 +1,14 @@
+id=ACC000138
+username=vupg02
+password=5675403033353775
+full_name=Phạm Gia Vũ
+birthday=20-10-2001
+gender=Male
+bio=Gamer chính hiệu.
+created_at=2026-08-29
+status=ACTIVE
+residence=Hà Nội
+hometown=
+school=
+workplace=KMS Technology
+hobbies=

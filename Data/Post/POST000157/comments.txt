@@ -1,0 +1,17 @@
+ACC000022|2026-10-13 10:18:59|Cái này dùng bản đồ băm sẽ nhanh hơn đó.
+ACC000143|2026-10-13 11:03:59|Hẹn bạn dịp tới nhé.
+ACC000078|2026-10-13 13:35:59|Cảm ơn bạn đã chia sẻ nhé.
+ACC000003|2026-10-13 19:36:59|Mình hay dùng cách khác nhưng cách của bạn cũng hay.
+ACC000001|2026-10-14 01:09:59|Cái này dùng bản đồ băm sẽ nhanh hơn đó.
+ACC000039|2026-10-14 07:09:59|Nên viết unit test cho phần này đó.
+ACC000111|2026-10-14 13:32:59|Cố lên nha!
+ACC000022|2026-10-14 15:14:59|Chúc mừng bạn nhé!
+ACC000143|2026-10-14 18:23:59|Mình sẽ nhắn bạn sau.
+ACC000012|2026-10-14 21:32:59|Cái này dùng bản đồ băm sẽ nhanh hơn đó.
+ACC000143|2026-10-15 01:56:59|Mình cũng thấy thế!
+ACC000053|2026-10-15 02:40:59|Nhớ rủ mình với.
+ACC000143|2026-10-15 04:16:59|Hẹn bạn dịp tới nhé.
+ACC000083|2026-10-15 04:43:59|Nhớ rủ mình với.
+ACC000012|2026-10-15 06:40:59|Cố lên nha!
+ACC000142|2026-10-15 11:04:59|Nên viết unit test cho phần này đó.
+ACC000131|2026-10-15 16:47:59|Nên viết unit test cho phần này đó.

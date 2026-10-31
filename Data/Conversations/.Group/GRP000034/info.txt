@@ -1,0 +1,4 @@
+id=GRP000034
+name=CLB sách tháng này
+owner=ACC000130
+created_at=2026-10-20 07:09:57

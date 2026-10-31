@@ -1,0 +1,34 @@
+ACC000116|2026-10-23 08:14:36|Mình cũng nghĩ vậy
+ACC000116|2026-10-23 08:14:43|Thật à?
+ACC000116|2026-10-23 08:14:57|Ừ
+ACC000116|2026-10-23 08:15:02|Ngủ ngon
+ACC000116|2026-10-23 08:15:11|Để mình xem
+ACC000094|2026-10-23 08:15:25|Ngủ ngon
+ACC000094|2026-10-23 08:15:35|Thôi mình đi ăn cơm đã
+ACC000094|2026-10-23 08:15:41|Mình đang bận chút, lát nhắn lại nhé
+ACC000094|2026-10-23 08:15:52|Ok
+ACC000094|2026-10-23 08:15:57|Nghe được đó
+ACC000094|2026-10-23 11:07:21|Công thức làm bánh flan bạn dùng thế nào?
+ACC000116|2026-10-23 11:12:06|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000094|2026-10-23 11:14:26|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000116|2026-10-23 11:17:50|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000094|2026-10-23 11:18:48|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000116|2026-10-23 11:19:38|Làm xong cho mình xin một miếng nhé.
+ACC000116|2026-10-23 11:58:32|Bạn cho mình mượn tài liệu được không?
+ACC000094|2026-10-23 12:00:59|Được, bạn lấy bản chụp hay bản mềm?
+ACC000116|2026-10-23 12:03:23|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000094|2026-10-23 12:19:18|Gửi rồi nha, kiểm tra thử.
+ACC000116|2026-10-23 12:21:16|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000094|2026-10-23 12:42:01|Không có gì.
+ACC000116|2026-10-23 12:56:34|Hôm nay mình hơi buồn.
+ACC000094|2026-10-23 12:57:05|Có chuyện gì vậy?
+ACC000116|2026-10-23 13:27:51|Mình bị điểm thấp mà không biết lý do.
+ACC000094|2026-10-23 13:30:09|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000116|2026-10-23 13:32:00|Ừ, mình sẽ gặp thầy tuần này.
+ACC000094|2026-10-23 13:32:42|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000116|2026-10-23 20:18:30|Mình dọn trọ sang khu khác rồi.
+ACC000094|2026-10-23 20:19:07|Thật à? Có xa trường không?
+ACC000116|2026-10-23 20:21:53|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000094|2026-10-23 20:26:12|Tốt quá, hôm nào mình qua chơi.
+ACC000116|2026-10-23 20:26:32|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000094|2026-10-23 20:26:45|Ok, nhớ nấu cơm cho mình đó.

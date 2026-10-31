@@ -1,0 +1,14 @@
+id=ACC000080
+username=tamnd05
+password=54616d40383238327a
+full_name=Nguyễn Đình Tâm
+birthday=30-11-2004
+gender=Male
+bio=Đi nhiều, nghĩ ít, cười nhiều.
+created_at=2026-08-15
+status=ACTIVE
+residence=Gia Lai
+hometown=Đà Nẵng
+school=
+workplace=
+hobbies=Đi cà phê

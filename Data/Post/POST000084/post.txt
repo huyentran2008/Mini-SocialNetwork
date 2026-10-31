@@ -1,0 +1,8 @@
+id=POST000084
+author=ACC000124
+visibility=FRIEND
+created_at=2026-09-30 23:12:34
+edited_at=
+status=VISIBLE
+title=Dọn rác cùng nhóm tình nguyện
+content=Sáng chủ nhật cả nhóm nhặt rác ở bờ sông, thu được hơn 20 túi lớn. Mong mọi người cùng chung tay giữ môi trường sạch. Ai có kinh nghiệm thì chia sẻ giúp mình nhé!

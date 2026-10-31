@@ -1,0 +1,18 @@
+ACC000017|2026-10-13 20:36:16|Cuối tuần này đi Vũng Tàu không?
+ACC000128|2026-10-13 20:36:48|Hay đó, đi mấy người?
+ACC000017|2026-10-13 20:37:00|Khoảng 5 người, tự đi xe máy.
+ACC000128|2026-10-13 20:41:55|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000017|2026-10-13 20:43:09|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000128|2026-10-13 20:53:20|Ok, vậy chốt luôn.
+ACC000017|2026-10-22 14:46:55|Chỉ mình đường tới thư viện thành phố với.
+ACC000128|2026-10-22 14:47:06|Bạn đang ở đâu?
+ACC000017|2026-10-22 14:47:53|Mình đang ở gần cổng chợ.
+ACC000128|2026-10-22 14:48:15|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000017|2026-10-22 14:49:00|Mình thấy rồi, cảm ơn bạn nha.
+ACC000128|2026-10-22 14:50:13|Ok, đi cẩn thận.
+ACC000017|2026-10-22 22:54:43|Cuối tuần này đi Hội An không?
+ACC000128|2026-10-22 22:55:38|Hay đó, đi mấy người?
+ACC000017|2026-10-22 22:58:23|Khoảng 15 người, tự đi xe máy.
+ACC000128|2026-10-22 22:59:03|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000017|2026-10-22 22:59:21|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000128|2026-10-22 23:43:51|Ok, vậy chốt luôn.

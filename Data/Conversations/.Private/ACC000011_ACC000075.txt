@@ -1,0 +1,18 @@
+ACC000011|2026-10-20 18:39:17|Tối nay bạn có chơi game không?
+ACC000075|2026-10-20 18:43:01|Có, mấy giờ?
+ACC000011|2026-10-20 18:49:07|7 rưỡi, rủ thêm hai bạn nữa là đủ đội.
+ACC000075|2026-10-20 18:52:50|Ok, mình online sớm.
+ACC000011|2026-10-20 18:58:35|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000075|2026-10-20 19:02:02|Haha, thua thì đừng trách mình.
+ACC000075|2026-10-21 20:40:22|Cuối tuần này đi Nha Trang không?
+ACC000011|2026-10-21 20:41:49|Hay đó, đi mấy người?
+ACC000075|2026-10-21 20:43:39|Khoảng 20 người, tự đi xe máy.
+ACC000011|2026-10-21 20:48:43|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000075|2026-10-21 20:55:03|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000011|2026-10-21 20:55:46|Ok, vậy chốt luôn.
+ACC000011|2026-10-22 17:21:17|Dạo này mình áp lực thi quá.
+ACC000075|2026-10-22 17:25:03|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000011|2026-10-22 17:27:11|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000075|2026-10-22 17:28:28|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000011|2026-10-22 17:33:24|Nghe có vẻ ổn, mình thử.
+ACC000075|2026-10-22 17:35:12|Cố lên, có gì cần cứ nhắn mình.

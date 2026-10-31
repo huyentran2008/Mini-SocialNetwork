@@ -1,0 +1,14 @@
+id=ACC000137
+username=lyhk21
+password=4c7940343331367a
+full_name=Huỳnh Kim Ly
+birthday=27-11-2002
+gender=Female
+bio=Sống chậm lại và tận hưởng.
+created_at=2026-10-10
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=TP. Hồ Chí Minh
+school=Đại học Công nghiệp TP.HCM
+workplace=
+hobbies=Bơi lội;Đá bóng;Bóng bàn

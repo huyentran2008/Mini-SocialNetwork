@@ -1,0 +1,20 @@
+ACC000050|2026-10-17 20:41:43|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000102|2026-10-17 20:43:28|Ủa quên mất, bao nhiêu vậy?
+ACC000050|2026-10-17 20:44:26|40 nghìn thôi.
+ACC000102|2026-10-17 20:49:18|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000050|2026-10-17 20:49:58|Nhận được rồi nha.
+ACC000102|2026-10-17 20:50:49|Ok, xong nợ.
+ACC000102|2026-10-17 22:25:30|Bạn cho mình mượn tài liệu được không?
+ACC000050|2026-10-17 22:27:13|Được, bạn lấy bản chụp hay bản mềm?
+ACC000102|2026-10-17 22:28:12|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000050|2026-10-17 22:29:32|Gửi rồi nha, kiểm tra thử.
+ACC000102|2026-10-17 22:32:25|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000050|2026-10-17 22:32:49|Không có gì.
+ACC000102|2026-10-20 09:14:52|Chào bạn, lâu rồi không nói chuyện.
+ACC000050|2026-10-20 09:18:09|Chào bạn, dạo này bạn thế nào?
+ACC000102|2026-10-20 09:21:51|Mình ổn, bận học và làm thêm.
+ACC000050|2026-10-20 09:28:18|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000102|2026-10-20 09:39:04|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000050|2026-10-20 09:41:13|Được, tới lúc đó nhắn mình nhé.
+ACC000102|2026-10-21 16:07:48|Ngủ ngon
+ACC000050|2026-10-21 16:08:21|Okela

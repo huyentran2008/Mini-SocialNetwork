@@ -1,0 +1,27 @@
+ACC000136|2026-10-13 17:24:21|Bạn xem giúp mình CV được không?
+ACC000004|2026-10-13 17:53:34|Gửi mình xem nhé.
+ACC000136|2026-10-13 17:53:44|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000004|2026-10-13 17:59:01|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000136|2026-10-13 18:01:27|Hợp lý, mình sửa luôn.
+ACC000004|2026-10-13 18:03:46|Sửa xong gửi mình xem lại nhé.
+ACC000004|2026-10-15 20:34:17|Rồi, mình nhớ rồi
+ACC000136|2026-10-15 20:35:45|Vừa về tới nhà
+ACC000136|2026-10-15 20:36:54|Mình đang bận chút, lát nhắn lại nhé
+ACC000136|2026-10-19 11:33:30|Năm nay bạn về quê ăn Tết không?
+ACC000004|2026-10-19 11:33:44|Có, mình đặt vé tàu rồi.
+ACC000136|2026-10-19 11:35:53|Mình còn chưa mua được vé.
+ACC000004|2026-10-19 11:37:44|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000136|2026-10-19 11:39:38|Ok, mình thử xem.
+ACC000004|2026-10-19 11:43:16|Chúc bạn sớm có vé nhé.
+ACC000136|2026-10-19 12:11:11|Bạn biết laptop nào học lập trình ổn không?
+ACC000004|2026-10-19 12:12:06|Tầm giá bao nhiêu?
+ACC000136|2026-10-19 12:12:31|Khoảng 15 đến 20 triệu.
+ACC000004|2026-10-19 12:17:08|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000136|2026-10-19 12:38:18|Cảm ơn nhiều, mình đang rối quá.
+ACC000004|2026-10-19 12:40:44|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000004|2026-10-19 20:07:11|Bạn ơi, bài tập tiếng Anh nộp chưa?
+ACC000136|2026-10-19 20:35:34|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000004|2026-10-19 20:37:06|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000136|2026-10-19 20:37:48|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000004|2026-10-19 20:43:32|Có gì hỏi mình nhé.
+ACC000136|2026-10-19 20:44:08|Okela, cảm ơn Anh nhiều.

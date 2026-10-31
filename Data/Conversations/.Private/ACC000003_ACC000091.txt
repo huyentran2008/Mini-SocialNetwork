@@ -1,0 +1,12 @@
+ACC000003|2026-10-23 07:22:10|Chào bạn, lâu rồi không nói chuyện.
+ACC000091|2026-10-23 07:24:05|Chào bạn, dạo này bạn thế nào?
+ACC000003|2026-10-23 07:26:13|Mình ổn, bận học và làm thêm.
+ACC000091|2026-10-23 07:32:56|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000003|2026-10-23 07:33:11|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000091|2026-10-23 07:33:52|Được, tới lúc đó nhắn mình nhé.
+ACC000003|2026-10-23 13:10:58|Mình dọn trọ sang khu khác rồi.
+ACC000091|2026-10-23 13:15:55|Thật à? Có xa trường không?
+ACC000003|2026-10-23 13:21:38|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000091|2026-10-23 13:21:59|Tốt quá, hôm nào mình qua chơi.
+ACC000003|2026-10-23 13:25:30|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000091|2026-10-23 13:26:53|Ok, nhớ nấu cơm cho mình đó.

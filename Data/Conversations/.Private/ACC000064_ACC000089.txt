@@ -1,0 +1,161 @@
+ACC000064|2026-10-22 08:05:22|Cuối tuần này đi xem phim không?
+ACC000089|2026-10-22 08:38:49|Phim gì vậy?
+ACC000064|2026-10-22 09:02:11|Phim mới chiếu, nghe nói hay lắm.
+ACC000089|2026-10-22 09:04:00|Mình đang rảnh thứ sáu, đi buổi chiều nhé.
+ACC000064|2026-10-22 09:04:54|Ok, mình đặt vé luôn.
+ACC000089|2026-10-22 09:06:30|Nhớ chọn ghế giữa nha.
+ACC000064|2026-10-22 09:09:49|Yên tâm.
+ACC000064|2026-10-22 09:18:26|Tối nói chuyện tiếp nhé
+ACC000064|2026-10-22 09:18:40|Ừm, mình nghĩ vậy
+ACC000064|2026-10-22 12:00:43|Mình đang bận chút, lát nhắn lại nhé
+ACC000089|2026-10-22 12:02:55|Vừa về tới nhà
+ACC000089|2026-10-22 15:17:12|Chỉ mình đường tới thư viện thành phố với.
+ACC000064|2026-10-22 15:18:19|Bạn đang ở đâu?
+ACC000089|2026-10-22 15:23:33|Mình đang ở gần cổng chợ.
+ACC000064|2026-10-22 15:24:14|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000089|2026-10-22 15:26:20|Mình thấy rồi, cảm ơn bạn nha.
+ACC000064|2026-10-22 15:28:50|Ok, đi cẩn thận.
+ACC000089|2026-10-22 18:05:38|Điểm thi cấu trúc dữ liệu có chưa bạn?
+ACC000064|2026-10-22 18:08:18|Có rồi, mình được 8 điểm.
+ACC000089|2026-10-22 18:08:30|Giỏi quá, mình mới 6 điểm thôi.
+ACC000064|2026-10-22 18:11:53|Cũng ổn mà, qua môn là tốt rồi.
+ACC000089|2026-10-22 18:15:12|Cảm ơn bạn đã động viên.
+ACC000064|2026-10-22 18:16:04|Lần sau mình học nhóm tiếp nhé.
+ACC000089|2026-10-22 19:18:51|Đang làm gì đó?
+ACC000089|2026-10-22 19:19:05|Có gì báo mình nhé
+ACC000064|2026-10-22 19:19:19|Mai gặp nhé
+ACC000064|2026-10-22 19:19:29|Rồi, mình nhớ rồi
+ACC000064|2026-10-22 19:19:40|Haha bạn vui tính thật
+ACC000089|2026-10-22 19:19:54|Ừm, mình nghĩ vậy
+ACC000064|2026-10-22 19:20:02|Cảm ơn nhé
+ACC000089|2026-10-22 19:20:11|Cảm ơn nhé
+ACC000064|2026-10-22 19:20:15|Chúc bạn một ngày tốt lành
+ACC000089|2026-10-22 19:20:19|Có gì báo mình nhé
+ACC000064|2026-10-22 19:20:33|Có gì báo mình nhé
+ACC000064|2026-10-22 19:20:37|Chúc bạn một ngày tốt lành
+ACC000089|2026-10-22 19:20:39|Mình biết rồi
+ACC000064|2026-10-22 19:20:45|Mai gặp nhé
+ACC000064|2026-10-22 20:14:50|Mình mới mua chiếc xe đạp.
+ACC000089|2026-10-22 20:17:08|Wow, xe đẹp không?
+ACC000064|2026-10-22 20:18:01|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000089|2026-10-22 20:20:02|Cuối tuần đạp xe quanh hồ nhé.
+ACC000064|2026-10-22 20:20:37|Hay đó, chốt luôn.
+ACC000089|2026-10-22 20:20:55|Nhớ mang nước.
+ACC000089|2026-10-22 20:29:01|Mai gặp nhé
+ACC000064|2026-10-22 20:29:13|Có gì báo mình nhé
+ACC000089|2026-10-22 20:29:18|Haha
+ACC000089|2026-10-22 20:29:31|Chúc bạn một ngày tốt lành
+ACC000089|2026-10-22 20:29:41|Để mình xem
+ACC000089|2026-10-22 20:29:51|Chúc bạn một ngày tốt lành
+ACC000089|2026-10-22 20:30:01|Có gì báo mình nhé
+ACC000089|2026-10-22 20:30:06|Để mình xem
+ACC000064|2026-10-22 20:30:07|Ngủ ngon
+ACC000089|2026-10-22 20:30:09|Cố lên nhé
+ACC000064|2026-10-22 20:30:11|Ừ
+ACC000064|2026-10-22 20:30:18|Haha
+ACC000089|2026-10-22 20:30:31|Mai gặp nhé
+ACC000089|2026-10-22 20:30:43|Haha
+ACC000064|2026-10-22 20:30:53|Vừa về tới nhà
+ACC000064|2026-10-22 20:31:00|Rồi, mình nhớ rồi
+ACC000064|2026-10-22 20:39:30|Rồi, mình nhớ rồi
+ACC000064|2026-10-22 20:41:16|Tối nói chuyện tiếp nhé
+ACC000064|2026-10-22 21:03:44|Ừm, mình nghĩ vậy
+ACC000064|2026-10-22 21:04:31|Rồi, mình nhớ rồi
+ACC000089|2026-10-22 21:28:37|Mình đang bận chút, lát nhắn lại nhé
+ACC000064|2026-10-22 21:28:48|Ừ
+ACC000064|2026-10-22 21:29:00|Mai gặp nhé
+ACC000089|2026-10-22 21:29:10|Có gì báo mình nhé
+ACC000064|2026-10-22 21:29:13|Rồi, mình nhớ rồi
+ACC000064|2026-10-22 21:29:19|Chúc bạn một ngày tốt lành
+ACC000064|2026-10-22 21:29:28|Cảm ơn nhé
+ACC000064|2026-10-22 23:04:46|Vậy hả?
+ACC000089|2026-10-22 23:08:01|Haha bạn vui tính thật
+ACC000089|2026-10-22 23:11:51|Ok
+ACC000064|2026-10-22 23:54:28|Tối nói chuyện tiếp nhé
+ACC000064|2026-10-23 00:02:54|Mình đang bận chút, lát nhắn lại nhé
+ACC000089|2026-10-23 00:03:39|Haha bạn vui tính thật
+ACC000089|2026-10-23 00:04:59|Cố lên nhé
+ACC000064|2026-10-23 00:12:56|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000089|2026-10-23 00:13:45|Haha, bé làm gì thế?
+ACC000064|2026-10-23 00:17:27|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000089|2026-10-23 00:20:00|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000064|2026-10-23 00:31:29|Đợi chút mình chụp.
+ACC000089|2026-10-23 00:34:53|Đúng là chủ nào mèo nấy.
+ACC000089|2026-10-23 00:45:58|Dạo này mình áp lực thi quá.
+ACC000064|2026-10-23 00:48:24|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000089|2026-10-23 00:50:03|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000064|2026-10-23 00:50:33|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000089|2026-10-23 00:52:45|Nghe có vẻ ổn, mình thử.
+ACC000064|2026-10-23 00:54:12|Cố lên, có gì cần cứ nhắn mình.
+ACC000089|2026-10-23 01:14:54|Hôm nay bạn rảnh không?
+ACC000064|2026-10-23 01:18:12|Chiều mình rảnh, có chuyện gì vậy?
+ACC000089|2026-10-23 01:18:55|Đi uống trà sữa nhé, lâu rồi không gặp.
+ACC000064|2026-10-23 01:19:36|Ok, 7 giờ mình qua đón bạn nha.
+ACC000089|2026-10-23 01:20:03|Được, mình chờ ở cổng.
+ACC000064|2026-10-23 02:07:54|Tới rồi nè, ra đi.
+ACC000064|2026-10-23 08:46:30|Bạn có rảnh để mình hỏi chút về môn giải tích không?
+ACC000089|2026-10-23 08:46:47|Có, bạn hỏi đi.
+ACC000064|2026-10-23 08:48:47|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000089|2026-10-23 08:49:15|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000064|2026-10-23 08:49:31|Nghe hợp lý, cảm ơn bạn.
+ACC000089|2026-10-23 08:53:05|Cần gì cứ nhắn mình.
+ACC000064|2026-10-23 09:12:36|Chỉ mình đường tới thư viện thành phố với.
+ACC000089|2026-10-23 09:15:53|Bạn đang ở đâu?
+ACC000064|2026-10-23 09:16:35|Mình đang ở gần cổng chợ.
+ACC000089|2026-10-23 09:18:01|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000064|2026-10-23 09:18:46|Mình thấy rồi, cảm ơn bạn nha.
+ACC000089|2026-10-23 09:20:53|Ok, đi cẩn thận.
+ACC000089|2026-10-23 13:42:57|Bạn cho mình mượn tài liệu được không?
+ACC000064|2026-10-23 13:45:07|Được, bạn lấy bản chụp hay bản mềm?
+ACC000089|2026-10-23 13:47:39|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000064|2026-10-23 14:26:36|Gửi rồi nha, kiểm tra thử.
+ACC000089|2026-10-23 14:26:52|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000064|2026-10-23 14:28:31|Không có gì.
+ACC000089|2026-10-23 16:55:31|Để mình xem
+ACC000064|2026-10-23 16:55:33|Ừ đúng rồi
+ACC000089|2026-10-23 16:55:37|Haha bạn vui tính thật
+ACC000089|2026-10-23 16:55:42|Đang làm gì đó?
+ACC000089|2026-10-23 16:55:49|Mai gặp nhé
+ACC000064|2026-10-23 16:55:52|Đang làm gì đó?
+ACC000064|2026-10-23 16:56:05|Mình biết rồi
+ACC000089|2026-10-23 16:56:09|Thật à?
+ACC000089|2026-10-23 16:56:17|Được luôn
+ACC000064|2026-10-23 16:56:23|Ừ đúng rồi
+ACC000089|2026-10-23 16:56:27|Cảm ơn nhé
+ACC000064|2026-10-23 16:56:33|Ừ đúng rồi
+ACC000064|2026-10-23 17:06:08|Bạn ngủ chưa?
+ACC000089|2026-10-23 17:07:14|Chưa, đang làm bài tập.
+ACC000064|2026-10-23 17:10:38|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000089|2026-10-23 17:13:17|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000064|2026-10-23 17:14:08|Ngủ ngon nha.
+ACC000089|2026-10-23 17:16:08|Ngủ ngon.
+ACC000089|2026-10-23 18:56:13|Bạn biết laptop nào học lập trình ổn không?
+ACC000064|2026-10-23 19:02:59|Tầm giá bao nhiêu?
+ACC000089|2026-10-23 19:06:22|Khoảng 15 đến 20 triệu.
+ACC000064|2026-10-23 19:10:03|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000089|2026-10-23 19:12:02|Cảm ơn nhiều, mình đang rối quá.
+ACC000064|2026-10-23 19:12:24|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000089|2026-10-23 19:22:30|Sáng mai bạn có đi tập chạy không?
+ACC000064|2026-10-23 19:25:53|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000089|2026-10-23 19:26:52|Mình sợ dậy không nổi.
+ACC000064|2026-10-23 19:27:32|Để mình gọi bạn dậy.
+ACC000089|2026-10-23 19:28:50|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000064|2026-10-23 19:29:36|Ok, mai gặp.
+ACC000064|2026-10-23 21:30:56|Hôm nay bạn rảnh không?
+ACC000089|2026-10-23 21:35:16|Chiều mình rảnh, có chuyện gì vậy?
+ACC000064|2026-10-23 21:36:05|Đi uống bạc xỉu nhé, lâu rồi không gặp.
+ACC000089|2026-10-23 21:37:00|Ok, 7 rưỡi mình qua đón bạn nha.
+ACC000064|2026-10-23 21:38:03|Được, mình chờ ở cổng.
+ACC000089|2026-10-23 21:38:13|Tới rồi nè, ra đi.
+ACC000089|2026-10-23 22:48:10|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000064|2026-10-23 22:50:03|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000089|2026-10-23 22:51:47|Mình thấy rồi, truy cập ngoài mảng.
+ACC000064|2026-10-23 22:54:03|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000089|2026-10-23 22:55:36|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000064|2026-10-23 22:58:40|Lỗi này ai cũng từng gặp thôi.
+ACC000064|2026-10-23 23:15:43|Bạn ơi, bài tập xác suất nộp chưa?
+ACC000089|2026-10-23 23:17:59|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000064|2026-10-23 23:21:48|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000089|2026-10-23 23:22:16|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000064|2026-10-23 23:25:42|Có gì hỏi mình nhé.
+ACC000089|2026-10-23 23:30:17|Okela, cảm ơn Thái nhiều.

@@ -1,0 +1,14 @@
+id=ACC000012
+username=ngoclb72
+password=4e676f6340313737317a
+full_name=Lý Bích Ngọc
+birthday=08-05-2000
+gender=Female
+bio=Đang học C++ và cấu trúc dữ liệu.
+created_at=2026-10-11
+status=ACTIVE
+residence=Đồng Nai
+hometown=Đà Nẵng
+school=Đại học Kinh tế Quốc dân
+workplace=
+hobbies=

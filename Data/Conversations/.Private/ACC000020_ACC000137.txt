@@ -1,0 +1,12 @@
+ACC000137|2026-10-20 14:18:45|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000020|2026-10-20 14:21:02|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000137|2026-10-20 14:24:59|Mình thấy rồi, truy cập ngoài mảng.
+ACC000020|2026-10-20 14:26:18|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000137|2026-10-20 14:27:26|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000020|2026-10-20 14:31:21|Lỗi này ai cũng từng gặp thôi.
+ACC000020|2026-10-22 19:16:13|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000137|2026-10-22 19:18:15|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000020|2026-10-22 19:21:22|Giá thế nào?
+ACC000137|2026-10-22 19:24:33|Khoảng 150 nghìn một ly.
+ACC000020|2026-10-22 19:26:14|Hợp lý đó, mai mình thử.
+ACC000137|2026-10-22 19:27:09|Mình cũng hay ngồi ở đó, gặp nhau nhé.

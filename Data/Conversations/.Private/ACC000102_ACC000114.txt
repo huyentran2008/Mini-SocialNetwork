@@ -1,0 +1,30 @@
+ACC000102|2026-10-19 20:00:55|Sáng mai bạn có đi tập chạy không?
+ACC000114|2026-10-19 20:02:04|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000102|2026-10-19 20:02:40|Mình sợ dậy không nổi.
+ACC000114|2026-10-19 20:03:21|Để mình gọi bạn dậy.
+ACC000102|2026-10-19 20:03:49|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000114|2026-10-19 20:05:42|Ok, mai gặp.
+ACC000102|2026-10-19 21:12:37|Bạn cho mình mượn tài liệu được không?
+ACC000114|2026-10-19 21:14:14|Được, bạn lấy bản chụp hay bản mềm?
+ACC000102|2026-10-19 21:19:47|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000114|2026-10-19 21:20:47|Gửi rồi nha, kiểm tra thử.
+ACC000102|2026-10-19 21:21:17|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000114|2026-10-19 21:24:41|Không có gì.
+ACC000102|2026-10-20 18:43:27|Bạn có rảnh để mình hỏi chút về môn lập trình hướng đối tượng không?
+ACC000114|2026-10-20 18:44:49|Có, bạn hỏi đi.
+ACC000102|2026-10-20 18:45:32|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000114|2026-10-20 18:48:17|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000102|2026-10-20 18:49:23|Nghe hợp lý, cảm ơn bạn.
+ACC000114|2026-10-20 18:49:47|Cần gì cứ nhắn mình.
+ACC000102|2026-10-20 20:51:49|Bạn có rảnh để mình hỏi chút về môn tiếng Anh không?
+ACC000114|2026-10-20 20:52:27|Có, bạn hỏi đi.
+ACC000102|2026-10-20 20:52:40|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000114|2026-10-20 20:53:17|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000102|2026-10-20 21:16:44|Nghe hợp lý, cảm ơn bạn.
+ACC000114|2026-10-20 21:18:13|Cần gì cứ nhắn mình.
+ACC000102|2026-10-23 20:19:45|Ngủ ngon
+ACC000102|2026-10-23 20:43:16|Ừ
+ACC000102|2026-10-23 20:43:39|Haha
+ACC000102|2026-10-24 15:08:30|Công thức làm bánh flan bạn dùng thế nào?
+ACC000114|2026-10-24 15:12:14|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000102|2026-10-24 15:13:04|Mình hấp bị rỗ, chắc lửa to quá.

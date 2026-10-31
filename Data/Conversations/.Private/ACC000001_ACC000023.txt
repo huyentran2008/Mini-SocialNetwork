@@ -1,0 +1,31 @@
+ACC000001|2026-10-14 19:24:42|Hôm nay bạn rảnh không?
+ACC000023|2026-10-14 19:26:16|Chiều nay mình rảnh, có chuyện gì vậy?
+ACC000001|2026-10-14 19:32:59|Đi cà phê học bài chung nhé, mình có vài chỗ chưa hiểu
+ACC000023|2026-10-14 19:33:24|Ok, 3 giờ ở quán quen nhé
+ACC000001|2026-10-14 19:38:20|Chốt luôn!
+ACC000023|2026-10-17 08:02:56|Tối nay đi ăn bún chả không?
+ACC000001|2026-10-17 08:17:50|Đi chứ! Quán nào?
+ACC000023|2026-10-17 08:18:39|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000001|2026-10-17 08:19:37|Mấy giờ?
+ACC000023|2026-10-17 08:21:22|8 giờ tối nhé.
+ACC000001|2026-10-17 08:23:50|Ok, mình rủ thêm một bạn nữa được không?
+ACC000023|2026-10-17 08:24:57|Được chứ, càng đông càng vui.
+ACC000023|2026-10-20 18:55:30|Bạn cho mình mượn tài liệu được không?
+ACC000001|2026-10-20 18:56:22|Được, bạn lấy bản chụp hay bản mềm?
+ACC000023|2026-10-20 18:57:48|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000001|2026-10-20 18:58:55|Gửi rồi nha, kiểm tra thử.
+ACC000023|2026-10-20 19:01:51|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000001|2026-10-20 19:02:15|Không có gì.
+ACC000001|2026-10-22 18:41:47|Điểm thi cấu trúc dữ liệu có chưa bạn?
+ACC000023|2026-10-22 18:42:34|Có rồi, mình được 8 điểm.
+ACC000001|2026-10-22 18:44:07|Giỏi quá, mình mới 6 điểm thôi.
+ACC000023|2026-10-22 18:44:47|Cũng ổn mà, qua môn là tốt rồi.
+ACC000001|2026-10-22 18:45:08|Cảm ơn bạn đã động viên.
+ACC000023|2026-10-22 19:06:43|Lần sau mình học nhóm tiếp nhé.
+ACC000023|2026-10-23 21:55:34|Tối nay đi ăn bánh mì không?
+ACC000001|2026-10-23 21:58:59|Đi chứ! Quán nào?
+ACC000023|2026-10-23 21:59:25|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000001|2026-10-23 22:03:33|Mấy giờ?
+ACC000023|2026-10-23 22:04:59|5 giờ chiều nhé.
+ACC000001|2026-10-23 22:09:57|Ok, mình rủ thêm một bạn nữa được không?
+ACC000023|2026-10-23 22:13:45|Được chứ, càng đông càng vui.

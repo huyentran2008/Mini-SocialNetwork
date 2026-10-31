@@ -1,0 +1,14 @@
+ACC000057|2026-10-23 18:18:35|Chào bạn, lâu rồi không nói chuyện.
+ACC000048|2026-10-23 18:20:23|Chào bạn, dạo này bạn thế nào?
+ACC000057|2026-10-23 18:54:06|Mình ổn, bận học và làm thêm.
+ACC000048|2026-10-23 18:54:54|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000057|2026-10-23 18:55:50|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000048|2026-10-23 18:58:00|Được, tới lúc đó nhắn mình nhé.
+ACC000057|2026-10-23 21:02:14|Hôm nay bạn rảnh không?
+ACC000048|2026-10-23 21:02:54|Chiều mình rảnh, có chuyện gì vậy?
+ACC000057|2026-10-23 21:03:48|Đi uống nước cam nhé, lâu rồi không gặp.
+ACC000048|2026-10-23 21:27:17|Ok, 12 giờ mình qua đón bạn nha.
+ACC000057|2026-10-23 21:27:45|Được, mình chờ ở cổng.
+ACC000048|2026-10-23 21:27:56|Tới rồi nè, ra đi.
+ACC000048|2026-10-23 22:24:25|Mình cũng nghĩ vậy
+ACC000048|2026-10-23 22:44:26|Cảm ơn nhé

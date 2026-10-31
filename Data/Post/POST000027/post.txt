@@ -1,0 +1,8 @@
+id=POST000027
+author=ACC000028
+visibility=FRIEND
+created_at=2026-10-22 11:59:43
+edited_at=2026-10-22 23:10:00
+status=VISIBLE
+title=Khởi nghiệp nhỏ từ sở thích
+content=Bạn mình bán bánh handmade trên mạng, ban đầu chỉ vài đơn mỗi tuần, giờ đã có khách quen. Kiên trì là chìa khóa.

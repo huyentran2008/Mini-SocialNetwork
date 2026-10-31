@@ -1,0 +1,19 @@
+ACC000140|2026-10-02 01:36:35|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000129|2026-10-02 01:38:42|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000140|2026-10-02 01:39:20|Cảm ơn, mình hay quên lắm.
+ACC000129|2026-10-02 01:39:55|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000140|2026-10-02 01:42:56|Ừ, mình in hai bản.
+ACC000129|2026-10-02 01:45:35|Giỏi.
+ACC000140|2026-10-05 19:55:23|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000129|2026-10-05 20:45:16|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000140|2026-10-05 20:45:59|Cảm ơn, mình hay quên lắm.
+ACC000129|2026-10-05 20:58:03|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000140|2026-10-05 20:59:00|Ừ, mình in hai bản.
+ACC000129|2026-10-05 20:59:38|Giỏi.
+ACC000140|2026-10-11 18:28:08|Được luôn
+ACC000129|2026-10-11 18:29:00|Haha bạn vui tính thật
+ACC000129|2026-10-17 22:35:40|Haha
+ACC000129|2026-10-17 22:36:29|Mình biết rồi
+ACC000129|2026-10-17 22:38:56|Mệt quá hôm nay
+ACC000129|2026-10-17 22:42:46|Để mình xem
+ACC000129|2026-10-17 22:45:27|Đang làm gì đó?

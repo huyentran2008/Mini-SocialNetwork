@@ -1,0 +1,14 @@
+id=ACC000004
+username=anhpn63
+password=416e6840393535336b
+full_name=Phạm Ngọc Anh
+birthday=09-06-2003
+gender=Female
+bio=Mê du lịch bụi và chụp ảnh.
+created_at=2026-10-05
+status=ACTIVE
+residence=Hà Nội
+hometown=Cần Thơ
+school=Đại học Bách khoa - ĐHQG TP.HCM
+workplace=
+hobbies=Cầu lông

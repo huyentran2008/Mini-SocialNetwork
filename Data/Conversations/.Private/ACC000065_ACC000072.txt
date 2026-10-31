@@ -1,0 +1,38 @@
+ACC000072|2026-10-20 16:16:29|Ừ
+ACC000065|2026-10-20 16:16:31|Nghe được đó
+ACC000065|2026-10-20 16:16:35|Để mình xem
+ACC000072|2026-10-20 16:16:41|Nghe được đó
+ACC000072|2026-10-20 16:16:43|Haha
+ACC000072|2026-10-20 16:16:51|Tối nói chuyện tiếp nhé
+ACC000065|2026-10-20 16:17:04|Rồi, mình nhớ rồi
+ACC000065|2026-10-20 16:17:16|Ngủ ngon
+ACC000065|2026-10-20 16:17:18|Okela
+ACC000072|2026-10-20 16:17:19|Thôi mình đi ăn cơm đã
+ACC000072|2026-10-20 16:17:31|Đang làm gì đó?
+ACC000065|2026-10-20 17:03:17|Hôm nay bạn rảnh không?
+ACC000072|2026-10-20 17:05:49|Chiều mình rảnh, có chuyện gì vậy?
+ACC000065|2026-10-20 17:06:15|Đi uống cà phê nhé, lâu rồi không gặp.
+ACC000072|2026-10-20 17:09:59|Ok, 12 giờ mình qua đón bạn nha.
+ACC000065|2026-10-20 17:14:11|Được, mình chờ ở cổng.
+ACC000072|2026-10-20 17:19:06|Tới rồi nè, ra đi.
+ACC000072|2026-10-20 20:44:35|Bạn có rảnh để mình hỏi chút về môn xác suất không?
+ACC000065|2026-10-20 20:45:07|Có, bạn hỏi đi.
+ACC000072|2026-10-20 20:48:41|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000065|2026-10-20 20:49:43|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000072|2026-10-20 20:50:49|Nghe hợp lý, cảm ơn bạn.
+ACC000065|2026-10-20 20:56:19|Cần gì cứ nhắn mình.
+ACC000072|2026-10-20 21:06:13|Có gì báo mình nhé
+ACC000072|2026-10-20 21:06:59|Vừa về tới nhà
+ACC000065|2026-10-20 21:07:16|Rồi, mình nhớ rồi
+ACC000072|2026-10-20 22:09:15|Hôm nay bạn có đi học không?
+ACC000065|2026-10-20 22:09:27|Có, mình đang trên đường.
+ACC000072|2026-10-20 22:16:18|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000065|2026-10-20 22:18:19|Ok, giữ rồi.
+ACC000072|2026-10-20 22:20:22|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000065|2026-10-20 22:22:23|Nhanh lên, sắp vào học rồi.
+ACC000065|2026-10-22 19:40:30|Hôm nay mình hơi buồn.
+ACC000072|2026-10-22 19:42:42|Có chuyện gì vậy?
+ACC000065|2026-10-22 19:48:47|Mình bị điểm thấp mà không biết lý do.
+ACC000072|2026-10-22 19:51:00|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000065|2026-10-22 19:55:32|Ừ, mình sẽ gặp thầy tuần này.
+ACC000072|2026-10-22 19:56:15|Đừng buồn nữa, rồi sẽ ổn thôi.

@@ -1,0 +1,8 @@
+id=POST000024
+author=ACC000044
+visibility=FRIEND
+created_at=2026-10-19 13:18:36
+edited_at=
+status=VISIBLE
+title=Phim hay cuối tuần
+content=Một bộ phim về tình bạn và trưởng thành, kịch bản chắc tay. Xem xong cả rạp lặng đi một lúc.

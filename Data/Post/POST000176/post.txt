@@ -1,0 +1,8 @@
+id=POST000176
+author=ACC000039
+visibility=PUBLIC
+created_at=2026-10-16 07:12:40
+edited_at=
+status=VISIBLE
+title=Setup góc làm việc mới
+content=Vừa đổi sang màn hình thứ hai và bàn phím cơ. Năng suất tăng thấy rõ nhưng ví nhẹ đi hẳn. Ai có mẹo tiết kiệm khi nâng cấp góc học tập không?

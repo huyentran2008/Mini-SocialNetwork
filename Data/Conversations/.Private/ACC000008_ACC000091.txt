@@ -1,0 +1,9 @@
+ACC000091|2026-10-14 21:04:27|Vậy hả?
+ACC000008|2026-10-14 21:06:55|Haha
+ACC000091|2026-10-14 21:07:47|Tối nói chuyện tiếp nhé
+ACC000008|2026-10-22 02:29:54|Điểm thi lập trình hướng đối tượng có chưa bạn?
+ACC000091|2026-10-22 02:41:33|Có rồi, mình được 8 điểm.
+ACC000008|2026-10-22 02:43:29|Giỏi quá, mình mới 6 điểm thôi.
+ACC000091|2026-10-22 02:45:50|Cũng ổn mà, qua môn là tốt rồi.
+ACC000008|2026-10-22 02:46:26|Cảm ơn bạn đã động viên.
+ACC000091|2026-10-22 02:48:32|Lần sau mình học nhóm tiếp nhé.

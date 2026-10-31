@@ -1,0 +1,9 @@
+ACC000029|2026-10-18 16:50:10|Hôm nay mình hơi buồn.
+ACC000008|2026-10-18 16:53:48|Có chuyện gì vậy?
+ACC000029|2026-10-18 16:56:45|Mình bị điểm thấp mà không biết lý do.
+ACC000008|2026-10-18 16:58:08|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000029|2026-10-18 16:59:31|Ừ, mình sẽ gặp thầy tuần này.
+ACC000008|2026-10-18 17:01:43|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000008|2026-10-18 21:03:36|Thôi mình đi ăn cơm đã
+ACC000029|2026-10-18 21:08:37|Cảm ơn nhé
+ACC000029|2026-10-18 21:15:25|Ngủ ngon

@@ -1,0 +1,5 @@
+ACC000020|2026-10-18 14:25:48|Bạn có biết cách tối ưu vòng lặp này không?
+ACC000026|2026-10-18 14:28:19|Gửi mình đoạn code xem sao
+ACC000020|2026-10-18 14:32:31|Mình dùng map thay vì duyệt vector là nhanh hơn nhiều
+ACC000026|2026-10-18 14:39:20|Đúng rồi, độ phức tạp giảm hẳn
+ACC000020|2026-10-18 14:40:12|Cảm ơn bạn, chạy nhanh thật

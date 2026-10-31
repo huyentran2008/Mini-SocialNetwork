@@ -1,0 +1,30 @@
+ACC000042|2026-10-05 12:18:16|Haha bạn vui tính thật
+ACC000142|2026-10-05 12:18:24|Mình đang bận chút, lát nhắn lại nhé
+ACC000142|2026-10-05 12:18:29|Tối nói chuyện tiếp nhé
+ACC000142|2026-10-05 12:18:35|Haha
+ACC000142|2026-10-05 12:18:43|Nghe được đó
+ACC000042|2026-10-05 12:18:44|Vừa về tới nhà
+ACC000142|2026-10-05 22:36:28|Bạn xem giúp mình CV được không?
+ACC000042|2026-10-05 22:36:38|Gửi mình xem nhé.
+ACC000142|2026-10-05 22:40:26|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000042|2026-10-05 23:15:13|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000142|2026-10-05 23:16:16|Hợp lý, mình sửa luôn.
+ACC000042|2026-10-05 23:16:28|Sửa xong gửi mình xem lại nhé.
+ACC000142|2026-10-09 18:59:15|Sinh nhật vui vẻ nhé Tú!
+ACC000042|2026-10-09 19:00:14|Cảm ơn Hân nha, nhớ cả sinh nhật mình luôn.
+ACC000142|2026-10-09 19:02:34|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000042|2026-10-09 19:07:51|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000142|2026-10-09 19:13:15|7 giờ nhé.
+ACC000042|2026-10-09 19:18:21|Ok, hẹn gặp.
+ACC000142|2026-10-09 20:25:37|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000042|2026-10-09 20:27:18|Ủa quên mất, bao nhiêu vậy?
+ACC000142|2026-10-09 20:28:07|70 nghìn thôi.
+ACC000042|2026-10-09 20:28:33|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000142|2026-10-09 20:29:06|Nhận được rồi nha.
+ACC000042|2026-10-09 20:47:26|Ok, xong nợ.
+ACC000042|2026-10-22 12:54:31|Cuối tuần này đi Mũi Né không?
+ACC000142|2026-10-22 12:55:24|Hay đó, đi mấy người?
+ACC000042|2026-10-22 12:58:57|Khoảng 20 người, tự đi xe máy.
+ACC000142|2026-10-22 12:59:35|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000042|2026-10-22 13:00:03|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000142|2026-10-22 13:00:19|Ok, vậy chốt luôn.

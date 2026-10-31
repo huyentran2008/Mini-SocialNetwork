@@ -1,0 +1,14 @@
+id=ACC000091
+username=mytt48
+password=4d79403734363078
+full_name=Tăng Thu Mỹ
+birthday=12-03-2003
+gender=Female
+bio=Cày game, xem anime, ngủ muộn.
+created_at=2026-10-04
+status=ACTIVE
+residence=Nghệ An
+hometown=
+school=Đại học Nông Lâm - Đại học Thái Nguyên
+workplace=Vinamilk
+hobbies=Chơi game nhập vai;Chơi eSports;Leo núi

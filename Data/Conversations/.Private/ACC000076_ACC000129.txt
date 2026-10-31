@@ -1,0 +1,20 @@
+ACC000129|2026-10-21 20:23:57|Hôm nay mình hơi buồn.
+ACC000076|2026-10-21 20:24:12|Có chuyện gì vậy?
+ACC000129|2026-10-21 20:24:39|Mình bị điểm thấp mà không biết lý do.
+ACC000076|2026-10-21 20:26:01|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000129|2026-10-21 21:12:01|Ừ, mình sẽ gặp thầy tuần này.
+ACC000076|2026-10-21 21:13:57|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000076|2026-10-21 21:46:04|Nghe được đó
+ACC000129|2026-10-21 21:46:59|Cảm ơn nhé
+ACC000076|2026-10-21 21:48:50|Haha bạn vui tính thật
+ACC000129|2026-10-21 21:49:44|Vừa về tới nhà
+ACC000129|2026-10-21 23:25:49|Đang làm gì đó?
+ACC000076|2026-10-21 23:30:26|Cảm ơn nhé
+ACC000076|2026-10-22 19:45:34|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000129|2026-10-22 19:46:20|Bài nào vậy?
+ACC000076|2026-10-22 19:46:46|Mình gửi link rồi đó.
+ACC000129|2026-10-22 19:50:19|Nghe rồi, giai điệu dễ chịu thật.
+ACC000076|2026-10-22 19:53:27|Đúng không? Mình nghe suốt tuần này.
+ACC000129|2026-10-22 19:55:11|Cho mình xin playlist nhé.
+ACC000076|2026-10-23 22:05:01|Năm nay bạn về quê ăn Tết không?
+ACC000129|2026-10-23 22:10:53|Có, mình đặt vé tàu rồi.

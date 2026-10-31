@@ -1,0 +1,18 @@
+ACC000002|2026-10-15 20:17:19|Dạo này mình áp lực thi quá.
+ACC000048|2026-10-15 20:30:59|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000002|2026-10-15 20:34:59|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000048|2026-10-15 20:36:15|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000002|2026-10-15 20:38:05|Nghe có vẻ ổn, mình thử.
+ACC000048|2026-10-15 20:38:55|Cố lên, có gì cần cứ nhắn mình.
+ACC000048|2026-10-17 15:29:27|Chỉ mình đường tới thư viện thành phố với.
+ACC000002|2026-10-17 15:29:48|Bạn đang ở đâu?
+ACC000048|2026-10-17 15:30:24|Mình đang ở gần cổng chợ.
+ACC000002|2026-10-17 15:30:53|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000048|2026-10-17 15:34:11|Mình thấy rồi, cảm ơn bạn nha.
+ACC000002|2026-10-17 15:35:45|Ok, đi cẩn thận.
+ACC000002|2026-10-22 18:06:11|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000048|2026-10-22 18:54:48|Bạn chuẩn bị tới đâu rồi?
+ACC000002|2026-10-22 19:38:28|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000048|2026-10-22 19:40:09|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000002|2026-10-22 19:42:03|Cảm ơn Hân, mình sẽ cố.
+ACC000048|2026-10-22 19:43:20|Xong nhớ nhắn mình kết quả nhé.

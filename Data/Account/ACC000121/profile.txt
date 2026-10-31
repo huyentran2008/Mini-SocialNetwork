@@ -1,0 +1,14 @@
+id=ACC000121
+username=phucng33
+password=50687563403233393065
+full_name=Nguyễn Gia Phúc
+birthday=21-01-2002
+gender=Male
+bio=Cười nhiều hơn, lo ít lại.
+created_at=2026-08-25
+status=ACTIVE
+residence=
+hometown=Đà Nẵng
+school=Đại học Yersin Đà Lạt
+workplace=FPT Software
+hobbies=

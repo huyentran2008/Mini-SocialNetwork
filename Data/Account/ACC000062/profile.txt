@@ -1,0 +1,14 @@
+id=ACC000062
+username=hieutm34
+password=4869657540353733307a
+full_name=Trần Minh Hiếu
+birthday=27-09-2005
+gender=Male
+bio=Thể thao là cuộc sống.
+created_at=2026-09-13
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=Hà Nội
+school=Cao đẳng Việt Mỹ
+workplace=Samsung Việt Nam
+hobbies=Bơi lội;Xem bóng đá

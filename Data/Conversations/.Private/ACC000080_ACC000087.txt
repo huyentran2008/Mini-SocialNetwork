@@ -1,0 +1,32 @@
+ACC000087|2026-10-03 22:29:45|Dạo này mình áp lực thi quá.
+ACC000080|2026-10-03 22:33:49|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000087|2026-10-03 22:49:15|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000080|2026-10-03 23:06:26|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000087|2026-10-03 23:11:21|Nghe có vẻ ổn, mình thử.
+ACC000080|2026-10-03 23:12:01|Cố lên, có gì cần cứ nhắn mình.
+ACC000087|2026-10-04 22:09:06|Rồi, mình nhớ rồi
+ACC000080|2026-10-04 22:09:14|Rồi, mình nhớ rồi
+ACC000087|2026-10-04 22:09:26|Ngủ ngon
+ACC000087|2026-10-04 22:09:40|Mệt quá hôm nay
+ACC000080|2026-10-04 22:09:48|Ừ đúng rồi
+ACC000080|2026-10-04 22:09:58|Có gì báo mình nhé
+ACC000087|2026-10-04 22:10:09|Chúc bạn một ngày tốt lành
+ACC000080|2026-10-04 22:10:22|Được luôn
+ACC000087|2026-10-04 22:10:34|Mình biết rồi
+ACC000087|2026-10-04 22:10:39|Có gì báo mình nhé
+ACC000087|2026-10-10 16:42:10|Vừa về tới nhà
+ACC000087|2026-10-10 16:44:24|Để mình xem
+ACC000087|2026-10-10 16:46:46|Mệt quá hôm nay
+ACC000080|2026-10-10 16:50:17|Nghe được đó
+ACC000087|2026-10-18 17:48:31|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000080|2026-10-18 17:48:46|Bạn chuẩn bị tới đâu rồi?
+ACC000087|2026-10-18 17:49:05|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000080|2026-10-18 17:49:13|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000087|2026-10-18 17:53:49|Cảm ơn Tâm, mình sẽ cố.
+ACC000080|2026-10-18 17:54:44|Xong nhớ nhắn mình kết quả nhé.
+ACC000080|2026-10-18 20:46:09|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000087|2026-10-18 20:48:25|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000080|2026-10-18 20:49:43|Chụp vài tấm nhé.
+ACC000087|2026-10-18 20:51:02|Xong rồi, mình gửi bạn qua đây.
+ACC000080|2026-10-18 20:51:14|Đẹp quá, cảm ơn bạn nhiều.
+ACC000087|2026-10-18 20:51:58|Lần sau mình chụp thêm.

@@ -1,0 +1,12 @@
+ACC000039|2026-10-19 22:56:18|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000109|2026-10-19 23:01:33|Ủa quên mất, bao nhiêu vậy?
+ACC000039|2026-10-19 23:02:24|150 nghìn thôi.
+ACC000109|2026-10-19 23:03:12|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000039|2026-10-19 23:03:50|Nhận được rồi nha.
+ACC000109|2026-10-19 23:05:05|Ok, xong nợ.
+ACC000109|2026-10-22 20:13:24|Hôm nay bạn rảnh không?
+ACC000039|2026-10-22 20:15:00|Chiều mình rảnh, có chuyện gì vậy?
+ACC000109|2026-10-22 20:17:14|Đi uống bạc xỉu nhé, lâu rồi không gặp.
+ACC000039|2026-10-22 20:19:34|Ok, 11 giờ 30 mình qua đón bạn nha.
+ACC000109|2026-10-22 21:03:50|Được, mình chờ ở cổng.
+ACC000039|2026-10-22 21:07:42|Tới rồi nè, ra đi.

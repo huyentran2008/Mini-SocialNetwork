@@ -1,0 +1,6 @@
+ACC000125|2026-10-19 14:05:02|Hôm nay bạn có đi học không?
+ACC000071|2026-10-19 14:05:16|Có, mình đang trên đường.
+ACC000125|2026-10-19 14:07:30|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000071|2026-10-19 14:12:43|Ok, giữ rồi.
+ACC000125|2026-10-19 14:13:28|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000071|2026-10-19 14:17:04|Nhanh lên, sắp vào học rồi.

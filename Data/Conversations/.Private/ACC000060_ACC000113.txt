@@ -1,0 +1,66 @@
+ACC000060|2026-10-17 20:02:32|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000113|2026-10-17 20:03:25|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000060|2026-10-17 20:04:47|Chụp vài tấm nhé.
+ACC000113|2026-10-17 20:06:00|Xong rồi, mình gửi bạn qua đây.
+ACC000060|2026-10-17 20:08:32|Đẹp quá, cảm ơn bạn nhiều.
+ACC000113|2026-10-17 20:09:14|Lần sau mình chụp thêm.
+ACC000113|2026-10-17 23:06:18|Để mình xem
+ACC000113|2026-10-17 23:08:26|Ok
+ACC000113|2026-10-17 23:13:33|Vậy hả?
+ACC000113|2026-10-17 23:14:02|Ừ đúng rồi
+ACC000060|2026-10-19 10:31:34|Mình dọn trọ sang khu khác rồi.
+ACC000113|2026-10-19 10:32:03|Thật à? Có xa trường không?
+ACC000060|2026-10-19 10:32:54|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000113|2026-10-19 10:34:33|Tốt quá, hôm nào mình qua chơi.
+ACC000060|2026-10-19 10:39:11|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000113|2026-10-19 10:45:52|Ok, nhớ nấu cơm cho mình đó.
+ACC000113|2026-10-20 18:34:02|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000060|2026-10-20 18:37:10|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000113|2026-10-20 18:37:19|Chụp vài tấm nhé.
+ACC000060|2026-10-20 18:40:02|Xong rồi, mình gửi bạn qua đây.
+ACC000113|2026-10-20 18:40:45|Đẹp quá, cảm ơn bạn nhiều.
+ACC000060|2026-10-20 18:42:39|Lần sau mình chụp thêm.
+ACC000113|2026-10-20 22:20:51|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000060|2026-10-20 22:21:04|Chuyện nhỏ thôi mà.
+ACC000113|2026-10-20 22:26:29|Không có bạn chắc mình làm không kịp.
+ACC000060|2026-10-20 22:37:51|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000113|2026-10-20 22:40:27|Hôm nào mình mời bạn gà rán nhé.
+ACC000060|2026-10-20 22:42:45|Vậy thì mình không từ chối đâu.
+ACC000113|2026-10-20 22:51:14|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000060|2026-10-20 22:57:44|Haha, bé làm gì thế?
+ACC000113|2026-10-20 22:58:17|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000060|2026-10-20 22:59:41|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000113|2026-10-20 23:00:22|Đợi chút mình chụp.
+ACC000060|2026-10-20 23:01:57|Đúng là chủ nào mèo nấy.
+ACC000113|2026-10-20 23:10:08|Haha bạn vui tính thật
+ACC000113|2026-10-20 23:10:22|Mình cũng nghĩ vậy
+ACC000060|2026-10-20 23:10:33|Haha bạn vui tính thật
+ACC000060|2026-10-20 23:10:34|Ừ đúng rồi
+ACC000060|2026-10-20 23:10:41|Vậy hả?
+ACC000060|2026-10-20 23:10:51|Thôi mình đi ăn cơm đã
+ACC000113|2026-10-20 23:11:03|Đang làm gì đó?
+ACC000113|2026-10-20 23:11:09|Ừ
+ACC000060|2026-10-20 23:11:23|Vừa về tới nhà
+ACC000060|2026-10-20 23:11:29|Rồi, mình nhớ rồi
+ACC000113|2026-10-20 23:11:41|Rồi, mình nhớ rồi
+ACC000113|2026-10-20 23:11:54|Để mình xem
+ACC000060|2026-10-20 23:11:59|Ừ
+ACC000060|2026-10-20 23:12:02|Ok
+ACC000060|2026-10-21 13:53:49|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000113|2026-10-21 13:56:15|Haha, bé làm gì thế?
+ACC000060|2026-10-21 13:58:44|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000113|2026-10-21 14:00:59|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000060|2026-10-21 14:01:16|Đợi chút mình chụp.
+ACC000113|2026-10-21 14:02:04|Đúng là chủ nào mèo nấy.
+ACC000113|2026-10-22 10:56:48|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000060|2026-10-22 10:57:51|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000113|2026-10-22 10:58:27|Chụp vài tấm nhé.
+ACC000060|2026-10-22 10:58:55|Xong rồi, mình gửi bạn qua đây.
+ACC000113|2026-10-22 10:59:31|Đẹp quá, cảm ơn bạn nhiều.
+ACC000060|2026-10-22 11:00:07|Lần sau mình chụp thêm.
+ACC000113|2026-10-22 18:19:55|Bạn ơi, bài tập cơ sở dữ liệu nộp chưa?
+ACC000060|2026-10-22 18:22:14|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000113|2026-10-22 18:28:05|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000060|2026-10-22 18:29:01|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000113|2026-10-22 19:07:35|Có gì hỏi mình nhé.
+ACC000060|2026-10-22 19:08:27|Okela, cảm ơn Văn nhiều.

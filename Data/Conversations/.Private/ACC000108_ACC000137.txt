@@ -1,0 +1,12 @@
+ACC000137|2026-10-17 01:27:19|Cuối tuần này đi Quy Nhơn không?
+ACC000108|2026-10-17 01:31:03|Hay đó, đi mấy người?
+ACC000137|2026-10-17 01:34:18|Khoảng 15 người, tự đi xe máy.
+ACC000108|2026-10-17 01:34:41|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000137|2026-10-17 01:37:42|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000108|2026-10-17 01:39:20|Ok, vậy chốt luôn.
+ACC000108|2026-10-21 20:39:36|Cuối tuần này đi Hội An không?
+ACC000137|2026-10-21 20:42:52|Hay đó, đi mấy người?
+ACC000108|2026-10-21 20:45:04|Khoảng 4 người, tự đi xe máy.
+ACC000137|2026-10-21 20:47:24|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000108|2026-10-21 20:48:04|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000137|2026-10-21 20:54:51|Ok, vậy chốt luôn.

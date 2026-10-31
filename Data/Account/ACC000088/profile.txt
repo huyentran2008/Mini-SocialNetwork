@@ -1,0 +1,14 @@
+id=ACC000088
+username=sanght02
+password=53616e67403330323972
+full_name=Hoàng Thanh Sang
+birthday=13-11-2002
+gender=Male
+bio=Đọc sách như thở.
+created_at=2026-09-23
+status=ACTIVE
+residence=Bắc Ninh
+hometown=Hà Nội
+school=Đại học Y khoa Phạm Ngọc Thạch
+workplace=Sacombank
+hobbies=Đọc sách kỹ năng

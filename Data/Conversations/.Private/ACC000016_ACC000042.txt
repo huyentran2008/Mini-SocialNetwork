@@ -1,0 +1,20 @@
+ACC000016|2026-10-16 09:15:51|Tối nay bạn có chơi game không?
+ACC000042|2026-10-16 09:16:31|Có, mấy giờ?
+ACC000016|2026-10-16 09:17:45|7 rưỡi, rủ thêm hai bạn nữa là đủ đội.
+ACC000042|2026-10-16 09:48:49|Ok, mình online sớm.
+ACC000016|2026-10-16 09:54:41|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000042|2026-10-16 09:57:01|Haha, thua thì đừng trách mình.
+ACC000016|2026-10-16 10:05:16|Nghe được đó
+ACC000016|2026-10-16 10:50:59|Thôi mình đi ăn cơm đã
+ACC000042|2026-10-17 17:50:18|Rồi, mình nhớ rồi
+ACC000016|2026-10-17 17:50:19|Ok
+ACC000042|2026-10-17 17:50:28|Cuối tuần rảnh không?
+ACC000042|2026-10-17 17:50:31|Mình đang bận chút, lát nhắn lại nhé
+ACC000042|2026-10-17 17:50:44|Ừ đúng rồi
+ACC000016|2026-10-17 17:50:53|Mình biết rồi
+ACC000016|2026-10-22 21:50:32|Hôm nay bạn có đi học không?
+ACC000042|2026-10-22 21:50:52|Có, mình đang trên đường.
+ACC000016|2026-10-22 21:54:51|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000042|2026-10-22 21:56:12|Ok, giữ rồi.
+ACC000016|2026-10-22 21:56:24|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000042|2026-10-22 21:57:29|Nhanh lên, sắp vào học rồi.

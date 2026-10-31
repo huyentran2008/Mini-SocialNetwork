@@ -1,0 +1,14 @@
+id=ACC000072
+username=ngapm91
+password=4e676140363237306d
+full_name=Phạm Mai Nga
+birthday=04-06-2002
+gender=Female
+bio=Code là đam mê, bug là bạn thân.
+created_at=2026-10-08
+status=ACTIVE
+residence=Quảng Trị
+hometown=Quảng Trị
+school=Đại học Thương mại
+workplace=
+hobbies=Pha cà phê;Du lịch

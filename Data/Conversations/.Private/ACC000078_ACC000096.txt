@@ -1,0 +1,85 @@
+ACC000096|2026-09-25 17:23:29|Okela
+ACC000078|2026-09-25 17:26:34|Tối nói chuyện tiếp nhé
+ACC000096|2026-09-25 18:09:46|Thôi mình đi ăn cơm đã
+ACC000096|2026-09-25 18:10:45|Haha
+ACC000096|2026-09-26 19:40:20|Mình đang bận chút, lát nhắn lại nhé
+ACC000078|2026-09-26 19:41:49|Ừm, mình nghĩ vậy
+ACC000096|2026-09-26 19:42:14|Cố lên nhé
+ACC000096|2026-09-26 20:24:18|Có gì báo mình nhé
+ACC000078|2026-09-28 07:21:49|Công thức làm bánh flan bạn dùng thế nào?
+ACC000096|2026-09-28 07:23:38|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000078|2026-09-28 07:28:58|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000096|2026-09-28 07:31:21|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000078|2026-09-28 07:33:33|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000096|2026-09-28 07:36:03|Làm xong cho mình xin một miếng nhé.
+ACC000078|2026-09-29 19:40:46|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000096|2026-09-29 20:17:20|Bạn chuẩn bị tới đâu rồi?
+ACC000078|2026-09-29 20:19:41|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000096|2026-09-29 20:24:56|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000078|2026-09-29 20:28:30|Cảm ơn Ly, mình sẽ cố.
+ACC000096|2026-09-29 20:28:55|Xong nhớ nhắn mình kết quả nhé.
+ACC000078|2026-09-29 20:37:49|Sao git của mình báo conflict hoài vậy?
+ACC000096|2026-09-29 20:39:00|Bạn có pull trước khi push không?
+ACC000078|2026-09-29 20:41:59|Chắc là không.
+ACC000096|2026-09-29 20:42:54|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000078|2026-09-29 20:43:12|Làm xong rồi, cảm ơn bạn.
+ACC000096|2026-09-29 20:43:57|Từ nay nhớ pull trước nhé.
+ACC000096|2026-10-03 11:55:16|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000078|2026-10-03 11:56:38|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000096|2026-10-03 12:03:18|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000078|2026-10-03 12:04:14|Cảm ơn bạn đã hỏi thăm.
+ACC000096|2026-10-03 12:07:23|Có cần mình mang đồ ăn qua không?
+ACC000078|2026-10-03 12:10:18|Không cần đâu, mình ổn rồi.
+ACC000096|2026-10-06 11:43:14|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000078|2026-10-06 11:47:01|Haha, bé làm gì thế?
+ACC000096|2026-10-06 11:48:54|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000078|2026-10-06 12:02:46|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000096|2026-10-06 12:03:13|Đợi chút mình chụp.
+ACC000078|2026-10-06 12:04:44|Đúng là chủ nào mèo nấy.
+ACC000078|2026-10-08 08:14:02|Mình mới mua chiếc xe đạp.
+ACC000096|2026-10-08 08:14:34|Wow, xe đẹp không?
+ACC000078|2026-10-08 08:16:35|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000096|2026-10-08 08:17:18|Cuối tuần đạp xe quanh hồ nhé.
+ACC000078|2026-10-08 08:18:16|Hay đó, chốt luôn.
+ACC000096|2026-10-08 08:18:40|Nhớ mang nước.
+ACC000078|2026-10-09 18:35:35|Bạn cho mình mượn tài liệu được không?
+ACC000096|2026-10-09 18:36:14|Được, bạn lấy bản chụp hay bản mềm?
+ACC000078|2026-10-09 18:38:48|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000096|2026-10-09 18:42:18|Gửi rồi nha, kiểm tra thử.
+ACC000078|2026-10-09 18:44:42|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000096|2026-10-09 18:48:31|Không có gì.
+ACC000078|2026-10-14 11:37:07|Sinh nhật vui vẻ nhé Ly!
+ACC000096|2026-10-14 12:06:45|Cảm ơn Tuyền nha, nhớ cả sinh nhật mình luôn.
+ACC000078|2026-10-14 12:08:22|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000096|2026-10-14 12:12:17|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000078|2026-10-14 12:14:31|12 giờ nhé.
+ACC000096|2026-10-14 12:15:29|Ok, hẹn gặp.
+ACC000096|2026-10-14 16:12:37|Vậy hả?
+ACC000096|2026-10-14 16:12:49|Haha bạn vui tính thật
+ACC000096|2026-10-14 16:12:55|Rồi, mình nhớ rồi
+ACC000078|2026-10-14 16:13:09|Vậy hả?
+ACC000078|2026-10-14 16:13:17|Haha bạn vui tính thật
+ACC000096|2026-10-14 16:13:31|Mình biết rồi
+ACC000096|2026-10-14 16:13:39|Được luôn
+ACC000078|2026-10-16 06:51:35|Bạn ngủ chưa?
+ACC000096|2026-10-16 06:52:29|Chưa, đang làm bài tập.
+ACC000078|2026-10-16 06:53:29|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000096|2026-10-16 06:54:15|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000078|2026-10-16 06:55:08|Ngủ ngon nha.
+ACC000096|2026-10-16 06:55:55|Ngủ ngon.
+ACC000096|2026-10-23 07:07:34|Đang làm gì đó?
+ACC000096|2026-10-23 07:07:35|Chúc bạn một ngày tốt lành
+ACC000096|2026-10-23 07:07:38|Mai gặp nhé
+ACC000096|2026-10-23 07:07:48|Cuối tuần rảnh không?
+ACC000096|2026-10-23 07:07:55|Đang làm gì đó?
+ACC000096|2026-10-23 07:07:59|Đang làm gì đó?
+ACC000078|2026-10-23 07:08:02|Okela
+ACC000096|2026-10-23 07:08:15|Vừa về tới nhà
+ACC000096|2026-10-23 07:08:29|Mình cũng nghĩ vậy
+ACC000078|2026-10-23 07:08:38|Ừ đúng rồi
+ACC000096|2026-10-23 07:08:42|Ừ
+ACC000096|2026-10-23 07:08:55|Ngủ ngon
+ACC000078|2026-10-23 07:09:04|Rồi, mình nhớ rồi
+ACC000096|2026-10-23 07:09:11|Mệt quá hôm nay
+ACC000078|2026-10-23 07:09:20|Mình biết rồi
+ACC000096|2026-10-23 07:09:23|Ừ

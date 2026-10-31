@@ -1,0 +1,18 @@
+ACC000027|2026-10-19 22:08:06|Bạn ơi, bài tập xác suất nộp chưa?
+ACC000047|2026-10-19 22:13:55|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000027|2026-10-19 22:15:53|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000047|2026-10-19 22:16:50|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000027|2026-10-19 22:17:50|Có gì hỏi mình nhé.
+ACC000047|2026-10-19 22:20:14|Okela, cảm ơn Vinh nhiều.
+ACC000047|2026-10-23 18:11:00|Bạn xem giúp mình CV được không?
+ACC000027|2026-10-23 18:56:02|Gửi mình xem nhé.
+ACC000047|2026-10-23 18:59:18|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000027|2026-10-23 19:01:41|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000047|2026-10-23 19:07:28|Hợp lý, mình sửa luôn.
+ACC000027|2026-10-23 19:08:37|Sửa xong gửi mình xem lại nhé.
+ACC000047|2026-10-23 23:44:46|Tối nay bạn có chơi game không?
+ACC000027|2026-10-23 23:46:31|Có, mấy giờ?
+ACC000047|2026-10-23 23:47:25|5 giờ chiều, rủ thêm hai bạn nữa là đủ đội.
+ACC000027|2026-10-23 23:51:22|Ok, mình online sớm.
+ACC000047|2026-10-23 23:52:07|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000027|2026-10-23 23:55:05|Haha, thua thì đừng trách mình.

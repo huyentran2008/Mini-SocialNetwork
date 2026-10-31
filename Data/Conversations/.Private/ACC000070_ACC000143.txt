@@ -1,0 +1,24 @@
+ACC000070|2026-10-21 14:55:54|Hôm nay mình hơi buồn.
+ACC000143|2026-10-21 14:58:16|Có chuyện gì vậy?
+ACC000070|2026-10-21 14:58:26|Mình bị điểm thấp mà không biết lý do.
+ACC000143|2026-10-21 15:04:58|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000070|2026-10-21 15:08:43|Ừ, mình sẽ gặp thầy tuần này.
+ACC000143|2026-10-21 15:19:44|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000143|2026-10-21 16:03:36|Bạn cho mình mượn tài liệu được không?
+ACC000070|2026-10-21 16:05:55|Được, bạn lấy bản chụp hay bản mềm?
+ACC000143|2026-10-21 16:09:41|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000070|2026-10-21 16:14:29|Gửi rồi nha, kiểm tra thử.
+ACC000143|2026-10-21 16:24:43|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000070|2026-10-21 16:25:52|Không có gì.
+ACC000143|2026-10-23 19:33:29|Mình dọn trọ sang khu khác rồi.
+ACC000070|2026-10-23 19:35:50|Thật à? Có xa trường không?
+ACC000143|2026-10-23 19:39:20|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000070|2026-10-23 19:41:54|Tốt quá, hôm nào mình qua chơi.
+ACC000143|2026-10-23 19:44:10|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000070|2026-10-23 19:46:30|Ok, nhớ nấu cơm cho mình đó.
+ACC000143|2026-10-23 20:47:52|Bạn có rảnh để mình hỏi chút về môn cơ sở dữ liệu không?
+ACC000070|2026-10-23 20:48:23|Có, bạn hỏi đi.
+ACC000143|2026-10-23 20:51:39|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000070|2026-10-23 20:51:47|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000143|2026-10-23 20:53:24|Nghe hợp lý, cảm ơn bạn.
+ACC000070|2026-10-23 20:54:37|Cần gì cứ nhắn mình.

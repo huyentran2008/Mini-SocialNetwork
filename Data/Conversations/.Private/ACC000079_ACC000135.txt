@@ -1,0 +1,47 @@
+ACC000135|2026-10-14 20:43:48|Bạn cho mình mượn tài liệu được không?
+ACC000079|2026-10-14 20:44:09|Được, bạn lấy bản chụp hay bản mềm?
+ACC000135|2026-10-14 20:45:10|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000079|2026-10-14 21:17:37|Gửi rồi nha, kiểm tra thử.
+ACC000135|2026-10-14 21:20:16|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000079|2026-10-14 21:20:43|Không có gì.
+ACC000135|2026-10-15 20:58:32|Dạo này mình áp lực thi quá.
+ACC000079|2026-10-15 21:02:20|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000135|2026-10-15 21:04:01|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000079|2026-10-15 21:06:58|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000135|2026-10-15 21:09:44|Nghe có vẻ ổn, mình thử.
+ACC000079|2026-10-15 21:10:31|Cố lên, có gì cần cứ nhắn mình.
+ACC000135|2026-10-16 21:37:38|Cuối tuần này đi Đà Nẵng không?
+ACC000079|2026-10-16 21:41:03|Hay đó, đi mấy người?
+ACC000135|2026-10-16 21:41:27|Khoảng 10 người, tự đi xe máy.
+ACC000079|2026-10-16 21:44:18|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000135|2026-10-16 21:49:26|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000079|2026-10-16 21:49:37|Ok, vậy chốt luôn.
+ACC000079|2026-10-18 09:11:00|Để mình xem
+ACC000135|2026-10-18 09:11:51|Cuối tuần rảnh không?
+ACC000079|2026-10-18 09:16:45|Ngủ ngon
+ACC000135|2026-10-18 09:23:29|Rồi, mình nhớ rồi
+ACC000079|2026-10-18 09:24:17|Cảm ơn nhé
+ACC000079|2026-10-18 12:19:09|Bạn có rảnh để mình hỏi chút về môn cơ sở dữ liệu không?
+ACC000135|2026-10-18 12:19:43|Có, bạn hỏi đi.
+ACC000079|2026-10-18 12:21:06|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000135|2026-10-18 13:10:53|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000079|2026-10-18 13:12:49|Nghe hợp lý, cảm ơn bạn.
+ACC000135|2026-10-18 13:44:49|Cần gì cứ nhắn mình.
+ACC000135|2026-10-18 14:46:16|Dạo này mình áp lực thi quá.
+ACC000079|2026-10-18 14:48:31|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000135|2026-10-18 14:49:09|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000079|2026-10-18 14:52:58|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000135|2026-10-18 14:59:35|Nghe có vẻ ổn, mình thử.
+ACC000079|2026-10-18 15:03:27|Cố lên, có gì cần cứ nhắn mình.
+ACC000079|2026-10-21 13:08:46|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000135|2026-10-21 13:13:26|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000079|2026-10-21 13:14:59|Chụp vài tấm nhé.
+ACC000135|2026-10-21 13:18:13|Xong rồi, mình gửi bạn qua đây.
+ACC000079|2026-10-21 13:19:01|Đẹp quá, cảm ơn bạn nhiều.
+ACC000135|2026-10-21 13:33:37|Lần sau mình chụp thêm.
+ACC000135|2026-10-21 16:30:25|Bạn xem giúp mình CV được không?
+ACC000079|2026-10-21 16:31:33|Gửi mình xem nhé.
+ACC000135|2026-10-21 16:31:48|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000079|2026-10-21 16:38:19|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000135|2026-10-21 17:01:54|Hợp lý, mình sửa luôn.
+ACC000079|2026-10-21 17:02:17|Sửa xong gửi mình xem lại nhé.

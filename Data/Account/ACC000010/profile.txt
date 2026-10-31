@@ -1,0 +1,14 @@
+id=ACC000010
+username=duyennm68
+password=447579656e403030343672
+full_name=Ngô Mỹ Duyên
+birthday=03-05-2006
+gender=Female
+bio=Đọc sách mỗi tối trước khi ngủ.
+created_at=2026-10-03
+status=ACTIVE
+residence=Hải Phòng
+hometown=Đồng Nai
+school=
+workplace=Tự do (freelancer)
+hobbies=Học lập trình;Nấu ăn;Chơi guitar

@@ -1,0 +1,32 @@
+ACC000069|2026-10-21 10:00:33|Tối nay bạn có chơi game không?
+ACC000090|2026-10-21 10:01:07|Có, mấy giờ?
+ACC000069|2026-10-21 10:01:38|8 giờ tối, rủ thêm hai bạn nữa là đủ đội.
+ACC000090|2026-10-21 10:06:53|Ok, mình online sớm.
+ACC000069|2026-10-21 10:07:23|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000090|2026-10-21 10:14:19|Haha, thua thì đừng trách mình.
+ACC000090|2026-10-21 18:52:23|Mình dọn trọ sang khu khác rồi.
+ACC000069|2026-10-21 18:52:57|Thật à? Có xa trường không?
+ACC000090|2026-10-21 18:55:11|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000069|2026-10-21 18:56:17|Tốt quá, hôm nào mình qua chơi.
+ACC000090|2026-10-21 18:57:58|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000069|2026-10-21 18:58:45|Ok, nhớ nấu cơm cho mình đó.
+ACC000090|2026-10-21 20:00:57|Vậy hả?
+ACC000090|2026-10-21 20:01:09|Có gì báo mình nhé
+ACC000090|2026-10-21 20:01:14|Để mình xem
+ACC000090|2026-10-21 20:01:20|Thôi mình đi ăn cơm đã
+ACC000090|2026-10-21 20:01:33|Có gì báo mình nhé
+ACC000090|2026-10-21 20:01:45|Thôi mình đi ăn cơm đã
+ACC000090|2026-10-21 20:01:56|Ừ đúng rồi
+ACC000090|2026-10-21 20:02:10|Ừm, mình nghĩ vậy
+ACC000090|2026-10-21 20:02:15|Được luôn
+ACC000090|2026-10-21 20:02:26|Chúc bạn một ngày tốt lành
+ACC000090|2026-10-21 20:02:33|Thật à?
+ACC000069|2026-10-21 20:02:46|Mình biết rồi
+ACC000090|2026-10-21 20:03:00|Cảm ơn nhé
+ACC000069|2026-10-21 20:03:11|Haha
+ACC000090|2026-10-21 22:40:04|Công thức làm bánh flan bạn dùng thế nào?
+ACC000069|2026-10-21 22:41:03|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000090|2026-10-21 22:41:51|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000069|2026-10-21 22:42:23|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000090|2026-10-21 22:43:51|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000069|2026-10-21 22:45:44|Làm xong cho mình xin một miếng nhé.

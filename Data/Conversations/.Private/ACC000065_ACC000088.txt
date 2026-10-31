@@ -1,0 +1,12 @@
+ACC000065|2026-10-17 12:04:36|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000088|2026-10-17 12:06:37|Mình mới xong nửa tài liệu, hơi lo.
+ACC000065|2026-10-17 12:37:06|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000088|2026-10-17 12:43:00|Hay đó, 8 giờ nhé.
+ACC000065|2026-10-17 12:44:50|Ok, mình chuẩn bị sẵn đề cương.
+ACC000088|2026-10-17 12:46:48|Cảm ơn Trường, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000088|2026-10-17 12:57:06|Bạn ơi, bài tập cơ sở dữ liệu nộp chưa?
+ACC000065|2026-10-17 13:07:50|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000088|2026-10-17 13:10:26|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000065|2026-10-17 13:11:17|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000088|2026-10-17 13:59:25|Có gì hỏi mình nhé.
+ACC000065|2026-10-17 14:01:54|Okela, cảm ơn Sang nhiều.

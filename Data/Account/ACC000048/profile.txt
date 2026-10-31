@@ -1,0 +1,14 @@
+id=ACC000048
+username=hanck38
+password=48616e403839313473
+full_name=Châu Khả Hân
+birthday=03-04-2001
+gender=Female
+bio=Thích xem phim và viết review.
+created_at=2026-10-11
+status=ACTIVE
+residence=Đồng Nai
+hometown=Huế
+school=
+workplace=Viettel
+hobbies=Vẽ tranh;Pha cà phê;Cầu lông

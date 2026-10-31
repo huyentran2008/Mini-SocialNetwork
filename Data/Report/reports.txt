@@ -1,0 +1,6 @@
+POST|ACC000037|POST000126|2026-10-19 20:12:06|PENDING|Bài đăng quảng cáo spam, nội dung lừa đảo.
+POST|ACC000057|POST000094|2026-10-21 11:16:23|PENDING|Bài viết có lời lẽ xúc phạm người khác.
+USER|ACC000143|ACC000060|2026-10-21 14:16:28|PENDING|Hay dùng lời lẽ xúc phạm trong bình luận.
+USER|ACC000065|ACC000128|2026-10-22 20:13:45|PENDING|Nghi ngờ tài khoản ảo.
+POST|ACC000093|POST000090|2026-10-22 20:28:57|PENDING|Nội dung có dấu hiệu lừa đảo, yêu cầu gửi thông tin cá nhân.
+POST|ACC000070|POST000090|2026-10-23 19:27:29|DONE|Spam quảng cáo, đăng lặp lại nhiều lần.

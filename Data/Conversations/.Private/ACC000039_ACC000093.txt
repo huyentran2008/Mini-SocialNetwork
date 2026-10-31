@@ -1,0 +1,6 @@
+ACC000093|2026-10-24 12:12:59|Sao git của mình báo conflict hoài vậy?
+ACC000039|2026-10-24 12:16:48|Bạn có pull trước khi push không?
+ACC000093|2026-10-24 12:18:08|Chắc là không.
+ACC000039|2026-10-24 12:18:24|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000093|2026-10-24 12:18:47|Làm xong rồi, cảm ơn bạn.
+ACC000039|2026-10-24 12:22:24|Từ nay nhớ pull trước nhé.

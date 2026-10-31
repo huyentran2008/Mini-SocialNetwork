@@ -1,0 +1,12 @@
+ACC000116|2026-10-19 17:26:53|Sinh nhật vui vẻ nhé Long!
+ACC000009|2026-10-19 17:27:26|Cảm ơn Vinh nha, nhớ cả sinh nhật mình luôn.
+ACC000116|2026-10-19 17:29:02|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000009|2026-10-19 17:31:11|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000116|2026-10-19 17:31:49|5 giờ chiều nhé.
+ACC000009|2026-10-19 18:15:13|Ok, hẹn gặp.
+ACC000116|2026-10-19 19:47:23|Bạn có rảnh để mình hỏi chút về môn xác suất không?
+ACC000009|2026-10-19 19:48:20|Có, bạn hỏi đi.
+ACC000116|2026-10-19 19:49:01|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000009|2026-10-19 19:55:33|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000116|2026-10-19 19:56:56|Nghe hợp lý, cảm ơn bạn.
+ACC000009|2026-10-19 19:58:28|Cần gì cứ nhắn mình.

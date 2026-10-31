@@ -1,0 +1,20 @@
+ACC000013|2026-10-19 11:25:31|Bạn biết laptop nào học lập trình ổn không?
+ACC000038|2026-10-19 11:28:03|Tầm giá bao nhiêu?
+ACC000013|2026-10-19 11:30:17|Khoảng 15 đến 20 triệu.
+ACC000038|2026-10-19 11:32:19|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000013|2026-10-19 11:33:22|Cảm ơn nhiều, mình đang rối quá.
+ACC000038|2026-10-19 11:35:56|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000038|2026-10-20 18:15:13|Ok
+ACC000038|2026-10-20 18:15:16|Mai gặp nhé
+ACC000013|2026-10-20 18:15:21|Mình biết rồi
+ACC000038|2026-10-20 18:15:30|Tối nói chuyện tiếp nhé
+ACC000038|2026-10-20 18:15:41|Đang làm gì đó?
+ACC000013|2026-10-20 18:15:49|Vừa về tới nhà
+ACC000038|2026-10-20 18:15:56|Mình cũng nghĩ vậy
+ACC000038|2026-10-20 18:16:06|Okela
+ACC000013|2026-10-21 20:30:20|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000038|2026-10-21 20:31:00|Haha, bé làm gì thế?
+ACC000013|2026-10-21 20:32:44|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000038|2026-10-21 20:39:26|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000013|2026-10-21 20:40:31|Đợi chút mình chụp.
+ACC000038|2026-10-21 20:40:50|Đúng là chủ nào mèo nấy.

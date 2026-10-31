@@ -1,0 +1,14 @@
+id=ACC000030
+username=tamkt56
+password=54616d40343639386d
+full_name=Kiều Thanh Tâm
+birthday=08-06-2001
+gender=Female
+bio=Thích vẽ và thiết kế đồ họa.
+created_at=2026-10-01
+status=ACTIVE
+residence=Hải Phòng
+hometown=Thanh Hóa
+school=Đại học Kinh tế TP.HCM
+workplace=Grab Việt Nam
+hobbies=Nấu ăn;Đá bóng;Cầu lông

@@ -1,0 +1,4 @@
+id=GRP000020
+name=Cà phê sáng thứ hai
+owner=ACC000103
+created_at=2026-09-27 17:30:19

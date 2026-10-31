@@ -1,0 +1,15 @@
+ACC000116|2026-10-19 09:31:45|Sinh nhật vui vẻ nhé My!
+ACC000103|2026-10-19 09:33:36|Cảm ơn Vinh nha, nhớ cả sinh nhật mình luôn.
+ACC000116|2026-10-19 09:34:17|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000103|2026-10-19 09:35:08|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000116|2026-10-19 09:39:29|5 giờ chiều nhé.
+ACC000103|2026-10-19 09:40:23|Ok, hẹn gặp.
+ACC000116|2026-10-19 14:37:19|Bạn xem giúp mình CV được không?
+ACC000103|2026-10-19 14:37:54|Gửi mình xem nhé.
+ACC000116|2026-10-19 14:38:20|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000103|2026-10-19 14:40:38|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000116|2026-10-19 14:41:47|Hợp lý, mình sửa luôn.
+ACC000103|2026-10-19 14:42:06|Sửa xong gửi mình xem lại nhé.
+ACC000116|2026-10-21 20:21:41|Ừ
+ACC000103|2026-10-21 20:23:42|Mình cũng nghĩ vậy
+ACC000103|2026-10-21 20:26:01|Đang làm gì đó?

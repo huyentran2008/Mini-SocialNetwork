@@ -1,0 +1,20 @@
+ACC000122|2026-10-23 20:28:16|Bạn ơi, bài tập tiếng Anh nộp chưa?
+ACC000121|2026-10-23 20:31:26|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000122|2026-10-23 20:33:15|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000121|2026-10-23 20:35:13|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000122|2026-10-23 20:36:06|Có gì hỏi mình nhé.
+ACC000121|2026-10-23 20:39:49|Okela, cảm ơn Huy nhiều.
+ACC000122|2026-10-24 13:01:23|Cuối tuần này đi xem phim không?
+ACC000121|2026-10-24 13:43:39|Phim gì vậy?
+ACC000122|2026-10-24 13:46:03|Phim mới chiếu, nghe nói hay lắm.
+ACC000121|2026-10-24 13:48:30|Mình đang rảnh thứ ba, đi buổi chiều nhé.
+ACC000122|2026-10-24 13:49:08|Ok, mình đặt vé luôn.
+ACC000121|2026-10-24 13:50:02|Nhớ chọn ghế giữa nha.
+ACC000122|2026-10-24 13:52:00|Yên tâm.
+ACC000122|2026-10-24 16:49:22|Sáng mai bạn có đi tập chạy không?
+ACC000121|2026-10-24 16:50:07|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000122|2026-10-24 16:57:02|Mình sợ dậy không nổi.
+ACC000121|2026-10-24 17:00:06|Để mình gọi bạn dậy.
+ACC000122|2026-10-24 17:00:35|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000121|2026-10-24 17:03:21|Ok, mai gặp.
+ACC000121|2026-10-24 18:55:56|Hôm nay bạn có đi học không?

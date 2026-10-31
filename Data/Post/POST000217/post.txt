@@ -1,0 +1,8 @@
+id=POST000217
+author=ACC000087
+visibility=PUBLIC
+created_at=2026-10-20 18:00:34
+edited_at=2026-10-21 03:51:34
+status=VISIBLE
+title=Lịch trình 3 ngày 2 đêm ở Đà Lạt
+content=Ngày 1: nhận phòng, đi dạo và ăn tối.\nNgày 2: đi các điểm tham quan chính, chiều ngắm hoàng hôn.\nNgày 3: ăn sáng, mua quà rồi về.\nAi cần chi tiết mình gửi sau nhé. Có gì góp ý cứ bình luận nhé.

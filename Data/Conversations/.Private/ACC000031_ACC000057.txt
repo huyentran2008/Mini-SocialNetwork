@@ -1,0 +1,6 @@
+ACC000031|2026-10-20 10:32:35|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000057|2026-10-20 10:34:28|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000031|2026-10-20 10:37:32|Giá thế nào?
+ACC000057|2026-10-20 10:38:02|Khoảng 150 nghìn một ly.
+ACC000031|2026-10-20 10:42:02|Hợp lý đó, mai mình thử.
+ACC000057|2026-10-20 10:43:42|Mình cũng hay ngồi ở đó, gặp nhau nhé.

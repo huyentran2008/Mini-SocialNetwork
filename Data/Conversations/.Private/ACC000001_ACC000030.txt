@@ -1,0 +1,22 @@
+ACC000001|2026-10-21 14:03:40|Chào bạn, lâu rồi không gặp
+ACC000030|2026-10-21 14:06:04|Chào bạn! Dạo này thế nào?
+ACC000001|2026-10-21 14:09:21|Mình vẫn bình thường, đang ôn thi
+ACC000030|2026-10-21 14:16:11|Cố lên nhé, thi xong mình đi ăn mừng
+ACC000001|2026-10-21 14:17:29|Hẹn nhé!
+ACC000030|2026-10-23 13:57:01|Bạn cho mình mượn tài liệu được không?
+ACC000001|2026-10-23 14:02:43|Được, bạn lấy bản chụp hay bản mềm?
+ACC000030|2026-10-23 14:04:05|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000001|2026-10-23 14:27:07|Gửi rồi nha, kiểm tra thử.
+ACC000030|2026-10-23 14:28:24|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000001|2026-10-23 14:32:56|Không có gì.
+ACC000001|2026-10-23 22:26:18|Sao git của mình báo conflict hoài vậy?
+ACC000030|2026-10-23 22:29:14|Bạn có pull trước khi push không?
+ACC000001|2026-10-23 22:29:57|Chắc là không.
+ACC000030|2026-10-23 22:30:42|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000001|2026-10-23 22:33:06|Làm xong rồi, cảm ơn bạn.
+ACC000030|2026-10-23 22:39:53|Từ nay nhớ pull trước nhé.
+ACC000030|2026-10-24 12:27:22|Mình cũng nghĩ vậy
+ACC000030|2026-10-24 12:32:39|Ok
+ACC000001|2026-10-24 12:35:03|Nghe được đó
+ACC000030|2026-10-24 12:38:16|Cảm ơn nhé
+ACC000030|2026-10-24 12:38:48|Vừa về tới nhà

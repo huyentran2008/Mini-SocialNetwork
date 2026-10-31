@@ -1,0 +1,35 @@
+ACC000015|2026-10-22 15:02:18|Chỉ mình đường tới thư viện thành phố với.
+ACC000131|2026-10-22 15:02:40|Bạn đang ở đâu?
+ACC000015|2026-10-22 15:40:35|Mình đang ở gần cổng chợ.
+ACC000131|2026-10-22 15:42:48|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000015|2026-10-22 15:43:02|Mình thấy rồi, cảm ơn bạn nha.
+ACC000131|2026-10-22 15:44:15|Ok, đi cẩn thận.
+ACC000131|2026-10-22 16:52:29|Mình dọn trọ sang khu khác rồi.
+ACC000015|2026-10-22 16:52:37|Thật à? Có xa trường không?
+ACC000131|2026-10-22 17:36:19|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000015|2026-10-22 17:36:49|Tốt quá, hôm nào mình qua chơi.
+ACC000131|2026-10-22 17:41:06|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000015|2026-10-22 17:41:27|Ok, nhớ nấu cơm cho mình đó.
+ACC000015|2026-10-22 17:52:08|Có gì báo mình nhé
+ACC000015|2026-10-22 17:52:24|Đang làm gì đó?
+ACC000131|2026-10-22 17:52:45|Ừ
+ACC000015|2026-10-22 17:58:29|Ok
+ACC000015|2026-10-22 22:29:43|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000131|2026-10-22 22:33:09|Chuyện nhỏ thôi mà.
+ACC000015|2026-10-22 22:35:34|Không có bạn chắc mình làm không kịp.
+ACC000131|2026-10-22 22:40:54|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000015|2026-10-22 22:47:37|Hôm nào mình mời bạn bún chả nhé.
+ACC000131|2026-10-22 22:48:25|Vậy thì mình không từ chối đâu.
+ACC000015|2026-10-23 18:35:53|Tối nay đi ăn phở không?
+ACC000131|2026-10-23 18:37:33|Đi chứ! Quán nào?
+ACC000015|2026-10-23 18:39:18|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000131|2026-10-23 18:40:12|Mấy giờ?
+ACC000015|2026-10-23 18:41:12|8 giờ nhé.
+ACC000131|2026-10-23 18:55:03|Ok, mình rủ thêm một bạn nữa được không?
+ACC000015|2026-10-23 18:55:47|Được chứ, càng đông càng vui.
+ACC000131|2026-10-23 19:21:14|Bạn cho mình mượn tài liệu được không?
+ACC000015|2026-10-23 19:21:28|Được, bạn lấy bản chụp hay bản mềm?
+ACC000131|2026-10-23 19:22:21|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000015|2026-10-23 19:22:58|Gửi rồi nha, kiểm tra thử.
+ACC000131|2026-10-23 19:25:26|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000015|2026-10-23 20:10:18|Không có gì.

@@ -1,0 +1,14 @@
+id=ACC000025
+username=quantm45
+password=5175616e403537383168
+full_name=Tạ Minh Quân
+birthday=27-06-1999
+gender=Male
+bio=Học tiếng Anh mỗi ngày.
+created_at=2026-10-10
+status=ACTIVE
+residence=Lâm Đồng
+hometown=Cần Thơ
+school=Đại học Kinh tế TP.HCM
+workplace=
+hobbies=Đạp xe

@@ -1,0 +1,18 @@
+ACC000082|2026-10-22 11:44:16|Sáng mai bạn có đi tập chạy không?
+ACC000005|2026-10-22 11:51:03|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000082|2026-10-22 11:54:04|Mình sợ dậy không nổi.
+ACC000005|2026-10-22 11:54:51|Để mình gọi bạn dậy.
+ACC000082|2026-10-22 11:58:41|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000005|2026-10-22 12:01:47|Ok, mai gặp.
+ACC000082|2026-10-22 15:28:23|Điểm thi tiếng Anh có chưa bạn?
+ACC000005|2026-10-22 15:30:13|Có rồi, mình được 8 điểm.
+ACC000082|2026-10-22 15:30:37|Giỏi quá, mình mới 6 điểm thôi.
+ACC000005|2026-10-22 15:30:50|Cũng ổn mà, qua môn là tốt rồi.
+ACC000082|2026-10-22 15:37:12|Cảm ơn bạn đã động viên.
+ACC000005|2026-10-22 15:39:41|Lần sau mình học nhóm tiếp nhé.
+ACC000005|2026-10-23 18:56:24|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000082|2026-10-23 18:57:43|Mình mới xong nửa tài liệu, hơi lo.
+ACC000005|2026-10-23 18:59:31|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000082|2026-10-23 19:01:51|Hay đó, 8 giờ nhé.
+ACC000005|2026-10-23 19:02:29|Ok, mình chuẩn bị sẵn đề cương.
+ACC000082|2026-10-23 19:04:07|Cảm ơn Huy, có bạn cùng ôn đỡ áp lực hẳn.

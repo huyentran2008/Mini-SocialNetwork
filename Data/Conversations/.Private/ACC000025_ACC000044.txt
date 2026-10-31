@@ -1,0 +1,10 @@
+ACC000025|2026-10-17 19:12:24|Nay trời mưa quá, bạn có đi học không?
+ACC000044|2026-10-17 19:15:04|Mình đi bằng xe buýt, chắc hơi trễ
+ACC000025|2026-10-17 19:23:05|Vậy mình giữ chỗ cho bạn nhé
+ACC000044|2026-10-17 19:27:38|Cảm ơn bạn, bạn tốt quá
+ACC000025|2026-10-17 19:34:24|Có gì đâu, nhớ mang áo mưa
+ACC000044|2026-10-20 07:46:29|Bạn biết quán bún bò nào ngon không?
+ACC000025|2026-10-20 07:49:53|Có quán ở đường Nguyễn Thị Minh Khai, ngon lắm
+ACC000044|2026-10-20 07:52:17|Gửi mình địa chỉ với
+ACC000025|2026-10-20 07:55:46|Mình gửi liền, nhớ đi sớm kẻo hết
+ACC000044|2026-10-20 07:58:05|Cảm ơn bạn, trưa nay đi thử

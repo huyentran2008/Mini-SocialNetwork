@@ -1,0 +1,20 @@
+ACC000033|2026-10-13 09:54:08|Bạn chụp giúp mình tấm ảnh này được không?
+ACC000037|2026-10-13 09:55:00|Được, đứng chỗ đó đi, ánh sáng đẹp lắm.
+ACC000033|2026-10-13 09:56:13|Chụp vài tấm nhé.
+ACC000037|2026-10-13 09:57:25|Xong rồi, mình gửi bạn qua đây.
+ACC000033|2026-10-13 10:15:24|Đẹp quá, cảm ơn bạn nhiều.
+ACC000037|2026-10-13 10:18:25|Lần sau mình chụp thêm.
+ACC000033|2026-10-13 21:53:43|Hôm nay bạn có đi học không?
+ACC000037|2026-10-13 21:54:37|Có, mình đang trên đường.
+ACC000033|2026-10-13 21:56:36|Giữ chỗ cho mình ở dãy giữa nhé.
+ACC000037|2026-10-13 21:57:57|Ok, giữ rồi.
+ACC000033|2026-10-13 21:58:34|Cảm ơn bạn, mình tới sau 10 phút.
+ACC000037|2026-10-13 21:59:09|Nhanh lên, sắp vào học rồi.
+ACC000033|2026-10-13 23:49:57|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000037|2026-10-13 23:52:49|Chuyện nhỏ thôi mà.
+ACC000033|2026-10-13 23:54:35|Không có bạn chắc mình làm không kịp.
+ACC000037|2026-10-13 23:56:33|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000033|2026-10-13 23:57:14|Hôm nào mình mời bạn cơm gà nhé.
+ACC000037|2026-10-13 23:59:05|Vậy thì mình không từ chối đâu.
+ACC000037|2026-10-14 09:25:21|Mình cũng nghĩ vậy
+ACC000033|2026-10-14 09:26:54|Ừ đúng rồi

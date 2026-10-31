@@ -1,0 +1,8 @@
+id=POST000166
+author=ACC000078
+visibility=PUBLIC
+created_at=2026-10-14 20:20:53
+edited_at=
+status=VISIBLE
+title=Kỷ niệm ngày đầu đi học
+content=Hôm nay mình nhớ lại ngày đầu tiên bước vào lớp. Ai cũng bỡ ngỡ nhưng giờ đã thành bạn thân.

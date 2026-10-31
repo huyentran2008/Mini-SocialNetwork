@@ -1,0 +1,18 @@
+ACC000023|2026-10-10 13:45:52|Bạn có rảnh để mình hỏi chút về môn giải tích không?
+ACC000083|2026-10-10 14:34:23|Có, bạn hỏi đi.
+ACC000023|2026-10-10 14:36:46|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000083|2026-10-10 14:37:32|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000023|2026-10-10 14:38:08|Nghe hợp lý, cảm ơn bạn.
+ACC000083|2026-10-10 14:38:38|Cần gì cứ nhắn mình.
+ACC000023|2026-10-12 23:19:12|Năm nay bạn về quê ăn Tết không?
+ACC000083|2026-10-12 23:21:13|Có, mình đặt vé tàu rồi.
+ACC000023|2026-10-12 23:22:40|Mình còn chưa mua được vé.
+ACC000083|2026-10-13 00:02:51|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000023|2026-10-13 00:04:20|Ok, mình thử xem.
+ACC000083|2026-10-13 00:06:16|Chúc bạn sớm có vé nhé.
+ACC000023|2026-10-18 11:37:02|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000083|2026-10-18 11:37:34|Mình mới xong nửa tài liệu, hơi lo.
+ACC000023|2026-10-18 11:40:46|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000083|2026-10-18 11:41:57|Hay đó, 8 giờ nhé.
+ACC000023|2026-10-18 11:44:15|Ok, mình chuẩn bị sẵn đề cương.
+ACC000083|2026-10-18 11:46:27|Cảm ơn Đăng, có bạn cùng ôn đỡ áp lực hẳn.

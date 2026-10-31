@@ -1,0 +1,8 @@
+id=POST000135
+author=ACC000108
+visibility=FRIEND
+created_at=2026-10-10 11:26:47
+edited_at=
+status=VISIBLE
+title=Mình bắt đầu học Python cho phân tích dữ liệu
+content=Sau một học kỳ với C++ mình chuyển sang thử Python. Viết ngắn gọn hơn nhiều nhưng vẫn nhớ cảm giác kiểm soát bộ nhớ của C++. Bạn nào đang học pandas cho mình xin tài liệu với.

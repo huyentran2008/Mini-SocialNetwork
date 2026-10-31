@@ -1,0 +1,14 @@
+id=ACC000054
+username=haupq91
+password=48617540333430386e
+full_name=Phan Quang Hậu
+birthday=08-09-1999
+gender=Male
+bio=Thích những câu chuyện nhỏ.
+created_at=2026-10-08
+status=ACTIVE
+residence=Đồng Tháp
+hometown=Đồng Tháp
+school=Học viện Phụ nữ Việt Nam
+workplace=Sacombank
+hobbies=Đọc sách kỹ năng;Học tiếng Hàn

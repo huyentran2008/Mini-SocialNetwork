@@ -1,0 +1,12 @@
+ACC000138|2026-10-13 21:26:22|Ừ
+ACC000138|2026-10-13 22:03:39|Để mình xem
+ACC000138|2026-10-13 22:08:39|Tối nói chuyện tiếp nhé
+ACC000088|2026-10-14 21:06:11|Cuối tuần này đi xem phim không?
+ACC000138|2026-10-14 21:06:19|Phim gì vậy?
+ACC000088|2026-10-14 21:07:46|Phim mới chiếu, nghe nói hay lắm.
+ACC000138|2026-10-14 21:08:03|Mình đang rảnh thứ sáu, đi buổi chiều nhé.
+ACC000088|2026-10-14 21:08:58|Ok, mình đặt vé luôn.
+ACC000138|2026-10-14 21:14:16|Nhớ chọn ghế giữa nha.
+ACC000088|2026-10-14 21:14:49|Yên tâm.
+ACC000088|2026-10-16 07:39:17|Đang làm gì đó?
+ACC000138|2026-10-16 07:41:32|Haha bạn vui tính thật

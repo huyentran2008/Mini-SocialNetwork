@@ -1,0 +1,21 @@
+ACC000105|2026-10-11 08:52:49|Mai gặp nhé
+ACC000061|2026-10-11 08:55:27|Để mình xem
+ACC000105|2026-10-11 09:43:03|Mình cũng nghĩ vậy
+ACC000061|2026-10-14 13:03:45|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000105|2026-10-14 13:04:53|Mình mới xong nửa tài liệu, hơi lo.
+ACC000061|2026-10-14 13:05:30|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000105|2026-10-14 13:07:06|Hay đó, 8 giờ nhé.
+ACC000061|2026-10-14 13:07:56|Ok, mình chuẩn bị sẵn đề cương.
+ACC000105|2026-10-14 13:08:07|Cảm ơn Trân, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000061|2026-10-17 19:07:29|Chỉ mình đường tới thư viện thành phố với.
+ACC000105|2026-10-17 19:07:55|Bạn đang ở đâu?
+ACC000061|2026-10-17 19:11:34|Mình đang ở gần cổng chợ.
+ACC000105|2026-10-17 20:01:30|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000061|2026-10-17 20:02:00|Mình thấy rồi, cảm ơn bạn nha.
+ACC000105|2026-10-17 20:05:13|Ok, đi cẩn thận.
+ACC000105|2026-10-19 15:21:25|Hôm nay mình hơi buồn.
+ACC000061|2026-10-19 15:23:30|Có chuyện gì vậy?
+ACC000105|2026-10-19 15:28:27|Mình bị điểm thấp mà không biết lý do.
+ACC000061|2026-10-19 15:34:42|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000105|2026-10-19 15:39:07|Ừ, mình sẽ gặp thầy tuần này.
+ACC000061|2026-10-19 15:42:15|Đừng buồn nữa, rồi sẽ ổn thôi.

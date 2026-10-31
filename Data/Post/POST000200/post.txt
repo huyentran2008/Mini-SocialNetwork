@@ -1,0 +1,8 @@
+id=POST000200
+author=ACC000040
+visibility=PUBLIC
+created_at=2026-10-18 21:02:51
+edited_at=2026-10-19 23:15:51
+status=VISIBLE
+title=Chiều nay đá sân 7 người
+content=Vừa đá xong trận sân 7, hòa 4-4. Chân còn run mà vẫn vui. Tuần sau đá lại, ai muốn tham gia nhắn mình nhé! Ai có kinh nghiệm thì chia sẻ giúp mình nhé!

@@ -1,0 +1,14 @@
+id=ACC000130
+username=nhathh99
+password=4e68617440303139336b
+full_name=Hồ Hải Nhật
+birthday=12-01-2001
+gender=Other
+bio=Sống chậm, nghĩ nhẹ.
+created_at=2026-08-17
+status=ACTIVE
+residence=Ninh Bình
+hometown=Hải Phòng
+school=Đại học Y Hà Nội
+workplace=Bệnh viện Chợ Rẫy
+hobbies=

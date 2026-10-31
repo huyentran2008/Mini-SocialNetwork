@@ -1,0 +1,14 @@
+id=ACC000034
+username=myph28
+password=4d79403834373465
+full_name=Phạm Hà My
+birthday=11-11-2006
+gender=Female
+bio=Đang tập gym và ăn sạch.
+created_at=2026-10-10
+status=ACTIVE
+residence=Huế
+hometown=Thanh Hóa
+school=
+workplace=Vietcombank
+hobbies=Cầu lông

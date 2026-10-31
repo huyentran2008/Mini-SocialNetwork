@@ -1,0 +1,6 @@
+ACC000028|2026-10-23 18:47:48|Chào bạn, lâu rồi không nói chuyện.
+ACC000003|2026-10-23 18:50:31|Chào bạn, dạo này bạn thế nào?
+ACC000028|2026-10-23 18:52:56|Mình ổn, bận học và làm thêm.
+ACC000003|2026-10-23 18:54:27|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000028|2026-10-23 18:55:13|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000003|2026-10-23 18:57:44|Được, tới lúc đó nhắn mình nhé.

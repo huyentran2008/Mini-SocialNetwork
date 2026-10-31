@@ -1,0 +1,12 @@
+ACC000079|2026-10-20 19:15:06|Sáng mai bạn có đi tập chạy không?
+ACC000049|2026-10-20 19:49:36|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000079|2026-10-20 19:53:19|Mình sợ dậy không nổi.
+ACC000049|2026-10-20 19:56:15|Để mình gọi bạn dậy.
+ACC000079|2026-10-20 19:58:58|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000049|2026-10-20 20:31:39|Ok, mai gặp.
+ACC000049|2026-10-22 19:47:31|Chào bạn, lâu rồi không nói chuyện.
+ACC000079|2026-10-22 19:52:38|Chào bạn, dạo này bạn thế nào?
+ACC000049|2026-10-22 19:55:23|Mình ổn, bận học và làm thêm.
+ACC000079|2026-10-22 19:55:50|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000049|2026-10-22 19:57:06|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000079|2026-10-22 19:59:54|Được, tới lúc đó nhắn mình nhé.

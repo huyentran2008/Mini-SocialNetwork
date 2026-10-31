@@ -1,0 +1,14 @@
+id=ACC000085
+username=mylt31
+password=4d79403432373866
+full_name=Lê Thị Mỹ
+birthday=14-02-1998
+gender=Female
+bio=Ngủ sớm dậy sớm, ít nhất là cố gắng.
+created_at=2026-09-30
+status=ACTIVE
+residence=Lạng Sơn
+hometown=Lạng Sơn
+school=
+workplace=Cửa hàng gia đình
+hobbies=Sưu tầm sách

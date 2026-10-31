@@ -1,0 +1,14 @@
+id=ACC000022
+username=thaocp34
+password=5468616f403033313764
+full_name=Cao Phương Thảo
+birthday=23-04-2005
+gender=Female
+bio=Fan bóng đá chính hiệu.
+created_at=2026-10-02
+status=ACTIVE
+residence=Khánh Hòa
+hometown=Hải Phòng
+school=Đại học Khoa học Tự nhiên - ĐHQG TP.HCM
+workplace=Techcombank
+hobbies=Vẽ tranh;Học lập trình;Du lịch

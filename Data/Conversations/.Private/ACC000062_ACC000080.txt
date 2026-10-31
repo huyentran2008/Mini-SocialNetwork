@@ -1,0 +1,12 @@
+ACC000062|2026-10-15 16:32:31|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000080|2026-10-15 16:34:53|Chuyện nhỏ thôi mà.
+ACC000062|2026-10-15 16:36:25|Không có bạn chắc mình làm không kịp.
+ACC000080|2026-10-15 16:39:57|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000062|2026-10-15 16:41:20|Hôm nào mình mời bạn bún bò nhé.
+ACC000080|2026-10-15 16:41:57|Vậy thì mình không từ chối đâu.
+ACC000080|2026-10-16 21:11:38|Bạn có rảnh để mình hỏi chút về môn cơ sở dữ liệu không?
+ACC000062|2026-10-16 21:13:09|Có, bạn hỏi đi.
+ACC000080|2026-10-16 21:13:56|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000062|2026-10-16 21:15:07|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000080|2026-10-16 21:17:21|Nghe hợp lý, cảm ơn bạn.
+ACC000062|2026-10-16 21:19:35|Cần gì cứ nhắn mình.

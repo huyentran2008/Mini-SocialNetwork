@@ -1,0 +1,14 @@
+id=ACC000060
+username=trinhtt31
+password=5472696e6840393634336e
+full_name=Trịnh Thùy Trinh
+birthday=11-11-2001
+gender=Female
+bio=Rank không quan trọng, vui là chính.
+created_at=2026-08-18
+status=ACTIVE
+residence=Vĩnh Long
+hometown=TP. Hồ Chí Minh
+school=Đại học Khoa học Tự nhiên - ĐHQG Hà Nội
+workplace=Quán cà phê của gia đình
+hobbies=Xem anime;Cosplay

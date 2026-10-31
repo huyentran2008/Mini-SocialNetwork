@@ -1,0 +1,14 @@
+id=ACC000077
+username=lienpt62
+password=4c69656e403834303676
+full_name=Phan Thúy Liên
+birthday=05-04-2004
+gender=Female
+bio=Ăn ngon, ngủ khỏe, học hành tiến bộ.
+created_at=2026-08-23
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=Cao Bằng
+school=Đại học Kinh tế - Đại học Huế
+workplace=Phúc Long
+hobbies=Bơi lội;Bóng bàn

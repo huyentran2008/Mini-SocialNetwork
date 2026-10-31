@@ -1,0 +1,8 @@
+id=POST000100
+author=ACC000078
+visibility=PUBLIC
+created_at=2026-10-05 21:25:31
+edited_at=
+status=VISIBLE
+title=Lần đầu làm bánh flan
+content=Thành phẩm không đẹp lắm, mặt bánh có vài lỗ nhỏ nhưng vị rất ổn. Lần sau mình sẽ hấp lửa nhỏ hơn.

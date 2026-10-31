@@ -1,0 +1,14 @@
+id=ACC000036
+username=duongvt66
+password=44756f6e6740353138356b
+full_name=Võ Thùy Dương
+birthday=23-11-2000
+gender=Female
+bio=Thích chạy bộ buổi sáng.
+created_at=2026-10-03
+status=ACTIVE
+residence=
+hometown=Đà Nẵng
+school=
+workplace=Samsung Việt Nam
+hobbies=Nuôi mèo;Chạy bộ;Cầu lông

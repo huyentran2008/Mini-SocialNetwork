@@ -1,0 +1,8 @@
+id=POST000117
+author=ACC000102
+visibility=PUBLIC
+created_at=2026-10-08 10:34:58
+edited_at=
+status=VISIBLE
+title=Nghe nhạc không lời khi học bài
+content=Nhạc có lời làm mình mất tập trung, còn nhạc không lời thì vào việc rất nhanh. Mọi người có playlist nào hay không?

@@ -1,0 +1,149 @@
+SYSTEM|2026-10-16 22:33:58|Nguyễn Tuấn Thái đã tạo nhóm "Review quán ngon"
+SYSTEM|2026-10-16 22:33:59|Nguyễn Tuấn Thái đã thêm Nguyễn Phúc Đình Thuận vào nhóm
+SYSTEM|2026-10-16 22:34:00|Nguyễn Phúc Đình Thuận đã thêm Bùi Tuyết Mai vào nhóm
+SYSTEM|2026-10-16 22:34:01|Nguyễn Tuấn Thái đã thêm Phạm Yến Tuyền vào nhóm
+SYSTEM|2026-10-17 06:24:01|Phạm Yến Tuyền đã thêm Hà Trọng Tân vào nhóm
+SYSTEM|2026-10-17 14:14:19|Bùi Tuyết Mai đã thêm Huỳnh Kim Ngân vào nhóm
+SYSTEM|2026-10-17 20:33:52|Phạm Yến Tuyền đã thêm Lâm Thảo Vy vào nhóm
+ACC000014|2026-10-18 07:14:13|Ổn rồi nhé
+ACC000014|2026-10-18 07:15:40|Vậy chốt nhé
+ACC000133|2026-10-18 07:59:26|Okela mọi người
+ACC000108|2026-10-18 14:06:06|Hẹn mọi người cuối tuần
+ACC000038|2026-10-18 14:10:58|Cho mình xin chút thông tin với
+ACC000038|2026-10-18 14:15:31|Hôm nay vui thật
+ACC000108|2026-10-18 14:19:29|Thật không đó?
+ACC000133|2026-10-18 14:20:10|Thật không đó?
+ACC000133|2026-10-18 14:32:33|Nay trời đẹp, mọi người đi dạo không?
+ACC000014|2026-10-18 14:33:35|Đi chứ, mình đang chán.
+ACC000078|2026-10-18 14:35:19|Mình đang ở nhà, 15 phút nữa tới.
+ACC000133|2026-10-18 14:40:50|Gặp ở công viên nhé.
+ACC000014|2026-10-18 14:42:44|Ok.
+ACC000064|2026-10-18 14:52:08|Nghe hợp lý đó
+ACC000108|2026-10-18 14:52:15|Haha cười đau bụng
+ACC000064|2026-10-18 14:52:20|Đúng rồi
+ACC000078|2026-10-18 14:52:22|Nhớ giữ sức khỏe nhé mọi người
+ACC000014|2026-10-18 14:52:34|Đúng rồi
+ACC000108|2026-10-18 14:52:38|Mình đang trên đường tới
+ACC000133|2026-10-18 14:52:50|Mình đang bận chút, lát nói tiếp
+ACC000014|2026-10-18 14:52:52|Mình đang trên đường tới
+ACC000108|2026-10-18 14:52:53|Ai có tin gì mới không?
+ACC000014|2026-10-18 14:53:00|Tuyệt vời!
+ACC000133|2026-10-18 14:53:09|Mọi người ăn cơm chưa?
+ACC000014|2026-10-18 14:53:20|Ừ, mình nhớ rồi
+ACC000064|2026-10-18 14:53:21|Mình +1
+ACC000108|2026-10-18 14:53:28|Mình vừa tới nơi
+ACC000064|2026-10-18 14:53:33|Cảm ơn nhé
+ACC000064|2026-10-18 14:53:35|Mình đang bận chút, lát nói tiếp
+ACC000108|2026-10-18 14:53:45|Thật không đó?
+ACC000078|2026-10-18 14:53:49|Để mình kiểm tra lại rồi báo
+ACC000108|2026-10-18 14:54:01|Okela mọi người
+ACC000064|2026-10-18 14:54:06|Mình đang trên đường tới
+ACC000014|2026-10-18 14:54:15|Hôm nay vui thật
+ACC000038|2026-10-18 14:54:16|Hôm nay mưa mà vẫn đi à?
+ACC000108|2026-10-18 15:54:43|Đã nhận được rồi nhé
+ACC000014|2026-10-18 16:18:43|Đúng rồi
+ACC000064|2026-10-18 16:21:03|Hẹn mọi người cuối tuần
+ACC000078|2026-10-18 16:24:37|Chúc mừng nhé!
+ACC000133|2026-10-18 16:26:51|Lần sau mình rủ thêm người nhé
+SYSTEM|2026-10-18 17:15:28|Phạm Yến Tuyền đã thêm Đặng Tuấn Kiệt vào nhóm
+ACC000014|2026-10-18 17:53:54|Đừng quên nha mọi người
+ACC000078|2026-10-18 17:54:40|Haha đúng là vậy
+ACC000007|2026-10-18 18:01:02|Mai gặp nhé
+ACC000108|2026-10-18 18:01:53|Để mình kiểm tra lại rồi báo
+ACC000078|2026-10-18 18:03:10|Mình vừa tới nơi
+ACC000014|2026-10-18 20:08:35|Mình đi ngủ trước nhé
+ACC000108|2026-10-18 20:09:31|Giỏi quá bạn ơi
+ACC000064|2026-10-18 20:13:51|Mình sẽ cập nhật sau
+ACC000007|2026-10-18 20:57:05|Lần sau mình rủ thêm người nhé
+SYSTEM|2026-10-19 07:10:55|Phạm Yến Tuyền đã thêm Nguyễn Minh Khoa vào nhóm
+SYSTEM|2026-10-19 11:19:29|Nguyễn Tuấn Thái đã thêm Đỗ Thanh Sơn vào nhóm
+SYSTEM|2026-10-19 12:02:08|Bùi Tuyết Mai đã thêm Trần Gia Duy vào nhóm
+SYSTEM|2026-10-19 21:59:00|Huỳnh Kim Ngân đã thêm Phạm Bảo Khôi vào nhóm
+SYSTEM|2026-10-19 22:31:51|Phạm Yến Tuyền đã thêm Nguyễn Thúy Thủy vào nhóm
+SYSTEM|2026-10-20 16:43:52|Nguyễn Thúy Thủy đã thêm Huỳnh Quỳnh Hân vào nhóm
+SYSTEM|2026-10-20 20:18:38|Đặng Tuấn Kiệt đã thêm Thái Lan Phương vào nhóm
+ACC000001|2026-10-21 09:30:26|Cuối tuần này mọi người rảnh không, tụ tập nhé.
+ACC000007|2026-10-21 09:36:19|Mình rảnh chủ nhật.
+ACC000131|2026-10-21 09:37:23|Mình bận buổi sáng, chiều thì ổn.
+ACC000125|2026-10-21 09:41:15|Chiều thứ tư được không?
+ACC000001|2026-10-21 10:19:34|Chốt chiều thứ năm, địa điểm mình báo sau.
+ACC000007|2026-10-21 10:21:26|Ok.
+ACC000001|2026-10-21 17:02:04|Mưa quá, ai đi học được không?
+ACC000131|2026-10-21 17:04:12|Mình vẫn đi, chỉ hơi ướt thôi.
+ACC000039|2026-10-21 17:05:42|Mình ở nhà, học trực tuyến đi.
+ACC000064|2026-10-21 17:06:34|Lớp mình có thông báo gì chưa?
+ACC000001|2026-10-21 17:11:21|Chưa thấy, cứ đến lớp bình thường.
+ACC000038|2026-10-21 18:25:00|Công thức này mình thử rồi, khá ngon.
+ACC000064|2026-10-21 18:26:15|Cho mình xin với.
+ACC000038|2026-10-21 18:27:10|Mình gửi hình ảnh công thức rồi đó.
+ACC000001|2026-10-21 18:28:09|Cảm ơn bạn, cuối tuần mình thử.
+ACC000064|2026-10-21 18:30:39|Làm xong nhớ chụp ảnh khoe nhé.
+ACC000001|2026-10-21 19:46:17|Cuối tuần nấu ăn chung nhé.
+ACC000038|2026-10-21 20:06:26|Hay quá, nấu món gì?
+ACC000001|2026-10-21 20:25:43|Mình đề xuất bánh mì.
+ACC000064|2026-10-21 20:27:33|Mình lo phần nguyên liệu.
+ACC000108|2026-10-21 20:30:56|Mình mang nồi và bếp.
+ACC000038|2026-10-21 20:31:54|Mình lo đồ uống.
+ACC000125|2026-10-21 20:42:12|Ai thử quán trà sữa mới ở đầu đường chưa?
+ACC000063|2026-10-21 20:42:52|Mình thử rồi, hơi ngọt.
+ACC000001|2026-10-21 20:44:36|Mình thấy ổn, ghế thoải mái.
+ACC000125|2026-10-21 20:50:25|Hôm nào cả nhóm ghé thử.
+ACC000014|2026-10-21 20:51:00|Đi chủ nhật nhé.
+SYSTEM|2026-10-22 10:44:56|Phạm Bảo Khôi đã thêm Phạm Tuyết Chi vào nhóm
+SYSTEM|2026-10-22 14:15:57|Huỳnh Quỳnh Hân đã rời nhóm
+ACC000007|2026-10-22 15:44:23|Ai thử quán trà đào mới ở đầu đường chưa?
+ACC000125|2026-10-22 15:51:20|Mình thử rồi, hơi ngọt.
+ACC000095|2026-10-22 15:52:37|Mình thấy ổn, ghế thoải mái.
+ACC000007|2026-10-22 15:53:54|Hôm nào cả nhóm ghé thử.
+ACC000038|2026-10-22 15:55:53|Đi thứ năm nhé.
+SYSTEM|2026-10-22 17:26:00|Trần Gia Duy đã thêm Ngô Khánh Ý vào nhóm
+ACC000117|2026-10-22 18:14:13|Hôm nay đặt đồ ăn chung không?
+ACC000125|2026-10-22 18:15:17|Có, mình đặt bánh xèo.
+ACC000108|2026-10-22 18:17:20|Mình cũng đặt giống bạn.
+ACC000039|2026-10-22 18:18:05|Cho mình thêm một phần.
+ACC000117|2026-10-22 18:18:34|Ok, tổng đơn hết 40 nghìn, chia đều.
+SYSTEM|2026-10-22 19:28:10|Phạm Tuyết Chi đã thêm Nguyễn Minh Huân vào nhóm
+SYSTEM|2026-10-22 21:53:14|Lâm Thảo Vy đã thêm Đặng Tuấn Dũng vào nhóm
+SYSTEM|2026-10-22 23:39:06|Nguyễn Minh Huân đã thêm Nguyễn Nhật Thiện vào nhóm
+SYSTEM|2026-10-23 06:12:42|Nguyễn Thúy Thủy đã thêm Dương Anh Tuấn vào nhóm
+ACC000125|2026-10-23 15:06:13|Thật không đó?
+ACC000110|2026-10-23 15:06:24|Chuẩn rồi
+ACC000117|2026-10-23 15:06:30|Đồng ý với bạn
+ACC000001|2026-10-23 15:06:34|Lần sau mình rủ thêm người nhé
+ACC000078|2026-10-23 15:06:46|Quá tuyệt
+ACC000064|2026-10-23 15:06:57|Mình sẽ cập nhật sau
+ACC000108|2026-10-23 15:06:59|Đừng quên nha mọi người
+ACC000125|2026-10-23 15:07:11|Hôm nay mưa mà vẫn đi à?
+ACC000014|2026-10-23 15:07:15|Mình sẽ cập nhật sau
+ACC000117|2026-10-23 15:07:21|Có ai online không?
+ACC000110|2026-10-23 15:07:32|Cảm ơn nhé
+ACC000095|2026-10-23 15:07:36|Cố lên mọi người
+ACC000028|2026-10-23 15:07:39|Cho mình xin chút thông tin với
+ACC000117|2026-10-23 15:07:45|Mệt ghê
+ACC000001|2026-10-23 15:07:46|Mình đang bận chút, lát nói tiếp
+ACC000125|2026-10-23 15:07:54|Ai đi nữa không?
+SYSTEM|2026-10-23 18:49:05|Nguyễn Thúy Thủy đã thêm Vũ Thế Huy vào nhóm
+ACC000089|2026-10-23 21:39:31|Ai đi nữa không?
+ACC000001|2026-10-23 21:39:41|haha
+ACC000117|2026-10-23 21:39:45|Haha đúng là vậy
+ACC000125|2026-10-23 21:39:46|Ai đi nữa không?
+ACC000014|2026-10-23 21:39:51|Mình cũng nghĩ thế
+ACC000001|2026-10-23 21:39:56|Ủa vậy hả?
+ACC000001|2026-10-23 21:40:02|Mình +1
+ACC000078|2026-10-23 21:40:04|Chúc mừng nhé!
+ACC000117|2026-10-24 20:51:23|Danh sách việc cần làm: 1 | chuẩn bị tài liệu; 2 | liên hệ địa điểm; 3 | chốt thời gian; 4 | phân công người phụ trách. Ai nhận việc nào nhắn số thứ tự giúp mình.
+ACC000028|2026-10-24 20:59:24|Giỏi quá bạn ơi
+ACC000007|2026-10-24 20:59:32|Mình vừa tới nơi
+ACC000108|2026-10-24 20:59:34|Trời nóng quá
+ACC000039|2026-10-24 20:59:46|Ủa vậy hả?
+ACC000089|2026-10-24 20:59:57|Mình vừa tới nơi
+ACC000089|2026-10-24 21:00:00|Tuyệt vời!
+ACC000133|2026-10-24 21:00:10|Mình sẽ cập nhật sau
+ACC000001|2026-10-24 21:00:21|Chuẩn rồi
+ACC000078|2026-10-24 21:00:24|Mình sẽ cập nhật sau
+ACC000131|2026-10-24 21:00:27|Đừng quên nha mọi người
+ACC000089|2026-10-25 07:38:18|Công thức này mình thử rồi, khá ngon.
+ACC000110|2026-10-25 07:40:47|Cho mình xin với.
+ACC000089|2026-10-25 07:41:15|Mình gửi hình ảnh công thức rồi đó.
+ACC000117|2026-10-25 07:43:54|Cảm ơn bạn, cuối tuần mình thử.
+ACC000110|2026-10-25 07:46:29|Làm xong nhớ chụp ảnh khoe nhé.

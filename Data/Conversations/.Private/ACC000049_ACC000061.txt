@@ -1,0 +1,18 @@
+ACC000061|2026-10-15 14:30:34|Bạn cho mình mượn tài liệu được không?
+ACC000049|2026-10-15 14:31:34|Được, bạn lấy bản chụp hay bản mềm?
+ACC000061|2026-10-15 14:32:32|Bản mềm thôi, bạn gửi giúp mình nhé.
+ACC000049|2026-10-15 14:34:38|Gửi rồi nha, kiểm tra thử.
+ACC000061|2026-10-15 14:35:06|Nhận rồi, cảm ơn bạn nhiều lắm.
+ACC000049|2026-10-15 14:39:04|Không có gì.
+ACC000049|2026-10-15 23:25:06|Mình dọn trọ sang khu khác rồi.
+ACC000061|2026-10-15 23:25:27|Thật à? Có xa trường không?
+ACC000049|2026-10-15 23:32:10|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000061|2026-10-15 23:33:46|Tốt quá, hôm nào mình qua chơi.
+ACC000049|2026-10-15 23:35:30|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000061|2026-10-15 23:40:58|Ok, nhớ nấu cơm cho mình đó.
+ACC000049|2026-10-16 18:17:10|Sinh nhật vui vẻ nhé Trân!
+ACC000061|2026-10-16 18:20:45|Cảm ơn Triết nha, nhớ cả sinh nhật mình luôn.
+ACC000049|2026-10-16 18:25:18|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000061|2026-10-16 18:27:47|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000049|2026-10-16 18:29:23|8 giờ nhé.
+ACC000061|2026-10-16 18:29:31|Ok, hẹn gặp.

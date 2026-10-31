@@ -1,0 +1,17 @@
+ACC000086|2026-10-22 13:40:25|Nghe được đó
+ACC000127|2026-10-22 13:41:46|Cố lên nhé
+ACC000127|2026-10-22 13:42:21|Cảm ơn nhé
+ACC000127|2026-10-22 13:42:30|Tối nói chuyện tiếp nhé
+ACC000086|2026-10-22 13:43:42|Vậy hả?
+ACC000086|2026-10-22 23:27:41|Tối nay bạn có chơi game không?
+ACC000127|2026-10-22 23:28:37|Có, mấy giờ?
+ACC000086|2026-10-22 23:29:57|6 giờ, rủ thêm hai bạn nữa là đủ đội.
+ACC000127|2026-10-22 23:34:19|Ok, mình online sớm.
+ACC000086|2026-10-22 23:35:26|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000127|2026-10-22 23:38:19|Haha, thua thì đừng trách mình.
+ACC000086|2026-10-23 09:51:15|Công thức làm bánh flan bạn dùng thế nào?
+ACC000127|2026-10-23 09:53:19|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000086|2026-10-23 09:53:57|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000127|2026-10-23 09:54:45|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000086|2026-10-23 09:55:52|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000127|2026-10-23 09:59:36|Làm xong cho mình xin một miếng nhé.

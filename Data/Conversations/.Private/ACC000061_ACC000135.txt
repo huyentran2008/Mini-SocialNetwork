@@ -1,0 +1,67 @@
+ACC000135|2026-10-20 14:35:44|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000061|2026-10-20 14:36:20|Bài nào vậy?
+ACC000135|2026-10-20 14:37:34|Mình gửi link rồi đó.
+ACC000061|2026-10-20 14:38:12|Nghe rồi, giai điệu dễ chịu thật.
+ACC000135|2026-10-20 14:42:41|Đúng không? Mình nghe suốt tuần này.
+ACC000061|2026-10-20 14:43:04|Cho mình xin playlist nhé.
+ACC000061|2026-10-21 11:53:53|Vậy hả?
+ACC000135|2026-10-21 11:54:40|Ừ
+ACC000061|2026-10-21 15:52:29|Tối nói chuyện tiếp nhé
+ACC000135|2026-10-21 15:54:41|Ừm, mình nghĩ vậy
+ACC000135|2026-10-21 15:55:56|Cuối tuần rảnh không?
+ACC000061|2026-10-21 15:56:37|Mình đang bận chút, lát nhắn lại nhé
+ACC000061|2026-10-21 15:58:37|Để mình xem
+ACC000135|2026-10-21 16:39:48|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000061|2026-10-21 16:40:48|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000135|2026-10-21 16:43:40|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000061|2026-10-21 16:44:26|Cảm ơn bạn đã hỏi thăm.
+ACC000135|2026-10-21 16:50:55|Có cần mình mang đồ ăn qua không?
+ACC000061|2026-10-21 16:54:46|Không cần đâu, mình ổn rồi.
+ACC000061|2026-10-21 19:02:47|Bạn có biết quán cà phê nào yên tĩnh để học bài không?
+ACC000135|2026-10-21 19:05:54|Có một quán gần thư viện, wifi mạnh lắm.
+ACC000061|2026-10-21 19:06:14|Giá thế nào?
+ACC000135|2026-10-21 19:07:12|Khoảng 70 nghìn một ly.
+ACC000061|2026-10-21 19:08:11|Hợp lý đó, mai mình thử.
+ACC000135|2026-10-21 19:08:35|Mình cũng hay ngồi ở đó, gặp nhau nhé.
+ACC000061|2026-10-21 23:36:47|Cố lên nhé
+ACC000061|2026-10-21 23:37:00|Được luôn
+ACC000061|2026-10-21 23:37:08|Mình biết rồi
+ACC000135|2026-10-21 23:37:16|Thật à?
+ACC000135|2026-10-21 23:37:17|Ừ
+ACC000135|2026-10-21 23:37:20|Mình cũng nghĩ vậy
+ACC000135|2026-10-21 23:37:30|Cảm ơn nhé
+ACC000135|2026-10-22 13:43:34|Sáng mai bạn có đi tập chạy không?
+ACC000061|2026-10-22 13:47:18|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000135|2026-10-22 13:48:45|Mình sợ dậy không nổi.
+ACC000061|2026-10-22 13:49:39|Để mình gọi bạn dậy.
+ACC000135|2026-10-22 13:53:28|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000061|2026-10-22 13:58:40|Ok, mai gặp.
+ACC000135|2026-10-22 17:53:29|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000061|2026-10-22 18:00:14|Chuyện nhỏ thôi mà.
+ACC000135|2026-10-22 18:01:41|Không có bạn chắc mình làm không kịp.
+ACC000061|2026-10-22 18:04:01|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000135|2026-10-22 18:26:07|Hôm nào mình mời bạn cơm gà nhé.
+ACC000061|2026-10-22 18:26:45|Vậy thì mình không từ chối đâu.
+ACC000135|2026-10-23 07:58:38|Vậy hả?
+ACC000135|2026-10-23 07:59:35|Ok
+ACC000135|2026-10-23 07:59:44|Thật à?
+ACC000135|2026-10-23 13:00:08|Haha bạn vui tính thật
+ACC000135|2026-10-23 13:00:19|Mai gặp nhé
+ACC000061|2026-10-23 13:00:30|Mình cũng nghĩ vậy
+ACC000061|2026-10-23 13:00:39|Cuối tuần rảnh không?
+ACC000061|2026-10-23 13:00:53|Đang làm gì đó?
+ACC000061|2026-10-23 13:01:05|Ừ
+ACC000061|2026-10-23 13:01:13|Có gì báo mình nhé
+ACC000135|2026-10-23 13:01:18|Thật à?
+ACC000135|2026-10-23 13:20:01|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000061|2026-10-23 13:25:30|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000135|2026-10-23 13:29:36|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000061|2026-10-23 13:31:16|Cảm ơn bạn đã hỏi thăm.
+ACC000135|2026-10-23 13:32:53|Có cần mình mang đồ ăn qua không?
+ACC000061|2026-10-23 13:37:55|Không cần đâu, mình ổn rồi.
+ACC000061|2026-10-23 19:45:05|Thôi mình đi ăn cơm đã
+ACC000135|2026-10-23 19:45:12|Okela
+ACC000061|2026-10-23 19:45:13|Chúc bạn một ngày tốt lành
+ACC000061|2026-10-23 19:45:17|Cảm ơn nhé
+ACC000061|2026-10-23 19:45:29|Chúc bạn một ngày tốt lành
+ACC000135|2026-10-23 19:45:31|Nghe được đó

@@ -1,0 +1,26 @@
+ACC000115|2026-10-21 13:16:40|Cảm ơn bạn đã giúp mình hôm qua.
+ACC000055|2026-10-21 13:16:50|Chuyện nhỏ thôi mà.
+ACC000115|2026-10-21 13:20:48|Không có bạn chắc mình làm không kịp.
+ACC000055|2026-10-21 13:22:39|Bạn cũng từng giúp mình mà, đừng ngại.
+ACC000115|2026-10-21 13:26:37|Hôm nào mình mời bạn lẩu nhé.
+ACC000055|2026-10-21 13:27:31|Vậy thì mình không từ chối đâu.
+ACC000055|2026-10-21 14:12:30|Chỉ mình đường tới thư viện thành phố với.
+ACC000115|2026-10-21 14:15:12|Bạn đang ở đâu?
+ACC000055|2026-10-21 14:17:20|Mình đang ở gần cổng chợ.
+ACC000115|2026-10-21 14:17:40|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000055|2026-10-21 14:18:27|Mình thấy rồi, cảm ơn bạn nha.
+ACC000115|2026-10-21 14:19:05|Ok, đi cẩn thận.
+ACC000115|2026-10-21 16:25:31|Sinh nhật vui vẻ nhé Nga!
+ACC000055|2026-10-21 16:30:17|Cảm ơn Hoàng nha, nhớ cả sinh nhật mình luôn.
+ACC000115|2026-10-21 16:32:43|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000055|2026-10-21 16:35:31|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000115|2026-10-21 16:46:35|6 giờ tối nhé.
+ACC000055|2026-10-21 16:49:25|Ok, hẹn gặp.
+ACC000055|2026-10-21 20:14:36|Thôi mình đi ăn cơm đã
+ACC000115|2026-10-21 20:18:09|Ừm, mình nghĩ vậy
+ACC000115|2026-10-21 20:18:46|Cố lên nhé
+ACC000055|2026-10-21 20:19:10|Ngủ ngon
+ACC000115|2026-10-21 20:19:57|Rồi, mình nhớ rồi
+ACC000055|2026-10-21 21:15:47|Thôi mình đi ăn cơm đã
+ACC000055|2026-10-21 21:16:30|Tối nói chuyện tiếp nhé
+ACC000055|2026-10-21 21:18:15|Cuối tuần rảnh không?

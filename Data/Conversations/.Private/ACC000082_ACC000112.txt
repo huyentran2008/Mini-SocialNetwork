@@ -1,0 +1,30 @@
+ACC000112|2026-10-12 10:18:19|Được luôn
+ACC000112|2026-10-12 10:18:31|Mình biết rồi
+ACC000082|2026-10-12 10:18:40|Chúc bạn một ngày tốt lành
+ACC000082|2026-10-12 10:18:45|Chúc bạn một ngày tốt lành
+ACC000112|2026-10-12 10:18:46|Mình cũng nghĩ vậy
+ACC000112|2026-10-12 10:18:58|Rồi, mình nhớ rồi
+ACC000112|2026-10-12 18:45:22|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000082|2026-10-12 18:47:18|Haha, bé làm gì thế?
+ACC000112|2026-10-12 18:49:23|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000082|2026-10-12 18:49:54|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000112|2026-10-12 18:50:40|Đợi chút mình chụp.
+ACC000082|2026-10-12 18:53:16|Đúng là chủ nào mèo nấy.
+ACC000112|2026-10-12 20:28:08|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000082|2026-10-12 21:09:56|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000112|2026-10-12 21:11:18|Mình thấy rồi, truy cập ngoài mảng.
+ACC000082|2026-10-12 21:35:32|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000112|2026-10-12 21:38:07|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000082|2026-10-12 21:39:05|Lỗi này ai cũng từng gặp thôi.
+ACC000082|2026-10-12 22:00:01|Tối nay đi ăn cơm gà không?
+ACC000112|2026-10-12 22:01:01|Đi chứ! Quán nào?
+ACC000082|2026-10-12 22:07:48|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000112|2026-10-12 22:11:06|Mấy giờ?
+ACC000082|2026-10-12 22:12:39|6 giờ tối nhé.
+ACC000112|2026-10-12 22:15:03|Ok, mình rủ thêm một bạn nữa được không?
+ACC000082|2026-10-12 22:15:48|Được chứ, càng đông càng vui.
+ACC000112|2026-10-21 14:34:05|Thôi mình đi ăn cơm đã
+ACC000082|2026-10-21 14:34:40|Được luôn
+ACC000112|2026-10-21 14:36:22|Được luôn
+ACC000112|2026-10-21 14:37:11|Rồi, mình nhớ rồi
+ACC000112|2026-10-21 14:38:16|Nghe được đó

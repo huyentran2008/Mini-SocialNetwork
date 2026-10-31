@@ -1,0 +1,41 @@
+ACC000134|2026-10-13 15:54:31|Bạn xem giúp mình CV được không?
+ACC000025|2026-10-13 16:01:10|Gửi mình xem nhé.
+ACC000134|2026-10-13 16:02:09|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000025|2026-10-13 16:02:58|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000134|2026-10-13 16:06:30|Hợp lý, mình sửa luôn.
+ACC000025|2026-10-13 16:07:27|Sửa xong gửi mình xem lại nhé.
+ACC000025|2026-10-14 09:37:31|Ừ đúng rồi
+ACC000134|2026-10-14 09:40:50|Ừm, mình nghĩ vậy
+ACC000134|2026-10-14 21:37:56|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000025|2026-10-14 21:38:09|Bạn chuẩn bị tới đâu rồi?
+ACC000134|2026-10-14 21:44:34|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000025|2026-10-14 21:45:07|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000134|2026-10-14 21:45:37|Cảm ơn Quân, mình sẽ cố.
+ACC000025|2026-10-14 21:47:49|Xong nhớ nhắn mình kết quả nhé.
+ACC000134|2026-10-14 21:56:40|Mình cũng nghĩ vậy
+ACC000025|2026-10-14 21:57:12|Ừ
+ACC000134|2026-10-14 21:58:02|Cuối tuần rảnh không?
+ACC000134|2026-10-14 21:58:43|Được luôn
+ACC000025|2026-10-14 22:01:03|Okela
+ACC000025|2026-10-19 15:45:21|Chúc bạn một ngày tốt lành
+ACC000025|2026-10-19 15:45:33|Vậy hả?
+ACC000025|2026-10-19 15:45:47|Có gì báo mình nhé
+ACC000134|2026-10-19 15:45:58|Mai gặp nhé
+ACC000134|2026-10-19 15:46:12|Nghe được đó
+ACC000134|2026-10-19 15:46:14|Cuối tuần rảnh không?
+ACC000134|2026-10-19 15:46:18|Cuối tuần rảnh không?
+ACC000134|2026-10-19 15:46:23|Có gì báo mình nhé
+ACC000025|2026-10-19 15:46:33|Nghe được đó
+ACC000025|2026-10-19 15:46:44|Mai gặp nhé
+ACC000134|2026-10-19 15:46:56|Được luôn
+ACC000025|2026-10-19 15:47:09|Thật à?
+ACC000025|2026-10-19 15:47:18|Vậy hả?
+ACC000134|2026-10-19 15:47:26|Mình cũng nghĩ vậy
+ACC000134|2026-10-19 15:47:28|Vừa về tới nhà
+ACC000134|2026-10-19 15:47:39|Ừ
+ACC000025|2026-10-23 11:16:08|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000134|2026-10-23 11:17:01|Mình mới xong nửa tài liệu, hơi lo.
+ACC000025|2026-10-23 11:19:25|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000134|2026-10-23 11:22:06|Hay đó, 8 giờ nhé.
+ACC000025|2026-10-23 11:23:26|Ok, mình chuẩn bị sẵn đề cương.
+ACC000134|2026-10-23 11:23:52|Cảm ơn Quân, có bạn cùng ôn đỡ áp lực hẳn.

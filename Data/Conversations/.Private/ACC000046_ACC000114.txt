@@ -1,0 +1,21 @@
+ACC000114|2026-10-18 20:59:16|Dạo này mình áp lực thi quá.
+ACC000046|2026-10-18 21:10:35|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000114|2026-10-18 21:10:44|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000046|2026-10-18 21:15:25|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000114|2026-10-18 21:17:38|Nghe có vẻ ổn, mình thử.
+ACC000046|2026-10-18 21:18:44|Cố lên, có gì cần cứ nhắn mình.
+ACC000046|2026-10-21 11:53:59|Mình mới mua chiếc xe đạp.
+ACC000114|2026-10-21 11:54:18|Wow, xe đẹp không?
+ACC000046|2026-10-21 11:56:56|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000114|2026-10-21 12:24:18|Cuối tuần đạp xe quanh hồ nhé.
+ACC000046|2026-10-21 12:28:10|Hay đó, chốt luôn.
+ACC000114|2026-10-21 12:30:15|Nhớ mang nước.
+ACC000046|2026-10-21 20:36:00|Ừm, mình nghĩ vậy
+ACC000046|2026-10-21 20:36:11|Haha bạn vui tính thật
+ACC000114|2026-10-21 20:38:36|Ok
+ACC000114|2026-10-23 18:00:46|Chỉ mình đường tới thư viện thành phố với.
+ACC000046|2026-10-23 18:04:22|Bạn đang ở đâu?
+ACC000114|2026-10-23 18:06:54|Mình đang ở gần cổng chợ.
+ACC000046|2026-10-23 18:07:13|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000114|2026-10-23 18:08:48|Mình thấy rồi, cảm ơn bạn nha.
+ACC000046|2026-10-23 18:11:17|Ok, đi cẩn thận.

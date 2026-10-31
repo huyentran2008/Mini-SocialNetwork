@@ -1,0 +1,8 @@
+id=POST000209
+author=ACC000094
+visibility=PUBLIC
+created_at=2026-10-19 21:16:58
+edited_at=
+status=VISIBLE
+title=Chơi cờ vua online
+content=Dạo này mình luyện cờ vua mỗi tối, chủ yếu học cách khai cuộc. Có ai muốn đấu giao hữu thì thách đấu mình.

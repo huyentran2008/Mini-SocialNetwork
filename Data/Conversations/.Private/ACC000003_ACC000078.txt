@@ -1,0 +1,47 @@
+ACC000003|2026-10-15 12:28:07|Cuối tuần bạn làm gì?
+ACC000078|2026-10-15 12:29:23|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000003|2026-10-15 12:30:05|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000078|2026-10-15 12:35:07|Thật không? Ngại quá.
+ACC000003|2026-10-15 12:36:37|Ngại gì, mẹ mình quý bạn lắm.
+ACC000078|2026-10-15 12:37:00|Vậy mình qua nhé, cảm ơn bác.
+ACC000078|2026-10-15 12:51:22|Năm nay bạn về quê ăn Tết không?
+ACC000003|2026-10-15 12:52:20|Có, mình đặt vé tàu rồi.
+ACC000078|2026-10-15 12:54:15|Mình còn chưa mua được vé.
+ACC000003|2026-10-15 12:56:06|Bạn thử xem lại sáng sớm, thường có vé trả lại.
+ACC000078|2026-10-15 12:58:10|Ok, mình thử xem.
+ACC000003|2026-10-15 12:58:58|Chúc bạn sớm có vé nhé.
+ACC000003|2026-10-15 15:57:05|Mình biết rồi
+ACC000078|2026-10-15 15:57:17|Vậy hả?
+ACC000078|2026-10-15 15:57:19|Được luôn
+ACC000078|2026-10-15 15:57:27|Ok
+ACC000078|2026-10-15 15:57:29|Có gì báo mình nhé
+ACC000003|2026-10-15 15:57:38|Ừ
+ACC000078|2026-10-15 15:57:40|Mình cũng nghĩ vậy
+ACC000078|2026-10-15 15:57:41|Thật à?
+ACC000078|2026-10-15 15:57:43|Cố lên nhé
+ACC000078|2026-10-15 15:57:48|Vậy hả?
+ACC000003|2026-10-15 15:57:53|Được luôn
+ACC000003|2026-10-15 15:57:59|Okela
+ACC000078|2026-10-15 15:58:08|Được luôn
+ACC000003|2026-10-16 10:31:12|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000078|2026-10-16 10:34:05|Haha, bé làm gì thế?
+ACC000003|2026-10-16 10:40:36|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000078|2026-10-16 10:40:48|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000003|2026-10-16 10:41:00|Đợi chút mình chụp.
+ACC000078|2026-10-16 10:44:20|Đúng là chủ nào mèo nấy.
+ACC000003|2026-10-17 15:48:53|Hôm nay mình hơi buồn.
+ACC000078|2026-10-17 15:50:27|Có chuyện gì vậy?
+ACC000003|2026-10-17 15:52:41|Mình bị điểm thấp mà không biết lý do.
+ACC000078|2026-10-17 15:54:30|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000003|2026-10-17 16:34:19|Ừ, mình sẽ gặp thầy tuần này.
+ACC000078|2026-10-17 16:36:37|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000003|2026-10-17 17:42:59|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000078|2026-10-17 17:49:13|Haha, bé làm gì thế?
+ACC000003|2026-10-17 17:49:51|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000078|2026-10-17 18:24:30|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000003|2026-10-17 18:31:00|Đợi chút mình chụp.
+ACC000078|2026-10-17 18:34:35|Đúng là chủ nào mèo nấy.
+ACC000003|2026-10-19 14:41:13|Mai gặp nhé
+ACC000003|2026-10-19 14:43:34|Để mình xem
+ACC000003|2026-10-19 14:44:11|Nghe được đó
+ACC000078|2026-10-19 14:47:44|Để mình xem

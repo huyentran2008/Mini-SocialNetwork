@@ -1,0 +1,8 @@
+id=POST000101
+author=ACC000091
+visibility=PUBLIC
+created_at=2026-10-05 21:39:40
+edited_at=
+status=VISIBLE
+title=Game nhập vai đáng chơi nhất năm nay
+content=Mình đã chơi hơn 80 giờ mà vẫn chưa hết cốt truyện. Đồ họa đẹp, nhạc nền hay, thế giới rộng và nhiều nhiệm vụ phụ thú vị.

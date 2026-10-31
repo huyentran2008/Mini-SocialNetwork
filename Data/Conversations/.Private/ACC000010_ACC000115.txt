@@ -1,0 +1,24 @@
+ACC000115|2026-10-10 15:59:21|Mình đang bận chút, lát nhắn lại nhé
+ACC000010|2026-10-10 16:02:43|Mệt quá hôm nay
+ACC000010|2026-10-10 16:03:42|Ừ
+ACC000115|2026-10-10 16:05:24|Nghe được đó
+ACC000115|2026-10-17 22:11:15|Haha
+ACC000010|2026-10-17 22:16:02|Ừ
+ACC000010|2026-10-18 20:55:23|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000115|2026-10-18 21:42:11|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000010|2026-10-18 21:44:31|Mình thấy rồi, truy cập ngoài mảng.
+ACC000115|2026-10-18 21:45:08|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000010|2026-10-18 21:47:23|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000115|2026-10-18 21:49:24|Lỗi này ai cũng từng gặp thôi.
+ACC000010|2026-10-20 22:47:09|Cảm ơn nhé
+ACC000115|2026-10-20 22:47:20|Vậy hả?
+ACC000010|2026-10-20 22:47:25|Ừ
+ACC000115|2026-10-20 22:47:31|Vậy hả?
+ACC000115|2026-10-20 22:47:36|Có gì báo mình nhé
+ACC000115|2026-10-20 22:47:41|Cuối tuần rảnh không?
+ACC000115|2026-10-20 22:47:51|Đang làm gì đó?
+ACC000010|2026-10-20 22:47:59|Cố lên nhé
+ACC000010|2026-10-20 22:48:02|Ngủ ngon
+ACC000010|2026-10-20 22:48:14|Cuối tuần rảnh không?
+ACC000115|2026-10-20 22:48:20|Mình biết rồi
+ACC000010|2026-10-20 22:48:24|Mệt quá hôm nay

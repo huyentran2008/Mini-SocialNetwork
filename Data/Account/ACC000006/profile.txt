@@ -1,0 +1,14 @@
+id=ACC000006
+username=trucvt35
+password=54727563403134333070
+full_name=Võ Thanh Trúc
+birthday=08-11-1998
+gender=Female
+bio=Yêu mèo, yêu cây cảnh.
+created_at=2026-10-09
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=Thanh Hóa
+school=Đại học Kinh tế Quốc dân
+workplace=
+hobbies=Chụp ảnh

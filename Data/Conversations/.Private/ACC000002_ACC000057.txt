@@ -1,0 +1,30 @@
+ACC000002|2026-10-23 09:39:04|Điểm thi cơ sở dữ liệu có chưa bạn?
+ACC000057|2026-10-23 09:40:51|Có rồi, mình được 8 điểm.
+ACC000002|2026-10-23 09:41:56|Giỏi quá, mình mới 6 điểm thôi.
+ACC000057|2026-10-23 09:46:52|Cũng ổn mà, qua môn là tốt rồi.
+ACC000002|2026-10-23 09:47:21|Cảm ơn bạn đã động viên.
+ACC000057|2026-10-23 09:49:31|Lần sau mình học nhóm tiếp nhé.
+ACC000057|2026-10-23 23:08:47|Nay trời mưa to ghê.
+ACC000002|2026-10-23 23:09:38|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000057|2026-10-23 23:15:02|Bạn có áo mưa không?
+ACC000002|2026-10-23 23:17:18|Không, chắc chờ tạnh.
+ACC000057|2026-10-23 23:18:53|Mình ghé đón nhé, mình đang gần đó.
+ACC000002|2026-10-23 23:21:04|Cảm ơn bạn nhiều lắm.
+ACC000057|2026-10-24 10:13:58|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000002|2026-10-24 10:18:51|Bài nào vậy?
+ACC000057|2026-10-24 10:20:40|Mình gửi link rồi đó.
+ACC000002|2026-10-24 10:22:16|Nghe rồi, giai điệu dễ chịu thật.
+ACC000057|2026-10-24 10:24:55|Đúng không? Mình nghe suốt tuần này.
+ACC000002|2026-10-24 10:25:43|Cho mình xin playlist nhé.
+ACC000002|2026-10-24 10:33:37|Tối nay bạn có chơi game không?
+ACC000057|2026-10-24 10:34:03|Có, mấy giờ?
+ACC000002|2026-10-24 10:56:09|8 giờ tối, rủ thêm hai bạn nữa là đủ đội.
+ACC000057|2026-10-24 10:57:13|Ok, mình online sớm.
+ACC000002|2026-10-24 10:57:28|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000057|2026-10-24 11:03:39|Haha, thua thì đừng trách mình.
+ACC000057|2026-10-24 14:03:24|Mình mới mua chiếc xe đạp.
+ACC000002|2026-10-24 14:03:58|Wow, xe đẹp không?
+ACC000057|2026-10-24 14:05:44|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000002|2026-10-24 14:06:21|Cuối tuần đạp xe quanh hồ nhé.
+ACC000057|2026-10-24 14:07:14|Hay đó, chốt luôn.
+ACC000002|2026-10-24 14:10:49|Nhớ mang nước.

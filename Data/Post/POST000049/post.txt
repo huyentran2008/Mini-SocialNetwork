@@ -1,0 +1,8 @@
+id=POST000049
+author=ACC000063
+visibility=FRIEND
+created_at=2026-09-10 12:27:29
+edited_at=
+status=VISIBLE
+title=Hôm nay là ngày đẹp
+content=Trời nắng nhẹ, gió mát, sáng nay mình đi bộ tới trường thay vì đi xe. Cảm giác tuyệt vời hơn mình nghĩ. Cảm ơn mọi người đã đọc.

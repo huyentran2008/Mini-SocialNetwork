@@ -1,0 +1,14 @@
+id=ACC000002
+username=hatt99
+password=486140313030387a
+full_name=Trần Thu Hà
+birthday=18-02-2003
+gender=Female
+bio=Sống chậm lại và tận hưởng.
+created_at=2026-10-09
+status=ACTIVE
+residence=Khánh Hòa
+hometown=Lâm Đồng
+school=Đại học FPT TP.HCM
+workplace=Samsung Việt Nam
+hobbies=Chạy bộ;Cầu lông

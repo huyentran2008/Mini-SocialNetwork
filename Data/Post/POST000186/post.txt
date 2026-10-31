@@ -1,0 +1,8 @@
+id=POST000186
+author=ACC000092
+visibility=PUBLIC
+created_at=2026-10-16 22:42:10
+edited_at=
+status=VISIBLE
+title=Quản lý chi tiêu cho sinh viên
+content=Mình chia tiền theo quy tắc 50-30-20: nhu cầu, mong muốn và tiết kiệm. Ghi lại từng khoản trong ứng dụng giúp thấy rõ mình tiêu vào đâu.

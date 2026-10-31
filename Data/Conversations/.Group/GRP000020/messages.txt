@@ -1,0 +1,43 @@
+SYSTEM|2026-09-27 17:30:19|Lê Hồng My đã tạo nhóm "Cà phê sáng thứ hai"
+SYSTEM|2026-09-27 17:30:20|Lê Hồng My đã thêm Nguyễn Kim Thủy vào nhóm
+ACC000052|2026-10-02 08:51:51|Có ai online không?
+ACC000052|2026-10-02 08:52:24|Chúc mừng nhé!
+ACC000052|2026-10-02 08:53:23|Hôm nay vui thật
+ACC000052|2026-10-02 08:54:09|Đúng rồi
+ACC000103|2026-10-02 09:38:28|Quá tuyệt
+ACC000052|2026-10-02 09:39:40|Trời nóng quá
+ACC000052|2026-10-02 11:49:02|Mọi người cho ý kiến về lịch sinh hoạt tháng sau nhé: A | B | C, chọn phương án phù hợp nhất.
+ACC000052|2026-10-02 20:19:06|Nhắc nhẹ: đừng chia sẻ thông tin cá nhân hoặc mật khẩu trong nhóm nhé mọi người.
+ACC000052|2026-10-02 21:26:39|Danh sách việc cần làm: 1 | chuẩn bị tài liệu; 2 | liên hệ địa điểm; 3 | chốt thời gian; 4 | phân công người phụ trách. Ai nhận việc nào nhắn số thứ tự giúp mình.
+ACC000052|2026-10-03 18:14:17|Nghe hợp lý đó
+ACC000052|2026-10-03 18:14:49|Ổn rồi nhé
+ACC000103|2026-10-03 18:16:22|Đồng ý với bạn
+ACC000103|2026-10-03 18:18:11|Nhớ mang theo nhé
+ACC000052|2026-10-03 18:21:29|Mình về trước nhé
+ACC000103|2026-10-03 18:23:36|Thật không đó?
+ACC000052|2026-10-03 22:13:55|Mọi người cho ý kiến về lịch sinh hoạt tháng sau nhé: A | B | C, chọn phương án phù hợp nhất.
+ACC000052|2026-10-04 14:44:32|haha
+ACC000052|2026-10-04 14:45:00|Cho mình vào nhóm học với
+ACC000052|2026-10-04 14:45:09|Lần sau mình rủ thêm người nhé
+ACC000052|2026-10-04 14:50:40|Giỏi quá bạn ơi
+ACC000103|2026-10-04 14:51:38|Mình đang trên đường tới
+ACC000052|2026-10-04 14:53:35|Trời nóng quá
+ACC000052|2026-10-07 11:26:11|Cảm ơn cả nhóm đã giúp mình
+ACC000103|2026-10-07 11:42:44|Trời nóng quá
+ACC000052|2026-10-07 11:43:34|Nhớ giữ sức khỏe nhé mọi người
+ACC000103|2026-10-07 11:46:12|Mọi người ăn cơm chưa?
+ACC000052|2026-10-10 22:34:27|Đường dẫn thư mục lưu file nhóm: C:\\Nhom\\TaiLieu\\2026 (mọi người nhớ lưu đúng chỗ nhé).
+ACC000052|2026-10-14 15:28:19|Nhắc nhẹ: đừng chia sẻ thông tin cá nhân hoặc mật khẩu trong nhóm nhé mọi người.
+ACC000052|2026-10-16 12:15:53|Quá tuyệt
+ACC000052|2026-10-16 12:18:11|Ai đi nữa không?
+ACC000052|2026-10-16 12:21:38|Trời nóng quá
+ACC000052|2026-10-16 12:23:48|Mai gặp nhé
+ACC000103|2026-10-16 12:24:18|Đúng rồi
+ACC000052|2026-10-16 17:40:28|Nhắc nhẹ: đừng chia sẻ thông tin cá nhân hoặc mật khẩu trong nhóm nhé mọi người.
+SYSTEM|2026-10-18 08:39:12|Lê Hồng My đã thêm Dương Anh Tuấn vào nhóm
+SYSTEM|2026-10-19 14:03:20|Dương Anh Tuấn đã thêm Trịnh Công Danh vào nhóm
+ACC000011|2026-10-22 12:02:12|Công thức này mình thử rồi, khá ngon.
+ACC000052|2026-10-22 12:03:20|Cho mình xin với.
+ACC000011|2026-10-22 12:05:37|Mình gửi hình ảnh công thức rồi đó.
+ACC000029|2026-10-22 12:05:55|Cảm ơn bạn, cuối tuần mình thử.
+ACC000052|2026-10-22 12:12:42|Làm xong nhớ chụp ảnh khoe nhé.

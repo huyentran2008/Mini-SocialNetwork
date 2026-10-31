@@ -1,0 +1,8 @@
+id=POST000231
+author=ACC000071
+visibility=FRIEND
+created_at=2026-10-22 18:22:29
+edited_at=
+status=VISIBLE
+title=Thua đau nhưng vẫn vui
+content=Đội mình thua 2-5 nhưng ai cũng cười suốt trận. Thua thì rút kinh nghiệm, quan trọng là có người cùng đá với mình. Cảm ơn mọi người đã đọc.

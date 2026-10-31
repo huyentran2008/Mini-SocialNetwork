@@ -1,0 +1,249 @@
+SYSTEM|2026-10-19 11:39:16|Quách Quang Hoàng đã tạo nhóm "Học tiếng Nhật mỗi ngày"
+SYSTEM|2026-10-19 11:39:17|Quách Quang Hoàng đã thêm Ngô Việt Vinh vào nhóm
+SYSTEM|2026-10-19 11:39:18|Ngô Việt Vinh đã thêm Lương Hải Đăng vào nhóm
+ACC000023|2026-10-19 13:07:41|Cảm ơn nhé
+ACC000115|2026-10-19 13:08:07|Mình vừa tới nơi
+ACC000115|2026-10-19 13:08:25|Mình đang bận chút, lát nói tiếp
+ACC000115|2026-10-19 13:12:43|Tuyệt vời!
+SYSTEM|2026-10-19 14:15:31|Ngô Việt Vinh đã thêm Nguyễn Hữu Phước vào nhóm
+ACC000115|2026-10-19 15:21:35|Mọi người có tài liệu ngữ pháp nào hay không?
+ACC000031|2026-10-19 15:23:44|Mình có một bản tóm tắt, gửi nhé.
+ACC000023|2026-10-19 15:25:14|Cảm ơn bạn, rất hữu ích.
+ACC000116|2026-10-19 15:26:51|Mình cũng xin với.
+ACC000031|2026-10-19 15:30:28|Gửi cả nhóm rồi nhé.
+ACC000115|2026-10-19 16:09:44|Mình đi ngủ trước nhé
+ACC000115|2026-10-19 16:09:58|Mai gặp nhé
+ACC000115|2026-10-19 16:10:53|Mình đang trên đường tới
+ACC000023|2026-10-19 16:11:19|Lần sau mình rủ thêm người nhé
+ACC000115|2026-10-19 16:13:34|Cố lên mọi người
+ACC000115|2026-10-19 16:40:07|Mình đang bận chút, lát nói tiếp
+ACC000115|2026-10-19 16:49:55|Hôm nay ai mang theo sạc dự phòng không?
+ACC000116|2026-10-19 16:52:59|Mình có, cần mượn không?
+ACC000115|2026-10-19 16:53:43|Điện thoại mình còn 5% rồi.
+ACC000116|2026-10-19 16:59:14|Lại bàn mình cắm nhé.
+ACC000115|2026-10-19 16:59:24|Cảm ơn bạn nhé.
+ACC000115|2026-10-19 17:08:15|Trưa nay ăn gì mọi người?
+ACC000116|2026-10-19 17:20:02|Cơm tấm đi, trời nóng ăn nhẹ thôi.
+ACC000031|2026-10-19 17:21:47|Mình thích bún chả hơn.
+ACC000023|2026-10-19 17:24:06|Phiếu bầu: gà rán +1.
+ACC000115|2026-10-19 17:24:25|Vậy chốt mì cay, 8 giờ gặp ở cổng.
+ACC000116|2026-10-19 17:28:22|Ok, mình tới đúng giờ.
+SYSTEM|2026-10-19 18:14:57|Ngô Việt Vinh đã thêm Đặng Minh Việt vào nhóm
+ACC000115|2026-10-19 18:36:04|Tối nay luyện nói theo cặp nhé.
+ACC000116|2026-10-19 18:38:10|Mình ghép với Đăng được không?
+ACC000023|2026-10-19 18:39:28|Được, 8 giờ nhé.
+ACC000115|2026-10-19 18:39:43|Chủ đề hôm nay là du lịch.
+ACC000031|2026-10-19 18:42:09|Mình ghép với Hoàng.
+ACC000115|2026-10-19 20:35:31|Ai đi nữa không?
+ACC000115|2026-10-19 20:35:39|Đã nhận được rồi nhé
+ACC000023|2026-10-19 20:38:45|Vậy chốt nhé
+ACC000115|2026-10-19 20:47:12|Hôm nay học 10 từ mới nhé mọi người.
+ACC000116|2026-10-19 20:50:51|Ok, bạn gửi danh sách đi.
+ACC000115|2026-10-19 20:53:34|Mình gửi rồi đó, mỗi từ có ví dụ.
+ACC000031|2026-10-19 20:54:04|Cảm ơn, mình đã chép lại.
+ACC000119|2026-10-19 20:56:07|Mai kiểm tra nhau nhé.
+ACC000115|2026-10-19 22:03:52|Hôm nay học 10 từ mới nhé mọi người.
+ACC000031|2026-10-19 22:04:30|Ok, bạn gửi danh sách đi.
+ACC000115|2026-10-19 22:05:11|Mình gửi rồi đó, mỗi từ có ví dụ.
+ACC000023|2026-10-19 22:07:20|Cảm ơn, mình đã chép lại.
+ACC000116|2026-10-19 22:09:33|Mai kiểm tra nhau nhé.
+SYSTEM|2026-10-19 22:13:45|Nguyễn Hữu Phước đã thêm Phan Thúy Liên vào nhóm
+ACC000115|2026-10-19 22:31:39|Cuối kỳ mọi người ôn thế nào rồi?
+ACC000023|2026-10-19 23:10:16|Mình mới xong nửa, vẫn còn rối.
+ACC000116|2026-10-19 23:12:37|Mình học theo đề cương cũ.
+ACC000077|2026-10-19 23:14:22|Có ai muốn học nhóm không?
+ACC000115|2026-10-19 23:17:18|Mình tham gia, tối nay nhé.
+ACC000023|2026-10-19 23:20:47|Cho mình một suất.
+ACC000023|2026-10-19 23:29:55|Vậy chốt nhé
+ACC000023|2026-10-19 23:30:24|Mai gặp nhé
+ACC000115|2026-10-19 23:31:52|Cảm ơn cả nhóm đã giúp mình
+ACC000119|2026-10-20 00:26:22|Nhớ giữ sức khỏe nhé mọi người
+ACC000116|2026-10-20 08:23:33|Ổn rồi nhé
+ACC000115|2026-10-20 08:26:41|Hôm nay vui thật
+ACC000115|2026-10-20 08:33:24|Lần sau mình rủ thêm người nhé
+ACC000023|2026-10-20 08:33:41|Mệt ghê
+ACC000115|2026-10-20 12:54:27|Có ai biết bài này làm sao không?
+ACC000077|2026-10-20 12:55:22|Bài nào vậy?
+ACC000115|2026-10-20 12:55:42|Mình gửi ảnh rồi đó.
+ACC000116|2026-10-20 12:56:36|Bài này dùng đệ quy là ra.
+ACC000077|2026-10-20 12:58:04|Đúng rồi, mình giải thích thêm nhé.
+ACC000115|2026-10-20 12:59:48|Cảm ơn cả hai.
+SYSTEM|2026-10-20 13:53:23|Phan Thúy Liên đã thêm Phạm Ngọc Anh vào nhóm
+ACC000077|2026-10-20 16:20:29|Tối nay luyện nói theo cặp nhé.
+ACC000119|2026-10-20 16:23:21|Mình ghép với Vinh được không?
+ACC000116|2026-10-20 16:25:56|Được, 8 giờ nhé.
+ACC000077|2026-10-20 16:29:29|Chủ đề hôm nay là du lịch.
+ACC000004|2026-10-20 16:35:22|Mình ghép với Liên.
+ACC000115|2026-10-20 19:03:28|Tối nay có ai online không?
+ACC000031|2026-10-20 19:04:07|Có mình.
+ACC000004|2026-10-20 19:04:53|Mình cũng vậy.
+SYSTEM|2026-10-20 19:05:13|Ngô Việt Vinh đã thêm Nguyễn Cẩm Phượng vào nhóm
+ACC000115|2026-10-20 19:08:46|Gọi video nói chuyện chút nhé.
+ACC000031|2026-10-20 19:10:27|Ok, 9 giờ.
+ACC000004|2026-10-20 19:11:07|Chờ mình tắm xong đã.
+ACC000023|2026-10-20 20:18:14|Cho mình xin chút thông tin với
+ACC000112|2026-10-20 20:18:22|Mình cũng nghĩ thế
+ACC000031|2026-10-20 20:18:33|Okela mọi người
+ACC000023|2026-10-20 20:18:41|Ai đi nữa không?
+ACC000115|2026-10-20 20:18:44|Cảm ơn cả nhóm đã giúp mình
+ACC000115|2026-10-20 20:18:48|Đã nhận được rồi nhé
+ACC000004|2026-10-20 20:18:53|Giỏi quá bạn ơi
+ACC000115|2026-10-20 20:18:55|Thật không đó?
+ACC000115|2026-10-20 20:19:05|Cố lên mọi người
+ACC000031|2026-10-20 20:19:10|Thật không đó?
+ACC000115|2026-10-20 20:19:20|Ừ, mình nhớ rồi
+ACC000115|2026-10-20 21:04:48|Đừng quên nha mọi người
+ACC000115|2026-10-20 21:05:22|Haha cười đau bụng
+ACC000115|2026-10-20 21:05:36|Mình đang trên đường tới
+ACC000004|2026-10-20 21:06:29|Mình vừa tới nơi
+SYSTEM|2026-10-21 08:02:10|Ngô Việt Vinh đã thêm Võ Thanh Trúc vào nhóm
+SYSTEM|2026-10-21 15:57:03|Võ Thanh Trúc đã thêm Nguyễn Xuân Hải vào nhóm
+ACC000077|2026-10-21 21:25:06|Chuẩn rồi
+SYSTEM|2026-10-21 21:37:04|Đặng Minh Việt đã thêm Quách Thế Vinh vào nhóm
+ACC000004|2026-10-21 23:54:12|Mình đang bận chút, lát nói tiếp
+ACC000119|2026-10-22 00:25:11|Nghe hợp lý đó
+ACC000115|2026-10-22 00:25:53|Mình về trước nhé
+ACC000115|2026-10-22 01:00:51|Tuyệt vời!
+SYSTEM|2026-10-22 11:37:56|Võ Thanh Trúc đã thêm Phạm Yến Tuyền vào nhóm
+SYSTEM|2026-10-22 16:00:43|Lương Hải Đăng đã thêm Nguyễn Minh Khoa vào nhóm
+ACC000115|2026-10-22 16:15:59|Tối nay có ai online không?
+ACC000101|2026-10-22 16:19:50|Có mình.
+ACC000112|2026-10-22 16:20:15|Mình cũng vậy.
+ACC000115|2026-10-22 16:40:02|Gọi video nói chuyện chút nhé.
+ACC000101|2026-10-22 16:44:51|Ok, 9 giờ.
+ACC000112|2026-10-22 16:45:04|Chờ mình tắm xong đã.
+ACC000115|2026-10-22 18:15:32|Haha đúng là vậy
+ACC000115|2026-10-22 18:18:20|Nhớ giữ sức khỏe nhé mọi người
+ACC000001|2026-10-22 18:20:44|Mình +1
+ACC000115|2026-10-22 19:10:38|Nghe hợp lý đó
+ACC000119|2026-10-22 19:14:00|Cảm ơn cả nhóm đã giúp mình
+ACC000112|2026-10-22 19:23:35|Mọi người có tài liệu ngữ pháp nào hay không?
+ACC000101|2026-10-22 19:24:25|Mình có một bản tóm tắt, gửi nhé.
+ACC000078|2026-10-22 19:29:19|Cảm ơn bạn, rất hữu ích.
+ACC000115|2026-10-22 19:30:42|Mình cũng xin với.
+ACC000101|2026-10-22 19:30:54|Gửi cả nhóm rồi nhé.
+ACC000112|2026-10-22 19:39:04|Mệt ghê
+ACC000115|2026-10-22 19:39:07|Mình +1
+ACC000116|2026-10-22 19:39:13|Cảm ơn cả nhóm đã giúp mình
+ACC000115|2026-10-22 19:39:16|Đã nhận được rồi nhé
+ACC000116|2026-10-22 19:39:25|Chúc mừng nhé!
+ACC000115|2026-10-22 19:39:28|Cảm ơn nhé
+ACC000112|2026-10-22 19:39:30|Ủa vậy hả?
+ACC000115|2026-10-22 19:39:31|Mình +1
+ACC000115|2026-10-22 19:39:32|Mọi người ăn cơm chưa?
+ACC000004|2026-10-22 19:39:41|Cảm ơn cả nhóm đã giúp mình
+ACC000077|2026-10-22 19:39:53|Quá tuyệt
+ACC000101|2026-10-22 19:40:05|Cảm ơn cả nhóm đã giúp mình
+ACC000077|2026-10-22 19:40:11|Cho mình vào nhóm học với
+ACC000006|2026-10-22 19:40:13|Hôm nay mưa mà vẫn đi à?
+ACC000101|2026-10-22 19:40:23|Hẹn mọi người cuối tuần
+ACC000116|2026-10-22 19:40:34|Hôm nay mưa mà vẫn đi à?
+ACC000112|2026-10-22 20:07:30|Nhớ giữ sức khỏe nhé mọi người
+ACC000004|2026-10-22 20:08:18|Cho mình vào nhóm học với
+ACC000027|2026-10-22 20:15:02|Ai đi nữa không?
+ACC000115|2026-10-22 21:14:48|Hôm nay học 10 từ mới nhé mọi người.
+ACC000077|2026-10-22 21:15:54|Ok, bạn gửi danh sách đi.
+ACC000115|2026-10-22 21:16:37|Mình gửi rồi đó, mỗi từ có ví dụ.
+ACC000116|2026-10-22 21:17:08|Cảm ơn, mình đã chép lại.
+ACC000101|2026-10-22 21:17:57|Mai kiểm tra nhau nhé.
+ACC000116|2026-10-22 21:44:18|Mọi người ơi, điểm danh nào.
+ACC000101|2026-10-22 21:45:01|Có mặt!
+ACC000115|2026-10-22 21:46:48|Có mình.
+ACC000001|2026-10-22 21:48:17|Mình đây.
+ACC000116|2026-10-22 21:50:25|Tốt, vậy bắt đầu nhé.
+SYSTEM|2026-10-22 21:52:38|Phan Thúy Liên đã thêm Bùi Khánh Linh vào nhóm
+SYSTEM|2026-10-22 22:43:16|Phạm Ngọc Anh đã thêm Diệp Bảo Trân vào nhóm
+ACC000078|2026-10-23 07:13:07|Okela mọi người
+ACC000115|2026-10-23 07:16:25|Đúng rồi
+ACC000031|2026-10-23 07:17:07|Ai có tin gì mới không?
+ACC000026|2026-10-23 08:05:31|Vậy chốt nhé
+ACC000112|2026-10-23 08:07:08|Hôm nay vui thật
+ACC000101|2026-10-23 08:45:28|Tối nay luyện nói theo cặp nhé.
+ACC000112|2026-10-23 08:46:24|Mình ghép với Việt được không?
+ACC000119|2026-10-23 08:48:27|Được, 8 giờ nhé.
+ACC000101|2026-10-23 08:51:00|Chủ đề hôm nay là du lịch.
+ACC000115|2026-10-23 08:52:54|Mình ghép với Hải.
+ACC000101|2026-10-23 09:16:48|Hôm nay học 10 từ mới nhé mọi người.
+ACC000023|2026-10-23 09:51:13|Ok, bạn gửi danh sách đi.
+ACC000101|2026-10-23 09:51:59|Mình gửi rồi đó, mỗi từ có ví dụ.
+ACC000001|2026-10-23 09:53:13|Cảm ơn, mình đã chép lại.
+ACC000115|2026-10-23 09:58:46|Mai kiểm tra nhau nhé.
+ACC000001|2026-10-23 11:04:37|Mọi người nhớ nộp bài trước 6 giờ nhé.
+ACC000115|2026-10-23 11:05:52|Hạn chót là hôm nay đúng không?
+ACC000001|2026-10-23 11:08:29|Đúng rồi, trễ là trừ điểm.
+ACC000101|2026-10-23 11:08:45|Cảm ơn nhắc, mình sắp xong.
+ACC000116|2026-10-23 11:09:55|Mình vừa nộp xong.
+ACC000026|2026-10-23 14:36:41|Nay trời đẹp, mọi người đi dạo không?
+ACC000115|2026-10-23 14:43:15|Đi chứ, mình đang chán.
+ACC000001|2026-10-23 14:46:10|Mình đang ở nhà, 15 phút nữa tới.
+ACC000026|2026-10-23 14:47:22|Gặp ở công viên nhé.
+ACC000115|2026-10-23 14:50:45|Ok.
+ACC000115|2026-10-23 15:46:48|Hôm nay học 10 từ mới nhé mọi người.
+ACC000119|2026-10-23 16:27:56|Ok, bạn gửi danh sách đi.
+ACC000115|2026-10-23 16:29:14|Mình gửi rồi đó, mỗi từ có ví dụ.
+ACC000112|2026-10-23 16:30:09|Cảm ơn, mình đã chép lại.
+SYSTEM|2026-10-23 16:34:40|Ngô Việt Vinh đã rời nhóm
+ACC000004|2026-10-23 16:35:00|Mai kiểm tra nhau nhé.
+ACC000115|2026-10-23 17:13:46|Tối nay có ai online không?
+ACC000004|2026-10-23 17:17:23|Có mình.
+ACC000112|2026-10-23 17:22:14|Mình cũng vậy.
+ACC000115|2026-10-23 17:35:51|Gọi video nói chuyện chút nhé.
+ACC000004|2026-10-23 17:37:35|Ok, 9 giờ.
+ACC000112|2026-10-23 17:37:56|Chờ mình tắm xong đã.
+ACC000112|2026-10-23 18:08:09|Cuối kỳ mọi người ôn thế nào rồi?
+ACC000078|2026-10-23 18:10:00|Mình mới xong nửa, vẫn còn rối.
+ACC000023|2026-10-23 18:12:13|Mình học theo đề cương cũ.
+ACC000115|2026-10-23 18:12:57|Có ai muốn học nhóm không?
+ACC000112|2026-10-23 18:13:42|Mình tham gia, tối nay nhé.
+ACC000078|2026-10-23 18:15:18|Cho mình một suất.
+ACC000115|2026-10-23 19:07:41|Mọi người ăn cơm chưa?
+ACC000001|2026-10-23 19:07:47|Có ai online không?
+ACC000004|2026-10-23 19:07:48|Vậy chốt nhé
+ACC000112|2026-10-23 19:07:53|Ngủ ngon cả nhóm
+ACC000115|2026-10-23 19:07:58|Haha đúng là vậy
+ACC000112|2026-10-23 19:08:10|Hôm nay mưa mà vẫn đi à?
+ACC000027|2026-10-23 19:08:15|Quá tuyệt
+ACC000115|2026-10-23 19:08:16|Chúc mừng nhé!
+ACC000001|2026-10-23 19:08:26|Mình về trước nhé
+ACC000078|2026-10-23 19:08:31|Để mình kiểm tra lại rồi báo
+ACC000115|2026-10-23 19:08:43|Trời nóng quá
+ACC000115|2026-10-23 19:08:52|Ổn rồi nhé
+ACC000031|2026-10-23 19:08:55|Mình sẽ cập nhật sau
+ACC000006|2026-10-23 19:08:58|Có ai online không?
+ACC000101|2026-10-23 19:09:09|Mình đang trên đường tới
+ACC000006|2026-10-23 19:09:11|Chúc mừng nhé!
+ACC000008|2026-10-23 19:25:33|Đồng ý với bạn
+ACC000023|2026-10-23 19:27:51|Cho mình vào nhóm học với
+ACC000023|2026-10-23 19:28:33|Hôm nay vui thật
+ACC000115|2026-10-23 19:30:17|Mệt ghê
+ACC000115|2026-10-23 20:34:15|Tối nay có ai online không?
+ACC000101|2026-10-23 20:36:20|Có mình.
+ACC000112|2026-10-23 20:37:01|Mình cũng vậy.
+ACC000115|2026-10-23 20:40:55|Gọi video nói chuyện chút nhé.
+ACC000101|2026-10-23 20:42:22|Ok, 9 giờ.
+ACC000112|2026-10-23 21:05:15|Chờ mình tắm xong đã.
+SYSTEM|2026-10-23 21:08:58|Ngô Việt Vinh đã thêm Nguyễn Tuấn Phúc vào nhóm
+ACC000115|2026-10-23 22:15:56|Haha cười đau bụng
+ACC000008|2026-10-24 20:00:40|Mọi người ăn cơm chưa?
+ACC000115|2026-10-24 20:00:44|Mọi người ăn cơm chưa?
+ACC000115|2026-10-24 20:00:47|Ừ, mình nhớ rồi
+ACC000115|2026-10-24 20:00:52|Nhớ mang theo nhé
+ACC000115|2026-10-24 20:01:02|Cố lên mọi người
+ACC000112|2026-10-24 20:01:06|Haha đúng là vậy
+ACC000008|2026-10-24 20:01:13|Đừng quên nha mọi người
+ACC000004|2026-10-24 20:01:17|Mình về trước nhé
+ACC000006|2026-10-24 20:01:21|Ai có tin gì mới không?
+ACC000006|2026-10-24 20:01:23|Đừng quên nha mọi người
+ACC000115|2026-10-24 20:01:27|Ai có tin gì mới không?
+ACC000119|2026-10-24 20:01:30|Cho mình xin chút thông tin với
+ACC000115|2026-10-24 20:01:37|Giỏi quá bạn ơi
+ACC000101|2026-10-24 20:01:38|Mình về trước nhé
+ACC000004|2026-10-24 20:01:46|Ổn rồi nhé
+ACC000115|2026-10-24 20:01:50|Mọi người ăn cơm chưa?
+ACC000026|2026-10-24 20:01:54|Mình vừa tới nơi
+ACC000026|2026-10-24 20:02:02|Mình cũng nghĩ thế
+ACC000115|2026-10-24 20:02:11|Quá tuyệt
+ACC000006|2026-10-24 21:51:07|Hôm nay mưa mà vẫn đi à?
+ACC000101|2026-10-24 21:51:43|Mọi người ăn cơm chưa?
+ACC000008|2026-10-24 21:52:08|Mình đang bận chút, lát nói tiếp
+ACC000004|2026-10-24 21:53:12|Chúc mừng nhé!

@@ -1,0 +1,31 @@
+ACC000031|2026-10-14 11:20:37|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000096|2026-10-14 11:25:05|Mình mới xong nửa tài liệu, hơi lo.
+ACC000031|2026-10-14 11:30:45|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000096|2026-10-14 11:32:26|Hay đó, 8 giờ nhé.
+ACC000031|2026-10-14 11:34:23|Ok, mình chuẩn bị sẵn đề cương.
+ACC000096|2026-10-14 11:34:59|Cảm ơn Phước, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000031|2026-10-16 15:07:53|Cảm ơn nhé
+ACC000096|2026-10-16 15:07:59|Thôi mình đi ăn cơm đã
+ACC000031|2026-10-16 15:08:11|Có gì báo mình nhé
+ACC000031|2026-10-16 15:08:19|Thôi mình đi ăn cơm đã
+ACC000096|2026-10-16 15:08:24|Cuối tuần rảnh không?
+ACC000031|2026-10-16 15:08:38|Cuối tuần rảnh không?
+ACC000031|2026-10-16 15:08:39|Thôi mình đi ăn cơm đã
+ACC000031|2026-10-16 15:08:52|Để mình xem
+ACC000031|2026-10-16 15:09:01|Mai gặp nhé
+ACC000031|2026-10-16 15:09:03|Có gì báo mình nhé
+ACC000096|2026-10-16 15:09:13|Có gì báo mình nhé
+ACC000096|2026-10-16 15:09:27|Chúc bạn một ngày tốt lành
+ACC000031|2026-10-16 15:09:30|Haha bạn vui tính thật
+ACC000031|2026-10-18 09:51:57|Nay trời mưa to ghê.
+ACC000096|2026-10-18 09:53:44|Đúng rồi, mình kẹt ở trường chưa về được.
+ACC000031|2026-10-18 10:08:29|Bạn có áo mưa không?
+ACC000096|2026-10-18 10:13:37|Không, chắc chờ tạnh.
+ACC000031|2026-10-18 10:13:58|Mình ghé đón nhé, mình đang gần đó.
+ACC000096|2026-10-18 10:14:20|Cảm ơn bạn nhiều lắm.
+ACC000031|2026-10-21 20:48:30|Okela
+ACC000031|2026-10-21 20:48:44|Ừ đúng rồi
+ACC000031|2026-10-21 20:48:45|Có gì báo mình nhé
+ACC000031|2026-10-21 20:48:56|Mình cũng nghĩ vậy
+ACC000096|2026-10-21 20:48:57|Vừa về tới nhà
+ACC000031|2026-10-21 20:49:06|Nghe được đó

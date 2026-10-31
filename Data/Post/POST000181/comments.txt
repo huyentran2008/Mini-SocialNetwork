@@ -1,0 +1,14 @@
+ACC000012|2026-10-16 18:22:57|Chạy được rồi, cảm ơn bạn!
+ACC000089|2026-10-16 19:59:57|Nhớ rủ mình với.
+ACC000116|2026-10-16 20:47:57|Mình cũng thấy thế!
+ACC000106|2026-10-16 22:21:57|Nên viết unit test cho phần này đó.
+ACC000098|2026-10-17 03:13:57|Cho mình xin thêm thông tin được không?
+ACC000008|2026-10-17 09:05:57|Nên viết unit test cho phần này đó.
+ACC000059|2026-10-17 13:32:57|Quá hợp lý luôn.
+ACC000118|2026-10-17 16:45:57|Đọc xong thấy có thêm động lực.
+ACC000119|2026-10-17 18:49:57|Bạn thử kiểm tra lại biến chưa khởi tạo xem.
+ACC000094|2026-10-17 23:01:57|Mình cũng bị lỗi này tuần trước.
+ACC000040|2026-10-17 23:17:57|Mình cũng bị lỗi này tuần trước.
+ACC000082|2026-10-18 01:16:57|Mình hay dùng cách khác nhưng cách của bạn cũng hay.
+ACC000116|2026-10-18 03:14:57|Có gì mình trả lời thêm nhé.
+ACC000106|2026-10-18 03:47:57|Bạn thử kiểm tra lại biến chưa khởi tạo xem.

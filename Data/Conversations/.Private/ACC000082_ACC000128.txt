@@ -1,0 +1,67 @@
+ACC000082|2026-10-02 13:18:01|Bạn xem giúp mình CV được không?
+ACC000128|2026-10-02 13:21:37|Gửi mình xem nhé.
+ACC000082|2026-10-02 13:23:50|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000128|2026-10-02 13:25:44|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000082|2026-10-02 13:29:08|Hợp lý, mình sửa luôn.
+ACC000128|2026-10-02 13:30:05|Sửa xong gửi mình xem lại nhé.
+ACC000128|2026-10-02 15:06:58|Bạn ơi, bài tập giải tích nộp chưa?
+ACC000082|2026-10-02 15:07:25|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000128|2026-10-02 15:10:37|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000082|2026-10-02 15:11:45|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000128|2026-10-02 15:12:28|Có gì hỏi mình nhé.
+ACC000082|2026-10-02 15:13:20|Okela, cảm ơn Hoàng nhiều.
+ACC000082|2026-10-05 10:11:59|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000128|2026-10-05 10:14:03|Haha, bé làm gì thế?
+ACC000082|2026-10-05 10:17:17|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000128|2026-10-05 10:18:20|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000082|2026-10-05 10:18:51|Đợi chút mình chụp.
+ACC000128|2026-10-05 10:19:49|Đúng là chủ nào mèo nấy.
+ACC000082|2026-10-05 13:35:21|Bạn biết laptop nào học lập trình ổn không?
+ACC000128|2026-10-05 13:37:24|Tầm giá bao nhiêu?
+ACC000082|2026-10-05 13:40:40|Khoảng 15 đến 20 triệu.
+ACC000128|2026-10-05 13:40:52|Nên chọn RAM 16GB và ổ SSD. Mình gửi vài mẫu cho bạn nhé.
+ACC000082|2026-10-05 13:41:52|Cảm ơn nhiều, mình đang rối quá.
+ACC000128|2026-10-05 13:46:38|Bạn xem rồi nhắn mình, mình tư vấn thêm.
+ACC000082|2026-10-10 22:57:16|Cuối tuần này đi xem phim không?
+ACC000128|2026-10-10 23:01:08|Phim gì vậy?
+ACC000082|2026-10-10 23:01:41|Phim mới chiếu, nghe nói hay lắm.
+ACC000128|2026-10-10 23:02:12|Mình đang rảnh thứ tư, đi buổi chiều nhé.
+ACC000082|2026-10-10 23:03:53|Ok, mình đặt vé luôn.
+ACC000128|2026-10-10 23:04:39|Nhớ chọn ghế giữa nha.
+ACC000082|2026-10-10 23:06:10|Yên tâm.
+ACC000128|2026-10-14 08:42:08|Bạn xem giúp mình CV được không?
+ACC000082|2026-10-14 08:43:55|Gửi mình xem nhé.
+ACC000128|2026-10-14 08:44:25|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000082|2026-10-14 08:46:20|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000128|2026-10-14 08:53:05|Hợp lý, mình sửa luôn.
+ACC000082|2026-10-14 08:54:26|Sửa xong gửi mình xem lại nhé.
+ACC000082|2026-10-14 10:17:32|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000128|2026-10-14 10:18:31|Bạn chuẩn bị tới đâu rồi?
+ACC000082|2026-10-14 10:19:26|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000128|2026-10-14 10:20:34|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000082|2026-10-14 10:27:31|Cảm ơn Hoàng, mình sẽ cố.
+ACC000128|2026-10-14 10:31:43|Xong nhớ nhắn mình kết quả nhé.
+ACC000082|2026-10-17 12:39:14|Bạn ngủ chưa?
+ACC000128|2026-10-17 12:43:41|Chưa, đang làm bài tập.
+ACC000082|2026-10-17 12:44:10|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000128|2026-10-17 12:50:48|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000082|2026-10-17 12:54:33|Ngủ ngon nha.
+ACC000128|2026-10-17 12:57:16|Ngủ ngon.
+ACC000128|2026-10-17 22:16:12|Tối nay đi ăn bún bò không?
+ACC000082|2026-10-17 22:16:29|Đi chứ! Quán nào?
+ACC000128|2026-10-17 22:17:09|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000082|2026-10-17 22:18:47|Mấy giờ?
+ACC000128|2026-10-17 22:19:32|6 giờ nhé.
+ACC000082|2026-10-17 22:21:14|Ok, mình rủ thêm một bạn nữa được không?
+ACC000128|2026-10-17 22:24:40|Được chứ, càng đông càng vui.
+ACC000082|2026-10-18 07:51:09|Haha
+ACC000128|2026-10-18 07:51:46|Mình cũng nghĩ vậy
+ACC000128|2026-10-18 08:01:58|Mình đang bận chút, lát nhắn lại nhé
+ACC000128|2026-10-18 08:02:43|Để mình xem
+ACC000082|2026-10-21 16:17:46|Tối nay đi ăn mì cay không?
+ACC000128|2026-10-21 16:18:36|Đi chứ! Quán nào?
+ACC000082|2026-10-21 16:20:36|Quán gần trường, hôm trước mình ăn thấy ngon lắm.
+ACC000128|2026-10-21 16:21:18|Mấy giờ?
+ACC000082|2026-10-21 16:23:05|8 giờ tối nhé.
+ACC000128|2026-10-21 16:26:30|Ok, mình rủ thêm một bạn nữa được không?
+ACC000082|2026-10-21 16:30:01|Được chứ, càng đông càng vui.

@@ -1,0 +1,12 @@
+ACC000021|2026-10-23 16:25:16|Chào bạn, lâu rồi không nói chuyện.
+ACC000060|2026-10-23 16:27:17|Chào bạn, dạo này bạn thế nào?
+ACC000021|2026-10-23 16:53:49|Mình ổn, bận học và làm thêm.
+ACC000060|2026-10-23 16:56:26|Mình cũng vậy, mong sớm có dịp gặp.
+ACC000021|2026-10-23 16:58:27|Cuối tháng mình rảnh, bạn sắp xếp được không?
+ACC000060|2026-10-23 16:58:51|Được, tới lúc đó nhắn mình nhé.
+ACC000021|2026-10-23 18:52:25|Nghe nói hôm qua bạn bị ốm, giờ đỡ chưa?
+ACC000060|2026-10-23 18:53:02|Đỡ nhiều rồi, chỉ hơi sổ mũi thôi.
+ACC000021|2026-10-23 18:54:51|Nhớ uống nước ấm và nghỉ ngơi nhé.
+ACC000060|2026-10-23 18:56:29|Cảm ơn bạn đã hỏi thăm.
+ACC000021|2026-10-23 19:00:13|Có cần mình mang đồ ăn qua không?
+ACC000060|2026-10-23 19:01:36|Không cần đâu, mình ổn rồi.

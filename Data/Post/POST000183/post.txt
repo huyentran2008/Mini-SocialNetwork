@@ -1,0 +1,8 @@
+id=POST000183
+author=ACC000054
+visibility=PUBLIC
+created_at=2026-10-16 21:04:21
+edited_at=2026-10-18 12:32:21
+status=VISIBLE
+title=Tìm bạn ở ghép
+content=Mình đang cần tìm một bạn ở ghép gần trường, giá phòng chia đôi khoảng 2500k mỗi người. Yêu cầu sạch sẽ và không hút thuốc. Ai quan tâm nhắn mình.

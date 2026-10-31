@@ -1,0 +1,12 @@
+ACC000012|2026-10-21 21:40:28|Mình mới mua chiếc xe đạp.
+ACC000130|2026-10-21 21:43:16|Wow, xe đẹp không?
+ACC000012|2026-10-21 21:43:42|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000130|2026-10-21 21:45:38|Cuối tuần đạp xe quanh hồ nhé.
+ACC000012|2026-10-21 21:46:45|Hay đó, chốt luôn.
+ACC000130|2026-10-21 22:11:38|Nhớ mang nước.
+ACC000012|2026-10-23 09:46:47|Cuối tuần bạn làm gì?
+ACC000130|2026-10-23 09:47:18|Chắc ở nhà dọn dẹp rồi ngủ bù.
+ACC000012|2026-10-23 09:47:27|Qua nhà mình ăn cơm không? Mẹ mình nấu nhiều món.
+ACC000130|2026-10-23 09:51:00|Thật không? Ngại quá.
+ACC000012|2026-10-23 09:51:30|Ngại gì, mẹ mình quý bạn lắm.
+ACC000130|2026-10-23 09:55:23|Vậy mình qua nhé, cảm ơn bác.

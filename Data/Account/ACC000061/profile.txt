@@ -1,0 +1,14 @@
+id=ACC000061
+username=tranlq04
+password=5472616e40323234377a
+full_name=Lê Quỳnh Trân
+birthday=16-08-2003
+gender=Female
+bio=Bận rộn nhưng vẫn thích tám chuyện.
+created_at=2026-08-19
+status=ACTIVE
+residence=Hưng Yên
+hometown=Cao Bằng
+school=Đại học Kiên Giang
+workplace=
+hobbies=Làm đẹp;Triết học

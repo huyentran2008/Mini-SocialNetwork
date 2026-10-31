@@ -1,0 +1,15 @@
+ACC000104|2026-10-15 07:29:49|Nghe được đó
+ACC000104|2026-10-15 07:55:49|Rồi, mình nhớ rồi
+ACC000104|2026-10-15 08:02:40|Được luôn
+ACC000104|2026-10-15 23:36:45|Mình dọn trọ sang khu khác rồi.
+ACC000112|2026-10-15 23:37:18|Thật à? Có xa trường không?
+ACC000104|2026-10-15 23:38:28|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000112|2026-10-15 23:38:40|Tốt quá, hôm nào mình qua chơi.
+ACC000104|2026-10-15 23:41:38|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000112|2026-10-15 23:48:19|Ok, nhớ nấu cơm cho mình đó.
+ACC000112|2026-10-23 21:15:13|Bạn xem giúp mình CV được không?
+ACC000104|2026-10-23 21:16:07|Gửi mình xem nhé.
+ACC000112|2026-10-23 21:30:03|Mình gửi rồi, phần kinh nghiệm hơi ít.
+ACC000104|2026-10-23 21:31:36|Bạn ghi thêm các dự án ở trường đi, nhà tuyển dụng cũng quan tâm.
+ACC000112|2026-10-23 21:31:57|Hợp lý, mình sửa luôn.
+ACC000104|2026-10-23 21:37:28|Sửa xong gửi mình xem lại nhé.

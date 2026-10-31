@@ -1,0 +1,14 @@
+id=ACC000114
+username=lanht86
+password=4c616e403838363665
+full_name=Hoàng Thúy Lan
+birthday=12-09-1998
+gender=Female
+bio=Khỏe để sống tốt.
+created_at=2026-10-03
+status=ACTIVE
+residence=Đà Nẵng
+hometown=Cao Bằng
+school=Cao đẳng Y tế Đà Nẵng
+workplace=Bệnh viện Chợ Rẫy
+hobbies=Chạy marathon

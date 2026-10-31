@@ -1,0 +1,6 @@
+ACC000142|2026-10-23 19:15:41|Bạn nhớ nhắc mình sáng mai nộp báo cáo nhé.
+ACC000101|2026-10-23 19:19:26|Ok, mình sẽ nhắn lúc 7 giờ.
+ACC000142|2026-10-23 19:20:01|Cảm ơn, mình hay quên lắm.
+ACC000101|2026-10-23 19:21:41|Mình biết rồi. Nhớ in thêm một bản nữa.
+ACC000142|2026-10-23 19:21:56|Ừ, mình in hai bản.
+ACC000101|2026-10-23 19:25:22|Giỏi.

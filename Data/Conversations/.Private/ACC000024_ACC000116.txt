@@ -1,0 +1,10 @@
+ACC000116|2026-10-24 12:23:59|Mệt quá hôm nay
+ACC000024|2026-10-24 12:25:42|Rồi, mình nhớ rồi
+ACC000024|2026-10-24 13:34:49|Dạo này mình áp lực thi quá.
+ACC000116|2026-10-24 13:35:06|Mình hiểu. Bạn thử chia nhỏ việc ôn tập từng ngày xem.
+ACC000024|2026-10-24 13:36:53|Mình cũng định vậy, nhưng cứ mất tập trung.
+ACC000116|2026-10-24 13:37:53|Tắt điện thoại một lúc đi, học 25 phút rồi nghỉ 5 phút.
+ACC000024|2026-10-24 13:38:24|Nghe có vẻ ổn, mình thử.
+ACC000116|2026-10-24 13:38:56|Cố lên, có gì cần cứ nhắn mình.
+ACC000116|2026-10-24 21:50:45|Đang làm gì đó?
+ACC000116|2026-10-24 21:53:07|Được luôn

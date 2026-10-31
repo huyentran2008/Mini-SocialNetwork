@@ -1,0 +1,84 @@
+ACC000086|2026-10-08 21:49:00|Chỉ mình đường tới thư viện thành phố với.
+ACC000123|2026-10-08 22:28:39|Bạn đang ở đâu?
+ACC000086|2026-10-08 22:30:17|Mình đang ở gần cổng chợ.
+ACC000123|2026-10-08 22:32:35|Đi thẳng đường lớn, qua hai ngã tư thì rẽ phải.
+ACC000086|2026-10-08 22:50:25|Mình thấy rồi, cảm ơn bạn nha.
+ACC000123|2026-10-08 22:53:21|Ok, đi cẩn thận.
+ACC000086|2026-10-08 23:01:52|Điểm thi giải tích có chưa bạn?
+ACC000123|2026-10-08 23:02:12|Có rồi, mình được 8 điểm.
+ACC000086|2026-10-08 23:03:23|Giỏi quá, mình mới 6 điểm thôi.
+ACC000123|2026-10-08 23:04:19|Cũng ổn mà, qua môn là tốt rồi.
+ACC000086|2026-10-08 23:05:29|Cảm ơn bạn đã động viên.
+ACC000123|2026-10-08 23:06:04|Lần sau mình học nhóm tiếp nhé.
+ACC000086|2026-10-13 12:44:06|Được luôn
+ACC000123|2026-10-13 12:44:34|Tối nói chuyện tiếp nhé
+ACC000123|2026-10-13 12:45:08|Mình biết rồi
+ACC000123|2026-10-13 12:45:58|Rồi, mình nhớ rồi
+ACC000123|2026-10-13 12:47:37|Mình cũng nghĩ vậy
+ACC000123|2026-10-13 20:30:08|Bài hát này hay lắm, bạn nghe thử đi.
+ACC000086|2026-10-13 20:31:23|Bài nào vậy?
+ACC000123|2026-10-13 20:34:26|Mình gửi link rồi đó.
+ACC000086|2026-10-13 20:38:14|Nghe rồi, giai điệu dễ chịu thật.
+ACC000123|2026-10-13 20:39:46|Đúng không? Mình nghe suốt tuần này.
+ACC000086|2026-10-13 20:40:33|Cho mình xin playlist nhé.
+ACC000086|2026-10-13 20:49:01|Bạn ngủ chưa?
+ACC000123|2026-10-13 20:50:15|Chưa, đang làm bài tập.
+ACC000086|2026-10-13 20:56:34|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000123|2026-10-13 21:38:42|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000086|2026-10-13 21:39:37|Ngủ ngon nha.
+ACC000123|2026-10-13 21:43:26|Ngủ ngon.
+ACC000123|2026-10-13 21:52:59|Điểm thi lập trình hướng đối tượng có chưa bạn?
+ACC000086|2026-10-13 22:42:36|Có rồi, mình được 8 điểm.
+ACC000123|2026-10-13 22:49:29|Giỏi quá, mình mới 6 điểm thôi.
+ACC000086|2026-10-13 22:49:57|Cũng ổn mà, qua môn là tốt rồi.
+ACC000123|2026-10-13 23:37:16|Cảm ơn bạn đã động viên.
+ACC000086|2026-10-13 23:39:18|Lần sau mình học nhóm tiếp nhé.
+ACC000086|2026-10-15 14:07:19|Mình bị lỗi segmentation fault mà không tìm ra nguyên nhân.
+ACC000123|2026-10-15 14:09:41|Bạn thử chạy với chế độ debug và xem dòng nào gây lỗi.
+ACC000086|2026-10-15 14:11:35|Mình thấy rồi, truy cập ngoài mảng.
+ACC000123|2026-10-15 14:13:58|Kiểm tra lại điều kiện vòng lặp nhé.
+ACC000086|2026-10-15 14:19:42|Đúng rồi, mình để nhỏ hơn hoặc bằng. Cảm ơn bạn.
+ACC000123|2026-10-15 14:22:56|Lỗi này ai cũng từng gặp thôi.
+ACC000123|2026-10-15 18:17:01|Thật à?
+ACC000086|2026-10-15 18:20:57|Ừm, mình nghĩ vậy
+ACC000086|2026-10-15 18:21:13|Cuối tuần rảnh không?
+ACC000086|2026-10-22 12:33:40|Mình biết rồi
+ACC000086|2026-10-22 12:35:06|Haha
+ACC000086|2026-10-22 12:35:39|Cố lên nhé
+ACC000123|2026-10-22 20:51:58|Mình dọn trọ sang khu khác rồi.
+ACC000086|2026-10-22 20:54:12|Thật à? Có xa trường không?
+ACC000123|2026-10-22 20:56:03|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000086|2026-10-22 20:59:34|Tốt quá, hôm nào mình qua chơi.
+ACC000123|2026-10-22 21:40:10|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000086|2026-10-22 21:42:25|Ok, nhớ nấu cơm cho mình đó.
+ACC000086|2026-10-23 09:33:09|Được luôn
+ACC000086|2026-10-23 09:33:14|Tối nói chuyện tiếp nhé
+ACC000086|2026-10-23 09:33:22|Để mình xem
+ACC000086|2026-10-23 09:33:25|Mệt quá hôm nay
+ACC000123|2026-10-23 09:33:32|Ừ
+ACC000123|2026-10-23 09:33:41|Chúc bạn một ngày tốt lành
+ACC000086|2026-10-23 09:33:55|Mình biết rồi
+ACC000123|2026-10-23 09:34:01|Mình cũng nghĩ vậy
+ACC000123|2026-10-23 09:34:08|Có gì báo mình nhé
+ACC000123|2026-10-23 09:34:09|Haha
+ACC000123|2026-10-23 09:34:22|Mình cũng nghĩ vậy
+ACC000086|2026-10-23 09:34:24|Ừm, mình nghĩ vậy
+ACC000086|2026-10-23 09:34:35|Vừa về tới nhà
+ACC000123|2026-10-23 09:34:40|Haha
+ACC000086|2026-10-23 09:34:52|Đang làm gì đó?
+ACC000086|2026-10-23 09:34:57|Chúc bạn một ngày tốt lành
+ACC000086|2026-10-23 16:15:22|Bạn có rảnh để mình hỏi chút về môn lập trình hướng đối tượng không?
+ACC000123|2026-10-23 16:17:05|Có, bạn hỏi đi.
+ACC000086|2026-10-23 16:21:23|Phần bài tập lớn bắt đầu từ đâu vậy?
+ACC000123|2026-10-23 16:23:02|Bạn phân tích yêu cầu rồi vẽ sơ đồ trước, sau đó mới viết code.
+ACC000086|2026-10-23 16:24:19|Nghe hợp lý, cảm ơn bạn.
+ACC000123|2026-10-23 16:27:29|Cần gì cứ nhắn mình.
+ACC000123|2026-10-23 20:07:38|Mèo nhà mình hôm nay phá tung cả phòng luôn.
+ACC000086|2026-10-23 20:09:27|Haha, bé làm gì thế?
+ACC000123|2026-10-23 20:09:48|Leo lên kệ sách làm rơi hết sách xuống.
+ACC000086|2026-10-23 20:10:24|Dễ thương quá, gửi ảnh mình xem đi.
+ACC000123|2026-10-23 20:12:06|Đợi chút mình chụp.
+ACC000086|2026-10-23 20:12:35|Đúng là chủ nào mèo nấy.
+ACC000086|2026-10-24 20:44:30|Chúc bạn một ngày tốt lành
+ACC000123|2026-10-24 20:45:24|Mai gặp nhé
+ACC000086|2026-10-24 20:47:01|Đang làm gì đó?

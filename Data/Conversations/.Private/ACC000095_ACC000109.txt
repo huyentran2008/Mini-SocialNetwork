@@ -1,0 +1,12 @@
+ACC000095|2026-09-25 22:24:02|Bạn ngủ chưa?
+ACC000109|2026-09-25 22:29:14|Chưa, đang làm bài tập.
+ACC000095|2026-09-25 22:35:22|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000109|2026-09-25 22:37:00|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000095|2026-09-25 22:37:47|Ngủ ngon nha.
+ACC000109|2026-09-25 22:52:18|Ngủ ngon.
+ACC000095|2026-10-07 22:26:39|Sinh nhật vui vẻ nhé Trí!
+ACC000109|2026-10-07 22:28:37|Cảm ơn Chi nha, nhớ cả sinh nhật mình luôn.
+ACC000095|2026-10-07 22:29:31|Tối nay mình có quà nhỏ, hẹn bạn ở quán quen.
+ACC000109|2026-10-07 22:32:26|Trời, bạn chu đáo quá. Mấy giờ vậy?
+ACC000095|2026-10-07 22:34:43|12 giờ nhé.
+ACC000109|2026-10-07 22:37:03|Ok, hẹn gặp.

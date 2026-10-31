@@ -1,0 +1,8 @@
+id=POST000102
+author=ACC000039
+visibility=PUBLIC
+created_at=2026-10-06 11:51:18
+edited_at=
+status=VISIBLE
+title=Nên học SQL trước hay sau C++?
+content=Mình đang phân vân thứ tự học. Nghe nói học C++ sau C++ sẽ dễ hơn vì đã hiểu nền tảng. Các anh chị đi trước cho mình lời khuyên với.

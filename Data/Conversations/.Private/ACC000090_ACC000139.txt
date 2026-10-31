@@ -1,0 +1,74 @@
+ACC000090|2026-10-07 08:27:33|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000139|2026-10-07 08:27:53|Ủa quên mất, bao nhiêu vậy?
+ACC000090|2026-10-07 08:29:41|70 nghìn thôi.
+ACC000139|2026-10-07 08:31:00|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000090|2026-10-07 08:35:32|Nhận được rồi nha.
+ACC000139|2026-10-07 08:41:52|Ok, xong nợ.
+ACC000090|2026-10-07 20:23:54|Cuối tuần này đi Mũi Né không?
+ACC000139|2026-10-07 20:28:00|Hay đó, đi mấy người?
+ACC000090|2026-10-07 20:29:00|Khoảng 7 người, tự đi xe máy.
+ACC000139|2026-10-07 20:32:18|Mình tham gia, nhớ chia chi phí rõ ràng nhé.
+ACC000090|2026-10-07 20:32:33|Chắc chắn rồi, mình lập bảng chi tiêu.
+ACC000139|2026-10-07 20:38:52|Ok, vậy chốt luôn.
+ACC000139|2026-10-09 10:15:07|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000090|2026-10-09 10:17:35|Mình mới xong nửa tài liệu, hơi lo.
+ACC000139|2026-10-09 10:21:02|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000090|2026-10-09 10:31:51|Hay đó, 8 giờ nhé.
+ACC000139|2026-10-09 10:32:16|Ok, mình chuẩn bị sẵn đề cương.
+ACC000090|2026-10-09 10:35:47|Cảm ơn Thuận, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000139|2026-10-10 12:12:12|Ok
+ACC000090|2026-10-10 12:16:04|Mệt quá hôm nay
+ACC000139|2026-10-10 12:16:33|Được luôn
+ACC000090|2026-10-11 12:36:07|Công thức làm bánh flan bạn dùng thế nào?
+ACC000139|2026-10-11 12:39:45|Trứng, sữa tươi, đường và chút vani. Hấp lửa nhỏ khoảng 30 phút.
+ACC000090|2026-10-11 12:40:40|Mình hấp bị rỗ, chắc lửa to quá.
+ACC000139|2026-10-11 12:41:36|Đúng rồi, bạn đậy giấy bạc lên là mặt bánh sẽ mịn.
+ACC000090|2026-10-11 12:45:35|Cảm ơn bạn, cuối tuần mình thử lại.
+ACC000139|2026-10-11 12:46:46|Làm xong cho mình xin một miếng nhé.
+ACC000139|2026-10-11 19:12:01|Ngủ ngon
+ACC000139|2026-10-11 19:13:34|Chúc bạn một ngày tốt lành
+ACC000139|2026-10-12 20:24:21|Bạn ngủ chưa?
+ACC000090|2026-10-12 20:25:48|Chưa, đang làm bài tập.
+ACC000139|2026-10-12 20:28:12|Khuya rồi, nhớ nghỉ ngơi nhé.
+ACC000090|2026-10-12 20:30:46|Ừ, mình làm nốt phần này rồi ngủ.
+ACC000139|2026-10-12 20:31:33|Ngủ ngon nha.
+ACC000090|2026-10-12 20:32:17|Ngủ ngon.
+ACC000139|2026-10-12 21:33:20|Mình đang bận chút, lát nhắn lại nhé
+ACC000090|2026-10-12 21:34:13|Rồi, mình nhớ rồi
+ACC000139|2026-10-14 22:32:18|Mình đang bận chút, lát nhắn lại nhé
+ACC000139|2026-10-14 22:32:27|Ừm, mình nghĩ vậy
+ACC000139|2026-10-14 22:32:40|Mình biết rồi
+ACC000090|2026-10-14 22:32:51|Nghe được đó
+ACC000139|2026-10-14 22:32:53|Mệt quá hôm nay
+ACC000090|2026-10-14 22:32:59|Rồi, mình nhớ rồi
+ACC000090|2026-10-14 22:33:06|Ok
+ACC000139|2026-10-15 07:08:28|Điểm thi tiếng Anh có chưa bạn?
+ACC000090|2026-10-15 07:08:54|Có rồi, mình được 8 điểm.
+ACC000139|2026-10-15 07:09:42|Giỏi quá, mình mới 6 điểm thôi.
+ACC000090|2026-10-15 07:10:53|Cũng ổn mà, qua môn là tốt rồi.
+ACC000139|2026-10-15 07:26:58|Cảm ơn bạn đã động viên.
+ACC000090|2026-10-15 07:33:33|Lần sau mình học nhóm tiếp nhé.
+ACC000090|2026-10-15 09:42:55|Hôm qua bạn chuyển tiền ăn cho mình chưa?
+ACC000139|2026-10-15 09:44:18|Ủa quên mất, bao nhiêu vậy?
+ACC000090|2026-10-15 09:47:04|20 nghìn thôi.
+ACC000139|2026-10-15 09:49:33|Mình chuyển liền, cảm ơn đã nhắc.
+ACC000090|2026-10-15 09:52:33|Nhận được rồi nha.
+ACC000139|2026-10-15 09:53:15|Ok, xong nợ.
+ACC000090|2026-10-18 04:25:49|Hôm nay mình hơi buồn.
+ACC000139|2026-10-18 04:26:43|Có chuyện gì vậy?
+ACC000090|2026-10-18 04:27:45|Mình bị điểm thấp mà không biết lý do.
+ACC000139|2026-10-18 04:31:56|Bạn thử hỏi thầy xem sai chỗ nào để sửa.
+ACC000090|2026-10-18 04:38:43|Ừ, mình sẽ gặp thầy tuần này.
+ACC000139|2026-10-18 04:41:32|Đừng buồn nữa, rồi sẽ ổn thôi.
+ACC000139|2026-10-20 19:02:11|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000090|2026-10-20 19:04:24|Bạn chuẩn bị tới đâu rồi?
+ACC000139|2026-10-20 19:04:40|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000090|2026-10-20 19:07:20|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000139|2026-10-20 19:10:50|Cảm ơn Nghĩa, mình sẽ cố.
+ACC000090|2026-10-20 19:13:37|Xong nhớ nhắn mình kết quả nhé.
+ACC000139|2026-10-23 20:13:50|Tối nay bạn có chơi game không?
+ACC000090|2026-10-23 20:18:27|Có, mấy giờ?
+ACC000139|2026-10-23 20:31:42|7 rưỡi, rủ thêm hai bạn nữa là đủ đội.
+ACC000090|2026-10-23 20:35:02|Ok, mình online sớm.
+ACC000139|2026-10-23 20:41:41|Nhớ mang theo tinh thần chiến thắng nhé.
+ACC000090|2026-10-23 20:45:03|Haha, thua thì đừng trách mình.

@@ -1,0 +1,8 @@
+id=POST000044
+author=ACC000140
+visibility=PUBLIC
+created_at=2026-09-05 19:49:07
+edited_at=
+status=HIDDEN
+title=Mấy bạn học dở thì đừng đăng bài hỏi nữa
+content=Thật sự không hiểu nổi sao có người học năm ba rồi mà vẫn hỏi mấy câu dễ như vậy. Lười suy nghĩ rồi đi làm phiền người khác. Đừng hỏi nữa cho đỡ mất thời gian của mọi người.

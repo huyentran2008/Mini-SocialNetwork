@@ -1,0 +1,6 @@
+ACC000123|2026-10-23 09:31:55|Hôm nay bạn rảnh không?
+ACC000036|2026-10-23 09:33:36|Chiều mình rảnh, có chuyện gì vậy?
+ACC000123|2026-10-23 09:38:37|Đi uống bạc xỉu nhé, lâu rồi không gặp.
+ACC000036|2026-10-23 09:39:13|Ok, 12 giờ mình qua đón bạn nha.
+ACC000123|2026-10-23 09:41:36|Được, mình chờ ở cổng.
+ACC000036|2026-10-23 09:42:15|Tới rồi nè, ra đi.

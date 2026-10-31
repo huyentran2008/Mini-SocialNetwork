@@ -1,0 +1,14 @@
+ACC000143|2026-10-17 19:41:23|Mệt quá hôm nay
+ACC000143|2026-10-17 19:41:33|Nghe được đó
+ACC000044|2026-10-22 12:33:09|Mình mới mua chiếc xe đạp.
+ACC000143|2026-10-22 12:36:10|Wow, xe đẹp không?
+ACC000044|2026-10-22 12:37:29|Đẹp, màu xanh nhạt. Mai mình đạp đi học.
+ACC000143|2026-10-22 12:41:33|Cuối tuần đạp xe quanh hồ nhé.
+ACC000044|2026-10-22 13:05:36|Hay đó, chốt luôn.
+ACC000143|2026-10-22 13:06:07|Nhớ mang nước.
+ACC000044|2026-10-23 19:34:35|Mình dọn trọ sang khu khác rồi.
+ACC000143|2026-10-23 19:36:54|Thật à? Có xa trường không?
+ACC000044|2026-10-23 19:41:18|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000143|2026-10-23 19:42:11|Tốt quá, hôm nào mình qua chơi.
+ACC000044|2026-10-23 19:44:37|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000143|2026-10-23 19:46:37|Ok, nhớ nấu cơm cho mình đó.

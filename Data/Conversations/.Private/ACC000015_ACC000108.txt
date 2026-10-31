@@ -1,0 +1,30 @@
+ACC000108|2026-10-19 06:02:05|Sao git của mình báo conflict hoài vậy?
+ACC000015|2026-10-19 06:03:18|Bạn có pull trước khi push không?
+ACC000108|2026-10-19 06:04:49|Chắc là không.
+ACC000015|2026-10-19 06:07:07|Vậy bạn pull về, sửa các chỗ xung đột rồi commit lại.
+ACC000108|2026-10-19 06:07:47|Làm xong rồi, cảm ơn bạn.
+ACC000015|2026-10-19 06:08:41|Từ nay nhớ pull trước nhé.
+ACC000108|2026-10-19 12:28:08|Sáng mai bạn có đi tập chạy không?
+ACC000015|2026-10-19 13:04:43|Có chứ, 5 giờ 30 ở công viên nhé.
+ACC000108|2026-10-19 13:06:14|Mình sợ dậy không nổi.
+ACC000015|2026-10-19 13:06:45|Để mình gọi bạn dậy.
+ACC000108|2026-10-19 13:08:43|Cảm ơn nhé, hứa mai mình dậy đúng giờ.
+ACC000015|2026-10-19 13:09:06|Ok, mai gặp.
+ACC000108|2026-10-20 13:01:57|Mình sắp đi phỏng vấn thực tập, hồi hộp quá.
+ACC000015|2026-10-20 13:04:00|Bạn chuẩn bị tới đâu rồi?
+ACC000108|2026-10-20 13:05:16|Mình đã xem lại CV và luyện trả lời vài câu cơ bản.
+ACC000015|2026-10-20 13:06:37|Tốt rồi. Cứ tự tin và trả lời thật lòng.
+ACC000108|2026-10-20 13:08:40|Cảm ơn Nam, mình sẽ cố.
+ACC000015|2026-10-20 13:13:39|Xong nhớ nhắn mình kết quả nhé.
+ACC000108|2026-10-20 13:22:08|Ừ
+ACC000015|2026-10-20 13:22:49|Thôi mình đi ăn cơm đã
+ACC000015|2026-10-20 13:25:05|Vậy hả?
+ACC000108|2026-10-21 07:40:01|Cuối tuần này đi xem phim không?
+ACC000015|2026-10-21 07:40:41|Phim gì vậy?
+ACC000108|2026-10-21 07:41:11|Phim mới chiếu, nghe nói hay lắm.
+ACC000015|2026-10-21 07:43:25|Mình đang rảnh thứ tư, đi buổi chiều nhé.
+ACC000108|2026-10-21 07:44:56|Ok, mình đặt vé luôn.
+ACC000015|2026-10-21 07:45:33|Nhớ chọn ghế giữa nha.
+ACC000108|2026-10-21 07:47:54|Yên tâm.
+ACC000015|2026-10-21 08:48:25|Để mình xem
+ACC000108|2026-10-21 08:49:15|Nghe được đó

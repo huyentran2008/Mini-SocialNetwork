@@ -1,0 +1,41 @@
+ACC000033|2026-10-12 16:41:10|Mai thi rồi, bạn ôn tới đâu rồi?
+ACC000075|2026-10-12 16:44:42|Mình mới xong nửa tài liệu, hơi lo.
+ACC000033|2026-10-12 16:45:20|Mình cũng vậy. Tối nay học nhóm qua gọi video không?
+ACC000075|2026-10-12 17:33:52|Hay đó, 8 giờ nhé.
+ACC000033|2026-10-12 18:13:26|Ok, mình chuẩn bị sẵn đề cương.
+ACC000075|2026-10-12 18:17:17|Cảm ơn Khôi, có bạn cùng ôn đỡ áp lực hẳn.
+ACC000075|2026-10-13 17:16:01|Cố lên nhé
+ACC000075|2026-10-13 17:17:54|Có gì báo mình nhé
+ACC000033|2026-10-13 17:18:36|Ok
+ACC000033|2026-10-13 17:18:49|Để mình xem
+ACC000075|2026-10-13 17:21:24|Vậy hả?
+ACC000033|2026-10-13 21:25:55|Hôm nay bạn rảnh không?
+ACC000075|2026-10-13 21:27:55|Chiều mình rảnh, có chuyện gì vậy?
+ACC000033|2026-10-13 21:29:39|Đi uống nước cam nhé, lâu rồi không gặp.
+ACC000075|2026-10-13 21:34:29|Ok, 8 giờ tối mình qua đón bạn nha.
+ACC000033|2026-10-13 21:39:38|Được, mình chờ ở cổng.
+ACC000075|2026-10-13 21:41:38|Tới rồi nè, ra đi.
+ACC000033|2026-10-16 14:26:43|Cuối tuần này đi xem phim không?
+ACC000075|2026-10-16 14:27:05|Phim gì vậy?
+ACC000033|2026-10-16 15:04:34|Phim mới chiếu, nghe nói hay lắm.
+ACC000075|2026-10-16 15:06:22|Mình đang rảnh thứ sáu, đi buổi chiều nhé.
+ACC000033|2026-10-16 15:09:48|Ok, mình đặt vé luôn.
+ACC000075|2026-10-16 15:10:33|Nhớ chọn ghế giữa nha.
+ACC000033|2026-10-16 15:28:46|Yên tâm.
+ACC000075|2026-10-17 18:40:39|Ừ đúng rồi
+ACC000033|2026-10-17 18:40:43|Có gì báo mình nhé
+ACC000075|2026-10-17 18:40:50|Ok
+ACC000075|2026-10-17 18:40:51|Đang làm gì đó?
+ACC000075|2026-10-17 18:40:55|Haha
+ACC000075|2026-10-17 18:41:07|Ừ
+ACC000033|2026-10-17 18:41:11|Thôi mình đi ăn cơm đã
+ACC000033|2026-10-17 18:41:21|Thật à?
+ACC000033|2026-10-17 18:41:34|Thật à?
+ACC000033|2026-10-17 18:41:47|Vậy hả?
+ACC000075|2026-10-17 18:41:54|Để mình xem
+ACC000033|2026-10-17 22:02:52|Bạn ơi, bài tập cấu trúc dữ liệu nộp chưa?
+ACC000075|2026-10-17 22:09:25|Mình mới làm xong câu 3, còn câu 4 chưa biết bắt đầu từ đâu.
+ACC000033|2026-10-17 22:10:01|Câu 4 thầy gợi ý dùng đệ quy đó.
+ACC000075|2026-10-17 22:10:59|À đúng rồi, cảm ơn bạn. Mình thử lại xem.
+ACC000033|2026-10-17 22:16:22|Có gì hỏi mình nhé.
+ACC000075|2026-10-17 22:18:43|Okela, cảm ơn Khôi nhiều.

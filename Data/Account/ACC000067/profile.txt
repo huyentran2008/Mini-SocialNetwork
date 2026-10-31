@@ -1,0 +1,14 @@
+id=ACC000067
+username=quocdm37
+password=51756f63403232373973
+full_name=Đặng Minh Quốc
+birthday=
+gender=Male
+bio=
+created_at=2026-09-22
+status=ACTIVE
+residence=TP. Hồ Chí Minh
+hometown=
+school=
+workplace=
+hobbies=Tâm lý học;Xem phim;Triết học

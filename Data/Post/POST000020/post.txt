@@ -1,0 +1,8 @@
+id=POST000020
+author=ACC000009
+visibility=PUBLIC
+created_at=2026-10-17 12:29:25
+edited_at=
+status=VISIBLE
+title=Kỷ niệm ngày đầu đi học
+content=Nhớ ngày đầu lên giảng đường, ai cũng bỡ ngỡ. Giờ nhìn lại đã có những người bạn thân thiết suốt bốn năm.

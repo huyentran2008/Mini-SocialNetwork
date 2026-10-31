@@ -1,0 +1,12 @@
+ACC000118|2026-10-10 09:26:51|Mình dọn trọ sang khu khác rồi.
+ACC000093|2026-10-10 09:27:23|Thật à? Có xa trường không?
+ACC000118|2026-10-10 09:28:04|Gần hơn trước, đi bộ khoảng mười phút.
+ACC000093|2026-10-10 09:28:59|Tốt quá, hôm nào mình qua chơi.
+ACC000118|2026-10-10 09:30:36|Mình gửi địa chỉ, cuối tuần tới ghé nhé.
+ACC000093|2026-10-10 09:30:52|Ok, nhớ nấu cơm cho mình đó.
+ACC000093|2026-10-11 22:28:15|Điểm thi cơ sở dữ liệu có chưa bạn?
+ACC000118|2026-10-11 22:30:03|Có rồi, mình được 8 điểm.
+ACC000093|2026-10-11 22:36:35|Giỏi quá, mình mới 6 điểm thôi.
+ACC000118|2026-10-11 22:37:23|Cũng ổn mà, qua môn là tốt rồi.
+ACC000093|2026-10-11 22:39:40|Cảm ơn bạn đã động viên.
+ACC000118|2026-10-11 22:40:06|Lần sau mình học nhóm tiếp nhé.

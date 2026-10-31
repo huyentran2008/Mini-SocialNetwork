@@ -1,0 +1,12 @@
+ACC000020|2026-10-22 20:25:35|Hôm nay bạn rảnh không?
+ACC000025|2026-10-22 20:27:36|Chiều mình rảnh, có chuyện gì vậy?
+ACC000020|2026-10-22 20:28:17|Đi uống trà đào nhé, lâu rồi không gặp.
+ACC000025|2026-10-22 20:31:15|Ok, 8 giờ tối mình qua đón bạn nha.
+ACC000020|2026-10-22 20:34:09|Được, mình chờ ở cổng.
+ACC000025|2026-10-22 20:38:26|Tới rồi nè, ra đi.
+ACC000025|2026-10-23 20:12:11|Điểm thi cơ sở dữ liệu có chưa bạn?
+ACC000020|2026-10-23 20:13:48|Có rồi, mình được 8 điểm.
+ACC000025|2026-10-23 20:17:32|Giỏi quá, mình mới 6 điểm thôi.
+ACC000020|2026-10-23 20:20:12|Cũng ổn mà, qua môn là tốt rồi.
+ACC000025|2026-10-23 20:22:08|Cảm ơn bạn đã động viên.
+ACC000020|2026-10-23 20:22:32|Lần sau mình học nhóm tiếp nhé.
